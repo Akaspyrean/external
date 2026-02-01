@@ -1,67 +1,58 @@
 payload:
 # NAME: AI Rules
 # AUTHOR: Akaspyrean
-# UPDATED: 2026-02-01 03:28:06
-# CHECKSUM: ce636c88297e2bf21d435f8463353e22d5cb10d81d89031b2b8ba75858cf1099
-# TOTAL: 54
+# UPDATED: 2026-02-01 03:39:22
+# CHECKSUM: ddc74186296e45ab7d59099e504c401f9ba96fe071afe63324d3869c5616b505
+# TOTAL: 51
 
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-SUFFIX,generativeai.google
-  - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN,ai.google.dev
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-
-
-  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,ai.com
-  - IP-CIDR,24.199.123.28/32
-  - DOMAIN,browser-intake-datadoghq.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,api.statsig.com
-  - DOMAIN,static.cloudflareinsights.com
-  - DOMAIN-SUFFIX,turn.livekit.cloud
-  - DOMAIN-SUFFIX,identrust.com
-  - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN,production-openaicom-storage.azureedge.net
-  - DOMAIN-SUFFIX,host.livekit.cloud
-  - DOMAIN-SUFFIX,observeit.net
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com
-  - DOMAIN-SUFFIX,segment.io
-  - IP-CIDR,64.23.132.171/32
-  - DOMAIN-SUFFIX,featuregates.org
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,openaicom.imgix.net
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,events.statsigapi.net
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - IP-ASN,20473
-  - DOMAIN-SUFFIX,algolia.net
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-SUFFIX,launchdarkly.com
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN,openai-api.arkoselabs.com
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-
-  - IP-CIDR,24.199.123.28/32,no-resolve
-  - IP-ASN,20473,no-resolve
-  - IP-CIDR,64.23.132.171/32,no-resolve
-
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN,cdn.usefathom.com
-  - DOMAIN-SUFFIX,anthropic.com
-
-
+  - domain,ai.google.dev
+  - domain,alkalimakersuite-pa.clients6.google.com
+  - domain,makersuite.google.com
+  - domain-keyword,colab
+  - domain-keyword,developerprofiles
+  - domain-keyword,generativelanguage
+  - domain-suffix,apis.google.com
+  - domain-suffix,bard.google.com
+  - domain-suffix,deepmind.com
+  - domain-suffix,deepmind.google
+  - domain-suffix,gemini.google.com
+  - domain-suffix,generativeai.google
+  - domain-suffix,proactivebackend-pa.googleapis.com
+  - domain,browser-intake-datadoghq.com
+  - domain,chat.openai.com.cdn.cloudflare.net
+  - domain,openai-api.arkoselabs.com
+  - domain,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - domain,openaicomproductionae4b.blob.core.windows.net
+  - domain,production-openaicom-storage.azureedge.net
+  - domain,static.cloudflareinsights.com
+  - domain-keyword,openai
+  - domain-suffix,ai.com
+  - domain-suffix,algolia.net
+  - domain-suffix,api.statsig.com
+  - domain-suffix,auth0.com
+  - domain-suffix,chatgpt.com
+  - domain-suffix,chatgpt.livekit.cloud
+  - domain-suffix,client-api.arkoselabs.com
+  - domain-suffix,events.statsigapi.net
+  - domain-suffix,featuregates.org
+  - domain-suffix,host.livekit.cloud
+  - domain-suffix,identrust.com
+  - domain-suffix,intercom.io
+  - domain-suffix,intercomcdn.com
+  - domain-suffix,launchdarkly.com
+  - domain-suffix,oaistatic.com
+  - domain-suffix,oaiusercontent.com
+  - domain-suffix,observeit.net
+  - domain-suffix,openai.com
+  - domain-suffix,openaiapi-site.azureedge.net
+  - domain-suffix,openaicom.imgix.net
+  - domain-suffix,segment.io
+  - domain-suffix,sentry.io
+  - domain-suffix,stripe.com
+  - domain-suffix,turn.livekit.cloud
+  - ip-asn,20473
+  - ip-cidr,24.199.123.28/32
+  - ip-cidr,64.23.132.171/32
+  - ip-asn,20473,no-resolve
+  - ip-cidr,24.199.123.28/32,no-resolve
+  - ip-cidr,64.23.132.171/32,no-resolve
