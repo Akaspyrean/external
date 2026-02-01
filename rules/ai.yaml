@@ -2,64 +2,118 @@ payload:
 # NAME: AI Rules
 # AUTHOR: Akaspyrean
 # REPO: https://github.com/Akaspyrean
-# UPDATED: 2026-01-31 23:28:03
-# CHECKSUM: 6472d28788b9bf1690abbee978575abbeabef98e14aaa081b953e4dea7896b72
-# DOMAIN: 11
-# DOMAIN-SUFFIX: 33
-# DOMAIN-KEYWORD: 4
-# IP-CIDR: 2
-# IP-ASN: 1
-# TOTAL: 51
+# UPDATED: 2026-02-01 03:12:59
+# CHECKSUM: 64494c6f15ab140281c3c86a0bbe42de6fbe8ec9aa47e4ab5259eb31600236c7
+# DOMAIN: 22
+# DOMAIN-SUFFIX: 66
+# DOMAIN-KEYWORD: 8
+# IP-CIDR: 4
+# IP-ASN: 2
+# TOTAL: 102
 
-  - DOMAIN,ai.google.dev
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN,ai.google.dev
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-SUFFIX,gemini.google.com
 
-  - DOMAIN,browser-intake-datadoghq.com
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
-  - DOMAIN,openai-api.arkoselabs.com
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN,ai.google.dev
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-SUFFIX,gemini.google.com
+
+  - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN,static.cloudflareinsights.com
-  - DOMAIN-SUFFIX,ai.com
+  - IP-CIDR,64.23.132.171/32
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,host.livekit.cloud
+  - IP-CIDR,24.199.123.28/32
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN-SUFFIX,algolia.net
-  - DOMAIN-SUFFIX,api.statsig.com
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com
-  - DOMAIN-SUFFIX,events.statsigapi.net
-  - DOMAIN-SUFFIX,featuregates.org
-  - DOMAIN-SUFFIX,host.livekit.cloud
-  - DOMAIN-SUFFIX,identrust.com
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,launchdarkly.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN-SUFFIX,observeit.net
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
-  - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,turn.livekit.cloud
-  - DOMAIN-KEYWORD,openai
-  - IP-CIDR,24.199.123.28/32
-  - IP-CIDR,64.23.132.171/32
+  - DOMAIN-SUFFIX,api.statsig.com
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN,production-openaicom-storage.azureedge.net
   - IP-ASN,20473
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,stripe.com
+
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN,browser-intake-datadoghq.com
+  - IP-CIDR,24.199.123.28/32,no-resolve
+  - DOMAIN-SUFFIX,host.livekit.cloud
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-SUFFIX,api.statsig.com
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,turn.livekit.cloud
+  - IP-CIDR,64.23.132.171/32,no-resolve
+  - IP-ASN,20473,no-resolve
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,stripe.com
+
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
 
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
