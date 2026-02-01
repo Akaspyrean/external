@@ -1,10 +1,11 @@
 payload:
 # NAME: Direct
-# UPDATED: 2026-02-01 09:56:31
+# UPDATED: 2026-02-01 09:59:38
 # CHECKSUM: 101d312986d2d90c1ad0b2fbb58f0094fde3719e068209f98c61bba6c7d111e0
 # DOMAIN: 115120
 # IP-RELATED: 12
 # TOTAL: 115120
+
   - domain-suffix,0.zone
   - domain-suffix,00.net
   - domain-suffix,000.link
