@@ -2,14 +2,9 @@ payload:
 # NAME: AI Rules
 # AUTHOR: Akaspyrean
 # REPO: https://github.com/Akaspyrean
-# UPDATED: 2026-02-01 03:15:39
-# CHECKSUM: 651572edefd1987548fc12fc6cee34aed85399ead798a10df38383035d1ea0a7
-# DOMAIN: 22
-# DOMAIN-SUFFIX: 66
-# DOMAIN-KEYWORD: 8
-# IP-CIDR: 4
-# IP-ASN: 2
-# TOTAL: 102
+# UPDATED: 2026-02-01 03:21:09
+# CHECKSUM: ce636c88297e2bf21d435f8463353e22d5cb10d81d89031b2b8ba75858cf1099
+# TOTAL: 54
 
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,apis.google.com
@@ -25,19 +20,6 @@ payload:
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-SUFFIX,generativeai.google
-  - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN,ai.google.dev
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
@@ -75,47 +57,12 @@ payload:
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
 
-  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,ai.com
   - IP-CIDR,24.199.123.28/32,no-resolve
-  - DOMAIN,browser-intake-datadoghq.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,api.statsig.com
-  - DOMAIN,static.cloudflareinsights.com
   - IP-ASN,20473,no-resolve
-  - DOMAIN-SUFFIX,turn.livekit.cloud
-  - DOMAIN-SUFFIX,identrust.com
-  - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN,production-openaicom-storage.azureedge.net
-  - DOMAIN-SUFFIX,host.livekit.cloud
-  - DOMAIN-SUFFIX,observeit.net
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com
-  - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,featuregates.org
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,openaicom.imgix.net
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,events.statsigapi.net
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,algolia.net
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-SUFFIX,launchdarkly.com
-  - DOMAIN-SUFFIX,sentry.io
   - IP-CIDR,64.23.132.171/32,no-resolve
-  - DOMAIN,openai-api.arkoselabs.com
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
 
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
 
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN,cdn.usefathom.com
-  - DOMAIN-SUFFIX,anthropic.com
 

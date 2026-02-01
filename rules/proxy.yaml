@@ -2,9 +2,8 @@ payload:
 # NAME: PROXY Rules
 # AUTHOR: Akaspyrean
 # REPO: https://github.com/Akaspyrean
-# UPDATED: 2026-02-01 03:15:38
+# UPDATED: 2026-02-01 03:21:09
 # CHECKSUM: 7cbb205faa5adbd4be699a9effe079d575b6f855b01bf4ddb0591549bce1a1c9
-# DOMAIN-SUFFIX: 26480
 # TOTAL: 26480
 
   - DOMAIN-SUFFIX,+.pwmnet.com

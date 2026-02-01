@@ -2,10 +2,9 @@ payload:
 # NAME: DIRECT Rules
 # AUTHOR: Akaspyrean
 # REPO: https://github.com/Akaspyrean
-# UPDATED: 2026-02-01 03:15:38
-# CHECKSUM: 5e7236d9c4b06a8cc96275c9a302d7c6c894182dc084c56108071b957b86b96b
-# DOMAIN-SUFFIX: 115313
-# TOTAL: 115313
+# UPDATED: 2026-02-01 03:21:08
+# CHECKSUM: ff82f983c946d3c3e0e08c4c3304cf73a6f1bb7497d7984337671db86db6fe62
+# TOTAL: 115312
 
   - DOMAIN-SUFFIX,+.09game.com
   - DOMAIN-SUFFIX,+.longchangjixiekeji.com
@@ -115223,7 +115222,6 @@ payload:
   - DOMAIN-SUFFIX,+.stocks-sparkline.apple.com
   - DOMAIN-SUFFIX,+.valid.origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,+.devimages-cdn.apple.com
-  - DOMAIN-SUFFIX,+.gsp12-cn.ls.apple.com
   - DOMAIN-SUFFIX,+.ipcdn.apple.com
   - DOMAIN-SUFFIX,+.cstat.cdn-apple.com
   - DOMAIN-SUFFIX,+.updates-http.cdn-apple.com
