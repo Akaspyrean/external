@@ -1,87 +1,90 @@
 payload:
 # NAME: AI Rules
 # AUTHOR: Akaspyrean
-# UPDATED: 2026-02-01 03:59:25
-# CHECKSUM: c8fbe753d448ac9f710db61ffbf2827b7138fdade5c0148ae4e76b8ada43c300
+# UPDATED: 2026-02-01 05:02:16
+# CHECKSUM: 5a61c1be0c0efdd74facf7ff798ebdb9bfdebbf6ffa396d45688c029180c02c9
+# DOMAIN: 22
+# DOMAIN-SUFFIX: 49
+# IP-RELATED: 3
 # TOTAL: 80
 
   - domain,ai.google.dev
+  - domain,aistudio.google.com
   - domain,alkalimakersuite-pa.clients6.google.com
-  - domain,makersuite.google.com
-  - domain-keyword,colab
-  - domain-keyword,developerprofiles
-  - domain-keyword,generativelanguage
-  - domain-suffix,apis.google.com
-  - domain-suffix,bard.google.com
-  - domain-suffix,deepmind.com
-  - domain-suffix,deepmind.google
-  - domain-suffix,gemini.google.com
-  - domain-suffix,generativeai.google
-  - domain-suffix,proactivebackend-pa.googleapis.com
+  - domain,api.githubcopilot.com
+  - domain,api.groq.com
+  - domain,api.together.xyz
+  - domain,bard.google.com
   - domain,browser-intake-datadoghq.com
+  - domain,cdn.usefathom.com
   - domain,chat.openai.com.cdn.cloudflare.net
+  - domain,console.groq.com
+  - domain,copilot-proxy.githubusercontent.com
+  - domain,gemini.google.com
+  - domain,generativelanguage.googleapis.com
+  - domain,makersuite.google.com
+  - domain,notebooklm.google.com
   - domain,openai-api.arkoselabs.com
   - domain,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - domain,openaicomproductionae4b.blob.core.windows.net
   - domain,production-openaicom-storage.azureedge.net
   - domain,static.cloudflareinsights.com
+  - domain,sydney.bing.com
+  - domain-keyword,anthropic
+  - domain-keyword,claude
+  - domain-keyword,colab
+  - domain-keyword,developerprofiles
+  - domain-keyword,generativelanguage
   - domain-keyword,openai
+  - domain-suffix,ai.azure.com
   - domain-suffix,ai.com
   - domain-suffix,algolia.net
+  - domain-suffix,anthropic.com
   - domain-suffix,api.statsig.com
+  - domain-suffix,apis.google.com
   - domain-suffix,auth0.com
+  - domain-suffix,bard.google.com
   - domain-suffix,chatgpt.com
   - domain-suffix,chatgpt.livekit.cloud
+  - domain-suffix,claude.ai
+  - domain-suffix,claude.com
+  - domain-suffix,claudeusercontent.com
   - domain-suffix,client-api.arkoselabs.com
+  - domain-suffix,copilot.cloud.microsoft
+  - domain-suffix,copilot.microsoft.com
+  - domain-suffix,cursor.com
+  - domain-suffix,cursor.sh
+  - domain-suffix,deepmind.com
+  - domain-suffix,deepmind.google
   - domain-suffix,events.statsigapi.net
   - domain-suffix,featuregates.org
+  - domain-suffix,gemini.google.com
+  - domain-suffix,generativeai.google
+  - domain-suffix,grazie.ai
+  - domain-suffix,grazie.aws.intellij.net
   - domain-suffix,host.livekit.cloud
   - domain-suffix,identrust.com
   - domain-suffix,intercom.io
   - domain-suffix,intercomcdn.com
+  - domain-suffix,jetbrains.ai
   - domain-suffix,launchdarkly.com
+  - domain-suffix,makersuite.google.com
+  - domain-suffix,meta.ai
+  - domain-suffix,mistral.ai
   - domain-suffix,oaistatic.com
   - domain-suffix,oaiusercontent.com
   - domain-suffix,observeit.net
   - domain-suffix,openai.com
   - domain-suffix,openaiapi-site.azureedge.net
   - domain-suffix,openaicom.imgix.net
+  - domain-suffix,perplexity.ai
+  - domain-suffix,proactivebackend-pa.googleapis.com
   - domain-suffix,segment.io
   - domain-suffix,sentry.io
+  - domain-suffix,sora.com
   - domain-suffix,stripe.com
   - domain-suffix,turn.livekit.cloud
+  - domain-suffix,x.ai
   - ip-asn,20473,no-resolve
   - ip-cidr,24.199.123.28/32,no-resolve
   - ip-cidr,64.23.132.171/32,no-resolve
-  - domain,cdn.usefathom.com
-  - domain-suffix,anthropic.com
-  - domain-suffix,claude.ai
-  - domain,aistudio.google.com
-  - domain,api.githubcopilot.com
-  - domain,api.groq.com
-  - domain,api.together.xyz
-  - domain,bard.google.com
-  - domain,console.groq.com
-  - domain,copilot-proxy.githubusercontent.com
-  - domain,gemini.google.com
-  - domain,generativelanguage.googleapis.com
-  - domain,notebooklm.google.com
-  - domain,sydney.bing.com
-  - domain-keyword,anthropic
-  - domain-keyword,claude
-  - domain-suffix,ai.azure.com
-  - domain-suffix,claude.com
-  - domain-suffix,claudeusercontent.com
-  - domain-suffix,copilot.cloud.microsoft
-  - domain-suffix,copilot.microsoft.com
-  - domain-suffix,cursor.com
-  - domain-suffix,cursor.sh
-  - domain-suffix,grazie.ai
-  - domain-suffix,grazie.aws.intellij.net
-  - domain-suffix,jetbrains.ai
-  - domain-suffix,makersuite.google.com
-  - domain-suffix,meta.ai
-  - domain-suffix,mistral.ai
-  - domain-suffix,perplexity.ai
-  - domain-suffix,sora.com
-  - domain-suffix,x.ai

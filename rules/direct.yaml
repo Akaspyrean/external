@@ -1,8 +1,11 @@
 payload:
 # NAME: DIRECT Rules
 # AUTHOR: Akaspyrean
-# UPDATED: 2026-02-01 03:59:24
-# CHECKSUM: 2729b9442dbdfdffbbcd355e75e06e2e9f9ecfbdd401ddf621f14d5f70804539
+# UPDATED: 2026-02-01 05:02:16
+# CHECKSUM: 101d312986d2d90c1ad0b2fbb58f0094fde3719e068209f98c61bba6c7d111e0
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 115120
+# IP-RELATED: 0
 # TOTAL: 115120
 
   - domain-suffix,0.zone
@@ -12471,6 +12474,7 @@ payload:
   - domain-suffix,appqv.com
   - domain-suffix,approvebook.com
   - domain-suffix,apps-solayer.org
+  - domain-suffix,apps.apple.com
   - domain-suffix,apps.mzstatic.com
   - domain-suffix,apps121.com
   - domain-suffix,apps5.oingo.com
@@ -50597,6 +50601,7 @@ payload:
   - domain-suffix,iadmob.com
   - domain-suffix,iadmore.com
   - domain-suffix,iadpush.com
+  - domain-suffix,iadsdk.apple.com
   - domain-suffix,iadtracker.com
   - domain-suffix,iaeac.org
   - domain-suffix,iagefans.com
@@ -115123,5 +115128,3 @@ payload:
   - domain-suffix,zzzyyy.com
   - domain-suffix,zzzzaaaa.com
   - domain-suffix,zzzzzz.me
-  - domain-suffix,apps.apple.com
-  - domain-suffix,iadsdk.apple.com

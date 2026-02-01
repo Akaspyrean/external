@@ -1,8 +1,11 @@
 payload:
 # NAME: PROXY Rules
 # AUTHOR: Akaspyrean
-# UPDATED: 2026-02-01 03:59:24
-# CHECKSUM: 26e82aa167d0d2cb110aac293acbbe1e9793853a6a3cc4b78b9146c1ad8201fd
+# UPDATED: 2026-02-01 05:02:16
+# CHECKSUM: 14496714e3f693a6659392d7e214951557bf320dc6f577e5c16aba974bc33df6
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 26479
+# IP-RELATED: 0
 # TOTAL: 26479
 
   - domain-suffix,000webhost.com
@@ -97,6 +100,7 @@ payload:
   - domain-suffix,141jav.com
   - domain-suffix,141jj.com
   - domain-suffix,141tube.com
+  - domain-suffix,149.154.160.0/20
   - domain-suffix,159i.com
   - domain-suffix,161sex.com
   - domain-suffix,1688.com.au
@@ -118,6 +122,7 @@ payload:
   - domain-suffix,17t17p.com
   - domain-suffix,18-teen-porn.com
   - domain-suffix,18-teen-xxx.com
+  - domain-suffix,185.76.151.0/24
   - domain-suffix,188channel.com
   - domain-suffix,18acg.us
   - domain-suffix,18av.pro
@@ -208,6 +213,9 @@ payload:
   - domain-suffix,1xbet.co.ke
   - domain-suffix,2-hand.info
   - domain-suffix,2000fun.com
+  - domain-suffix,2001:67c:4e8::/48
+  - domain-suffix,2001:b28:f23c::/47
+  - domain-suffix,2001:b28:f23f::/48
   - domain-suffix,2008xianzhang.info
   - domain-suffix,2013beatsbydrdreonline.com
   - domain-suffix,2013beatsbydrdreshop.com
@@ -248,6 +256,7 @@ payload:
   - domain-suffix,265sdwe3.com
   - domain-suffix,2789av.com
   - domain-suffix,27mmwmmw.top
+  - domain-suffix,2a0a:f280::/32
   - domain-suffix,2adultflashgames.com
   - domain-suffix,2beatsdre.com
   - domain-suffix,2beeg.me
@@ -550,6 +559,11 @@ payload:
   - domain-suffix,8z1.net
   - domain-suffix,90seconds.asia
   - domain-suffix,91-cg.com
+  - domain-suffix,91.105.192.0/23
+  - domain-suffix,91.108.16.0/21
+  - domain-suffix,91.108.4.0/22
+  - domain-suffix,91.108.56.0/22
+  - domain-suffix,91.108.8.0/21
   - domain-suffix,91av.one
   - domain-suffix,91avfuli.com
   - domain-suffix,91beiyong.com
@@ -590,6 +604,7 @@ payload:
   - domain-suffix,92hm.life
   - domain-suffix,92hm.top
   - domain-suffix,941tube.com
+  - domain-suffix,95.161.64.0/20
   - domain-suffix,9527.rocks
   - domain-suffix,9550.fun
   - domain-suffix,978.life
@@ -26472,15 +26487,3 @@ payload:
   - domain-suffix,zzgays.com
   - domain-suffix,zzux.com
   - domain-suffix,zzycdz.com
-  - domain-suffix,149.154.160.0/20
-  - domain-suffix,185.76.151.0/24
-  - domain-suffix,2001:67c:4e8::/48
-  - domain-suffix,2001:b28:f23c::/47
-  - domain-suffix,2001:b28:f23f::/48
-  - domain-suffix,2a0a:f280::/32
-  - domain-suffix,91.105.192.0/23
-  - domain-suffix,91.108.16.0/21
-  - domain-suffix,91.108.4.0/22
-  - domain-suffix,91.108.56.0/22
-  - domain-suffix,91.108.8.0/21
-  - domain-suffix,95.161.64.0/20
