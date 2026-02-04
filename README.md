@@ -1,5 +1,5 @@
 # Clash.F.Win
-### 📦 包含组件
+
 **🛠 客户端​：Clash for Windows 增强版**
 
 * 原生支持 geoip:cn 等现代规则集，解析速度快，配置加载更稳定。
