@@ -9,7 +9,7 @@
 **📑 配置文件：Clash & Shadowrocket 深度适配**
 
 * Clash (.yaml)：针对 Mihomo 特性优化的配置文件，预设科学的分流逻辑。
-* ​Shadowrocket (.conf)**​：深度适配小火箭的配置方案，实现移动端与 PC 端策略一致。
+* ​Shadowrocket (.conf)​：深度适配小火箭的配置方案，实现移动端与 PC 端策略一致。
 
 **📡 分流规则​：动态更新的规则集**
 
