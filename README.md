@@ -15,6 +15,6 @@
 * ​代理转发 (Proxy)​：全面收集海外高频访问站点，减少漏网之鱼。
 * ​绕过直连 (Direct)：涵盖国内主流网站，确保本地流量不走弯路。
 * 人工智能 (AI)：精准覆盖 OpenAI、Anthropic、Claude 等主流 AI 服务。
-* ​影音视听 (Media)**​：针对 YouTube、Netflix、Disney+ 等流媒体进行分流优化，确保极速加载。
+* ​影音视听 (Media)​：针对 YouTube、Netflix、Disney+ 等流媒体进行分流优化，确保极速加载。
 * ​`.yaml` 格式：深度适配本仓库的Clash for Windows 增强版，支持规则集（Rule Providers）调用，自动更新。
 * ​`.list` 格式​：完美兼容 Shadowrocket (小火箭) 及其他支持纯文本规则列表的客户端。
