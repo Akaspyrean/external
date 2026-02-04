@@ -19,3 +19,7 @@
 * ​影音视听 (Media)​：针对 YouTube、Netflix、Disney+ 等流媒体进行分流优化，确保极速加载。
 * ​`.yaml` 格式：深度适配本仓库的Clash for Windows 增强版，支持规则集（Rule Providers）调用，自动更新。
 * ​`.list` 格式​：完美兼容 Shadowrocket (小火箭) 及其他支持纯文本规则列表的客户端。
+
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/4dc09ed6-d6b0-41f5-b248-d312d2982188" />
+
+<img width="500" height="333"  alt="image" src="https://github.com/user-attachments/assets/3f4637df-a51b-4cfe-a4c8-cdd98e83d557" />
