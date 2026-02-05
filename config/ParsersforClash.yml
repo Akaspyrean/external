@@ -112,39 +112,31 @@ parsers:
           ],
           
           // --- 规则集源 ---
-          "rule-providers": {
-            "private": {
-              "type": "http",
-              "behavior": "classical",
-              "url": "https://i.fongap.com/clash/rules/private.yaml",
-              "path": "./rules/private.yaml",
-              "interval": 86400
-            },
             "direct": {
               "type": "http",
               "behavior": "classical",
-              "url": "https://raw.githubusercontent.com/Akaspyrean/Clash/main/rules/direct.yaml",
+              "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/direct.yaml",
               "path": "./rules/direct.yaml",
               "interval": 86400
             },
             "ai": {
               "type": "http",
               "behavior": "classical",
-              "url": "https://raw.githubusercontent.com/Akaspyrean/Clash/main/rules/ai.yaml",
+              "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/ai.yaml",
               "path": "./rules/ai.yaml",
               "interval": 86400
             },
             "media": {
               "type": "http",
               "behavior": "classical",
-              "url": "https://raw.githubusercontent.com/Akaspyrean/Clash/main/rules/media.yaml",
+              "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/media.yaml",
               "path": "./rules/media.yaml",
               "interval": 86400
             },
             "proxy": {
               "type": "http",
               "behavior": "classical",
-              "url": "https://raw.githubusercontent.com/Akaspyrean/Clash/main/rules/proxy.yaml",
+              "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/proxy.yaml",
               "path": "./rules/proxy.yaml",
               "interval": 86400
             }
@@ -152,8 +144,7 @@ parsers:
 
           // --- 分流规则 ---
           "rules": [
-            // 1. 直连特权
-            "RULE-SET,private,DIRECT",            
+            // 1. 直连特权        
             "GEOSITE,private,DIRECT",
             "RULE-SET,direct,DIRECT",
             
