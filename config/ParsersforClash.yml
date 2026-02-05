@@ -37,7 +37,6 @@ parsers:
           "allow-lan": true,
           "log-level": "error",
           "ipv6": true,
-          "external-controller": "127.0.0.1:9090",
           "geodata-mode": true,
           "geodata-loader": "standard",
           
