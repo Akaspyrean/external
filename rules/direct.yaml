@@ -1,15 +1,13 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     05 Feb 2026 15:16 UTC
-# DOMAIN:      115143
+# UPDATED:     05 Feb 2026 15:22 UTC
+# DOMAIN:      115142
 # IP-RELATED:  17
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
 
 payload:
   - domain,licenses.graphpad.com
-  - domain,originpro.org
-  - domain,www.originpro.org
   - domain-suffix,0.zone
   - domain-suffix,00.net
   - domain-suffix,000.link
@@ -73263,6 +73261,7 @@ payload:
   - domain-suffix,originlee.com
   - domain-suffix,originoo.com
   - domain-suffix,originpic.com
+  - domain-suffix,originpro.org
   - domain-suffix,originsilicon.com
   - domain-suffix,originwater.com
   - domain-suffix,origloria.com
@@ -115153,5 +115152,5 @@ payload:
   - ip-cidr,10.0.0.0/8
   - ip-cidr,100.64.0.0/10
   - ip-cidr,127.0.0.0/8
-  - ip-cidr,172.16.0.0
+  - ip-cidr,172.16.0.0/12
   - ip-cidr,192.168.0.0/16
