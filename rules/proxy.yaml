@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     05 Feb 2026 23:00 UTC
-# DOMAIN:      26489
+# UPDATED:     06 Feb 2026 22:53 UTC
+# DOMAIN:      26495
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -3660,6 +3660,7 @@ payload:
   - domain-suffix,bitstamp.net
   - domain-suffix,bitstream.com
   - domain-suffix,bitterwinter.org
+  - domain-suffix,bittorrent.com
   - domain-suffix,bittrex.com
   - domain-suffix,bitvise.com
   - domain-suffix,bitwarden.com
@@ -10954,6 +10955,7 @@ payload:
   - domain-suffix,helpeachpeople.com
   - domain-suffix,helpster.de
   - domain-suffix,helpzhuling.org
+  - domain-suffix,hembed.com
   - domain-suffix,hentai-ani.me
   - domain-suffix,hentai-archive.com
   - domain-suffix,hentai-books.com
@@ -14635,6 +14637,8 @@ payload:
   - domain-suffix,mantan-web.jp
   - domain-suffix,mantochichi.com
   - domain-suffix,manurefetish.com
+  - domain-suffix,manus.im
+  - domain-suffix,manuscdn.com
   - domain-suffix,manytoon.com
   - domain-suffix,manyvids.com
   - domain-suffix,manyvoices.news
@@ -20819,6 +20823,7 @@ payload:
   - domain-suffix,sketchbooknews.com
   - domain-suffix,sketchbookpro.com
   - domain-suffix,sketchfab.com
+  - domain-suffix,skills.sh
   - domain-suffix,skillshare.com
   - domain-suffix,skimtube.com
   - domain-suffix,skinstrip.net
@@ -23401,6 +23406,7 @@ payload:
   - domain-suffix,v-has.com
   - domain-suffix,v.gd
   - domain-suffix,v2.help
+  - domain-suffix,v2.hysteria.network
   - domain-suffix,v2ex.com
   - domain-suffix,v2fly.org
   - domain-suffix,v2ph.com
