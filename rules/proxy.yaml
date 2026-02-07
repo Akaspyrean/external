@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     06 Feb 2026 22:53 UTC
-# DOMAIN:      26495
+# UPDATED:     07 Feb 2026 22:59 UTC
+# DOMAIN:      26393
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -690,7 +690,6 @@ payload:
   - domain-suffix,abematv.co.jp
   - domain-suffix,abgsp1.buzz
   - domain-suffix,abigass.com
-  - domain-suffix,abitno.linpie.com
   - domain-suffix,ablmm.com
   - domain-suffix,ablwang.com
   - domain-suffix,aboluowang.com
@@ -2978,7 +2977,6 @@ payload:
   - domain-suffix,bbs.huasing.org
   - domain-suffix,bbs.junglobal.net
   - domain-suffix,bbs.mikocon.com
-  - domain-suffix,bbs.morbell.com
   - domain-suffix,bbs.mychat.to
   - domain-suffix,bbs.naixi.net
   - domain-suffix,bbs.nyinfor.com
@@ -3723,7 +3721,6 @@ payload:
   - domain-suffix,blog.fuckgfw233.org
   - domain-suffix,blog.jackjia.com
   - domain-suffix,blog.jp
-  - domain-suffix,blog.lester850.info
   - domain-suffix,blog.martinoei.com
   - domain-suffix,blog.pathtosharepoint.com
   - domain-suffix,blog.pentalogic.net
@@ -5119,7 +5116,6 @@ payload:
   - domain-suffix,cdn-terapeak.com
   - domain-suffix,cdn-vk.ru
   - domain-suffix,cdn.arstechnica.net
-  - domain-suffix,cdn.assets.lfpcontent.com
   - domain-suffix,cdn.js7k.com
   - domain-suffix,cdn.jsdelivr.net
   - domain-suffix,cdn.printfriendly.com
@@ -5759,6 +5755,8 @@ payload:
   - domain-suffix,codei.sh
   - domain-suffix,codeish.co
   - domain-suffix,codeish.io
+  - domain-suffix,codeium.com
+  - domain-suffix,codeiumdata.com
   - domain-suffix,coderabbit.ai
   - domain-suffix,codeshare.io
   - domain-suffix,codeskulptor.org
@@ -9138,7 +9136,6 @@ payload:
   - domain-suffix,fortuneinsight.com
   - domain-suffix,forum.baby-kingdom.com
   - domain-suffix,forum.cyberctm.com
-  - domain-suffix,forum.mymaji.com
   - domain-suffix,forum.palmislife.com
   - domain-suffix,forum.slime.com.tw
   - domain-suffix,forum.xinbao.de
@@ -11288,7 +11285,6 @@ payload:
   - domain-suffix,hkptu.org
   - domain-suffix,hkreadingcity.net
   - domain-suffix,hkreporter.com
-  - domain-suffix,hkreporter.loved.hk
   - domain-suffix,hkt-enterprise.com
   - domain-suffix,hkt-eye.com
   - domain-suffix,hkt.com
@@ -13300,7 +13296,6 @@ payload:
   - domain-suffix,jieshibaobao.com
   - domain-suffix,jifangge.com
   - domain-suffix,jigglegifs.com
-  - domain-suffix,jihadintel.meforum.org
   - domain-suffix,jihadology.net
   - domain-suffix,jiji.com
   - domain-suffix,jijiji.ca
@@ -13877,13 +13872,11 @@ payload:
   - domain-suffix,kzeng.info
   - domain-suffix,l-0005.dc-msedge.net
   - domain-suffix,l-msedge.net
-  - domain-suffix,la-forum.org
   - domain-suffix,la-mama.ru
   - domain-suffix,lab.skk.moe
   - domain-suffix,labiennale.org
   - domain-suffix,labo.wovs.tk
   - domain-suffix,lacomics.org
-  - domain-suffix,ladbrokes.com
   - domain-suffix,ladies.com
   - domain-suffix,ladybaba.net
   - domain-suffix,ladyboygold.com
@@ -13891,11 +13884,9 @@ payload:
   - domain-suffix,ladyboypornonly.com
   - domain-suffix,lagranepoca.com
   - domain-suffix,lala.im
-  - domain-suffix,lalulalu.com
   - domain-suffix,lama.com.tw
   - domain-suffix,lamayeshe.com
   - domain-suffix,lamnia.co.uk
-  - domain-suffix,lamrim.com
   - domain-suffix,lanasbigboobs.com
   - domain-suffix,landofhope.tv
   - domain-suffix,langsuirs.com
@@ -13904,15 +13895,10 @@ payload:
   - domain-suffix,lanniser-ylo.shop
   - domain-suffix,lantern.io
   - domain-suffix,lanternal.com
-  - domain-suffix,lanterncn.cn
-  - domain-suffix,lantosfoundation.org
-  - domain-suffix,laod.cn
   - domain-suffix,laogai.org
   - domain-suffix,laogairesearch.org
-  - domain-suffix,laomiu.com
   - domain-suffix,laosijifuli9009.top
   - domain-suffix,laowang.vip
-  - domain-suffix,laoyang.info
   - domain-suffix,lapriere.jp
   - domain-suffix,laqingdan.net
   - domain-suffix,laracasts.com
@@ -13929,7 +13915,6 @@ payload:
   - domain-suffix,lasvegasbmw.com
   - domain-suffix,latampartneruniversity.com
   - domain-suffix,latamvmwareforum.com
-  - domain-suffix,latelinenews.com
   - domain-suffix,latencytop.com
   - domain-suffix,latex-project.org
   - domain-suffix,latinaabuse.com
@@ -13986,22 +13971,17 @@ payload:
   - domain-suffix,lecoin.cc
   - domain-suffix,lede-project.org
   - domain-suffix,ledger.com
-  - domain-suffix,leeao.com.cn
   - domain-suffix,leecountytimes.com
-  - domain-suffix,lefora.com
   - domain-suffix,left21.hk
-  - domain-suffix,legalporno.com
   - domain-suffix,legaltracker.com
   - domain-suffix,legra.ph
   - domain-suffix,legsex.com
   - domain-suffix,legsjapan.com
-  - domain-suffix,leisurecafe.ca
   - domain-suffix,leisurepro.com
   - domain-suffix,leliao1.com
   - domain-suffix,lematin.ch
   - domain-suffix,lemmynsfw.com
   - domain-suffix,lemoncams.com
-  - domain-suffix,lemonde.fr
   - domain-suffix,lencr.org
   - domain-suffix,lenkino.xxx
   - domain-suffix,lenporno.net
@@ -14021,7 +14001,6 @@ payload:
   - domain-suffix,lethalhardcorevr.com
   - domain-suffix,letmejerk.com
   - domain-suffix,letmejerk.fun
-  - domain-suffix,letou.com
   - domain-suffix,letscorp.net
   - domain-suffix,letsdoeit.com
   - domain-suffix,letsencrypt.com
@@ -14055,13 +14034,11 @@ payload:
   - domain-suffix,lgrecyclingprogram.com
   - domain-suffix,lgsalesportal.com
   - domain-suffix,lhakar.org
-  - domain-suffix,lhasocialwork.org
   - domain-suffix,li.taipei
   - domain-suffix,liangyou.net
   - domain-suffix,liangzhichuanmei.com
   - domain-suffix,lianhonghong.com
   - domain-suffix,lianjiajr.net
-  - domain-suffix,lianyue.net
   - domain-suffix,liaowangxizang.net
   - domain-suffix,liberal.org.hk
   - domain-suffix,liberapay.com
@@ -14116,7 +14093,6 @@ payload:
   - domain-suffix,limer.tw
   - domain-suffix,limertw.cc
   - domain-suffix,limeteensex.com
-  - domain-suffix,limiao.net
   - domain-suffix,lin.ee
   - domain-suffix,lindylist.org
   - domain-suffix,line-apps-beta.com
@@ -14138,7 +14114,6 @@ payload:
   - domain-suffix,lineshoppingseller.com
   - domain-suffix,linetv.tw
   - domain-suffix,lingeriepornonly.com
-  - domain-suffix,linglingfa.com
   - domain-suffix,lingualeo.com
   - domain-suffix,linguee.com
   - domain-suffix,lingvodics.com
@@ -14150,11 +14125,9 @@ payload:
   - domain-suffix,linkedin.at
   - domain-suffix,linkedin.com
   - domain-suffix,linkedin.sc.omtrdc.net
-  - domain-suffix,linkideo.com
   - domain-suffix,linkjunkies.com
   - domain-suffix,linkshit.com
   - domain-suffix,linktr.ee
-  - domain-suffix,linkuswell.com
   - domain-suffix,linotype.com
   - domain-suffix,linseysworld.com
   - domain-suffix,linux.do
@@ -14163,10 +14136,7 @@ payload:
   - domain-suffix,linuxfoundation.org
   - domain-suffix,linuxfromscratch.org
   - domain-suffix,linuxmint.com
-  - domain-suffix,linuxtoy.org
   - domain-suffix,lionhearts.co.kr
-  - domain-suffix,lionsroar.com
-  - domain-suffix,lipuman.com
   - domain-suffix,liquiditytp.com
   - domain-suffix,liquidvpn.com
   - domain-suffix,lisiku.com
@@ -14175,7 +14145,6 @@ payload:
   - domain-suffix,listennotes.com
   - domain-suffix,listentoyoutube.com
   - domain-suffix,listinganalytics.net
-  - domain-suffix,listorious.com
   - domain-suffix,litbus-anime.com
   - domain-suffix,litenews.hk
   - domain-suffix,literatumonline.com
@@ -14183,8 +14152,6 @@ payload:
   - domain-suffix,littleasians.com
   - domain-suffix,littlesexdolls.com
   - domain-suffix,litv.tv
-  - domain-suffix,liu-xiaobo.org
-  - domain-suffix,liuhanyu.com
   - domain-suffix,liuhefabu.club
   - domain-suffix,liuxiaobo.net
   - domain-suffix,liuxiaotong.com
@@ -14197,7 +14164,6 @@ payload:
   - domain-suffix,liveauction.com
   - domain-suffix,livecamclips.com
   - domain-suffix,livecoin.net
-  - domain-suffix,livedoor.jp
   - domain-suffix,livefilestore.com
   - domain-suffix,livehdcams.com
   - domain-suffix,livejasmin.com
@@ -14221,9 +14187,7 @@ payload:
   - domain-suffix,livingyourambition.com
   - domain-suffix,livrariart.com.br
   - domain-suffix,lizardporn.com
-  - domain-suffix,lizhizhuangbi.com
   - domain-suffix,lizol.co.in
-  - domain-suffix,lkcn.net
   - domain-suffix,ll82y2ifdd.top
   - domain-suffix,llama.com
   - domain-suffix,llbd10.shop
@@ -14246,9 +14210,7 @@ payload:
   - domain-suffix,lms01.com
   - domain-suffix,lnkd.in
   - domain-suffix,lnstagram-help.com
-  - domain-suffix,load.to
   - domain-suffix,loanbuilder.com
-  - domain-suffix,lobsangwangyal.com
   - domain-suffix,lobstertube.com
   - domain-suffix,localbitcoins.com
   - domain-suffix,localbitcoinschain.com
@@ -14297,7 +14259,6 @@ payload:
   - domain-suffix,lolstatic-a.akamaihd.net
   - domain-suffix,lolstatic.com
   - domain-suffix,lolusercontent.com
-  - domain-suffix,londonchinese.ca
   - domain-suffix,londonhotescort.com
   - domain-suffix,londonmithraeum.com
   - domain-suffix,londonreal.tv
@@ -14308,7 +14269,6 @@ payload:
   - domain-suffix,longbridge.hk
   - domain-suffix,longbridge.sg
   - domain-suffix,longbridgeapp.com
-  - domain-suffix,longhair.hk
   - domain-suffix,longmabook.com
   - domain-suffix,longmabookcn.com
   - domain-suffix,longman.ch
@@ -14325,8 +14285,6 @@ payload:
   - domain-suffix,lordofultima.com
   - domain-suffix,lostbetsgames.com
   - domain-suffix,lotcrap.com
-  - domain-suffix,lotsawahouse.org
-  - domain-suffix,lotuslight.org.tw
   - domain-suffix,louisvuitton.com
   - domain-suffix,lovart.ai
   - domain-suffix,love-sextoys.co.uk
@@ -14367,15 +14325,12 @@ payload:
   - domain-suffix,lrysgee.xyz
   - domain-suffix,lsawards.com
   - domain-suffix,lsd.org.hk
-  - domain-suffix,lsforum.net
   - domain-suffix,lsj2.shop
   - domain-suffix,lsj40.xyz
   - domain-suffix,lsjfuli308.xyz
   - domain-suffix,lsm.org
   - domain-suffix,lsmchinese.org
   - domain-suffix,lsmkorean.org
-  - domain-suffix,lsmradio.com
-  - domain-suffix,lsmwebcast.com
   - domain-suffix,lspimg.com
   - domain-suffix,lss55.com
   - domain-suffix,lsxszzg.com
@@ -14398,8 +14353,6 @@ payload:
   - domain-suffix,luckymobile.ca
   - domain-suffix,luckysrv.de
   - domain-suffix,ludepress.com
-  - domain-suffix,luke54.com
-  - domain-suffix,luke54.org
   - domain-suffix,lululu.one
   - domain-suffix,lunchwithpype.com
   - domain-suffix,luoli.info
@@ -14417,7 +14370,6 @@ payload:
   - domain-suffix,luvmov.com
   - domain-suffix,luw666.xyz
   - domain-suffix,luw666cm.cc
-  - domain-suffix,luxebc.com
   - domain-suffix,luxuretv.com
   - domain-suffix,luxuretv.fun
   - domain-suffix,lvhai.org
@@ -14499,7 +14451,6 @@ payload:
   - domain-suffix,macreach.com
   - domain-suffix,macreach.net
   - domain-suffix,macromedia.com
-  - domain-suffix,macrovpn.com
   - domain-suffix,macruby.com
   - domain-suffix,macruby.net
   - domain-suffix,macruby.org
@@ -14543,12 +14494,9 @@ payload:
   - domain-suffix,magestic.com
   - domain-suffix,magicalmirai.com
   - domain-suffix,magicmovies.com
-  - domain-suffix,mahabodhi.org
   - domain-suffix,mahajantech.com
   - domain-suffix,mahjongsoul.com
   - domain-suffix,maidonanews.jp
-  - domain-suffix,maiio.net
-  - domain-suffix,mail-archive.com
   - domain-suffix,mail.com
   - domain-suffix,mail.ru
   - domain-suffix,mailchimp.com
@@ -14564,7 +14512,6 @@ payload:
   - domain-suffix,maintracker.org
   - domain-suffix,maiplus.com
   - domain-suffix,mairbeats.com
-  - domain-suffix,maizhong.org
   - domain-suffix,makaan.com
   - domain-suffix,makeanything.com
   - domain-suffix,makearmanotwar.com
@@ -14576,18 +14523,15 @@ payload:
   - domain-suffix,makemymood.com
   - domain-suffix,makesenseofdata.com
   - domain-suffix,makingstartshere.com
-  - domain-suffix,makkahnewspaper.com
   - domain-suffix,maktoob.com
   - domain-suffix,malayalamanorama.com
   - domain-suffix,malayporn.site
   - domain-suffix,malayporn.space
   - domain-suffix,malaypornhub.com
-  - domain-suffix,malaysiakini.com
   - domain-suffix,mallandrinhas.net
   - domain-suffix,mallheadphone.com
   - domain-suffix,malvastudios.com
   - domain-suffix,mamacitaz.com
-  - domain-suffix,mamingzhe.com
   - domain-suffix,managed-pki.ch
   - domain-suffix,managed-pki.de
   - domain-suffix,managedmeetingrooms.com
@@ -14595,7 +14539,6 @@ payload:
   - domain-suffix,managedpki.ne.jp
   - domain-suffix,management-azure-devices-int.net
   - domain-suffix,management-azure-devices.net
-  - domain-suffix,manchukuo.net
   - domain-suffix,mandatewire.com
   - domain-suffix,mandiant.com
   - domain-suffix,manga-mill.com
@@ -14620,8 +14563,6 @@ payload:
   - domain-suffix,manhwa24h.com
   - domain-suffix,manhwahentai.me
   - domain-suffix,maniakey.homes
-  - domain-suffix,maniash.com
-  - domain-suffix,manicur4ik.ru
   - domain-suffix,manorama.com
   - domain-suffix,manoramanews.com
   - domain-suffix,manoramaonline.com
@@ -14629,9 +14570,7 @@ payload:
   - domain-suffix,manoto1.tv
   - domain-suffix,manototv.com
   - domain-suffix,manporn.xxx
-  - domain-suffix,mansion.com
   - domain-suffix,mansionglobal.com
-  - domain-suffix,mansionpoker.com
   - domain-suffix,mansurfer.com
   - domain-suffix,manta.com
   - domain-suffix,mantan-web.jp
@@ -14649,10 +14588,8 @@ payload:
   - domain-suffix,mapbox.com
   - domain-suffix,mapguide.com
   - domain-suffix,maple.finance
-  - domain-suffix,maplew.com
   - domain-suffix,mappingonline.com
   - domain-suffix,marc.info
-  - domain-suffix,marguerite.su
   - domain-suffix,mariadb.org
   - domain-suffix,marinecadcam.com
   - domain-suffix,marioandluigidreamteam.com
@@ -14677,7 +14614,6 @@ payload:
   - domain-suffix,marscode.com
   - domain-suffix,martau.com
   - domain-suffix,martsangkagyuofficial.org
-  - domain-suffix,maruta.be
   - domain-suffix,marvel.com
   - domain-suffix,marvel10thanniversary.com
   - domain-suffix,marveldimensionofheroes.com
@@ -14687,7 +14623,6 @@ payload:
   - domain-suffix,marvelspotlightplays.com
   - domain-suffix,marvelsuperheroseptember.com
   - domain-suffix,marvelsuperwar.com
-  - domain-suffix,marxist.com
   - domain-suffix,marxist.net
   - domain-suffix,marxists.org
   - domain-suffix,masalabin.com
@@ -14697,7 +14632,6 @@ payload:
   - domain-suffix,mash.to
   - domain-suffix,mashaalradio.com
   - domain-suffix,mask.me
-  - domain-suffix,maskedip.com
   - domain-suffix,maskedsingerfox.com
   - domain-suffix,massage-in-taipei.com
   - domain-suffix,massagerepublic.com
@@ -14846,7 +14780,6 @@ payload:
   - domain-suffix,maxgo.com
   - domain-suffix,maxillofacial-cadcam.com
   - domain-suffix,maximumerotica.com
-  - domain-suffix,maxing.jp
   - domain-suffix,maxis.com
   - domain-suffix,maya5.net
   - domain-suffix,mayacomplete.com
@@ -14868,7 +14801,6 @@ payload:
   - domain-suffix,mayauser.net
   - domain-suffix,mayavisualization.com
   - domain-suffix,mayijiejie.com
-  - domain-suffix,mayimayi.com
   - domain-suffix,maying.co
   - domain-suffix,mbeats-tech.com
   - domain-suffix,mbheadphone.com
@@ -14910,10 +14842,8 @@ payload:
   - domain-suffix,mcdonaldsapps.com
   - domain-suffix,mcdonaldsarabia.com
   - domain-suffix,mcdonaldsparties.co.nz
-  - domain-suffix,mcfog.com
   - domain-suffix,mcisco.com
   - domain-suffix,mcpeaceofmind.com
-  - domain-suffix,mcreasite.com
   - domain-suffix,mcrouter.net
   - domain-suffix,mcrouter.org
   - domain-suffix,mcstories.com
@@ -14955,11 +14885,9 @@ payload:
   - domain-suffix,media-imdb.com
   - domain-suffix,media-rockstargames-com.akamaized.net
   - domain-suffix,media.nu.nl
-  - domain-suffix,media.org.hk
   - domain-suffix,mediachinese.com
   - domain-suffix,mediaclip.jp
   - domain-suffix,mediafiles-cisco.com
-  - domain-suffix,mediafire.com
   - domain-suffix,mediafreakcity.com
   - domain-suffix,mediasama.com
   - domain-suffix,mediawiki.org
@@ -14973,12 +14901,10 @@ payload:
   - domain-suffix,meet.new
   - domain-suffix,meetandfuck.games
   - domain-suffix,meetandfuckgames.com
-  - domain-suffix,meetav.com
   - domain-suffix,meetfasttrack.com
   - domain-suffix,meetsmartbook.com
   - domain-suffix,meetup.com
   - domain-suffix,meetyourdevices.com
-  - domain-suffix,mefeedia.com
   - domain-suffix,mefound.com
   - domain-suffix,mega.co.nz
   - domain-suffix,mega.io
@@ -15004,14 +14930,11 @@ payload:
   - domain-suffix,melon.com
   - domain-suffix,melonbooks.co.jp
   - domain-suffix,melonstube.com
-  - domain-suffix,meltoday.com
   - domain-suffix,meme111.com
   - domain-suffix,memealerts.com
   - domain-suffix,memehk.com
   - domain-suffix,mementoweb.org
   - domain-suffix,memes.tw
-  - domain-suffix,memri.org
-  - domain-suffix,memrijttm.org
   - domain-suffix,men.com
   - domain-suffix,men18.net
   - domain-suffix,menatplay.com
@@ -15037,7 +14960,6 @@ payload:
   - domain-suffix,merit-times.com.tw
   - domain-suffix,meshmixer.com
   - domain-suffix,meshmixerforum.com
-  - domain-suffix,mesotw.com
   - domain-suffix,messenger.com
   - domain-suffix,messengerdevelopers.com
   - domain-suffix,messybrainz.org
@@ -15063,7 +14985,6 @@ payload:
   - domain-suffix,meteorshowersonline.com
   - domain-suffix,metro.co.uk
   - domain-suffix,metro.taipei
-  - domain-suffix,metrohk.com.hk
   - domain-suffix,metrolife.ca
   - domain-suffix,metropolitana.tokyo
   - domain-suffix,metroradio.com.hk
@@ -15206,13 +15127,11 @@ payload:
   - domain-suffix,microvpn.com
   - domain-suffix,micstl.com
   - domain-suffix,midatlanticbmwmotorcycles.com
-  - domain-suffix,middle-way.net
   - domain-suffix,midentsolutions.com
   - domain-suffix,midoushe.com
   - domain-suffix,mie.co.jp
   - domain-suffix,miexnoviadesnuda.com
   - domain-suffix,mihomeone.info
-  - domain-suffix,mihr.com
   - domain-suffix,mihua.org
   - domain-suffix,miitomo.com
   - domain-suffix,miiverse.com
@@ -15251,17 +15170,13 @@ payload:
   - domain-suffix,milkmanbook.com
   - domain-suffix,millymarks.com
   - domain-suffix,milofetch.com
-  - domain-suffix,milph.net
-  - domain-suffix,milsurps.com
   - domain-suffix,mimei.store
   - domain-suffix,mimi-zhibo.com
   - domain-suffix,mimi2022.link
   - domain-suffix,mimi22.top
   - domain-suffix,mimi222.top
-  - domain-suffix,mimiai.net
   - domain-suffix,mimistudio.com
   - domain-suffix,mimistyler.com
-  - domain-suffix,mimivip.com
   - domain-suffix,mimizy-go.buzz
   - domain-suffix,minbrowser.org
   - domain-suffix,mindgeek.com
@@ -15574,7 +15489,6 @@ payload:
   - domain-suffix,misskey.stream
   - domain-suffix,misskey.yukineko.me
   - domain-suffix,misskeyusercontent.jp
-  - domain-suffix,mist.vip
   - domain-suffix,mistral.ai
   - domain-suffix,mistresskym.com
   - domain-suffix,mit
@@ -15590,7 +15504,6 @@ payload:
   - domain-suffix,mixero.com
   - domain-suffix,mixi.jp
   - domain-suffix,mixmaturesex.com
-  - domain-suffix,mixpod.com
   - domain-suffix,mixvintagesex.com
   - domain-suffix,mixx.com
   - domain-suffix,miyazakibank.co.jp
@@ -15608,7 +15521,6 @@ payload:
   - domain-suffix,mktorest.com
   - domain-suffix,mktroute.com
   - domain-suffix,mlc.ai
-  - domain-suffix,mlcool.com
   - domain-suffix,mlzs.work
   - domain-suffix,mm-cg.com
   - domain-suffix,mm9841.cc
@@ -15619,14 +15531,12 @@ payload:
   - domain-suffix,mmgy.cc
   - domain-suffix,mminsurance.gov.mm
   - domain-suffix,mmmanual.com
-  - domain-suffix,mmmca.com
   - domain-suffix,mmonsterheadphones.net
   - domain-suffix,mmscdh.one
   - domain-suffix,mmtongdao.xyz
   - domain-suffix,mmtourismbank.com
   - domain-suffix,mmtv.life
   - domain-suffix,mmwxl27.top
-  - domain-suffix,mnewstv.com
   - domain-suffix,mo.co
   - domain-suffix,mo.nightlife141.com
   - domain-suffix,mobatek.net
@@ -15645,7 +15555,6 @@ payload:
   - domain-suffix,mobimon.com.tw
   - domain-suffix,mobmyanmar.com
   - domain-suffix,moby.to
-  - domain-suffix,mobypicture.com
   - domain-suffix,mochajs.org
   - domain-suffix,mocloudplus.com
   - domain-suffix,mod.io
@@ -16032,7 +15941,6 @@ payload:
   - domain-suffix,my-formosa.com
   - domain-suffix,my-magazine.me
   - domain-suffix,my-private-network.co.uk
-  - domain-suffix,my-proxy.com
   - domain-suffix,my.pcloud.com
   - domain-suffix,my03.com
   - domain-suffix,my13la.com
@@ -16044,7 +15952,6 @@ payload:
   - domain-suffix,my45.com
   - domain-suffix,my9nj.com
   - domain-suffix,myaccountglobalcash.com
-  - domain-suffix,myactimes.com
   - domain-suffix,myamateurgirls.net
   - domain-suffix,myamateurtv.com
   - domain-suffix,myappleid.com
@@ -16052,14 +15959,12 @@ payload:
   - domain-suffix,myaudiocast.com
   - domain-suffix,myautocad.com
   - domain-suffix,myautodeskbenefits.com
-  - domain-suffix,myav.com.tw
   - domain-suffix,myav886.buzz
   - domain-suffix,myavfun.com
   - domain-suffix,myavok.com
   - domain-suffix,myavsuper.com
   - domain-suffix,myavxx.xyz
   - domain-suffix,mybabehotz.com
-  - domain-suffix,mybbs.us
   - domain-suffix,mybeatsbydrestudio.com
   - domain-suffix,mybeatsbydreuk.com
   - domain-suffix,mybeatscheapbydre.com
@@ -16072,28 +15977,22 @@ payload:
   - domain-suffix,myboylove.com
   - domain-suffix,mybridgestoneeducation.com
   - domain-suffix,mybukkakeporn.com
-  - domain-suffix,myca168.com
   - domain-suffix,mycams.com
-  - domain-suffix,mycanadanow.com
   - domain-suffix,mycardbenefits.com
   - domain-suffix,mycartoonsexgames.com
   - domain-suffix,mycdn.me
-  - domain-suffix,mychinanet.com
   - domain-suffix,mychinanews.com
-  - domain-suffix,mychinese.news
   - domain-suffix,myciscobenefits.com
   - domain-suffix,myclitgames.com
   - domain-suffix,mycnnews.com
   - domain-suffix,mycomicsxxx.com
   - domain-suffix,myconstructionworld.net
-  - domain-suffix,mycould.com
   - domain-suffix,mydad.info
   - domain-suffix,myddns.com
   - domain-suffix,mydirectgroove.com
   - domain-suffix,mydirectvchannels.com
   - domain-suffix,mydirtyhobby.com
   - domain-suffix,myds.me
-  - domain-suffix,myeasytv.com
   - domain-suffix,myebay.com
   - domain-suffix,myeclipseide.com
   - domain-suffix,myfappening.org
@@ -16132,7 +16031,6 @@ payload:
   - domain-suffix,myfreecams.com
   - domain-suffix,myfreepaysite.com
   - domain-suffix,myfreeporngames.com
-  - domain-suffix,myfreshnet.com
   - domain-suffix,myftp.info
   - domain-suffix,myfun.com
   - domain-suffix,mygaysites.com
@@ -16202,7 +16100,6 @@ payload:
   - domain-suffix,myqnapcloud.com
   - domain-suffix,myradio.com.hk
   - domain-suffix,myradio.hk
-  - domain-suffix,myreadingmanga.info
   - domain-suffix,myrewardzone.com
   - domain-suffix,myrimmingporn.com
   - domain-suffix,myrz.com
@@ -16216,10 +16113,8 @@ payload:
   - domain-suffix,myshopify.com
   - domain-suffix,mysims.com
   - domain-suffix,mysimsracing.com
-  - domain-suffix,mysinablog.com
   - domain-suffix,mysinchew.com
   - domain-suffix,mysocialworklab.com
-  - domain-suffix,myspace.com
   - domain-suffix,myspacecdn.com
   - domain-suffix,mysql.com
   - domain-suffix,mystrikingly.com
@@ -16905,7 +16800,6 @@ payload:
   - domain-suffix,njpw.co.jp
   - domain-suffix,njpw1972.com
   - domain-suffix,nke6.com
-  - domain-suffix,nko.navy.mil
   - domain-suffix,nlfreevpn.com
   - domain-suffix,nlm.io
   - domain-suffix,nlsexfilmpjes.com
@@ -24748,6 +24642,7 @@ payload:
   - domain-suffix,wikipedia.org
   - domain-suffix,wikiporn.tv
   - domain-suffix,wikiquote.org
+  - domain-suffix,wikis.tw
   - domain-suffix,wikisexguide.com
   - domain-suffix,wikisource.org
   - domain-suffix,wikiunblocked.org
@@ -24781,6 +24676,8 @@ payload:
   - domain-suffix,windowsuem.com
   - domain-suffix,windowsupdate.com
   - domain-suffix,windscribe.com
+  - domain-suffix,windsurf.build
+  - domain-suffix,windsurf.com
   - domain-suffix,windy.com
   - domain-suffix,wingamestore.com
   - domain-suffix,wingy.site
@@ -25854,6 +25751,7 @@ payload:
   - domain-suffix,yandex
   - domain-suffix,yandex-bank.net
   - domain-suffix,yandex-images.clstorage.net
+  - domain-suffix,yandex-pogoda.static-storage.net
   - domain-suffix,yandex-team.ru
   - domain-suffix,yandex.aero
   - domain-suffix,yandex.az

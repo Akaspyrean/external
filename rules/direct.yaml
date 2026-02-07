@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     06 Feb 2026 22:52 UTC
-# DOMAIN:      116488
+# UPDATED:     07 Feb 2026 22:59 UTC
+# DOMAIN:      116486
 # IP-RELATED:  18
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1796,7 +1796,6 @@ payload:
   - domain-suffix,125yan.com
   - domain-suffix,126.com
   - domain-suffix,126.fm
-  - domain-suffix,126.link
   - domain-suffix,126.net
   - domain-suffix,126blog.com
   - domain-suffix,126disk.com
@@ -2074,7 +2073,6 @@ payload:
   - domain-suffix,163hubei.com
   - domain-suffix,163hunan.com
   - domain-suffix,163img.com
-  - domain-suffix,163industry.com
   - domain-suffix,163jiasu.com
   - domain-suffix,163k.cc
   - domain-suffix,163k.com
