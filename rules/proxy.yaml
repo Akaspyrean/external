@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     07 Feb 2026 22:59 UTC
-# DOMAIN:      26393
+# UPDATED:     08 Feb 2026 23:00 UTC
+# DOMAIN:      26413
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -269,7 +269,10 @@ payload:
   - domain-suffix,2gayboys.com
   - domain-suffix,2k.com
   - domain-suffix,2kcoretech.online
+  - domain-suffix,2kct.onl
   - domain-suffix,2kgames.com
+  - domain-suffix,2ksports.com
+  - domain-suffix,2kweb.online
   - domain-suffix,2lib.org
   - domain-suffix,2lipstube.com
   - domain-suffix,2mdn-cn.net
@@ -742,6 +745,7 @@ payload:
   - domain-suffix,acer-group.com
   - domain-suffix,acer.com
   - domain-suffix,aceros-de-hispania.com
+  - domain-suffix,acesofthunder.net
   - domain-suffix,acevpn.com
   - domain-suffix,acg.rip
   - domain-suffix,acg18.me
@@ -787,6 +791,7 @@ payload:
   - domain-suffix,activate.wip4.adobe.com
   - domain-suffix,activelearnprimary.co.uk
   - domain-suffix,activelearnprimary.com.au
+  - domain-suffix,activematter.game
   - domain-suffix,activeteachonline.com
   - domain-suffix,activpn.com
   - domain-suffix,aculo.us
@@ -2269,6 +2274,7 @@ payload:
   - domain-suffix,artstation.com
   - domain-suffix,artstationmedia.com
   - domain-suffix,artstor.org
+  - domain-suffix,artstorm.com
   - domain-suffix,artsy.net
   - domain-suffix,arvanstorage.ir
   - domain-suffix,arxiv.org
@@ -6024,6 +6030,7 @@ payload:
   - domain-suffix,crossfire.co.kr
   - domain-suffix,crossfitfirestone.com
   - domain-suffix,crossmediapanel.com
+  - domain-suffix,crossout.net
   - domain-suffix,crossvpn.net
   - domain-suffix,crosswalk-project.com
   - domain-suffix,crosswalk-project.net
@@ -6032,6 +6039,7 @@ payload:
   - domain-suffix,croxyproxy.com
   - domain-suffix,crr.com
   - domain-suffix,crrev.com
+  - domain-suffix,crsed.net
   - domain-suffix,crtsgfb1.top
   - domain-suffix,crucial.com
   - domain-suffix,cruel-furies.com
@@ -6074,6 +6082,7 @@ payload:
   - domain-suffix,ctwant.com
   - domain-suffix,ctyun.online
   - domain-suffix,cubicmotion.com
+  - domain-suffix,cubicodyssey.game
   - domain-suffix,cuckfilmswifefuck.com
   - domain-suffix,cuckold69.com
   - domain-suffix,cuckoldfuck.com
@@ -7934,6 +7943,7 @@ payload:
   - domain-suffix,enjoyasianporn.com
   - domain-suffix,enjoyfuck.com
   - domain-suffix,enlighten.org.tw
+  - domain-suffix,enlisted.net
   - domain-suffix,enpass.io
   - domain-suffix,enpirion.com
   - domain-suffix,enspireformula.com
@@ -9671,6 +9681,8 @@ payload:
   - domain-suffix,gaeproxy.com
   - domain-suffix,gaforum.org
   - domain-suffix,gagaoolala.com
+  - domain-suffix,gaijin.net
+  - domain-suffix,gaijinent.com
   - domain-suffix,gaito.xyz
   - domain-suffix,galaxyappstore.com
   - domain-suffix,galaxymacau.com
@@ -15563,6 +15575,7 @@ payload:
   - domain-suffix,modelsfreecams.com
   - domain-suffix,modeltv.com
   - domain-suffix,modernchinastudies.org
+  - domain-suffix,modernwarships.com
   - domain-suffix,modoo.at
   - domain-suffix,modperl.pl
   - domain-suffix,modrinth.com
@@ -19626,6 +19639,7 @@ payload:
   - domain-suffix,rocksdb.org
   - domain-suffix,rocksextube.com
   - domain-suffix,rockstargames.com
+  - domain-suffix,rockstarnorth.com
   - domain-suffix,rojo.com
   - domain-suffix,roku.com
   - domain-suffix,rokutime.com
@@ -21258,6 +21272,7 @@ payload:
   - domain-suffix,standwithhk.org
   - domain-suffix,stanford.edu
   - domain-suffix,star-brasil.com
+  - domain-suffix,star-conflict.com
   - domain-suffix,star-latam.com
   - domain-suffix,starbucks-stars.com
   - domain-suffix,starbucks.ad
@@ -24338,6 +24353,7 @@ payload:
   - domain-suffix,warnerbrosgames.com
   - domain-suffix,warp.plus
   - domain-suffix,warroom.org
+  - domain-suffix,warthunder.com
   - domain-suffix,wasdj.com
   - domain-suffix,waselpro.com
   - domain-suffix,washa.tv
@@ -24839,6 +24855,7 @@ payload:
   - domain-suffix,wsjwine.com
   - domain-suffix,wtbn.org
   - domain-suffix,wtfpeople.com
+  - domain-suffix,wtmobile.com
   - domain-suffix,wto.org
   - domain-suffix,wuerkaixi.com
   - domain-suffix,wufafangwen.com
@@ -26385,6 +26402,9 @@ payload:
   - domain-suffix,zweiporn.com
   - domain-suffix,zwtvusa.com
   - domain-suffix,zynamics.com
+  - domain-suffix,zynga.com
+  - domain-suffix,zyngaplayersupport.com
+  - domain-suffix,zyngapoker.com
   - domain-suffix,zyns.com
   - domain-suffix,zyxel.com
   - domain-suffix,zzcartoon.com
