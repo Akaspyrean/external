@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     10 Feb 2026 11:21 UTC
-# DOMAIN:      116491
+# UPDATED:     10 Feb 2026 23:56 UTC
+# DOMAIN:      116493
 # IP-RELATED:  18
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -102383,6 +102383,7 @@ payload:
   - domain-suffix,xhslink.com
   - domain-suffix,xhslw.com
   - domain-suffix,xhsmlt.com
+  - domain-suffix,xhsrcdn.com
   - domain-suffix,xhsrmyy.com
   - domain-suffix,xhsxmt.com
   - domain-suffix,xhsyqx.com
@@ -113128,6 +113129,7 @@ payload:
   - domain-suffix,zhipianbang.vip
   - domain-suffix,zhipin.com
   - domain-suffix,zhipingke.com
+  - domain-suffix,zhipucn.com
   - domain-suffix,zhipuzi.com
   - domain-suffix,zhiqi.info
   - domain-suffix,zhiqiang.org
