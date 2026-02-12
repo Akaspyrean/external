@@ -1,4 +1,9 @@
-# Clash.F.Win
+![数据规模](https://img.shields.io/github/repo-size/akaspyrean/external?label=数据规模)
+![更新频率](https://img.shields.io/badge/更新频率-持续维护-brightgreen)
+![开源许可](https://img.shields.io/badge/开源许可-MIT%20License-orange)
+![最近更新](https://img.shields.io/badge/最近更新-2026--02--12%20UTC%2B08-blue)
+
+## Clash.F.Win
 
 **🛠 客户端​：Clash for Windows 增强版**
 
@@ -25,4 +30,12 @@
 <img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/3f4637df-a51b-4cfe-a4c8-cdd98e83d557" />
 
 <img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/0f362511-8637-475b-8024-705a7d642fa5" />
+
+
+
+## ⚠️ 免责声明
+
+1. 本仓库内容仅供学习与技术研究使用。
+2. 部分资源来自公开网络，版权归原作者或相关平台。
+3. 请勿将本仓库任何内容用于商业用途或任何违法行为。
 
