@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     13 Feb 2026 23:05 UTC
-# DOMAIN:      24984
+# UPDATED:     14 Feb 2026 22:54 UTC
+# DOMAIN:      24986
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -21327,6 +21327,7 @@ payload:
   - domain-suffix,tomonews.net
   - domain-suffix,tomp3.cc
   - domain-suffix,tomsguide.com
+  - domain-suffix,ton.org
   - domain-suffix,tonec.com
   - domain-suffix,tonicmovies.com
   - domain-suffix,toolforge.org
@@ -22999,6 +23000,7 @@ payload:
   - domain-suffix,wallmama.com
   - domain-suffix,wallpapercasa.com
   - domain-suffix,wallsttv.com
+  - domain-suffix,wallzhihu.com
   - domain-suffix,walmart
   - domain-suffix,walmart-content.com
   - domain-suffix,walmart.com
