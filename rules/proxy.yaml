@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     15 Feb 2026 22:56 UTC
-# DOMAIN:      24986
+# UPDATED:     16 Feb 2026 23:01 UTC
+# DOMAIN:      25053
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -249,6 +249,20 @@ payload:
   - domain-suffix,2dgen.com
   - domain-suffix,2drdrebeats.com
   - domain-suffix,2gayboys.com
+  - domain-suffix,2gis.ae
+  - domain-suffix,2gis.am
+  - domain-suffix,2gis.az
+  - domain-suffix,2gis.by
+  - domain-suffix,2gis.com
+  - domain-suffix,2gis.com.cy
+  - domain-suffix,2gis.cz
+  - domain-suffix,2gis.ge
+  - domain-suffix,2gis.kg
+  - domain-suffix,2gis.kz
+  - domain-suffix,2gis.ru
+  - domain-suffix,2gis.tj
+  - domain-suffix,2gis.ua
+  - domain-suffix,2gis.uz
   - domain-suffix,2k.com
   - domain-suffix,2kcoretech.online
   - domain-suffix,2kct.onl
@@ -622,6 +636,7 @@ payload:
   - domain-suffix,aave.com
   - domain-suffix,aavs.xyz
   - domain-suffix,abank.com.mm
+  - domain-suffix,abb.travel
   - domain-suffix,abbywintersfree.com
   - domain-suffix,abc-studios.com
   - domain-suffix,abc.com
@@ -674,6 +689,7 @@ payload:
   - domain-suffix,accbusiness.com
   - domain-suffix,acces-vod.com
   - domain-suffix,accessfacebookfromschool.com
+  - domain-suffix,accomable.com
   - domain-suffix,account-paypal.info
   - domain-suffix,account-paypal.net
   - domain-suffix,account-paypal.org
@@ -1063,6 +1079,85 @@ payload:
   - domain-suffix,air-watch.com
   - domain-suffix,airav.cc
   - domain-suffix,airav.wiki
+  - domain-suffix,airbnb.ae
+  - domain-suffix,airbnb.al
+  - domain-suffix,airbnb.am
+  - domain-suffix,airbnb.at
+  - domain-suffix,airbnb.az
+  - domain-suffix,airbnb.ba
+  - domain-suffix,airbnb.be
+  - domain-suffix,airbnb.ca
+  - domain-suffix,airbnb.cat
+  - domain-suffix,airbnb.ch
+  - domain-suffix,airbnb.cl
+  - domain-suffix,airbnb.cn
+  - domain-suffix,airbnb.co.cr
+  - domain-suffix,airbnb.co.id
+  - domain-suffix,airbnb.co.il
+  - domain-suffix,airbnb.co.in
+  - domain-suffix,airbnb.co.kr
+  - domain-suffix,airbnb.co.nz
+  - domain-suffix,airbnb.co.uk
+  - domain-suffix,airbnb.co.ve
+  - domain-suffix,airbnb.co.za
+  - domain-suffix,airbnb.com
+  - domain-suffix,airbnb.com.ar
+  - domain-suffix,airbnb.com.au
+  - domain-suffix,airbnb.com.bo
+  - domain-suffix,airbnb.com.br
+  - domain-suffix,airbnb.com.bz
+  - domain-suffix,airbnb.com.co
+  - domain-suffix,airbnb.com.ec
+  - domain-suffix,airbnb.com.ee
+  - domain-suffix,airbnb.com.gt
+  - domain-suffix,airbnb.com.hk
+  - domain-suffix,airbnb.com.hn
+  - domain-suffix,airbnb.com.hr
+  - domain-suffix,airbnb.com.kh
+  - domain-suffix,airbnb.com.mt
+  - domain-suffix,airbnb.com.my
+  - domain-suffix,airbnb.com.ni
+  - domain-suffix,airbnb.com.pa
+  - domain-suffix,airbnb.com.pe
+  - domain-suffix,airbnb.com.ph
+  - domain-suffix,airbnb.com.py
+  - domain-suffix,airbnb.com.ro
+  - domain-suffix,airbnb.com.sg
+  - domain-suffix,airbnb.com.sv
+  - domain-suffix,airbnb.com.tr
+  - domain-suffix,airbnb.com.tw
+  - domain-suffix,airbnb.com.ua
+  - domain-suffix,airbnb.com.vn
+  - domain-suffix,airbnb.cz
+  - domain-suffix,airbnb.de
+  - domain-suffix,airbnb.dk
+  - domain-suffix,airbnb.es
+  - domain-suffix,airbnb.fi
+  - domain-suffix,airbnb.fr
+  - domain-suffix,airbnb.gr
+  - domain-suffix,airbnb.gy
+  - domain-suffix,airbnb.hu
+  - domain-suffix,airbnb.ie
+  - domain-suffix,airbnb.is
+  - domain-suffix,airbnb.it
+  - domain-suffix,airbnb.jp
+  - domain-suffix,airbnb.la
+  - domain-suffix,airbnb.lt
+  - domain-suffix,airbnb.lu
+  - domain-suffix,airbnb.lv
+  - domain-suffix,airbnb.me
+  - domain-suffix,airbnb.mx
+  - domain-suffix,airbnb.nl
+  - domain-suffix,airbnb.no
+  - domain-suffix,airbnb.org
+  - domain-suffix,airbnb.pl
+  - domain-suffix,airbnb.pt
+  - domain-suffix,airbnb.rs
+  - domain-suffix,airbnb.ru
+  - domain-suffix,airbnb.se
+  - domain-suffix,airbnb.si
+  - domain-suffix,airbnb.tools
+  - domain-suffix,airbnb.travel
   - domain-suffix,airconsole.com
   - domain-suffix,airgonetworks.com
   - domain-suffix,airgunstudio.com
@@ -1124,7 +1219,6 @@ payload:
   - domain-suffix,airwickarabia.com
   - domain-suffix,aisejushi.com
   - domain-suffix,aishegw.com
-  - domain-suffix,aiss.anws.gov.tw
   - domain-suffix,ait.org.tw
   - domain-suffix,aiv-cdn.net
   - domain-suffix,aiweiweiblog.com
@@ -2137,7 +2231,6 @@ payload:
   - domain-suffix,archiveofourown.net
   - domain-suffix,archiveofourown.org
   - domain-suffix,archives.gov
-  - domain-suffix,archives.gov.tw
   - domain-suffix,archivx.to
   - domain-suffix,archlinux.org
   - domain-suffix,archlinuxarm.org
@@ -6002,7 +6095,6 @@ payload:
   - domain-suffix,dat.foundation
   - domain-suffix,data-vocabulary.org
   - domain-suffix,data.com
-  - domain-suffix,data.gov.tw
   - domain-suffix,databank.worldbank.org
   - domain-suffix,database.asahi.com
   - domain-suffix,dataframeworks.com
@@ -7796,7 +7888,6 @@ payload:
   - domain-suffix,evschool.net
   - domain-suffix,eworld.com
   - domain-suffix,exacttarget.com
-  - domain-suffix,exam.gov.tw
   - domain-suffix,exascale-tech.com
   - domain-suffix,excedo.com
   - domain-suffix,exchristian.hk
@@ -7842,7 +7933,6 @@ payload:
   - domain-suffix,exxxtra.net
   - domain-suffix,exxxtrasmall.com
   - domain-suffix,exxxtrasmall1.com
-  - domain-suffix,ey.gov.tw
   - domain-suffix,eyevio.jp
   - domain-suffix,eyny.com
   - domain-suffix,f-dro1d.org
@@ -7855,7 +7945,6 @@ payload:
   - domain-suffix,f6988.com
   - domain-suffix,f8.com
   - domain-suffix,f95zone.to
-  - domain-suffix,fa.gov.tw
   - domain-suffix,faacebok.com
   - domain-suffix,faacebook.com
   - domain-suffix,faapy.com
@@ -8333,7 +8422,6 @@ payload:
   - domain-suffix,fcfacebook.com
   - domain-suffix,fcw.xxx
   - domain-suffix,fcww0.com
-  - domain-suffix,fda.gov.tw
   - domain-suffix,fdacebook.info
   - domain-suffix,fdiintelligence.com
   - domain-suffix,fdroid.org
@@ -9592,6 +9680,7 @@ payload:
   - domain-suffix,gmail
   - domain-suffix,gmail.com
   - domain-suffix,gmgard.com
+  - domain-suffix,gmgn.ai
   - domain-suffix,gmnetworks.net
   - domain-suffix,gmodules.com
   - domain-suffix,gmoney.org
@@ -10004,6 +10093,7 @@ payload:
   - domain-suffix,gouri.xyz
   - domain-suffix,gov.ir
   - domain-suffix,gov.taipei
+  - domain-suffix,gov.tw
   - domain-suffix,governmentengineer.com
   - domain-suffix,govforce.com
   - domain-suffix,gpstheseries.com
@@ -10907,7 +10997,6 @@ payload:
   - domain-suffix,hp3dmetals.com
   - domain-suffix,hp3dprinter.com
   - domain-suffix,hp3dsamplepromo.com
-  - domain-suffix,hpa.gov.tw
   - domain-suffix,hpallinoneprinter.com
   - domain-suffix,hpapplicationscenter.com
   - domain-suffix,hpayshop.com
@@ -11658,7 +11747,6 @@ payload:
   - domain-suffix,imlive.com
   - domain-suffix,immersivetranslate.com
   - domain-suffix,immidio.com
-  - domain-suffix,immigration.gov.tw
   - domain-suffix,immoral.jp
   - domain-suffix,immxd.com
   - domain-suffix,imod.com
@@ -12278,7 +12366,6 @@ payload:
   - domain-suffix,isupportuyghurs.org
   - domain-suffix,ita-do.com
   - domain-suffix,itaeromanga.com
-  - domain-suffix,itaiwan.gov.tw
   - domain-suffix,italiabeatsbydrdre.com
   - domain-suffix,italiatibet.org
   - domain-suffix,itasoftware.com
@@ -12748,7 +12835,6 @@ payload:
   - domain-suffix,jtube.space
   - domain-suffix,jtvnw.net
   - domain-suffix,judeporn.com
-  - domain-suffix,judicial.gov.tw
   - domain-suffix,juggsjoy.com
   - domain-suffix,juhachibank.co.jp
   - domain-suffix,juiceced.xyz
@@ -13636,7 +13722,6 @@ payload:
   - domain-suffix,lwwcn.buzz
   - domain-suffix,lwwcn.xyz
   - domain-suffix,lxxlxx.com
-  - domain-suffix,ly.gov.tw
   - domain-suffix,lyfhk.net
   - domain-suffix,lysol.ca
   - domain-suffix,lysol.cl
@@ -14766,7 +14851,6 @@ payload:
   - domain-suffix,mizuhobank.co.jp
   - domain-suffix,mizzmona.com
   - domain-suffix,mji.rip
-  - domain-suffix,mjib.gov.tw
   - domain-suffix,mjj.rip
   - domain-suffix,mjlsh.usc.cuhk.edu.hk
   - domain-suffix,mjv-art.org
@@ -14825,7 +14909,6 @@ payload:
   - domain-suffix,modperl.pl
   - domain-suffix,modrinth.com
   - domain-suffix,modular.im
-  - domain-suffix,moeaic.gov.tw
   - domain-suffix,moedigi.com
   - domain-suffix,moeero-library.com
   - domain-suffix,moeerolibrary.com
@@ -14835,17 +14918,14 @@ payload:
   - domain-suffix,moeshare.cc
   - domain-suffix,moez-m.com
   - domain-suffix,mof.kemomi.me
-  - domain-suffix,mofa.gov.tw
   - domain-suffix,mofos.com
   - domain-suffix,mofosex.com
   - domain-suffix,mofosnetwork.com
   - domain-suffix,mog.com
   - domain-suffix,mohu.club
   - domain-suffix,mohu.rocks
-  - domain-suffix,moj.gov.tw
   - domain-suffix,mojang.com
   - domain-suffix,mojim.com
-  - domain-suffix,mol.gov.tw
   - domain-suffix,mol.im
   - domain-suffix,moldflow.com
   - domain-suffix,moldflowexpress.com
@@ -15149,6 +15229,7 @@ payload:
   - domain-suffix,muramura.tv
   - domain-suffix,muryouav.net
   - domain-suffix,musashinobank.co.jp
+  - domain-suffix,muscache.com
   - domain-suffix,muscdn.com
   - domain-suffix,musclegirlflix.com
   - domain-suffix,muse.jhu.edu
@@ -15166,7 +15247,6 @@ payload:
   - domain-suffix,muzi.com
   - domain-suffix,muzi.net
   - domain-suffix,muzu.tv
-  - domain-suffix,mvdis.gov.tw
   - domain-suffix,mvg.jp
   - domain-suffix,mvideoporno.xxx
   - domain-suffix,mvk.com
@@ -15421,7 +15501,6 @@ payload:
   - domain-suffix,nastranworldwide.com
   - domain-suffix,nasty.singles
   - domain-suffix,nastyvids.com
-  - domain-suffix,nat.gov.tw
   - domain-suffix,nat.moe
   - domain-suffix,nataliefiore.com
   - domain-suffix,natgeokidsbooks.co.uk
@@ -15737,7 +15816,6 @@ payload:
   - domain-suffix,nhentaihaven.com
   - domain-suffix,nhentaihaven.org
   - domain-suffix,nheos.com
-  - domain-suffix,nhi.gov.tw
   - domain-suffix,nhncorp.jp
   - domain-suffix,nic.cz.cc
   - domain-suffix,nic.gov
@@ -16058,9 +16136,7 @@ payload:
   - domain-suffix,nozomi.la
   - domain-suffix,np-edge.itunes.apple.com
   - domain-suffix,npa.go.jp
-  - domain-suffix,npa.gov.tw
   - domain-suffix,npm.community
-  - domain-suffix,npm.gov.tw
   - domain-suffix,npmjs.com
   - domain-suffix,npmjs.org
   - domain-suffix,npnt.me
@@ -16071,14 +16147,10 @@ payload:
   - domain-suffix,nrdh99.buzz
   - domain-suffix,nrk.no
   - domain-suffix,nrooms-dh.sbs
-  - domain-suffix,nsc.gov.tw
   - domain-suffix,nsfw.xxx
   - domain-suffix,nsfw247.to
   - domain-suffix,nsfwmemes.com
   - domain-suffix,nsimg.net
-  - domain-suffix,ntbk.gov.tw
-  - domain-suffix,ntbna.gov.tw
-  - domain-suffix,ntbt.gov.tw
   - domain-suffix,ntc.party
   - domain-suffix,ntd.com
   - domain-suffix,ntd.tv
@@ -16997,7 +17069,6 @@ payload:
   - domain-suffix,pbxes.org
   - domain-suffix,pc.com
   - domain-suffix,pca.st
-  - domain-suffix,pcc.gov.tw
   - domain-suffix,pccw.com
   - domain-suffix,pccwglobal.com
   - domain-suffix,pccwsolutions.com
@@ -19139,7 +19210,6 @@ payload:
   - domain-suffix,seeurlpcl.com
   - domain-suffix,seevpn.com
   - domain-suffix,seezone.net
-  - domain-suffix,sef.org.tw
   - domain-suffix,sego8.cc
   - domain-suffix,sego8.co
   - domain-suffix,sego8.xyz
@@ -20279,7 +20349,6 @@ payload:
   - domain-suffix,starwarsjedifallenorder.com
   - domain-suffix,starwarskids.com
   - domain-suffix,starwarstheoldrepublic.com
-  - domain-suffix,stat.gov.tw
   - domain-suffix,stateofthemap.com
   - domain-suffix,stateofthemap.org
   - domain-suffix,static-cisco.com
@@ -20654,7 +20723,6 @@ payload:
   - domain-suffix,tabootube.xxx
   - domain-suffix,tabustudios.co
   - domain-suffix,tacamateurs.com
-  - domain-suffix,tacc.cwb.gov.tw
   - domain-suffix,tachusz.xyz
   - domain-suffix,taedp.org.tw
   - domain-suffix,tagapie.com.tw
@@ -20667,13 +20735,11 @@ payload:
   - domain-suffix,tailscale.io
   - domain-suffix,tailwindtraders.com
   - domain-suffix,taiolongdh.sbs
-  - domain-suffix,taipei.gov.tw
   - domain-suffix,taipeisociety.org
   - domain-suffix,taipeitimes.com
   - domain-suffix,taisounds.com
   - domain-suffix,taiwanadultexpo.com
   - domain-suffix,taiwanhot.net
-  - domain-suffix,taiwanjobs.gov.tw
   - domain-suffix,taiwanjustice.net
   - domain-suffix,taiwanncf.org.tw
   - domain-suffix,taiwannews.com.tw
@@ -20910,7 +20976,6 @@ payload:
   - domain-suffix,thawte.com
   - domain-suffix,thawte.de
   - domain-suffix,thawte.fr
-  - domain-suffix,thb.gov.tw
   - domain-suffix,thdh.cc
   - domain-suffix,the-area.com
   - domain-suffix,the-japan-news.com
@@ -21274,7 +21339,6 @@ payload:
   - domain-suffix,tinyurl.com
   - domain-suffix,tiohentai.com
   - domain-suffix,tipas.net
-  - domain-suffix,tipo.gov.tw
   - domain-suffix,tire-cadcam.com
   - domain-suffix,tiresplus.com
   - domain-suffix,titanfall.com
@@ -21700,6 +21764,7 @@ payload:
   - domain-suffix,twelve.today
   - domain-suffix,twerkingbutt.com
   - domain-suffix,twftp.org
+  - domain-suffix,twgov.tw
   - domain-suffix,twgreatdaily.com
   - domain-suffix,twgreatnews.com
   - domain-suffix,twhentai.com
@@ -22067,6 +22132,7 @@ payload:
   - domain-suffix,valoryirene.com
   - domain-suffix,valuegb.com
   - domain-suffix,valvesoftware.com
+  - domain-suffix,vamo.com
   - domain-suffix,vanadium.app
   - domain-suffix,vancouverbmwretailers.ca
   - domain-suffix,vanish.at
@@ -22996,6 +23062,7 @@ payload:
   - domain-suffix,wal.co
   - domain-suffix,wallet.com
   - domain-suffix,walletconnect.com
+  - domain-suffix,walletconnect.org
   - domain-suffix,wallhaven.cc
   - domain-suffix,wallmama.com
   - domain-suffix,wallpapercasa.com
@@ -23090,7 +23157,6 @@ payload:
   - domain-suffix,wbvm4s.com
   - domain-suffix,wd.bible
   - domain-suffix,wd.com
-  - domain-suffix,wda.gov.tw
   - domain-suffix,wdc.com
   - domain-suffix,wdfiles.com
   - domain-suffix,wealth.com.tw
@@ -23104,6 +23170,7 @@ payload:
   - domain-suffix,web.app
   - domain-suffix,web.dev
   - domain-suffix,web2project.net
+  - domain-suffix,web3modal.org
   - domain-suffix,webappfieldguide.com
   - domain-suffix,webcam-teen.net
   - domain-suffix,webcamgirls.chat
