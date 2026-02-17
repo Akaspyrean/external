@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     16 Feb 2026 23:01 UTC
-# DOMAIN:      25053
+# UPDATED:     17 Feb 2026 23:01 UTC
+# DOMAIN:      25079
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -3581,6 +3581,7 @@ payload:
   - domain-suffix,bitchmomporn.com
   - domain-suffix,bitchute.com
   - domain-suffix,bitcoin.org
+  - domain-suffix,bitcoincore.org
   - domain-suffix,bitcointalk.org
   - domain-suffix,bitcoinworld.com
   - domain-suffix,bitdefender.com
@@ -19194,11 +19195,13 @@ payload:
   - domain-suffix,secure-paypal.info
   - domain-suffix,secure.logmein.com
   - domain-suffix,secure.shadowsocks.nu
+  - domain-suffix,securecloudtransformation.com
   - domain-suffix,securepaypal.info
   - domain-suffix,secureservercdn.net
   - domain-suffix,securetunnel.com
   - domain-suffix,securityinabox.org
   - domain-suffix,securitykiss.com
+  - domain-suffix,securitypreview.com
   - domain-suffix,see.xxx
   - domain-suffix,seed4.me
   - domain-suffix,seedmov18.com
@@ -20329,6 +20332,7 @@ payload:
   - domain-suffix,starcraft2.com
   - domain-suffix,starfieldtech.com
   - domain-suffix,starfox.com
+  - domain-suffix,stargazer-games.com
   - domain-suffix,stark-verlag.ch
   - domain-suffix,starott.com
   - domain-suffix,starp2p.com
@@ -20415,6 +20419,8 @@ payload:
   - domain-suffix,steemit.com
   - domain-suffix,steezylist.com
   - domain-suffix,steganos.com
+  - domain-suffix,stellasora.global
+  - domain-suffix,stellasora.jp
   - domain-suffix,stepdaughter.love
   - domain-suffix,stepfamilyporn.com
   - domain-suffix,stephaniered.com
@@ -21180,6 +21186,7 @@ payload:
   - domain-suffix,threadreaderapp.com
   - domain-suffix,threads.com
   - domain-suffix,threads.net
+  - domain-suffix,threatlabz.com
   - domain-suffix,thri.xxx
   - domain-suffix,thrixxx.com
   - domain-suffix,throughnightsfire.com
@@ -24557,6 +24564,7 @@ payload:
   - domain-suffix,ymhsf1.top
   - domain-suffix,ync.ne.jp
   - domain-suffix,ynoproject.net
+  - domain-suffix,yo-star.com
   - domain-suffix,yo1health.com
   - domain-suffix,yobit.net
   - domain-suffix,yobt.tv
@@ -24575,6 +24583,10 @@ payload:
   - domain-suffix,yopornshop.com
   - domain-suffix,yorozoonews.jp
   - domain-suffix,yoshisnewisland.com
+  - domain-suffix,yostar-pictures.co.jp
+  - domain-suffix,yostar.co.jp
+  - domain-suffix,yostar.net
+  - domain-suffix,yostarplat.com
   - domain-suffix,you-get.org
   - domain-suffix,you.com
   - domain-suffix,youassporn.com
@@ -24898,6 +24910,8 @@ payload:
   - domain-suffix,zdnet.com.tw
   - domain-suffix,zdnet.redvideo.io
   - domain-suffix,zdusercontent.com
+  - domain-suffix,zdxbeta.net
+  - domain-suffix,zdxcloud.net
   - domain-suffix,zee.com
   - domain-suffix,zee5.com
   - domain-suffix,zee5.in
@@ -25027,8 +25041,20 @@ payload:
   - domain-suffix,zorrovpn.com
   - domain-suffix,zotero.org
   - domain-suffix,zozotown.com
+  - domain-suffix,zpagov.net
+  - domain-suffix,zpath.com
   - domain-suffix,zpn.im
   - domain-suffix,zqqpwz.com
+  - domain-suffix,zscaler.com
+  - domain-suffix,zscaler.jp
+  - domain-suffix,zscaler.net
+  - domain-suffix,zscalerbeta.net
+  - domain-suffix,zscalergov.net
+  - domain-suffix,zscalerone.net
+  - domain-suffix,zscalershift.com
+  - domain-suffix,zscalerthree.net
+  - domain-suffix,zscalertwo.net
+  - domain-suffix,zscloud.net
   - domain-suffix,zsh.org
   - domain-suffix,zspeeder.me
   - domain-suffix,zsuxtx-ktv.shop
