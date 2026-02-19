@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     18 Feb 2026 23:04 UTC
-# DOMAIN:      25080
+# UPDATED:     19 Feb 2026 23:04 UTC
+# DOMAIN:      25117
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -229,6 +229,7 @@ payload:
   - domain-suffix,22112211.xyz
   - domain-suffix,233abc.com
   - domain-suffix,2371tom.com
+  - domain-suffix,24h.tv
   - domain-suffix,24hjav.com
   - domain-suffix,24hrs.ca
   - domain-suffix,24porn.com
@@ -676,6 +677,7 @@ payload:
   - domain-suffix,aboutyourmini.com
   - domain-suffix,abow.jp
   - domain-suffix,abplive.com
+  - domain-suffix,abr.ru
   - domain-suffix,absoluporn.com
   - domain-suffix,absolutewhores.com
   - domain-suffix,ac-pocketcamp.com
@@ -1312,6 +1314,7 @@ payload:
   - domain-suffix,alchemysynth.com
   - domain-suffix,alexa.com
   - domain-suffix,alexanderstreet.com
+  - domain-suffix,alfabank.ru
   - domain-suffix,alfera.com.hk
   - domain-suffix,alfera.com.my
   - domain-suffix,alfera.in
@@ -1622,6 +1625,7 @@ payload:
   - domain-suffix,amebaownd.com
   - domain-suffix,amebaowndme.com
   - domain-suffix,ameblo.jp
+  - domain-suffix,amediateka.ru
   - domain-suffix,americangreencard.com
   - domain-suffix,americasvoice.news
   - domain-suffix,americorps.gov
@@ -2640,6 +2644,8 @@ payload:
   - domain-suffix,avinetworks.com
   - domain-suffix,avinin.com
   - domain-suffix,avira.com
+  - domain-suffix,avito.ru
+  - domain-suffix,avito.st
   - domain-suffix,avizoon.site
   - domain-suffix,avizoone.com
   - domain-suffix,avjb.com
@@ -2874,6 +2880,7 @@ payload:
   - domain-suffix,bangyoulater.com
   - domain-suffix,bangyourwife.com
   - domain-suffix,bank-maskan.ir
+  - domain-suffix,bankline.ru
   - domain-suffix,bankmellat.ir
   - domain-suffix,bankmobilevibe.com
   - domain-suffix,banksepah.ir
@@ -4994,6 +5001,7 @@ payload:
   - domain-suffix,cdn-spotify-experiments.conductrics.com
   - domain-suffix,cdn-telegram.org
   - domain-suffix,cdn-terapeak.com
+  - domain-suffix,cdn-tinkoff.ru
   - domain-suffix,cdn-vk.ru
   - domain-suffix,cdn.arstechnica.net
   - domain-suffix,cdn.js7k.com
@@ -5013,6 +5021,7 @@ payload:
   - domain-suffix,cdnmhwscc.vip
   - domain-suffix,cdnpure.com
   - domain-suffix,cdnuc.vip
+  - domain-suffix,cdnvideo.ru
   - domain-suffix,cdnxxx-proxy.co
   - domain-suffix,cdnxxx-proxy.xyz
   - domain-suffix,cdp1998.org
@@ -6129,6 +6138,7 @@ payload:
   - domain-suffix,db.tt
   - domain-suffix,dba.dk
   - domain-suffix,dbgjd.com
+  - domain-suffix,dbo-dengi.online
   - domain-suffix,dcard.cc
   - domain-suffix,dcard.io
   - domain-suffix,dcard.link
@@ -9379,6 +9389,7 @@ payload:
   - domain-suffix,gaywatch.com
   - domain-suffix,gazotube.com
   - domain-suffix,gazounabi.com
+  - domain-suffix,gazprombank.ru
   - domain-suffix,gbank.com.mm
   - domain-suffix,gbiz
   - domain-suffix,gbnews.uk
@@ -10097,6 +10108,7 @@ payload:
   - domain-suffix,gov.tw
   - domain-suffix,governmentengineer.com
   - domain-suffix,govforce.com
+  - domain-suffix,gpb.ru
   - domain-suffix,gpstheseries.com
   - domain-suffix,gputechconf.co.kr
   - domain-suffix,gputechconf.com
@@ -10473,6 +10485,8 @@ payload:
   - domain-suffix,hegre.com
   - domain-suffix,heiguab.top
   - domain-suffix,heijidi.life
+  - domain-suffix,heiliao.com
+  - domain-suffix,heiliao88.com
   - domain-suffix,heinonline.org
   - domain-suffix,heise360181.buzz
   - domain-suffix,heise360182.buzz
@@ -12422,6 +12436,7 @@ payload:
   - domain-suffix,ius.io
   - domain-suffix,iutunes.com
   - domain-suffix,ivacy.com
+  - domain-suffix,ivi.ru
   - domain-suffix,ivintageporn.com
   - domain-suffix,ivonblog.com
   - domain-suffix,ivpn.net
@@ -13111,6 +13126,7 @@ payload:
   - domain-suffix,kinokuniya.com
   - domain-suffix,kinopoisk-ru.clstorage.net
   - domain-suffix,kinopoisk.ru
+  - domain-suffix,kinorium.com
   - domain-suffix,kir2kos.net
   - domain-suffix,kirbysepicyarn.com
   - domain-suffix,kirbysuperstarultra.com
@@ -14121,6 +14137,7 @@ payload:
   - domain-suffix,maturexxxvideos.cc
   - domain-suffix,maven.neoforged.net
   - domain-suffix,max.com
+  - domain-suffix,max.ru
   - domain-suffix,maxgo.com
   - domain-suffix,maxillofacial-cadcam.com
   - domain-suffix,maximumerotica.com
@@ -14262,6 +14279,7 @@ payload:
   - domain-suffix,megaproxy.com
   - domain-suffix,megasrv.de
   - domain-suffix,megatitsminka.com
+  - domain-suffix,megogo.net
   - domain-suffix,megurineluka.com
   - domain-suffix,meguso.com
   - domain-suffix,meijinsen.jp
@@ -14812,6 +14830,7 @@ payload:
   - domain-suffix,misa-prod.s3.ap-northeast-1.amazonaws.com
   - domain-suffix,missav.ai
   - domain-suffix,missav.com
+  - domain-suffix,missav.live
   - domain-suffix,missav.uno
   - domain-suffix,missav.vip
   - domain-suffix,missav.ws
@@ -15195,6 +15214,7 @@ payload:
   - domain-suffix,mtalk4.google.com
   - domain-suffix,mtao.fun
   - domain-suffix,mthruf.com
+  - domain-suffix,mtsdengi.ru
   - domain-suffix,mtt.org
   - domain-suffix,mtvnservices.com
   - domain-suffix,mubi.com
@@ -15796,7 +15816,6 @@ payload:
   - domain-suffix,nftstatic.com
   - domain-suffix,nftstorage.link
   - domain-suffix,nga.mil
-  - domain-suffix,ngenix.net
   - domain-suffix,ngeo.com
   - domain-suffix,nginx.com
   - domain-suffix,nginx.org
@@ -16556,6 +16575,7 @@ payload:
   - domain-suffix,onekey.so
   - domain-suffix,onekey.zendesk.com
   - domain-suffix,onekeycn.com
+  - domain-suffix,oneme.ru
   - domain-suffix,onenote.com
   - domain-suffix,onenote.net
   - domain-suffix,oneocsp.microsoft.com
@@ -17939,6 +17959,7 @@ payload:
   - domain-suffix,pre-bmwgroup.jobs
   - domain-suffix,predb.me
   - domain-suffix,predictivetechnologies.com
+  - domain-suffix,premier.one
   - domain-suffix,premium-beauty.com
   - domain-suffix,premiumfs.de
   - domain-suffix,premiumhd.net
@@ -18073,6 +18094,7 @@ payload:
   - domain-suffix,prpops.com
   - domain-suffix,prts.plus
   - domain-suffix,ps-exchange.com
+  - domain-suffix,psbank.ru
   - domain-suffix,pscdn.co
   - domain-suffix,pscp.tv
   - domain-suffix,pse.is
@@ -18752,6 +18774,7 @@ payload:
   - domain-suffix,roovza.inapps.appsflyersdk.com
   - domain-suffix,roovza.launches.appsflyersdk.com
   - domain-suffix,roovza.skadsdk.appsflyersdk.com
+  - domain-suffix,rosbank.ru
   - domain-suffix,rosemarydoll.com
   - domain-suffix,roshy.tv
   - domain-suffix,rostaxi.org
@@ -18782,6 +18805,7 @@ payload:
   - domain-suffix,rsf-chinese.org
   - domain-suffix,rsf.org
   - domain-suffix,rsg.sc
+  - domain-suffix,rshb.ru
   - domain-suffix,rspao.com
   - domain-suffix,rss.4040940.xyz
   - domain-suffix,rss.datuan.dev
@@ -19000,6 +19024,9 @@ payload:
   - domain-suffix,sb.sb
   - domain-suffix,sb24.com
   - domain-suffix,sbank.ir
+  - domain-suffix,sber.ru
+  - domain-suffix,sberbank.com
+  - domain-suffix,sberbank.ru
   - domain-suffix,sbgkstv.shop
   - domain-suffix,sbishinseibank.co.jp
   - domain-suffix,sbitravelcard.com
@@ -19849,6 +19876,7 @@ payload:
   - domain-suffix,smmsp.xyz
   - domain-suffix,smn.news
   - domain-suffix,smokinmovies.com
+  - domain-suffix,smotreshka.tv
   - domain-suffix,smplace.com
   - domain-suffix,smpte.org
   - domain-suffix,smtb.jp
@@ -20341,6 +20369,7 @@ payload:
   - domain-suffix,starship-ent.com
   - domain-suffix,starsze.icu
   - domain-suffix,start.com
+  - domain-suffix,start.ru
   - domain-suffix,startpage.com
   - domain-suffix,startpath.com
   - domain-suffix,startupjournal.com
@@ -20805,6 +20834,8 @@ payload:
   - domain-suffix,taxidrivermovie.com
   - domain-suffix,taylorandfrancis.com
   - domain-suffix,taylorfrancis.com
+  - domain-suffix,tbank-online.com
+  - domain-suffix,tbank.ru
   - domain-suffix,tbcollege.org
   - domain-suffix,tbib.org
   - domain-suffix,tbr.tangbr.net
@@ -21377,6 +21408,8 @@ payload:
   - domain-suffix,tnt-ea.com
   - domain-suffix,to-porno.com
   - domain-suffix,tochigibank.co.jp
+  - domain-suffix,tochka-tech.com
+  - domain-suffix,tochka.com
   - domain-suffix,toget.com.tw
   - domain-suffix,togetter.com
   - domain-suffix,tohobank.co.jp
@@ -21541,6 +21574,7 @@ payload:
   - domain-suffix,travelexch.com
   - domain-suffix,travelexmoneycard.com
   - domain-suffix,travelgirls.com
+  - domain-suffix,trbcdn.net
   - domain-suffix,treemall.com.tw
   - domain-suffix,trello.com
   - domain-suffix,trellocdn.com
@@ -21739,6 +21773,7 @@ payload:
   - domain-suffix,tvcastlive-hamivideo.cdn.hinet.net
   - domain-suffix,tver.co.jp
   - domain-suffix,tver.jp
+  - domain-suffix,tvigle.ru
   - domain-suffix,tvmedia.net.au
   - domain-suffix,tvmost.com.hk
   - domain-suffix,tvnaviweb.jp
@@ -22448,6 +22483,7 @@ payload:
   - domain-suffix,viewgals.com
   - domain-suffix,viewpointsfromfacebook.com
   - domain-suffix,vigorgame.com
+  - domain-suffix,viju.ru
   - domain-suffix,vikiporn.com
   - domain-suffix,vilanet.me
   - domain-suffix,vilavpn.com
@@ -23042,6 +23078,7 @@ payload:
   - domain-suffix,vsmarketplacebadge.apphb.com
   - domain-suffix,vsphere.com
   - domain-suffix,vsphere.net
+  - domain-suffix,vtb.ru
   - domain-suffix,vtrahe.page
   - domain-suffix,vtsociety.org
   - domain-suffix,vtunnel.com
