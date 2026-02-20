@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     19 Feb 2026 23:04 UTC
-# DOMAIN:      25117
+# UPDATED:     20 Feb 2026 22:59 UTC
+# DOMAIN:      25127
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -138,6 +138,7 @@ payload:
   - domain-suffix,18hmanga.com
   - domain-suffix,18insta.com
   - domain-suffix,18j.tv
+  - domain-suffix,18jav.tv
   - domain-suffix,18jms.com
   - domain-suffix,18mh.co
   - domain-suffix,18mh.me
@@ -3652,6 +3653,7 @@ payload:
   - domain-suffix,blizzardgearstore.com
   - domain-suffix,blizzcon-a.akamaihd.net
   - domain-suffix,blockcast.it
+  - domain-suffix,blockchain.com
   - domain-suffix,blockcn.com
   - domain-suffix,blockedbyhk.com
   - domain-suffix,blockfrost.io
@@ -12505,6 +12507,7 @@ payload:
   - domain-suffix,jav-subtitles.com
   - domain-suffix,jav-vr.net
   - domain-suffix,jav.app
+  - domain-suffix,jav.com.co
   - domain-suffix,jav.dog
   - domain-suffix,jav.gallery
   - domain-suffix,jav.guru
@@ -12620,6 +12623,7 @@ payload:
   - domain-suffix,javpush.com
   - domain-suffix,javqd.com
   - domain-suffix,javrank.com
+  - domain-suffix,javrate.com
   - domain-suffix,javrave.club
   - domain-suffix,javroot.com
   - domain-suffix,javscat.net
@@ -12645,6 +12649,7 @@ payload:
   - domain-suffix,javtube.cc
   - domain-suffix,javtube.com
   - domain-suffix,javtube.net
+  - domain-suffix,javvideoporn.com
   - domain-suffix,javvids.com
   - domain-suffix,javwide.com
   - domain-suffix,javwide.tv
@@ -14834,6 +14839,7 @@ payload:
   - domain-suffix,missav.uno
   - domain-suffix,missav.vip
   - domain-suffix,missav.ws
+  - domain-suffix,missav123.com
   - domain-suffix,misshotgirls.com
   - domain-suffix,misskey-square.net
   - domain-suffix,misskey.04.si
@@ -16084,6 +16090,7 @@ payload:
   - domain-suffix,niziero.info
   - domain-suffix,njactb.org
   - domain-suffix,njav.tv
+  - domain-suffix,njavtv.com
   - domain-suffix,njpw.co.jp
   - domain-suffix,njpw1972.com
   - domain-suffix,nke6.com
@@ -18929,6 +18936,7 @@ payload:
   - domain-suffix,saleblackfridaydrebeats.com
   - domain-suffix,salecheaphandbags.com
   - domain-suffix,salesforce-setup.com
+  - domain-suffix,salesforce-sites.com
   - domain-suffix,salesforce.com
   - domain-suffix,salesforce.org
   - domain-suffix,salesforceiq.com
@@ -23900,7 +23908,8 @@ payload:
   - domain-suffix,xhamster.xxx
   - domain-suffix,xhamster18.com
   - domain-suffix,xhamster18.desi
-  - domain-suffix,xhamster2.com
+  - domain-suffix,xhamster19.com
+  - domain-suffix,xhamster3.com
   - domain-suffix,xhamsterlive.com
   - domain-suffix,xhcdn.com
   - domain-suffix,xhot.pro
@@ -24546,6 +24555,7 @@ payload:
   - domain-suffix,yasarang.net
   - domain-suffix,yasni.co.uk
   - domain-suffix,yastat.net
+  - domain-suffix,yastatic-net.ru
   - domain-suffix,yastatic.net
   - domain-suffix,yasukuni.or.jp
   - domain-suffix,yavtube.com
