@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     20 Feb 2026 22:59 UTC
-# DOMAIN:      25127
+# UPDATED:     21 Feb 2026 22:54 UTC
+# DOMAIN:      25132
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1301,6 +1301,7 @@ payload:
   - domain-suffix,akiba-online.com
   - domain-suffix,akiba-souken.com
   - domain-suffix,akiba-web.com
+  - domain-suffix,akile.io
   - domain-suffix,akinator.com
   - domain-suffix,akita-bank.co.jp
   - domain-suffix,akow.org
@@ -2357,6 +2358,7 @@ payload:
   - domain-suffix,assembla.com
   - domain-suffix,assemblesystems.com
   - domain-suffix,assesphoto.com
+  - domain-suffix,assets.nxtrace.org
   - domain-suffix,assets.ppy.sh
   - domain-suffix,assetsadobe.com
   - domain-suffix,assimp.org
@@ -14262,6 +14264,7 @@ payload:
   - domain-suffix,medone-education.thieme.com
   - domain-suffix,medow.ru
   - domain-suffix,medrxiv.org
+  - domain-suffix,meee.com.tw
   - domain-suffix,meendo.com
   - domain-suffix,meet.new
   - domain-suffix,meetandfuck.games
@@ -16662,6 +16665,7 @@ payload:
   - domain-suffix,opencas.io
   - domain-suffix,opencollective.com
   - domain-suffix,opencreate.org
+  - domain-suffix,opencritic.com
   - domain-suffix,opendemocracy.net
   - domain-suffix,opendns.com
   - domain-suffix,opendroneid.org
@@ -23746,6 +23750,7 @@ payload:
   - domain-suffix,www.ajsands.com
   - domain-suffix,www.antd.org
   - domain-suffix,www.aolnews.com
+  - domain-suffix,www.clashverge.dev
   - domain-suffix,www.cmoinc.org
   - domain-suffix,www.destinationurl.com
   - domain-suffix,www.eastturkistan.net
