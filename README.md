@@ -1,7 +1,7 @@
 ![数据规模](https://img.shields.io/github/repo-size/akaspyrean/external?label=数据规模)
 ![更新频率](https://img.shields.io/badge/更新频率-持续维护-brightgreen)
 ![开源许可](https://img.shields.io/badge/开源许可-MIT%20License-orange)
-![最近更新](https://img.shields.io/badge/最近更新-2026--02--12%20UTC%2B08-blue)
+![最近更新](https://img.shields.io/badge/最近更新-2026--02--24%20UTC%2B08-blue?maxAge=0)
 
 ## Clash.F.Win
 
