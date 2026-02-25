@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     24 Feb 2026 23:04 UTC
-# DOMAIN:      25132
+# UPDATED:     25 Feb 2026 23:04 UTC
+# DOMAIN:      25150
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -671,6 +671,7 @@ payload:
   - domain-suffix,aboutamazon.it
   - domain-suffix,aboutamazon.jp
   - domain-suffix,aboutamazon.pl
+  - domain-suffix,aboutamazon.sg
   - domain-suffix,aboutfacebook.com
   - domain-suffix,aboutmcdonalds.com
   - domain-suffix,aboutporno.net
@@ -1565,23 +1566,34 @@ payload:
   - domain-suffix,amazon-launchpad.com
   - domain-suffix,amazon.ae
   - domain-suffix,amazon.ca
+  - domain-suffix,amazon.cl
   - domain-suffix,amazon.co.jp
   - domain-suffix,amazon.co.uk
+  - domain-suffix,amazon.co.za
   - domain-suffix,amazon.com
   - domain-suffix,amazon.com.au
+  - domain-suffix,amazon.com.be
   - domain-suffix,amazon.com.br
+  - domain-suffix,amazon.com.co
   - domain-suffix,amazon.com.mx
+  - domain-suffix,amazon.com.ng
   - domain-suffix,amazon.com.tr
   - domain-suffix,amazon.de
   - domain-suffix,amazon.dev
+  - domain-suffix,amazon.eg
   - domain-suffix,amazon.es
   - domain-suffix,amazon.fr
+  - domain-suffix,amazon.ie
   - domain-suffix,amazon.in
   - domain-suffix,amazon.it
   - domain-suffix,amazon.jobs
   - domain-suffix,amazon.jp
+  - domain-suffix,amazon.lu
   - domain-suffix,amazon.nl
+  - domain-suffix,amazon.pl
   - domain-suffix,amazon.red
+  - domain-suffix,amazon.sa
+  - domain-suffix,amazon.se
   - domain-suffix,amazon.sg
   - domain-suffix,amazonalexavoxcon.com
   - domain-suffix,amazonauthorinsights.com
@@ -2732,6 +2744,7 @@ payload:
   - domain-suffix,awsthinkbox.com
   - domain-suffix,awstrack.me
   - domain-suffix,awstrust.com
+  - domain-suffix,awswaf.com
   - domain-suffix,awwcn.buzz
   - domain-suffix,awwcn.xyz
   - domain-suffix,awxcdn.com
@@ -9031,6 +9044,7 @@ payload:
   - domain-suffix,freechinaweibo.com
   - domain-suffix,freecodecamp.org
   - domain-suffix,freedirecttvspecial.com
+  - domain-suffix,freedom.gov
   - domain-suffix,freedomhouse.org
   - domain-suffix,freedomplatform.tv
   - domain-suffix,freedomsherald.org
@@ -14872,7 +14886,9 @@ payload:
   - domain-suffix,miuipolska.pl
   - domain-suffix,mixasiansex.com
   - domain-suffix,mixero.com
+  - domain-suffix,mixi.co.jp
   - domain-suffix,mixi.jp
+  - domain-suffix,mixi.net
   - domain-suffix,mixmaturesex.com
   - domain-suffix,mixvintagesex.com
   - domain-suffix,mixx.com
@@ -16833,6 +16849,7 @@ payload:
   - domain-suffix,paaypal.com
   - domain-suffix,pachosting.com
   - domain-suffix,pacifickitchenandhome.com
+  - domain-suffix,packagecloud.io
   - domain-suffix,packages.microsoft.com
   - domain-suffix,packaging-cadcam.com
   - domain-suffix,packagingcadcam.com
@@ -19220,6 +19237,7 @@ payload:
   - domain-suffix,searx.me
   - domain-suffix,seasidestory.tokyo
   - domain-suffix,seattlefdc.com
+  - domain-suffix,seattlespheres.com
   - domain-suffix,secom.co.jp
   - domain-suffix,secomtrust.net
   - domain-suffix,second-ns.com
