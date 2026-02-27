@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     26 Feb 2026 23:03 UTC
-# DOMAIN:      25150
+# UPDATED:     27 Feb 2026 22:54 UTC
+# DOMAIN:      25152
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -17964,6 +17964,7 @@ payload:
   - domain-suffix,ppaypal.com
   - domain-suffix,ppb-mod.buzz
   - domain-suffix,ppe.lawyer
+  - domain-suffix,ppl-ai-file-upload.s3.amazonaws.com
   - domain-suffix,pplah.com
   - domain-suffix,pplusstatic.com
   - domain-suffix,pplx-res.cloudinary.com
@@ -24562,6 +24563,7 @@ payload:
   - domain-suffix,yandexcloud.net
   - domain-suffix,yandexcom.net
   - domain-suffix,yandexmetrica.com
+  - domain-suffix,yandexwebcache.net
   - domain-suffix,yandexwebcache.org
   - domain-suffix,yangzhi.app
   - domain-suffix,yangzhi.org

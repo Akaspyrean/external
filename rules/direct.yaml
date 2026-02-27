@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     26 Feb 2026 23:03 UTC
-# DOMAIN:      117478
+# UPDATED:     27 Feb 2026 22:54 UTC
+# DOMAIN:      117482
 # IP-RELATED:  18
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12135,6 +12135,7 @@ payload:
   - domain-suffix,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
   - domain-suffix,amp-api-edge-lb.itunes-apple.com.akadns.net
   - domain-suffix,amp-api-edge.apps.apple.com
+  - domain-suffix,amp-api-edge.music.apple.com
   - domain-suffix,amp-api-search-edge.apps.apple.com
   - domain-suffix,amp-api-updates.apps.apple.com
   - domain-suffix,amp-api.apps.apple.com
@@ -70199,6 +70200,7 @@ payload:
   - domain-suffix,musiceol.com
   - domain-suffix,musicgw.com
   - domain-suffix,musicheng.com
+  - domain-suffix,musicstatus.music.apple.com
   - domain-suffix,musikid.com
   - domain-suffix,musiness.vip
   - domain-suffix,muslimwww.com
@@ -70255,6 +70257,7 @@ payload:
   - domain-suffix,mvad.com
   - domain-suffix,mvashanghai.org
   - domain-suffix,mvhere.com
+  - domain-suffix,mvod.itunes.apple.com
   - domain-suffix,mvoicer.com
   - domain-suffix,mvote.net
   - domain-suffix,mvpdj.com
@@ -88412,6 +88415,7 @@ payload:
   - domain-suffix,speedws.com
   - domain-suffix,speedws.info
   - domain-suffix,speedws.org
+  - domain-suffix,speedysub.music.apple.com
   - domain-suffix,speedzonerc.com
   - domain-suffix,speiyou.com
   - domain-suffix,sperogenix.com
