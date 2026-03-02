@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     01 Mar 2026 22:52 UTC
-# DOMAIN:      25152
+# UPDATED:     02 Mar 2026 22:57 UTC
+# DOMAIN:      25155
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12530,6 +12530,7 @@ payload:
   - domain-suffix,jav.la
   - domain-suffix,jav.land
   - domain-suffix,jav.place
+  - domain-suffix,jav.sb
   - domain-suffix,jav.si
   - domain-suffix,jav.wine
   - domain-suffix,jav01.cc
@@ -12603,6 +12604,7 @@ payload:
   - domain-suffix,javher.com
   - domain-suffix,javheroine.com
   - domain-suffix,javhihi.com
+  - domain-suffix,javhub.com
   - domain-suffix,javhub.me
   - domain-suffix,javhub.net
   - domain-suffix,javhuge.com
@@ -12638,6 +12640,7 @@ payload:
   - domain-suffix,javpub.me
   - domain-suffix,javpush.com
   - domain-suffix,javqd.com
+  - domain-suffix,javquick.com
   - domain-suffix,javrank.com
   - domain-suffix,javrate.com
   - domain-suffix,javrave.club

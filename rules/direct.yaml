@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     01 Mar 2026 22:52 UTC
-# DOMAIN:      117382
+# UPDATED:     02 Mar 2026 22:57 UTC
+# DOMAIN:      117383
 # IP-RELATED:  18
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -69561,6 +69561,7 @@ payload:
   - domain-suffix,mongac.com
   - domain-suffix,monhun.fun
   - domain-suffix,monidata.com
+  - domain-suffix,monika.love
   - domain-suffix,monitoring.qpdp1.net
   - domain-suffix,monkeylsp.com
   - domain-suffix,monknow.com

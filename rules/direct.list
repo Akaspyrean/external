@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     01 Mar 2026 22:52 UTC
-# DOMAIN:      117382
+# UPDATED:     02 Mar 2026 22:57 UTC
+# DOMAIN:      117383
 # IP-RELATED:  18
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -69560,6 +69560,7 @@ DOMAIN-SUFFIX,MONFETCH.COM
 DOMAIN-SUFFIX,MONGAC.COM
 DOMAIN-SUFFIX,MONHUN.FUN
 DOMAIN-SUFFIX,MONIDATA.COM
+DOMAIN-SUFFIX,MONIKA.LOVE
 DOMAIN-SUFFIX,MONITORING.QPDP1.NET
 DOMAIN-SUFFIX,MONKEYLSP.COM
 DOMAIN-SUFFIX,MONKNOW.COM
