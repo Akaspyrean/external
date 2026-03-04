@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     03 Mar 2026 22:24 UTC
-# DOMAIN:      25155
+# UPDATED:     04 Mar 2026 22:26 UTC
+# DOMAIN:      25161
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -2258,6 +2258,7 @@ payload:
   - domain-suffix,area120.com
   - domain-suffix,area51.to
   - domain-suffix,areca-backup.org
+  - domain-suffix,arena.ai
   - domain-suffix,arena.taipei
   - domain-suffix,arethusa.su
   - domain-suffix,arewereadyyet.com
@@ -2289,6 +2290,7 @@ payload:
   - domain-suffix,artstor.org
   - domain-suffix,artstorm.com
   - domain-suffix,arvanstorage.ir
+  - domain-suffix,arweave.org
   - domain-suffix,arxiv.org
   - domain-suffix,arzon.jp
   - domain-suffix,as-dash-uk-live.akamaized.net
@@ -6511,6 +6513,7 @@ payload:
   - domain-suffix,diablo3.com
   - domain-suffix,diabloimmortal.com
   - domain-suffix,diabrowser.com
+  - domain-suffix,diabrowser.engineering
   - domain-suffix,dialga.com
   - domain-suffix,dialogflow.com
   - domain-suffix,diamantewebcam.com
@@ -6771,6 +6774,7 @@ payload:
   - domain-suffix,dl-laby.jp
   - domain-suffix,dl.begellhouse.com
   - domain-suffix,dl.box.net
+  - domain-suffix,dlaf.jp
   - domain-suffix,dlap001.xyz
   - domain-suffix,dlap301.com
   - domain-suffix,dldlinks.com
@@ -11690,9 +11694,8 @@ payload:
   - domain-suffix,ilife.gr
   - domain-suffix,ilife.wang
   - domain-suffix,illawarramercury.com.au
+  - domain-suffix,illgames.jp
   - domain-suffix,illianacomputerrecycling.com
-  - domain-suffix,illusion.co.jp
-  - domain-suffix,illusion.jp
   - domain-suffix,illusion111.com
   - domain-suffix,illusionas.com
   - domain-suffix,illusionchn.com
@@ -12497,6 +12500,7 @@ payload:
   - domain-suffix,jan.ai
   - domain-suffix,janor6.net
   - domain-suffix,japan-forward.com
+  - domain-suffix,japan-illgames.com
   - domain-suffix,japan-whores.com
   - domain-suffix,japan18tube.com
   - domain-suffix,japanbeast.com
@@ -21697,6 +21701,7 @@ payload:
   - domain-suffix,tsuradou.noonvob.com
   - domain-suffix,tsyum.com
   - domain-suffix,tt1069.com
+  - domain-suffix,ttcdn-us.com
   - domain-suffix,tteshop.com
   - domain-suffix,ttlivecdn.com
   - domain-suffix,ttoverseaus.net
@@ -23533,6 +23538,7 @@ payload:
   - domain-suffix,wisekey.com.hk
   - domain-suffix,wisevid.com
   - domain-suffix,wish.com
+  - domain-suffix,wispbyte.com
   - domain-suffix,wistia.com
   - domain-suffix,wistia.net
   - domain-suffix,withgoogle.com

@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     03 Mar 2026 22:24 UTC
-# DOMAIN:      117383
+# UPDATED:     04 Mar 2026 22:26 UTC
+# DOMAIN:      117385
 # IP-RELATED:  18
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -2260,6 +2260,7 @@ payload:
   - domain-suffix,17293879b10261.beer
   - domain-suffix,172haoka.vip
   - domain-suffix,172l.com
+  - domain-suffix,172mix.com
   - domain-suffix,172tt.com
   - domain-suffix,172xiaoyuan.com
   - domain-suffix,173.com
@@ -58950,6 +58951,7 @@ payload:
   - domain-suffix,juziss.com
   - domain-suffix,juzistore.com
   - domain-suffix,juzisy.com
+  - domain-suffix,juziwulian.com
   - domain-suffix,juzix.io
   - domain-suffix,juzizhoutou.net
   - domain-suffix,juzone.cc
