@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     04 Mar 2026 22:26 UTC
-# DOMAIN:      25161
+# UPDATED:     05 Mar 2026 22:26 UTC
+# DOMAIN:      25162
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12710,6 +12710,7 @@ payload:
   - domain-suffix,jessicaturner.co.uk
   - domain-suffix,jessicaturner.com
   - domain-suffix,jetbrains.ai
+  - domain-suffix,jetbrains.cloud
   - domain-suffix,jetbrains.com
   - domain-suffix,jetbrains.net
   - domain-suffix,jetbrains.space
