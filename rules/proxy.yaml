@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     05 Mar 2026 22:26 UTC
-# DOMAIN:      25162
+# UPDATED:     06 Mar 2026 22:23 UTC
+# DOMAIN:      25167
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -6934,6 +6934,7 @@ payload:
   - domain-suffix,dowjoneson.com
   - domain-suffix,download.aircrack-ng.org
   - domain-suffix,download.com
+  - domain-suffix,download.dappcdn.com
   - domain-suffix,download.qatp1.net
   - domain-suffix,download.visualstudio.microsoft.com
   - domain-suffix,downloadpass.com
@@ -17494,6 +17495,10 @@ payload:
   - domain-suffix,pleasurebabe.com
   - domain-suffix,pleasuregirl.net
   - domain-suffix,pleasuremore.com
+  - domain-suffix,plex.com
+  - domain-suffix,plex.services
+  - domain-suffix,plex.tv
+  - domain-suffix,plexapp.com
   - domain-suffix,plexvpn.pro
   - domain-suffix,plos.org
   - domain-suffix,plug-into.com
