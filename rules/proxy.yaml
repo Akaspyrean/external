@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     07 Mar 2026 22:18 UTC
-# DOMAIN:      25178
+# UPDATED:     08 Mar 2026 22:18 UTC
+# DOMAIN:      25181
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1860,6 +1860,7 @@ payload:
   - domain-suffix,app-dynamics.com
   - domain-suffix,app-measurement-cn.com
   - domain-suffix,app-measurement.com
+  - domain-suffix,app-pay.jp
   - domain-suffix,app-store.wang
   - domain-suffix,app.box.com
   - domain-suffix,app.smartmailcloud.com
@@ -18993,6 +18994,7 @@ payload:
   - domain-suffix,samsunggalaxyfriends.com
   - domain-suffix,samsunghealth.com
   - domain-suffix,samsungiotcloud.com
+  - domain-suffix,samsungiots.com
   - domain-suffix,samsungknox.com
   - domain-suffix,samsungosp.com
   - domain-suffix,samsungqbe.com
@@ -19917,6 +19919,7 @@ payload:
   - domain-suffix,smartonesolutions.com.hk
   - domain-suffix,smartonesolutions.hk
   - domain-suffix,smartstream.ne.jp
+  - domain-suffix,smartthings.com
   - domain-suffix,smashed.xxx
   - domain-suffix,smbc.co.jp
   - domain-suffix,smbctb.co.jp
