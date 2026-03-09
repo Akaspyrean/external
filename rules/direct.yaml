@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     08 Mar 2026 22:18 UTC
-# DOMAIN:      118479
+# UPDATED:     09 Mar 2026 22:23 UTC
+# DOMAIN:      118484
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -6431,6 +6431,7 @@ payload:
   - domain-suffix,52playgame.com
   - domain-suffix,52pojie.com
   - domain-suffix,52post.com
+  - domain-suffix,52ppt.com
   - domain-suffix,52qixiang.com
   - domain-suffix,52qmct.com
   - domain-suffix,52qqba.com
@@ -14753,6 +14754,7 @@ payload:
   - domain-suffix,badmintoncn.com
   - domain-suffix,badmintone.com
   - domain-suffix,badong.net
+  - domain-suffix,badou.com
   - domain-suffix,badouxueyuan.com
   - domain-suffix,badu.com
   - domain-suffix,badudns.cc
@@ -45985,6 +45987,7 @@ payload:
   - domain-suffix,haohanpower.tech
   - domain-suffix,haohanstar.com
   - domain-suffix,haohao8888.com
+  - domain-suffix,haohaodoc.com
   - domain-suffix,haohaotuan.com
   - domain-suffix,haohaowan.com
   - domain-suffix,haohaowan.net
@@ -63495,6 +63498,7 @@ payload:
   - domain-suffix,lazycatmicroserver.com
   - domain-suffix,lazycomposer.com
   - domain-suffix,lazydim.com
+  - domain-suffix,lazyer.net
   - domain-suffix,lazymap.com
   - domain-suffix,lazyren.com
   - domain-suffix,lazystones.com
@@ -100705,6 +100709,7 @@ payload:
   - domain-suffix,wenjuanshow.com
   - domain-suffix,wenjuntech.com
   - domain-suffix,wenkaoba.com
+  - domain-suffix,wenkeju.com
   - domain-suffix,wenku.in
   - domain-suffix,wenku.net
   - domain-suffix,wenku365.com

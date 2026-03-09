@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     08 Mar 2026 22:18 UTC
-# DOMAIN:      25181
+# UPDATED:     09 Mar 2026 22:23 UTC
+# DOMAIN:      25183
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5026,7 +5026,6 @@ payload:
   - domain-suffix,cdn-vk.ru
   - domain-suffix,cdn.arstechnica.net
   - domain-suffix,cdn.js7k.com
-  - domain-suffix,cdn.jsdelivr.net
   - domain-suffix,cdn.printfriendly.com
   - domain-suffix,cdn.seatguru.com
   - domain-suffix,cdn.softlayer.net
@@ -7218,6 +7217,7 @@ payload:
   - domain-suffix,dynamobuilds.com
   - domain-suffix,dynamopackages.com
   - domain-suffix,dynamoreach.com
+  - domain-suffix,dynatrace.com
   - domain-suffix,dynawebinc.com
   - domain-suffix,dyncdn.me
   - domain-suffix,dynu.com
@@ -8284,6 +8284,7 @@ payload:
   - domain-suffix,familypies.net
   - domain-suffix,familyporn.tv
   - domain-suffix,familypornhd.com
+  - domain-suffix,familysearch.org
   - domain-suffix,familysexsimulator.com
   - domain-suffix,familysimulator.com
   - domain-suffix,familysimulator.io
@@ -19630,6 +19631,7 @@ payload:
   - domain-suffix,shit-porn.net
   - domain-suffix,shithd.com
   - domain-suffix,shitjav.com
+  - domain-suffix,shitjournal.org
   - domain-suffix,shittytube.com
   - domain-suffix,shixiao.org
   - domain-suffix,shizhao.org
