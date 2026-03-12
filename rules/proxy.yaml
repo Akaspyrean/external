@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     11 Mar 2026 22:22 UTC
-# DOMAIN:      25184
+# UPDATED:     12 Mar 2026 22:21 UTC
+# DOMAIN:      25185
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -19796,6 +19796,7 @@ payload:
   - domain-suffix,sinoca.com
   - domain-suffix,sinocast.com
   - domain-suffix,sinoinsider.com
+  - domain-suffix,sinyalee.com
   - domain-suffix,sipml5.org
   - domain-suffix,siport.com
   - domain-suffix,sipriyearbook.org

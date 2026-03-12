@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     11 Mar 2026 22:22 UTC
-# DOMAIN:      25184
+# UPDATED:     12 Mar 2026 22:21 UTC
+# DOMAIN:      25185
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -19795,6 +19795,7 @@ DOMAIN-SUFFIX,SINOANTS.COM
 DOMAIN-SUFFIX,SINOCA.COM
 DOMAIN-SUFFIX,SINOCAST.COM
 DOMAIN-SUFFIX,SINOINSIDER.COM
+DOMAIN-SUFFIX,SINYALEE.COM
 DOMAIN-SUFFIX,SIPML5.ORG
 DOMAIN-SUFFIX,SIPORT.COM
 DOMAIN-SUFFIX,SIPRIYEARBOOK.ORG

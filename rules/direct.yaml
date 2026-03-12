@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     11 Mar 2026 22:22 UTC
-# DOMAIN:      118484
+# UPDATED:     12 Mar 2026 22:21 UTC
+# DOMAIN:      118483
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -116113,7 +116113,6 @@ payload:
   - domain-suffix,zimuism.com
   - domain-suffix,zimujiang.com
   - domain-suffix,zimuzu.com
-  - domain-suffix,zimuzu.io
   - domain-suffix,zindall.com
   - domain-suffix,zine.la
   - domain-suffix,zinffer.com
