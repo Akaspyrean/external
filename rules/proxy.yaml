@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     12 Mar 2026 22:21 UTC
-# DOMAIN:      25185
+# UPDATED:     13 Mar 2026 22:23 UTC
+# DOMAIN:      25189
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5424,10 +5424,12 @@ payload:
   - domain-suffix,classicalguitarblog.net
   - domain-suffix,classicnike.com
   - domain-suffix,classymomsex.com
+  - domain-suffix,clau.de
   - domain-suffix,claude.ai
   - domain-suffix,claude.com
   - domain-suffix,claudemcpclient.com
   - domain-suffix,claudeusercontent.com
+  - domain-suffix,clawhub.ai
   - domain-suffix,clco.cc
   - domain-suffix,cldr.unicode.org
   - domain-suffix,clearasil.us
@@ -10284,6 +10286,7 @@ payload:
   - domain-suffix,h-webtoon.com
   - domain-suffix,h0930.com
   - domain-suffix,h18ani1.vip
+  - domain-suffix,h2o.ai
   - domain-suffix,h2porn.com
   - domain-suffix,h528.com
   - domain-suffix,habr.com
@@ -16695,6 +16698,7 @@ payload:
   - domain-suffix,openart.ai
   - domain-suffix,openbook.org.tw
   - domain-suffix,opencas.io
+  - domain-suffix,openclaw.ai
   - domain-suffix,opencollective.com
   - domain-suffix,opencreate.org
   - domain-suffix,opencritic.com
