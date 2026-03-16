@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     15 Mar 2026 22:22 UTC
-# DOMAIN:      25189
+# UPDATED:     16 Mar 2026 22:28 UTC
+# DOMAIN:      25193
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5965,6 +5965,7 @@ payload:
   - domain-suffix,curvybbwwives.com
   - domain-suffix,curvyerotic.com
   - domain-suffix,cusp.hk
+  - domain-suffix,custhelp.com
   - domain-suffix,custom-iphonecase.com
   - domain-suffix,custombeatsbydrebuy.com
   - domain-suffix,custombeatsdeals.com
@@ -16141,6 +16142,7 @@ payload:
   - domain-suffix,nnews.eu
   - domain-suffix,nobel.se
   - domain-suffix,nochubank.or.jp
+  - domain-suffix,nodeget.com
   - domain-suffix,nodeimage.com
   - domain-suffix,nodejs.org
   - domain-suffix,nodequality.com
@@ -16413,6 +16415,7 @@ payload:
   - domain-suffix,nvidia.com.tw
   - domain-suffix,nvidia.com.ua
   - domain-suffix,nvidia.com.ve
+  - domain-suffix,nvidia.custhelp.com
   - domain-suffix,nvidia.cz
   - domain-suffix,nvidia.de
   - domain-suffix,nvidia.dk
@@ -20223,6 +20226,7 @@ payload:
   - domain-suffix,spiceworks.com
   - domain-suffix,spiceworksstatic.com
   - domain-suffix,spicybigtits.com
+  - domain-suffix,spicywriter.com
   - domain-suffix,spideroak.com
   - domain-suffix,spiderpool.com
   - domain-suffix,spiedigitallibrary.org
