@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     16 Mar 2026 22:28 UTC
-# DOMAIN:      25193
+# UPDATED:     17 Mar 2026 22:28 UTC
+# DOMAIN:      25194
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -23627,6 +23627,7 @@ payload:
   - domain-suffix,woopie.jp
   - domain-suffix,woopie.tv
   - domain-suffix,wordpress.com
+  - domain-suffix,wordpress.net
   - domain-suffix,wordpress.org
   - domain-suffix,wordpress.tv
   - domain-suffix,work2icu.org

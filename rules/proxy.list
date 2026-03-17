@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     16 Mar 2026 22:28 UTC
-# DOMAIN:      25193
+# UPDATED:     17 Mar 2026 22:28 UTC
+# DOMAIN:      25194
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -23626,6 +23626,7 @@ DOMAIN-SUFFIX,WOOLYSS.COM
 DOMAIN-SUFFIX,WOOPIE.JP
 DOMAIN-SUFFIX,WOOPIE.TV
 DOMAIN-SUFFIX,WORDPRESS.COM
+DOMAIN-SUFFIX,WORDPRESS.NET
 DOMAIN-SUFFIX,WORDPRESS.ORG
 DOMAIN-SUFFIX,WORDPRESS.TV
 DOMAIN-SUFFIX,WORK2ICU.ORG
