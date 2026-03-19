@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     18 Mar 2026 22:28 UTC
-# DOMAIN:      25194
+# UPDATED:     19 Mar 2026 22:23 UTC
+# DOMAIN:      25199
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -21381,6 +21381,11 @@ payload:
   - domain-suffix,tiktokv.us
   - domain-suffix,tiktokw.eu
   - domain-suffix,tiktokw.us
+  - domain-suffix,tilda.cc
+  - domain-suffix,tilda.ru
+  - domain-suffix,tilda.ws
+  - domain-suffix,tildaapi.com
+  - domain-suffix,tildacdn.com
   - domain-suffix,tiltbrush.com
   - domain-suffix,timdir.com
   - domain-suffix,time-a-b.nist.gov
