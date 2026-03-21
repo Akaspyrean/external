@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     20 Mar 2026 22:23 UTC
-# DOMAIN:      118483
+# UPDATED:     21 Mar 2026 22:19 UTC
+# DOMAIN:      118481
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -34814,13 +34814,11 @@ payload:
   - domain-suffix,esoua.com
   - domain-suffix,esound.vip
   - domain-suffix,esouou.com
-  - domain-suffix,esp8266.com
   - domain-suffix,espeedpost.com
   - domain-suffix,esplus.club
   - domain-suffix,espnlol.com
   - domain-suffix,esports-console.com
   - domain-suffix,esportsreg.com
-  - domain-suffix,espressif.com
   - domain-suffix,esr.com
   - domain-suffix,essaystar.com
   - domain-suffix,essca.com

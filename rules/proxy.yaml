@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     20 Mar 2026 22:23 UTC
-# DOMAIN:      25202
+# UPDATED:     21 Mar 2026 22:19 UTC
+# DOMAIN:      25205
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -3370,6 +3370,7 @@ payload:
   - domain-suffix,bestbuyus.com
   - domain-suffix,bestcamsites.net
   - domain-suffix,bestclouddrive.com
+  - domain-suffix,bestdori.com
   - domain-suffix,besterpornos.com
   - domain-suffix,bestescortgirls.nl
   - domain-suffix,bestfreecams.club
@@ -5331,6 +5332,7 @@ payload:
   - domain-suffix,chyoa.com
   - domain-suffix,ci-en.jp
   - domain-suffix,ci-en.net
+  - domain-suffix,cia.gov
   - domain-suffix,ciattackers.com
   - domain-suffix,cici.com
   - domain-suffix,ciciai.com
@@ -25097,6 +25099,7 @@ payload:
   - domain-suffix,zhuzhushipin-app.com
   - domain-suffix,zi.media
   - domain-suffix,zibacity.com
+  - domain-suffix,ziglang.org
   - domain-suffix,zigzag.kr
   - domain-suffix,zillionk.com
   - domain-suffix,zim.vn
