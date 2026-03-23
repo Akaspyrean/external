@@ -1,46 +1,45 @@
 parsers:
-  # 匹配所有 HTTP/HTTPS 开头的订阅链接
   - reg: ^https?://.+
     code: |
       /**
-       * Mihomo 内核版 Clash 配置重写脚本
+       * Mihomo 内核版 Clash 配置预处理器
        * =================================================================
-       * 使用说明：
-       * 1. 作用：完全接管原订阅配置，启用 Mihomo 内核专属功能。
-       * 2. 核心功能：
-       * - 自动分组：基于正则自动将节点归类为 [亚太]、[美欧]。
-       * - 极速规则：整合 GitHub 自动同步的规则集，实现云端同步。
-       * 3. 操作步骤：
-       * - 将此代码粘贴到 Settings（设置） -> Parsers（配置文件预处理）。
-       * - 回到 Profiles（配置） 界面，点击订阅卡片的 "刷新" 按钮即可生效。
+       * 1. 作用：接管订阅的分流架构与策略配置。
+       * 2. 核心：
+       *    - 特征识别：正则驱动的节点自动化分组。
+       *    - 动态更新：集成云端规则集，分流策略实时同步。
+       *    - 性能优化：OneDrive 进程级直连，保障极致速率。
+       * 3. 部署：粘贴至 Settings -> Parsers，刷新订阅生效。
        * =================================================================
        */
-      
+
       module.exports.parse = async (raw, { yaml }) => {
-        // 1. 解析订阅内容，提取所有节点
         const rawConfig = yaml.parse(raw);
         const proxies = rawConfig.proxies || [];
         const allNames = proxies.map(p => p.name);
 
-        // 2. 使用 JS 正则进行自动区域分组
-        const asianNames = allNames.filter(n => /(香港|HK|Hong Kong|台湾|TW|Taiwan|澳门|MO|Macau|日本|JP|Japan|新加坡|SG|Singapore|韩|KR|Korea|澳|AU|Australia|印度|IN|India|泰|TH|Thailand|马来|MY|Malaysia)/i.test(n));
-        const westernNames = allNames.filter(n => /(美|US|United States|英|UK|United Kingdom|德|DE|Germany|法|FR|France|加拿|CA|Canada|荷兰|NL|Netherlands|土耳其|TR|Turkey|卢森堡|LU|Luxembourg)/i.test(n));
-        
-        // 无匹配节点时启用“手动选择”兜底，防止分组为空报错
-        if (asianNames.length === 0) asianNames.push("手动选择");
-        if (westernNames.length === 0) westernNames.push("手动选择");
+        // ── 节点特征匹配
+        const regDedicated = /(专线|IPLC|IEPL|BGP|AIA)/i;
 
-        // 3. 构建最终配置
+        // ── 节点分组切割
+        const dedicatedNames = allNames.filter(n => regDedicated.test(n));
+        const normalNames = allNames.filter(n => !regDedicated.test(n));
+
+        // ── 空值容灾兜底
+        const safeProxies = (arr) => arr.length > 0 ? arr : ["DIRECT"];
+        const finalDedicated = safeProxies(dedicatedNames);
+        const finalNormal = safeProxies(normalNames);
+
         const config = {
-          // --- 基础设置 ---
           "mixed-port": 7890,
           "allow-lan": true,
           "log-level": "error",
-          "ipv6": true,
+          "ipv6": false,
           "geodata-mode": true,
           "geodata-loader": "standard",
-          
-          // --- Mihomo 核心特性：域名嗅探 ---
+          "find-process-mode": "strict",
+
+          // ── 流量嗅探
           "sniffer": {
             "enable": true,
             "sniff": {
@@ -51,107 +50,52 @@ parsers:
 
           "proxies": proxies,
 
-          // --- DNS 分流设置 ---
+          // ── DNS 解析架构
           "dns": {
             "enable": true,
             "listen": "0.0.0.0:9053",
+            "ipv6": false,
             "enhanced-mode": "fake-ip",
             "fake-ip-range": "198.18.0.1/16",
-            "fake-ip-filter": [
-              "+.lan", "+.local", "+.home.arpa",
-              "localhost.ptlogin2.qq.com",
-              "+.msftconnecttest.com", "+.msftncsi.com", "+.gstatic.com"
-            ]
+            "fake-ip-filter": ["+.lan", "+.local", "+.home.arpa", "localhost.ptlogin2.qq.com", "+.msftconnecttest.com", "+.msftncsi.com", "+.gstatic.com", "*.n.n.srv.nintendo.net"],
+            "default-nameserver": ["223.5.5.5", "119.29.29.29"],
+            "nameserver": ["223.5.5.5", "119.29.29.29"]
           },
 
-        // --- 策略组构建 ---
+          // ── 策略层级配置
           "proxy-groups": [
-            {
-              "name": "节点选择",
-              "type": "select",
-              "proxies": ["自动选择", "亚太优选", "美欧优选", "手动选择", "DIRECT"]
-            },
-            {
-              "name": "人工智能",
-              "type": "select",
-              "proxies": ["美欧优选", "亚太优选", "节点选择", "手动选择"]
-            },
-            {
-              "name": "影音视听",
-              "type": "select",
-              "proxies": ["亚太优选", "美欧优选", "节点选择", "手动选择"]
-            },
-            {
-              "name": "手动选择",
-              "type": "select",
-              "proxies": allNames.length > 0 ? allNames : ["DIRECT"]
-            },
-            {
-              "name": "自动选择",
-              "type": "url-test",
-              "url": "http://www.gstatic.com/generate_204",
-              "interval": 300,
-              "tolerance": 50,
-              "proxies": allNames.length > 0 ? allNames : ["DIRECT"]
-            },
-            {
-              "name": "亚太优选",
-              "type": "url-test",
-              "url": "http://www.gstatic.com/generate_204",
-              "interval": 300,
-              "tolerance": 50,
-              "proxies": asianNames
-            },
-            {
-              "name": "美欧优选",
-              "type": "url-test",
-              "url": "http://www.gstatic.com/generate_204",
-              "interval": 300,
-              "tolerance": 50,
-              "proxies": westernNames
-            }
+            { "name": "节点选择", "type": "select", "proxies": ["专线优选", "普通优选", "手动选择", "DIRECT"] },
+            { "name": "人工智能", "type": "select", "proxies": ["专线优选", "普通优选", "手动选择"] },
+            { "name": "影音视听", "type": "select", "proxies": ["专线优选", "普通优选", "手动选择"] },
+            { "name": "手动选择", "type": "select", "proxies": allNames.length > 0 ? allNames : ["DIRECT"] },
+            
+            { "name": "专线优选", "type": "url-test", "url": "http://www.gstatic.com/generate_204", "interval": 300, "tolerance": 50, "lazy": true, "proxies": finalDedicated },
+            { "name": "普通优选", "type": "url-test", "url": "http://www.gstatic.com/generate_204", "interval": 300, "tolerance": 50, "lazy": true, "proxies": finalNormal }
           ],
-          
-        // --- 外部规则集 ---
+
+          // ── 外部规则订阅
           "rule-providers": {
-            "direct": {
-              "type": "http",
-              "behavior": "classical",
-              "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/direct.yaml",
-              "path": "./rules/direct.yaml",
-              "interval": 86400
-            },
-            "ai": {
-              "type": "http",
-              "behavior": "classical",
-              "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/ai.yaml",
-              "path": "./rules/ai.yaml",
-              "interval": 86400
-            },
-            "media": {
-              "type": "http",
-              "behavior": "classical",
-              "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/media.yaml",
-              "path": "./rules/media.yaml",
-              "interval": 86400
-            },
-            "proxy": {
-              "type": "http",
-              "behavior": "classical",
-              "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/proxy.yaml",
-              "path": "./rules/proxy.yaml",
-              "interval": 86400
-            }
+            "direct": { "type": "http", "behavior": "classical", "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/direct.yaml", "path": "./rules/direct.yaml", "interval": 86400 },
+            "ai": { "type": "http", "behavior": "classical", "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/ai.yaml", "path": "./rules/ai.yaml", "interval": 86400 },
+            "media": { "type": "http", "behavior": "classical", "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/media.yaml", "path": "./rules/media.yaml", "interval": 86400 },
+            "proxy": { "type": "http", "behavior": "classical", "url": "https://raw.githubusercontent.com/Akaspyrean/external/main/rules/proxy.yaml", "path": "./rules/proxy.yaml", "interval": 86400 }
           },
 
-          // --- 分流规则 ---
+          // ── 分流规则映射
           "rules": [
             "GEOSITE,private,DIRECT",
             "RULE-SET,direct,DIRECT",
             "GEOSITE,category-ads-all,REJECT",
+            
+            "PROCESS-NAME,OneDrive.exe,DIRECT",
+            "PROCESS-NAME,OneDrive,DIRECT",
+            "DOMAIN-SUFFIX,onedrive.live.com,节点选择",
+            "DOMAIN-SUFFIX,sharepoint.com,DIRECT",
+
             "RULE-SET,ai,人工智能",
             "RULE-SET,media,影音视听",
             "RULE-SET,proxy,节点选择",
+            
             "GEOSITE,cn,DIRECT",
             "GEOIP,CN,DIRECT",
             "MATCH,节点选择"
