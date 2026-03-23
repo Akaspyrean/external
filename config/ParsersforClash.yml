@@ -2,15 +2,14 @@ parsers:
   - reg: ^https?://.+
     code: |
       /**
-       * Mihomo 内核版 Clash 配置预处理器
+       * Mihomo 内核版 Clash 配置预处理器 — v0.26.03.23
        * =================================================================
        * 1. 作用：接管订阅的分流架构与策略配置。
        * 2. 核心：
        *    - 特征识别：正则驱动的节点自动化分组。
        *    - 动态更新：集成云端规则集，分流策略实时同步。
-       *    - 性能优化：OneDrive 进程级直连，保障极致速率。
        * 3. 部署：粘贴至 Settings -> Parsers，刷新订阅生效。
-       * =================================================================
+       * ================================================================
        */
 
       module.exports.parse = async (raw, { yaml }) => {
@@ -20,10 +19,11 @@ parsers:
 
         // ── 节点特征匹配
         const regDedicated = /(专线|IPLC|IEPL|BGP|AIA)/i;
+        const regTrash = /(剩余|到期|官网|套餐|流量|重置)/i;
 
         // ── 节点分组切割
         const dedicatedNames = allNames.filter(n => regDedicated.test(n));
-        const normalNames = allNames.filter(n => !regDedicated.test(n));
+        const normalNames = allNames.filter(n => !regDedicated.test(n) && !regTrash.test(n));
 
         // ── 空值容灾兜底
         const safeProxies = (arr) => arr.length > 0 ? arr : ["DIRECT"];
@@ -57,20 +57,19 @@ parsers:
             "ipv6": false,
             "enhanced-mode": "fake-ip",
             "fake-ip-range": "198.18.0.1/16",
-            "fake-ip-filter": ["+.lan", "+.local", "+.home.arpa", "localhost.ptlogin2.qq.com", "+.msftconnecttest.com", "+.msftncsi.com", "+.gstatic.com", "*.n.n.srv.nintendo.net"],
+            "fake-ip-filter": ["+.lan", "+.local", "+.home.arpa", "localhost.ptlogin2.qq.com", "+.msftconnecttest.com", "+.msftncsi.com", "*.n.n.srv.nintendo.net"],
             "default-nameserver": ["223.5.5.5", "119.29.29.29"],
-            "nameserver": ["223.5.5.5", "119.29.29.29"]
+            "nameserver": ["https://dns.alidns.com/dns-query", "https://doh.pub/dns-query"]
           },
 
           // ── 策略层级配置
           "proxy-groups": [
-            { "name": "节点选择", "type": "select", "proxies": ["专线优选", "普通优选", "手动选择", "DIRECT"] },
-            { "name": "人工智能", "type": "select", "proxies": ["专线优选", "普通优选", "手动选择"] },
-            { "name": "影音视听", "type": "select", "proxies": ["专线优选", "普通优选", "手动选择"] },
-            { "name": "手动选择", "type": "select", "proxies": allNames.length > 0 ? allNames : ["DIRECT"] },
-            
-            { "name": "专线优选", "type": "url-test", "url": "http://www.gstatic.com/generate_204", "interval": 300, "tolerance": 50, "lazy": true, "proxies": finalDedicated },
-            { "name": "普通优选", "type": "url-test", "url": "http://www.gstatic.com/generate_204", "interval": 300, "tolerance": 50, "lazy": true, "proxies": finalNormal }
+            { "name": "扶梯出行", "type": "select", "proxies": ["专线优选", "普线优选", "人工优选", "DIRECT"] },
+            { "name": "人工智能", "type": "select", "proxies": ["专线优选", "普线优选", "人工优选"] },
+            { "name": "影音视听", "type": "select", "proxies": ["专线优选", "普线优选", "人工优选"] },
+            { "name": "人工优选", "type": "select", "proxies": allNames.length > 0 ? allNames : ["DIRECT"] },
+            { "name": "专线优选", "type": "url-test", "url": "https://cp.cloudflare.com/generate_204", "interval": 300, "tolerance": 50, "lazy": true, "proxies": finalDedicated },
+            { "name": "普线优选", "type": "url-test", "url": "https://cp.cloudflare.com/generate_204", "interval": 300, "tolerance": 50, "lazy": true, "proxies": finalNormal }
           ],
 
           // ── 外部规则订阅
@@ -89,16 +88,17 @@ parsers:
             
             "PROCESS-NAME,OneDrive.exe,DIRECT",
             "PROCESS-NAME,OneDrive,DIRECT",
-            "DOMAIN-SUFFIX,onedrive.live.com,节点选择",
+            "DOMAIN-SUFFIX,onedrive.live.com,扶梯出行",
+            "DOMAIN-SUFFIX,onedrive.com,DIRECT",
             "DOMAIN-SUFFIX,sharepoint.com,DIRECT",
 
             "RULE-SET,ai,人工智能",
             "RULE-SET,media,影音视听",
-            "RULE-SET,proxy,节点选择",
+            "RULE-SET,proxy,扶梯出行",
             
             "GEOSITE,cn,DIRECT",
             "GEOIP,CN,DIRECT",
-            "MATCH,节点选择"
+            "MATCH,扶梯出行"
           ]
         };
 
