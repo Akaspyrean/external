@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     23 Mar 2026 22:27 UTC
-# DOMAIN:      25205
+# UPDATED:     24 Mar 2026 22:25 UTC
+# DOMAIN:      25208
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -6950,6 +6950,7 @@ payload:
   - domain-suffix,dpool.top
   - domain-suffix,dpp.org.tw
   - domain-suffix,dpr.info
+  - domain-suffix,dqd0jw5gvbchn.cloudfront.net
   - domain-suffix,dqrpb9wgowsf5.cloudfront.net
   - domain-suffix,draftjs.org
   - domain-suffix,dragonage.com
@@ -16722,6 +16723,7 @@ payload:
   - domain-suffix,openlibrary.org
   - domain-suffix,openmaps.org
   - domain-suffix,openreality.com
+  - domain-suffix,openrec.tv
   - domain-suffix,openresty.org
   - domain-suffix,openreview.net
   - domain-suffix,openrouter.ai
@@ -18952,6 +18954,7 @@ payload:
   - domain-suffix,s-nbcnews.com
   - domain-suffix,s-rewards.hk
   - domain-suffix,s-xoom.com
+  - domain-suffix,s.rmimg.com
   - domain-suffix,s.team
   - domain-suffix,s1s1s1.com
   - domain-suffix,s2csntp.miz.nao.ac.jp
