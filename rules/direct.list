@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     24 Mar 2026 22:25 UTC
-# DOMAIN:      118481
+# UPDATED:     25 Mar 2026 22:31 UTC
+# DOMAIN:      118480
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -104863,7 +104863,6 @@ DOMAIN-SUFFIX,XIAOMICP.COM
 DOMAIN-SUFFIX,XIAOMIDNS.COM
 DOMAIN-SUFFIX,XIAOMIDNS.NET
 DOMAIN-SUFFIX,XIAOMIEV.COM
-DOMAIN-SUFFIX,XIAOMIFLASH.COM
 DOMAIN-SUFFIX,XIAOMIINC.NET
 DOMAIN-SUFFIX,XIAOMIMIMO.COM
 DOMAIN-SUFFIX,XIAOMIMOBILE.COM

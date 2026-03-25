@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     24 Mar 2026 22:25 UTC
-# DOMAIN:      25208
+# UPDATED:     25 Mar 2026 22:31 UTC
+# DOMAIN:      25217
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -16869,8 +16869,15 @@ payload:
   - domain-suffix,ozeex.com
   - domain-suffix,ozodi.org
   - domain-suffix,ozodlik.org
+  - domain-suffix,ozon.by
+  - domain-suffix,ozon.com
+  - domain-suffix,ozon.com.by
+  - domain-suffix,ozon.com.kz
+  - domain-suffix,ozon.kz
   - domain-suffix,ozon.ru
+  - domain-suffix,ozon.tm
   - domain-suffix,ozone.ru
+  - domain-suffix,ozonru.me
   - domain-suffix,ozonusercontent.com
   - domain-suffix,ozvoice.org
   - domain-suffix,p-events-delivery.akamaized.net
@@ -24000,6 +24007,7 @@ payload:
   - domain-suffix,xiaolan.me
   - domain-suffix,xiaoma.org
   - domain-suffix,xiaomi.eu
+  - domain-suffix,xiaomiflash.com
   - domain-suffix,xiaoou.io
   - domain-suffix,xiaoou.tv
   - domain-suffix,xiaoshuobb.life
@@ -24047,6 +24055,7 @@ payload:
   - domain-suffix,xmoviesforyou.com
   - domain-suffix,xn--096-4g6em5t.com
   - domain-suffix,xn--11xs86f.icu
+  - domain-suffix,xn--1jqvh729avzfcy2d8ummib.com
   - domain-suffix,xn--201-4g6em5t.com
   - domain-suffix,xn--202-4g6em5t.com
   - domain-suffix,xn--203-4g6em5t.com

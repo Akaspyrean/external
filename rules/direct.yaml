@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     24 Mar 2026 22:25 UTC
-# DOMAIN:      118481
+# UPDATED:     25 Mar 2026 22:31 UTC
+# DOMAIN:      118480
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -104864,7 +104864,6 @@ payload:
   - domain-suffix,xiaomidns.com
   - domain-suffix,xiaomidns.net
   - domain-suffix,xiaomiev.com
-  - domain-suffix,xiaomiflash.com
   - domain-suffix,xiaomiinc.net
   - domain-suffix,xiaomimimo.com
   - domain-suffix,xiaomimobile.com
