@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     25 Mar 2026 22:31 UTC
-# DOMAIN:      25217
+# UPDATED:     26 Mar 2026 22:24 UTC
+# DOMAIN:      25226
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5323,6 +5323,7 @@ payload:
   - domain-suffix,chugokubank.co.jp
   - domain-suffix,chuneo.xyz
   - domain-suffix,chunja19.net
+  - domain-suffix,chunkbase.com
   - domain-suffix,chuokoron.jp
   - domain-suffix,chuporno.com
   - domain-suffix,chutes.ai
@@ -7740,6 +7741,7 @@ payload:
   - domain-suffix,eporner.com
   - domain-suffix,eprc.com.hk
   - domain-suffix,eprintsw.com
+  - domain-suffix,equinox.io
   - domain-suffix,erabaru.net
   - domain-suffix,eracom.com.tw
   - domain-suffix,eraofconnection.com
@@ -14178,7 +14180,6 @@ payload:
   - domain-suffix,maturewifeporn.cc
   - domain-suffix,maturewomenanal.com
   - domain-suffix,maturexxxvideos.cc
-  - domain-suffix,maven.neoforged.net
   - domain-suffix,max.com
   - domain-suffix,max.ru
   - domain-suffix,maxgo.com
@@ -14589,6 +14590,7 @@ payload:
   - domain-suffix,minecraft-services.net
   - domain-suffix,minecraft.net
   - domain-suffix,minecraft.wiki
+  - domain-suffix,minecraftforge.net
   - domain-suffix,minecraftservices.com
   - domain-suffix,minecraftshop.com
   - domain-suffix,mingdemedia.org
@@ -15553,6 +15555,7 @@ payload:
   - domain-suffix,nakido.com
   - domain-suffix,nalandabodhi.org
   - domain-suffix,nalandawest.org
+  - domain-suffix,namemc.com
   - domain-suffix,namemybeats.com
   - domain-suffix,namethatporn.com
   - domain-suffix,namethatpornad.com
@@ -15669,6 +15672,7 @@ payload:
   - domain-suffix,nenitas.club
   - domain-suffix,nentindo.net
   - domain-suffix,neo-miracle.com
+  - domain-suffix,neoforged.net
   - domain-suffix,neotokyo.supertop-100.com
   - domain-suffix,neovim.io
   - domain-suffix,neow.in
@@ -15868,6 +15872,7 @@ payload:
   - domain-suffix,nginx.com
   - domain-suffix,nginx.org
   - domain-suffix,nginxconfig.io
+  - domain-suffix,ngrok-agent.com
   - domain-suffix,ngrok-free.app
   - domain-suffix,ngrok-free.dev
   - domain-suffix,ngrok-free.pizza
@@ -16760,6 +16765,7 @@ payload:
   - domain-suffix,optica.org
   - domain-suffix,opticore.com
   - domain-suffix,opticsforthecloud.net
+  - domain-suffix,optifine.net
   - domain-suffix,optimumssl.com
   - domain-suffix,opus-gaming.com
   - domain-suffix,oracle
@@ -20245,6 +20251,7 @@ payload:
   - domain-suffix,spideroak.com
   - domain-suffix,spiderpool.com
   - domain-suffix,spiedigitallibrary.org
+  - domain-suffix,spigotmc.org
   - domain-suffix,spiritclubs.com
   - domain-suffix,spiritofecstasy.com
   - domain-suffix,spizoo.com
@@ -20990,6 +20997,8 @@ payload:
   - domain-suffix,tehrantimes.com
   - domain-suffix,tejaratbank.ir
   - domain-suffix,telebay.com
+  - domain-suffix,telega.info
+  - domain-suffix,telega.me
   - domain-suffix,telega.one
   - domain-suffix,telegra.ph
   - domain-suffix,telegram-cdn.org

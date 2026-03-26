@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     25 Mar 2026 22:31 UTC
-# DOMAIN:      118480
+# UPDATED:     26 Mar 2026 22:24 UTC
+# DOMAIN:      118482
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12869,6 +12869,7 @@ payload:
   - domain-suffix,anhuisjx.com
   - domain-suffix,anhuisuya.com
   - domain-suffix,anhuiwine.com
+  - domain-suffix,anhuiyun.com
   - domain-suffix,anhuizk.com
   - domain-suffix,ani-sh.com
   - domain-suffix,aniccw.net
@@ -27875,6 +27876,7 @@ payload:
   - domain-suffix,ctdcn.com
   - domain-suffix,ctdisk.com
   - domain-suffix,ctdns.net
+  - domain-suffix,ctdsb.clouddiffuse.xyz
   - domain-suffix,ctdsb.com
   - domain-suffix,ctdsb.net
   - domain-suffix,ctdzsk.com
