@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     26 Mar 2026 22:24 UTC
-# DOMAIN:      118482
+# UPDATED:     27 Mar 2026 22:26 UTC
+# DOMAIN:      118483
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -55445,6 +55445,7 @@ payload:
   - domain-suffix,izacholsm.com
   - domain-suffix,izaodao.com
   - domain-suffix,izatcloud.net
+  - domain-suffix,izattime.qcomgeo2.com
   - domain-suffix,izazamall.com
   - domain-suffix,izb.pub
   - domain-suffix,izdatatech.com
@@ -66144,7 +66145,6 @@ payload:
   - domain-suffix,lousj.com
   - domain-suffix,lousw.com
   - domain-suffix,louyue.com
-  - domain-suffix,lovart.ai
   - domain-suffix,lovcuty.com
   - domain-suffix,love-freedom.com
   - domain-suffix,love-math-edu.com
@@ -107122,6 +107122,7 @@ payload:
   - domain-suffix,xtoobmo.xyz
   - domain-suffix,xtransfer.com
   - domain-suffix,xtrapowercn.com
+  - domain-suffix,xtratime.qcomgeo2.com
   - domain-suffix,xtrc.net
   - domain-suffix,xtrunc.com
   - domain-suffix,xtsfuke.com

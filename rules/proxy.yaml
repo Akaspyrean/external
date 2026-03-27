@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     26 Mar 2026 22:24 UTC
-# DOMAIN:      25226
+# UPDATED:     27 Mar 2026 22:26 UTC
+# DOMAIN:      25229
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -18286,6 +18286,7 @@ payload:
   - domain-suffix,qbittorrent.org
   - domain-suffix,qbmengmei6.mom
   - domain-suffix,qcmod.xyz
+  - domain-suffix,qcomgeo2.com
   - domain-suffix,qctconnect.com
   - domain-suffix,qdiehzz7.me
   - domain-suffix,qgadmin.qcpp1.net
@@ -18330,6 +18331,7 @@ payload:
   - domain-suffix,qt.io
   - domain-suffix,qtrac.eu
   - domain-suffix,qualcomm-email.com
+  - domain-suffix,qualcomm-inc.com
   - domain-suffix,qualcomm.co.id
   - domain-suffix,qualcomm.co.in
   - domain-suffix,qualcomm.co.jp
@@ -24111,6 +24113,7 @@ payload:
   - domain-suffix,xn--hxtr4rozx.xn--czr694b
   - domain-suffix,xn--i2ru8q2qg.com
   - domain-suffix,xn--jlq480n2rg
+  - domain-suffix,xn--kcrv3utim32hx9f6qe.com
   - domain-suffix,xn--kput3imi374g.xn--hxt814e
   - domain-suffix,xn--mts47c3w9b1qr.net
   - domain-suffix,xn--mtswd61ejxq.com
