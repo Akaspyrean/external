@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     27 Mar 2026 22:26 UTC
-# DOMAIN:      25229
+# UPDATED:     28 Mar 2026 22:24 UTC
+# DOMAIN:      25228
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -18969,7 +18969,6 @@ payload:
   - domain-suffix,s-nbcnews.com
   - domain-suffix,s-rewards.hk
   - domain-suffix,s-xoom.com
-  - domain-suffix,s.rmimg.com
   - domain-suffix,s.team
   - domain-suffix,s1s1s1.com
   - domain-suffix,s2csntp.miz.nao.ac.jp

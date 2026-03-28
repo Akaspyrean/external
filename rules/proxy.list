@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     27 Mar 2026 22:26 UTC
-# DOMAIN:      25229
+# UPDATED:     28 Mar 2026 22:24 UTC
+# DOMAIN:      25228
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -18968,7 +18968,6 @@ DOMAIN-SUFFIX,S-MSN.COM
 DOMAIN-SUFFIX,S-NBCNEWS.COM
 DOMAIN-SUFFIX,S-REWARDS.HK
 DOMAIN-SUFFIX,S-XOOM.COM
-DOMAIN-SUFFIX,S.RMIMG.COM
 DOMAIN-SUFFIX,S.TEAM
 DOMAIN-SUFFIX,S1S1S1.COM
 DOMAIN-SUFFIX,S2CSNTP.MIZ.NAO.AC.JP
