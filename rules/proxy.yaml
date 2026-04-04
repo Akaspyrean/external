@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     03 Apr 2026 22:28 UTC
-# DOMAIN:      25364
+# UPDATED:     04 Apr 2026 22:24 UTC
+# DOMAIN:      25406
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -2615,6 +2615,8 @@ payload:
   - domain-suffix,autodeskworkshop.com
   - domain-suffix,autodeskworkshop.net
   - domain-suffix,autodraw.com
+  - domain-suffix,autoesporte.com
+  - domain-suffix,autoesporte.com.br
   - domain-suffix,automaton-media.com
   - domain-suffix,automobile.fr
   - domain-suffix,automotive-cadcam.com
@@ -3451,6 +3453,7 @@ payload:
   - domain-suffix,bgr.in
   - domain-suffix,bgvpn.com
   - domain-suffix,bhent.co.kr
+  - domain-suffix,bhfm.com.br
   - domain-suffix,bhggn.xyz
   - domain-suffix,bhzyk.buzz
   - domain-suffix,bhzyw2.top
@@ -4909,6 +4912,7 @@ payload:
   - domain-suffix,carousell.com.hk
   - domain-suffix,carrd.co
   - domain-suffix,carstagram.com
+  - domain-suffix,cartola.com.br
   - domain-suffix,cartoon-sex.tv
   - domain-suffix,cartoon18.com
   - domain-suffix,cartoon3thumbs.com
@@ -4980,6 +4984,7 @@ payload:
   - domain-suffix,cbc.ca
   - domain-suffix,cbi.ir
   - domain-suffix,cbm.com.mm
+  - domain-suffix,cbn.com.br
   - domain-suffix,cbs.com
   - domain-suffix,cbs.ntu.edu.tw
   - domain-suffix,cbsaavideo.com
@@ -5053,6 +5058,7 @@ payload:
   - domain-suffix,cdnpure.com
   - domain-suffix,cdnuc.vip
   - domain-suffix,cdnvideo.ru
+  - domain-suffix,cdnvideohub.com
   - domain-suffix,cdnxxx-proxy.co
   - domain-suffix,cdnxxx-proxy.xyz
   - domain-suffix,cdp1998.org
@@ -7722,6 +7728,8 @@ payload:
   - domain-suffix,epikporn.com
   - domain-suffix,epinions.com
   - domain-suffix,episodic.com
+  - domain-suffix,epoca.com.br
+  - domain-suffix,epocanegocios.com.br
   - domain-suffix,epoch.cloud
   - domain-suffix,epoch.org.il
   - domain-suffix,epochbase.com
@@ -9320,6 +9328,7 @@ payload:
   - domain-suffix,g.dev
   - domain-suffix,g.page
   - domain-suffix,g0v.social
+  - domain-suffix,g1.com.br
   - domain-suffix,g6hentai.com
   - domain-suffix,gab.com
   - domain-suffix,gabocorp.com
@@ -9752,6 +9761,13 @@ payload:
   - domain-suffix,globalvoices.org
   - domain-suffix,globalvoicesonline.org
   - domain-suffix,globalvpn.net
+  - domain-suffix,globo.com
+  - domain-suffix,globo.com.br
+  - domain-suffix,globoplay.com
+  - domain-suffix,globoplay.com.br
+  - domain-suffix,globoradio.com.br
+  - domain-suffix,globoreporter.com.br
+  - domain-suffix,globorural.com.br
   - domain-suffix,gloporn.com
   - domain-suffix,gloryholeswallow.com
   - domain-suffix,gloryofheracles.com
@@ -10285,6 +10301,8 @@ payload:
   - domain-suffix,gscanada.info
   - domain-suffix,gsccdn.com
   - domain-suffix,gsearch.media
+  - domain-suffix,gshow.com
+  - domain-suffix,gshow.com.br
   - domain-suffix,gslink.us
   - domain-suffix,gsrc.io
   - domain-suffix,gstatic-cn.com
@@ -11931,6 +11949,7 @@ payload:
   - domain-suffix,info-graf.fr
   - domain-suffix,infocert.digital
   - domain-suffix,infocert.it
+  - domain-suffix,infoglobo.com.br
   - domain-suffix,infolinker.com.tw
   - domain-suffix,infoq.jp
   - domain-suffix,informs.org
@@ -16627,6 +16646,8 @@ payload:
   - domain-suffix,ogameblog.com
   - domain-suffix,ogaoga.org
   - domain-suffix,ogate.org
+  - domain-suffix,oghost.com.br
+  - domain-suffix,oglobo.com.br
   - domain-suffix,ogp.me
   - domain-suffix,ohentai.org
   - domain-suffix,ohgratisporrfilm.com
@@ -16923,6 +16944,7 @@ payload:
   - domain-suffix,oudoll.com
   - domain-suffix,oup.com
   - domain-suffix,ouplaw.com
+  - domain-suffix,our-notes.jp
   - domain-suffix,ourdearamy.com
   - domain-suffix,ouroath.com
   - domain-suffix,oursexgames.com
@@ -17346,6 +17368,8 @@ payload:
   - domain-suffix,peekvids.com
   - domain-suffix,peepholecam.com
   - domain-suffix,peerj.com
+  - domain-suffix,pegn.com
+  - domain-suffix,pegn.com.br
   - domain-suffix,peing.net
   - domain-suffix,pekingduck.org
   - domain-suffix,pelvicexam.info
@@ -18537,6 +18561,7 @@ payload:
   - domain-suffix,radio.garden
   - domain-suffix,radioaustralia.net.au
   - domain-suffix,radiofarda.com
+  - domain-suffix,radioglobo.com.br
   - domain-suffix,radiohilight.net
   - domain-suffix,radiojar.com
   - domain-suffix,radioline.co
@@ -18837,6 +18862,13 @@ payload:
   - domain-suffix,reutersagency.cn
   - domain-suffix,reutersmedia.net
   - domain-suffix,revenue-performance-management.com
+  - domain-suffix,revistaepoca.com
+  - domain-suffix,revistaepoca.com.br
+  - domain-suffix,revistagalileu.com.br
+  - domain-suffix,revistapegn.com
+  - domain-suffix,revistapegn.com.br
+  - domain-suffix,revistaquem.com.br
+  - domain-suffix,revistavalor.com.br
   - domain-suffix,revit.com
   - domain-suffix,revitcc.com
   - domain-suffix,revitsucks.net
@@ -19678,6 +19710,7 @@ payload:
   - domain-suffix,sg120.me
   - domain-suffix,sg1lib.org
   - domain-suffix,sgp1.fun
+  - domain-suffix,sgr.com.br
   - domain-suffix,sgspe.de
   - domain-suffix,sgspt.buzz
   - domain-suffix,sh-xuxingda.com
@@ -21073,6 +21106,8 @@ payload:
   - domain-suffix,techspot.com
   - domain-suffix,techstreet.com
   - domain-suffix,techtimes.com
+  - domain-suffix,techtudo.com
+  - domain-suffix,techtudo.com.br
   - domain-suffix,techviz.net
   - domain-suffix,teck.in
   - domain-suffix,teco-hk.org
@@ -22213,6 +22248,8 @@ payload:
   - domain-suffix,umagazine.com.hk
   - domain-suffix,umass.edu
   - domain-suffix,umbrella.com
+  - domain-suffix,umsoplaneta.com
+  - domain-suffix,umsoplaneta.com.br
   - domain-suffix,un.org
   - domain-suffix,unblock-us.com
   - domain-suffix,unblock.cn.com
@@ -22388,6 +22425,10 @@ payload:
   - domain-suffix,vagrantcloud.com
   - domain-suffix,vagrantup.com
   - domain-suffix,valeursactuelles.com
+  - domain-suffix,valor.com.br
+  - domain-suffix,valoreconomico.com.br
+  - domain-suffix,valorinveste.com
+  - domain-suffix,valorinveste.com.br
   - domain-suffix,valoryirene.com
   - domain-suffix,value-domain.com
   - domain-suffix,value-server.com
@@ -24363,6 +24404,7 @@ payload:
   - domain-suffix,xuehua.us
   - domain-suffix,xuite.net
   - domain-suffix,xujan.com
+  - domain-suffix,xuxaverso.com.br
   - domain-suffix,xv-ru.com
   - domain-suffix,xv1.monster
   - domain-suffix,xvbelink.com
