@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     04 Apr 2026 22:24 UTC
-# DOMAIN:      25406
+# UPDATED:     05 Apr 2026 22:25 UTC
+# DOMAIN:      25409
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -7884,6 +7884,7 @@ payload:
   - domain-suffix,eskimotube.com
   - domain-suffix,eslite.com
   - domain-suffix,esm.run
+  - domain-suffix,esm.sh
   - domain-suffix,esmarthealth.com
   - domain-suffix,esmatube.com
   - domain-suffix,esopworld.com
@@ -17588,6 +17589,7 @@ payload:
   - domain-suffix,pjful-app.lol
   - domain-suffix,pjgirls.com
   - domain-suffix,pjsekai.sega.jp
+  - domain-suffix,pkgbuild.com
   - domain-suffix,pki-post.ch
   - domain-suffix,pki-posta.ch
   - domain-suffix,pki-poste.ch
@@ -23878,6 +23880,7 @@ payload:
   - domain-suffix,writesonic.com
   - domain-suffix,ws-blau.com
   - domain-suffix,ws-tcg.com
+  - domain-suffix,ws.audioscrobbler.com
   - domain-suffix,wsj.com
   - domain-suffix,wsj.jobs
   - domain-suffix,wsj.net
