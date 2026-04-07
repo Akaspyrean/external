@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     06 Apr 2026 22:31 UTC
-# DOMAIN:      25411
+# UPDATED:     07 Apr 2026 22:34 UTC
+# DOMAIN:      25472
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -223,6 +223,7 @@ payload:
   - domain-suffix,20thcenturystudios.com.br
   - domain-suffix,20thcenturystudios.jp
   - domain-suffix,20yearsoffea.com
+  - domain-suffix,21-school.ru
   - domain-suffix,21centuryaccess.com
   - domain-suffix,21heise360dh.cc
   - domain-suffix,21hub.com
@@ -773,7 +774,6 @@ payload:
   - domain-suffix,addtoany.com
   - domain-suffix,addyoutube.com
   - domain-suffix,adelaidenow.com.au
-  - domain-suffix,adfox.ru
   - domain-suffix,adgoogle.net
   - domain-suffix,adguard-dns.com
   - domain-suffix,adguard-dns.io
@@ -872,7 +872,6 @@ payload:
   - domain-suffix,adidasusnews.com
   - domain-suffix,adinst.com
   - domain-suffix,admeld.com
-  - domain-suffix,admetrica.ru
   - domain-suffix,admob-cn.com
   - domain-suffix,admob.com
   - domain-suffix,adobe-aemassets-value.com
@@ -1025,6 +1024,7 @@ payload:
   - domain-suffix,affinity.api.serifservices.com
   - domain-suffix,affinity.studio
   - domain-suffix,affirmtrust.com
+  - domain-suffix,afisha.ru
   - domain-suffix,afkv28.com
   - domain-suffix,aflamporn.com
   - domain-suffix,aflamsex.net
@@ -1321,6 +1321,7 @@ payload:
   - domain-suffix,alexa.com
   - domain-suffix,alexanderstreet.com
   - domain-suffix,alfabank.ru
+  - domain-suffix,alfabank.st
   - domain-suffix,alfera.com.hk
   - domain-suffix,alfera.com.my
   - domain-suffix,alfera.in
@@ -3337,6 +3338,7 @@ payload:
   - domain-suffix,bengalisexvideos.com
   - domain-suffix,benliton.com
   - domain-suffix,bentobox.tv
+  - domain-suffix,berizaryad.ru
   - domain-suffix,berkanawireless.com
   - domain-suffix,berkeley.edu
   - domain-suffix,berlincompanions.com
@@ -4384,6 +4386,7 @@ payload:
   - domain-suffix,boyvid.com
   - domain-suffix,boyztube.com
   - domain-suffix,bpi.ir
+  - domain-suffix,bps-sberbank.by
   - domain-suffix,br.st
   - domain-suffix,braeburncapital.com
   - domain-suffix,braintreegateway.com
@@ -5094,6 +5097,7 @@ payload:
   - domain-suffix,centervillage.co.jp
   - domain-suffix,centos.org
   - domain-suffix,centralnation.com
+  - domain-suffix,centraluniversity.ru
   - domain-suffix,centralvalidation.com
   - domain-suffix,centrino.com
   - domain-suffix,centrino.net
@@ -5412,6 +5416,7 @@ payload:
   - domain-suffix,citrixandautodesk.com
   - domain-suffix,city-hentai.com
   - domain-suffix,city365.ca
+  - domain-suffix,citydrive.ru
   - domain-suffix,cityheaven.net
   - domain-suffix,citylab.com
   - domain-suffix,cityoflove.com
@@ -5450,6 +5455,7 @@ payload:
   - domain-suffix,claudemcpclient.com
   - domain-suffix,claudeusercontent.com
   - domain-suffix,clawhub.ai
+  - domain-suffix,clck.ru
   - domain-suffix,clco.cc
   - domain-suffix,cldr.unicode.org
   - domain-suffix,clearasil.us
@@ -5482,6 +5488,7 @@ payload:
   - domain-suffix,clitgames.com
   - domain-suffix,clock.isc.org
   - domain-suffix,clojure.org
+  - domain-suffix,cloud.ru
   - domain-suffix,cloudaicompanion.googleapis.com
   - domain-suffix,cloudapp.net
   - domain-suffix,cloudappsecurity.com
@@ -5550,6 +5557,7 @@ payload:
   - domain-suffix,cloupia.com
   - domain-suffix,cloupia.net
   - domain-suffix,clova.ai
+  - domain-suffix,clstorage.net
   - domain-suffix,club1069.com
   - domain-suffix,clubhouse.com
   - domain-suffix,clubhouseapi.com
@@ -5940,6 +5948,7 @@ payload:
   - domain-suffix,ctv.com.tw
   - domain-suffix,ctwant.com
   - domain-suffix,ctyun.online
+  - domain-suffix,cu.ru
   - domain-suffix,cubicmotion.com
   - domain-suffix,cubicodyssey.game
   - domain-suffix,cuckfilmswifefuck.com
@@ -6906,6 +6915,7 @@ payload:
   - domain-suffix,dollarphotoclub.com
   - domain-suffix,dollarphotosclub.com
   - domain-suffix,dolphiners.com
+  - domain-suffix,dolyame.ru
   - domain-suffix,dombosco.com.br
   - domain-suffix,domywife.com
   - domain-suffix,donatecarsoh.org
@@ -7299,6 +7309,7 @@ payload:
   - domain-suffix,eamythic.net
   - domain-suffix,eanordic.com
   - domain-suffix,eaplay.com
+  - domain-suffix,eapteka.ru
   - domain-suffix,earlytibet.com
   - domain-suffix,earngeek.com
   - domain-suffix,earphonescheapest.com
@@ -7547,8 +7558,10 @@ payload:
   - domain-suffix,edninfo.com
   - domain-suffix,edu-research.org
   - domain-suffix,edu.ir
+  - domain-suffix,edu.tinkoff.ru
   - domain-suffix,edubridge.com
   - domain-suffix,education-cadcam.com
+  - domain-suffix,education.tbank.ru
   - domain-suffix,eduplus.hk
   - domain-suffix,edx-cdn.org
   - domain-suffix,edx.org
@@ -7581,6 +7594,7 @@ payload:
   - domain-suffix,ekolojik.org
   - domain-suffix,eksisozluk.com
   - domain-suffix,el-ladies.com
+  - domain-suffix,elama.ru
   - domain-suffix,elasticbeanstalk.com
   - domain-suffix,elconfidencial.com
   - domain-suffix,elderscrolls.com
@@ -9465,6 +9479,8 @@ payload:
   - domain-suffix,gaywatch.com
   - domain-suffix,gazotube.com
   - domain-suffix,gazounabi.com
+  - domain-suffix,gazprombank.com
+  - domain-suffix,gazprombank.investments
   - domain-suffix,gazprombank.ru
   - domain-suffix,gbank.com.mm
   - domain-suffix,gbiz
@@ -9657,6 +9673,7 @@ payload:
   - domain-suffix,giffgaff.design
   - domain-suffix,gifnuki.com
   - domain-suffix,giga-web.jp
+  - domain-suffix,giga.chat
   - domain-suffix,gigabyte.com
   - domain-suffix,gigabyte2.azureedge.net
   - domain-suffix,gigantits.com
@@ -11586,6 +11603,7 @@ payload:
   - domain-suffix,icsd.fiz-karlsruhe.de
   - domain-suffix,icu-project.org
   - domain-suffix,icuminside.com
+  - domain-suffix,id.ru
   - domain-suffix,idarkdoll.com
   - domain-suffix,idcflare.com
   - domain-suffix,idea-server.com
@@ -13265,7 +13283,6 @@ payload:
   - domain-suffix,kinmen.org.tw
   - domain-suffix,kinmen.travel
   - domain-suffix,kinokuniya.com
-  - domain-suffix,kinopoisk-ru.clstorage.net
   - domain-suffix,kinopoisk.ru
   - domain-suffix,kinorium.com
   - domain-suffix,kir2kos.net
@@ -13367,6 +13384,7 @@ payload:
   - domain-suffix,kumo.com
   - domain-suffix,kun66.xyz
   - domain-suffix,kundun1069.com
+  - domain-suffix,kuper.ru
   - domain-suffix,kurtmunger.com
   - domain-suffix,kusugurizanmai.com
   - domain-suffix,kutjeporno.com
@@ -14422,6 +14440,8 @@ payload:
   - domain-suffix,megacamz.com
   - domain-suffix,megafilmporno.com
   - domain-suffix,megalodon.jp
+  - domain-suffix,megamarket.ru
+  - domain-suffix,megamarket.tech
   - domain-suffix,megamon.co.kr
   - domain-suffix,megaphone.fm
   - domain-suffix,megapornfreehd.com
@@ -14495,6 +14515,7 @@ payload:
   - domain-suffix,metartnetwork.com
   - domain-suffix,metcams.com
   - domain-suffix,meteorshowersonline.com
+  - domain-suffix,meteum.ai
   - domain-suffix,metro.co.uk
   - domain-suffix,metro.taipei
   - domain-suffix,metrolife.ca
@@ -16942,6 +16963,7 @@ payload:
   - domain-suffix,otaku55.xyz
   - domain-suffix,otbm.com
   - domain-suffix,otcbtc.com
+  - domain-suffix,otello.ru
   - domain-suffix,otokonokoland.com
   - domain-suffix,otto.de
   - domain-suffix,oudoll.com
@@ -17123,6 +17145,7 @@ payload:
   - domain-suffix,paygonline.com
   - domain-suffix,payhulu.com
   - domain-suffix,paylike.com
+  - domain-suffix,payment.ru
   - domain-suffix,paypa1.com
   - domain-suffix,paypa1.org
   - domain-suffix,paypaal.com
@@ -17429,6 +17452,7 @@ payload:
   - domain-suffix,phimsexnhanh.club
   - domain-suffix,phmsociety.org
   - domain-suffix,phncdn.com
+  - domain-suffix,phoenix-ca.ru
   - domain-suffix,photo-image.monster
   - domain-suffix,photodharma.net
   - domain-suffix,photofocus.com
@@ -17679,6 +17703,7 @@ payload:
   - domain-suffix,pnas.org
   - domain-suffix,po2b.com
   - domain-suffix,pobl-content.com
+  - domain-suffix,pochtabank.ru
   - domain-suffix,pocketbiketrader.com
   - domain-suffix,pocketcasts.com
   - domain-suffix,podbean.com
@@ -18300,6 +18325,8 @@ payload:
   - domain-suffix,prpops.com
   - domain-suffix,prts.plus
   - domain-suffix,ps-exchange.com
+  - domain-suffix,psb-ocenka.ru
+  - domain-suffix,psb.ru
   - domain-suffix,psbank.ru
   - domain-suffix,pscdn.co
   - domain-suffix,pscp.tv
@@ -19155,6 +19182,7 @@ payload:
   - domain-suffix,salvation.org.hk
   - domain-suffix,sambaporno.com
   - domain-suffix,samebags.com
+  - domain-suffix,samokat.ru
   - domain-suffix,samsung
   - domain-suffix,samsung.com
   - domain-suffix,samsungapps.com
@@ -19243,9 +19271,27 @@ payload:
   - domain-suffix,sb.sb
   - domain-suffix,sb24.com
   - domain-suffix,sbank.ir
+  - domain-suffix,sber-bank.by
+  - domain-suffix,sber.pro
   - domain-suffix,sber.ru
+  - domain-suffix,sberauto.com
+  - domain-suffix,sberbank-insurance.ru
   - domain-suffix,sberbank.com
   - domain-suffix,sberbank.ru
+  - domain-suffix,sberbankins.ru
+  - domain-suffix,sbercloud.ru
+  - domain-suffix,sbercloud.tech
+  - domain-suffix,sberdevices.ru
+  - domain-suffix,sberdisk.ru
+  - domain-suffix,sberhealth.ru
+  - domain-suffix,sberindex.ru
+  - domain-suffix,sberleasing.ru
+  - domain-suffix,sberlogistics.ru
+  - domain-suffix,sbermegamarket.ru
+  - domain-suffix,sbermobile.ru
+  - domain-suffix,sberpb.ru
+  - domain-suffix,sberpro.vedomosti.ru
+  - domain-suffix,sbertroika.ru
   - domain-suffix,sbgkstv.shop
   - domain-suffix,sbishinseibank.co.jp
   - domain-suffix,sbitravelcard.com
@@ -19753,6 +19799,7 @@ payload:
   - domain-suffix,shattered.io
   - domain-suffix,shazam.com
   - domain-suffix,shdd.ink
+  - domain-suffix,shedevrum.ai
   - domain-suffix,sheet.new
   - domain-suffix,sheets.new
   - domain-suffix,sheflix.com
@@ -20331,6 +20378,7 @@ payload:
   - domain-suffix,soundofhope.org
   - domain-suffix,soundon.fm
   - domain-suffix,soup.io
+  - domain-suffix,sourcecraft.dev
   - domain-suffix,sourceforge.com
   - domain-suffix,sourceforge.net
   - domain-suffix,sourcegraph.com
@@ -20369,6 +20417,8 @@ payload:
   - domain-suffix,spankred3d.com
   - domain-suffix,spankwire.com
   - domain-suffix,sparkpool.com
+  - domain-suffix,spasibosb.ru
+  - domain-suffix,spasibosberbank.ru
   - domain-suffix,spatial.io
   - domain-suffix,spb.com
   - domain-suffix,spcc-sp.com
@@ -20626,6 +20676,7 @@ payload:
   - domain-suffix,static-economist.com
   - domain-suffix,static-hamivideo.cdn.hinet.net
   - domain-suffix,static-nike.com
+  - domain-suffix,static-storage.net
   - domain-suffix,static-verizon.com
   - domain-suffix,static.fun
   - domain-suffix,static.siege-amazon.com
@@ -20981,9 +21032,13 @@ payload:
   - domain-suffix,szcheapmonsterheadphones.com
   - domain-suffix,szexvideo.top
   - domain-suffix,szwinnertechnology.com
+  - domain-suffix,t-bank-app.ru
   - domain-suffix,t-g.com
+  - domain-suffix,t-j.ru
   - domain-suffix,t-msedge.net
   - domain-suffix,t-splines.com
+  - domain-suffix,t-static.ru
+  - domain-suffix,t-technologies.ru
   - domain-suffix,t.co
   - domain-suffix,t.me
   - domain-suffix,t21.nikkei.co.jp
@@ -21621,6 +21676,10 @@ payload:
   - domain-suffix,tinkercad.com
   - domain-suffix,tinkerentertainment.com
   - domain-suffix,tinkerplay.net
+  - domain-suffix,tinkoff-group.com
+  - domain-suffix,tinkoff.ru
+  - domain-suffix,tinkoffjournal.ru
+  - domain-suffix,tinsurance.ru
   - domain-suffix,tiny.cc
   - domain-suffix,tiny4k.com
   - domain-suffix,tinychat.com
@@ -22270,6 +22329,7 @@ payload:
   - domain-suffix,underwoodammo.com
   - domain-suffix,unfiltered.news
   - domain-suffix,unholyknight.com
+  - domain-suffix,unidraw.io
   - domain-suffix,uninhibitedcomix.com
   - domain-suffix,unirule.cloud
   - domain-suffix,unisat.io
@@ -23532,8 +23592,6 @@ payload:
   - domain-suffix,webtoons.com
   - domain-suffix,webtoonscorp.com
   - domain-suffix,webtype.com
-  - domain-suffix,webvisor.com
-  - domain-suffix,webvisor.org
   - domain-suffix,webwarper.net
   - domain-suffix,wechatlawsuit.com
   - domain-suffix,weebly.com
@@ -24598,11 +24656,11 @@ payload:
   - domain-suffix,xzxxporn.com
   - domain-suffix,xzxxtube.com
   - domain-suffix,y2mate.com
+  - domain-suffix,ya.cc
   - domain-suffix,ya.ru
   - domain-suffix,yaddal.tv
   - domain-suffix,yadi.sk
   - domain-suffix,yadori.club
-  - domain-suffix,yads.tech
   - domain-suffix,yaeby.info
   - domain-suffix,yaeby.pro
   - domain-suffix,yahoo
@@ -24775,10 +24833,9 @@ payload:
   - domain-suffix,yande.re
   - domain-suffix,yandex
   - domain-suffix,yandex-bank.net
-  - domain-suffix,yandex-images.clstorage.net
-  - domain-suffix,yandex-pogoda.static-storage.net
   - domain-suffix,yandex-team.ru
   - domain-suffix,yandex.aero
+  - domain-suffix,yandex.asia
   - domain-suffix,yandex.az
   - domain-suffix,yandex.by
   - domain-suffix,yandex.cloud
@@ -24800,6 +24857,7 @@ payload:
   - domain-suffix,yandex.lt
   - domain-suffix,yandex.lv
   - domain-suffix,yandex.md
+  - domain-suffix,yandex.mobi
   - domain-suffix,yandex.net
   - domain-suffix,yandex.org
   - domain-suffix,yandex.pl
@@ -24814,7 +24872,7 @@ payload:
   - domain-suffix,yandexadexchange.net
   - domain-suffix,yandexcloud.net
   - domain-suffix,yandexcom.net
-  - domain-suffix,yandexmetrica.com
+  - domain-suffix,yandexlyceum.ru
   - domain-suffix,yandexwebcache.net
   - domain-suffix,yandexwebcache.org
   - domain-suffix,yangzhi.app
@@ -24839,6 +24897,7 @@ payload:
   - domain-suffix,yaya.cyou
   - domain-suffix,yayadizhi.xyz
   - domain-suffix,yazhouse8.com
+  - domain-suffix,yccdn.ru
   - domain-suffix,ycombinator.com
   - domain-suffix,ydn.com.tw
   - domain-suffix,yeahteentube.com
@@ -25399,6 +25458,8 @@ payload:
   - domain-suffix,zuobiao.me
   - domain-suffix,zuola.com
   - domain-suffix,zvereff.com
+  - domain-suffix,zvuk-b2b.com
+  - domain-suffix,zvuk.com
   - domain-suffix,zweiporn.com
   - domain-suffix,zwtvusa.com
   - domain-suffix,zynamics.com
