@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     07 Apr 2026 22:34 UTC
-# DOMAIN:      25472
+# UPDATED:     08 Apr 2026 22:34 UTC
+# DOMAIN:      25471
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5851,6 +5851,7 @@ payload:
   - domain-suffix,crackle.com
   - domain-suffix,craigslist.org
   - domain-suffix,crankplayer.com
+  - domain-suffix,crashlytics.com
   - domain-suffix,crates.io
   - domain-suffix,crazy-amateurs.com
   - domain-suffix,crazyav.xyz
@@ -8687,7 +8688,6 @@ payload:
   - domain-suffix,fiotolia.com
   - domain-suffix,fire-emblem-heroes.com
   - domain-suffix,firearmsworld.net
-  - domain-suffix,firebase-settings.crashlytics.com
   - domain-suffix,firebase.com
   - domain-suffix,firebase.google.com
   - domain-suffix,firebase.googleapis.com
@@ -22363,7 +22363,6 @@ payload:
   - domain-suffix,up.audio
   - domain-suffix,up01.cc
   - domain-suffix,upbit.com
-  - domain-suffix,update.crashlytics.com
   - domain-suffix,updatetube.com
   - domain-suffix,upfrontcfd.com
   - domain-suffix,upfrontfea.com
