@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     08 Apr 2026 22:34 UTC
-# DOMAIN:      25471
+# UPDATED:     09 Apr 2026 22:36 UTC
+# DOMAIN:      25469
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -14432,7 +14432,6 @@ payload:
   - domain-suffix,meetandfuckgames.com
   - domain-suffix,meetfasttrack.com
   - domain-suffix,meetsmartbook.com
-  - domain-suffix,meetup.com
   - domain-suffix,meetyourdevices.com
   - domain-suffix,mega.co.nz
   - domain-suffix,mega.io
@@ -18426,7 +18425,6 @@ payload:
   - domain-suffix,python.com.tw
   - domain-suffix,python.org
   - domain-suffix,pythonhosted.org
-  - domain-suffix,pytorch.org
   - domain-suffix,pzforever.skin
   - domain-suffix,pzforever01.homes
   - domain-suffix,pzhanfor.today
