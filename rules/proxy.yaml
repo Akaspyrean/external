@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     09 Apr 2026 22:36 UTC
-# DOMAIN:      25469
+# UPDATED:     10 Apr 2026 22:32 UTC
+# DOMAIN:      25515
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1771,11 +1771,9 @@ payload:
   - domain-suffix,ankarazirvesi2018.com
   - domain-suffix,anm.co.uk
   - domain-suffix,annamilk.com
-  - domain-suffix,annas-archive.in
-  - domain-suffix,annas-archive.li
-  - domain-suffix,annas-archive.org
-  - domain-suffix,annas-archive.pm
-  - domain-suffix,annas-archive.se
+  - domain-suffix,annas-archive.gd
+  - domain-suffix,annas-archive.gl
+  - domain-suffix,annas-archive.pk
   - domain-suffix,annstores.net
   - domain-suffix,annualpelvicexam.com
   - domain-suffix,annualreviews.org
@@ -4721,6 +4719,7 @@ payload:
   - domain-suffix,c3pool.com
   - domain-suffix,c4rex.co
   - domain-suffix,c4slive.com
+  - domain-suffix,cabconnect.org
   - domain-suffix,cableav.tv
   - domain-suffix,cableav.xyz
   - domain-suffix,cablegatesearch.net
@@ -4820,6 +4819,7 @@ payload:
   - domain-suffix,candidforum-videos.com
   - domain-suffix,candycumcity.com
   - domain-suffix,candypleasure.com
+  - domain-suffix,canny.io
   - domain-suffix,canon
   - domain-suffix,canon-cee.com
   - domain-suffix,canon-cmos-sensors.com
@@ -7063,6 +7063,7 @@ payload:
   - domain-suffix,dreprofy.com
   - domain-suffix,drgan.net
   - domain-suffix,dribbble.com
+  - domain-suffix,driveawaytaxi.org
   - domain-suffix,driverxxx.com
   - domain-suffix,drivevideo.xyz
   - domain-suffix,driving.co.uk
@@ -7734,6 +7735,9 @@ payload:
   - domain-suffix,entrust.com
   - domain-suffix,entrust.net
   - domain-suffix,entrustdatacard.com
+  - domain-suffix,envato-static.com
+  - domain-suffix,envato.com
+  - domain-suffix,envatousercontent.com
   - domain-suffix,eotarchive.org
   - domain-suffix,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
   - domain-suffix,epicbrowser.com
@@ -9870,6 +9874,7 @@ payload:
   - domain-suffix,gofundme.com
   - domain-suffix,gog-statics.com
   - domain-suffix,gog.com
+  - domain-suffix,gogettaxi.org
   - domain-suffix,gogle.com
   - domain-suffix,gogo-load.com
   - domain-suffix,gogoanime.vc
@@ -10238,6 +10243,7 @@ payload:
   - domain-suffix,gotraffic.net
   - domain-suffix,gotrusted.com
   - domain-suffix,gotw.ca
+  - domain-suffix,goup.ai
   - domain-suffix,gouri.xyz
   - domain-suffix,gov.ir
   - domain-suffix,gov.taipei
@@ -10495,6 +10501,7 @@ payload:
   - domain-suffix,hayabusa.media
   - domain-suffix,hayday.com
   - domain-suffix,haydaygame.com
+  - domain-suffix,hayya.ae
   - domain-suffix,hbabit.com
   - domain-suffix,hbfile.net
   - domain-suffix,hbg.com
@@ -12883,6 +12890,21 @@ payload:
   - domain-suffix,jiuse821.com
   - domain-suffix,jiuse822.com
   - domain-suffix,jiuse823.com
+  - domain-suffix,jivo.chat
+  - domain-suffix,jivo.ru
+  - domain-suffix,jivochat.co.in
+  - domain-suffix,jivochat.co.za
+  - domain-suffix,jivochat.com
+  - domain-suffix,jivochat.com.br
+  - domain-suffix,jivochat.com.co
+  - domain-suffix,jivochat.com.pe
+  - domain-suffix,jivochat.com.tr
+  - domain-suffix,jivochat.de
+  - domain-suffix,jivochat.es
+  - domain-suffix,jivochat.ng
+  - domain-suffix,jivochat.ru
+  - domain-suffix,jivosite.com
+  - domain-suffix,jivosite.ru
   - domain-suffix,jiyou520.com
   - domain-suffix,jiyu-kobo.co.jp
   - domain-suffix,jizzboom.com
@@ -15467,6 +15489,7 @@ payload:
   - domain-suffix,my-enema.com
   - domain-suffix,my-formosa.com
   - domain-suffix,my-magazine.me
+  - domain-suffix,my-manager-account.com
   - domain-suffix,my-private-network.co.uk
   - domain-suffix,my.pcloud.com
   - domain-suffix,my13la.com
@@ -16406,6 +16429,7 @@ payload:
   - domain-suffix,ntp.ripe.net
   - domain-suffix,ntp.se
   - domain-suffix,ntp.t.ring.gr.jp
+  - domain-suffix,ntp.time.nl
   - domain-suffix,ntp.tohoku.ac.jp
   - domain-suffix,ntp.tut.ac.jp
   - domain-suffix,ntp.ubuntu.com
@@ -16416,6 +16440,7 @@ payload:
   - domain-suffix,ntp1.ntp-servers.net
   - domain-suffix,ntp1.plala.or.jp
   - domain-suffix,ntp1.ring.gr.jp
+  - domain-suffix,ntp1.time.nl
   - domain-suffix,ntp1.tohoku.ac.jp
   - domain-suffix,ntp1.v6.mfeed.ad.jp
   - domain-suffix,ntp1.wakwak.com
@@ -16423,6 +16448,7 @@ payload:
   - domain-suffix,ntp2.ntp-servers.net
   - domain-suffix,ntp2.plala.or.jp
   - domain-suffix,ntp2.ring.gr.jp
+  - domain-suffix,ntp2.time.nl
   - domain-suffix,ntp2.tohoku.ac.jp
   - domain-suffix,ntp2.v6.mfeed.ad.jp
   - domain-suffix,ntp2.wakwak.com
@@ -16433,6 +16459,8 @@ payload:
   - domain-suffix,ntp5.ntp-servers.net
   - domain-suffix,ntp6.ntp-servers.net
   - domain-suffix,ntp7.ntp-servers.net
+  - domain-suffix,ntppool1.time.nl
+  - domain-suffix,ntppool2.time.nl
   - domain-suffix,ntten-mg.buzz
   - domain-suffix,nu-bay.com
   - domain-suffix,nu36.vip
@@ -20907,6 +20935,7 @@ payload:
   - domain-suffix,superzooi.com
   - domain-suffix,supjav.com
   - domain-suffix,supplybestjerseys.com
+  - domain-suffix,support-uber.com
   - domain-suffix,supportfacebook.com
   - domain-suffix,supremacy.com
   - domain-suffix,supremacy.net
@@ -21123,7 +21152,10 @@ payload:
   - domain-suffix,tawny-peaks.com
   - domain-suffix,taxel.media
   - domain-suffix,taxi69.com
+  - domain-suffix,taxiaid.org
   - domain-suffix,taxidrivermovie.com
+  - domain-suffix,taxiguru.org
+  - domain-suffix,taxitax.org
   - domain-suffix,taylorandfrancis.com
   - domain-suffix,taylorfrancis.com
   - domain-suffix,tbank-online.com
@@ -21160,7 +21192,6 @@ payload:
   - domain-suffix,technogym.su
   - domain-suffix,technologyandsociety.org
   - domain-suffix,techradar.com
-  - domain-suffix,techspot.com
   - domain-suffix,techstreet.com
   - domain-suffix,techtimes.com
   - domain-suffix,techtudo.com
@@ -21214,7 +21245,6 @@ payload:
   - domain-suffix,telegram.org
   - domain-suffix,telegram.space
   - domain-suffix,telegramdownload.com
-  - domain-suffix,telegraph.co.uk
   - domain-suffix,telekom.com
   - domain-suffix,telekom.de
   - domain-suffix,telesco.pe
@@ -21399,6 +21429,7 @@ payload:
   - domain-suffix,theman.in
   - domain-suffix,themarvelexperiencetour.com
   - domain-suffix,themathsfactor.com
+  - domain-suffix,themeforest.net
   - domain-suffix,themercury.com.au
   - domain-suffix,themessengeradelaide.com.au
   - domain-suffix,themilfmovies.com
@@ -22453,6 +22484,7 @@ payload:
   - domain-suffix,uvwxyz.xyz
   - domain-suffix,uwants.com
   - domain-suffix,uwpcommunitytoolkit.com
+  - domain-suffix,uxthemes.com
   - domain-suffix,uyghur-j.org
   - domain-suffix,uyghuraa.org
   - domain-suffix,uyghuramerican.org
@@ -24869,9 +24901,23 @@ payload:
   - domain-suffix,yandexadexchange.net
   - domain-suffix,yandexcloud.net
   - domain-suffix,yandexcom.net
+  - domain-suffix,yandexgo.com
   - domain-suffix,yandexlyceum.ru
   - domain-suffix,yandexwebcache.net
   - domain-suffix,yandexwebcache.org
+  - domain-suffix,yango-b2b.com
+  - domain-suffix,yango-team.com
+  - domain-suffix,yango-tech.com
+  - domain-suffix,yango.africa
+  - domain-suffix,yango.ao
+  - domain-suffix,yango.bh
+  - domain-suffix,yango.co.il
+  - domain-suffix,yango.com
+  - domain-suffix,yango.fi
+  - domain-suffix,yango.qa
+  - domain-suffix,yango.taxi
+  - domain-suffix,yango.tech
+  - domain-suffix,yangofellowship.com
   - domain-suffix,yangzhi.app
   - domain-suffix,yangzhi.org
   - domain-suffix,yantaqu.com

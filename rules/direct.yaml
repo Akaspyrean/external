@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     09 Apr 2026 22:36 UTC
-# DOMAIN:      118569
+# UPDATED:     10 Apr 2026 22:32 UTC
+# DOMAIN:      118578
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -13156,6 +13156,7 @@ payload:
   - domain-suffix,anysql.net
   - domain-suffix,anystandards.com
   - domain-suffix,anytesting.com
+  - domain-suffix,anytocopy.com
   - domain-suffix,anyun100.com
   - domain-suffix,anyunjianzhan.com
   - domain-suffix,anyv.net
@@ -29159,6 +29160,7 @@ payload:
   - domain-suffix,daoboime.com
   - domain-suffix,daochen.com
   - domain-suffix,daocloud.io
+  - domain-suffix,daocloud.vip
   - domain-suffix,daocloudapp.com
   - domain-suffix,daodao.com
   - domain-suffix,daodaojizhang.com
@@ -38742,6 +38744,7 @@ payload:
   - domain-suffix,gamenow.club
   - domain-suffix,gameol.com
   - domain-suffix,gamepingce.com
+  - domain-suffix,gamepp.com
   - domain-suffix,gamer520.net
   - domain-suffix,gamerboom.com
   - domain-suffix,gameres.com
@@ -47728,6 +47731,7 @@ payload:
   - domain-suffix,hezijia.com
   - domain-suffix,hezimi.com
   - domain-suffix,hezongyy.com
+  - domain-suffix,hezuvip.com
   - domain-suffix,hf-alu.com
   - domain-suffix,hf-aw.com
   - domain-suffix,hf-iflysse.com
@@ -75538,6 +75542,7 @@ payload:
   - domain-suffix,osaaa.com
   - domain-suffix,osakacopyshop.com
   - domain-suffix,osase.net
+  - domain-suffix,osbdf.com
   - domain-suffix,osbean.com
   - domain-suffix,osbkj.com
   - domain-suffix,osbzr.com
@@ -83944,6 +83949,7 @@ payload:
   - domain-suffix,scqy100.com
   - domain-suffix,scraij.com
   - domain-suffix,scrape.center
+  - domain-suffix,scratch5.com
   - domain-suffix,scratchmirror.com
   - domain-suffix,scratchmirror.net
   - domain-suffix,scrc168.com
@@ -89216,6 +89222,7 @@ payload:
   - domain-suffix,soulapp.me
   - domain-suffix,soulgame.mobi
   - domain-suffix,soulsky.net
+  - domain-suffix,soulteary.com
   - domain-suffix,soulu365.com
   - domain-suffix,souluo.net
   - domain-suffix,souluojie.com
@@ -94458,6 +94465,7 @@ payload:
   - domain-suffix,tillcn.com
   - domain-suffix,tillglance.com
   - domain-suffix,timanetworks.com
+  - domain-suffix,timbrd.com
   - domain-suffix,time-weekly.com
   - domain-suffix,time-year.com
   - domain-suffix,time.amazonaws.cn
@@ -101592,6 +101600,7 @@ payload:
   - domain-suffix,wilddog.com
   - domain-suffix,wilddream.net
   - domain-suffix,wildfire.work
+  - domain-suffix,wildfirechat.net
   - domain-suffix,wildgun.net
   - domain-suffix,wildhorde.com
   - domain-suffix,wildto.com
