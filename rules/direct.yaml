@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     11 Apr 2026 22:26 UTC
-# DOMAIN:      118509
+# UPDATED:     12 Apr 2026 22:28 UTC
+# DOMAIN:      118514
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -32415,6 +32415,7 @@ payload:
   - domain-suffix,dubairen.com
   - domain-suffix,dubao123.com
   - domain-suffix,dubbing.tech
+  - domain-suffix,dubbingx.com
   - domain-suffix,dubbo.io
   - domain-suffix,duble.live
   - domain-suffix,dubola.com
@@ -69298,6 +69299,7 @@ payload:
   - domain-suffix,miaocode.com
   - domain-suffix,miaodiyun.com
   - domain-suffix,miaodongbar.com
+  - domain-suffix,miaodongshenghuo.com
   - domain-suffix,miaogongzi.cc
   - domain-suffix,miaogongzi.net
   - domain-suffix,miaohuiyanyi.com
@@ -80382,6 +80384,7 @@ payload:
   - domain-suffix,quaspa.com
   - domain-suffix,quazero.com
   - domain-suffix,quba360.com
+  - domain-suffix,qubang.cc
   - domain-suffix,qubaobei.com
   - domain-suffix,qubiankeji.com
   - domain-suffix,qucai.com
@@ -95878,6 +95881,7 @@ payload:
   - domain-suffix,tsg-online.net
   - domain-suffix,tsggx.com
   - domain-suffix,tsgks.com
+  - domain-suffix,tsgyun.com
   - domain-suffix,tshaisen.com
   - domain-suffix,tshe.com
   - domain-suffix,tshe.me
@@ -110995,6 +110999,7 @@ payload:
   - domain-suffix,yooek.com
   - domain-suffix,yoofh.com
   - domain-suffix,yoogene.com
+  - domain-suffix,yoohe.net
   - domain-suffix,yoohouse.com
   - domain-suffix,yoojia.com
   - domain-suffix,yoojing.com
