@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     14 Apr 2026 22:40 UTC
-# DOMAIN:      118551
+# UPDATED:     15 Apr 2026 22:37 UTC
+# DOMAIN:      118563
 # IP-RELATED:  19
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -11731,6 +11731,7 @@ payload:
   - domain-suffix,ailvxing.com
   - domain-suffix,aim-ec.com
   - domain-suffix,aimaker.space
+  - domain-suffix,aimap.com
   - domain-suffix,aimatech.com
   - domain-suffix,aimatrix.ai
   - domain-suffix,aimcx.com
@@ -17419,6 +17420,7 @@ payload:
   - domain-suffix,bjfqy.com
   - domain-suffix,bjfriendshiphotel.com
   - domain-suffix,bjfsali.com
+  - domain-suffix,bjftfy.com
   - domain-suffix,bjfzst.com
   - domain-suffix,bjgas.com
   - domain-suffix,bjgasgh.com
@@ -21333,6 +21335,7 @@ payload:
   - domain-suffix,cetgps.com
   - domain-suffix,cethik.com
   - domain-suffix,cetkmh.com
+  - domain-suffix,cetsteam.com
   - domain-suffix,cetzig.com
   - domain-suffix,ceultimate.com
   - domain-suffix,ceve-market.org
@@ -35115,6 +35118,7 @@ payload:
   - domain-suffix,evpartner.com
   - domain-suffix,evpowergroup.com
   - domain-suffix,evtcn.com
+  - domain-suffix,evtrust.com
   - domain-suffix,evyy.net
   - domain-suffix,evzhidao.com
   - domain-suffix,evznl.org
@@ -37075,6 +37079,7 @@ payload:
   - domain-suffix,fk100.com
   - domain-suffix,fkask.net
   - domain-suffix,fkblog.org
+  - domain-suffix,fkbuff.com
   - domain-suffix,fkcaijing.com
   - domain-suffix,fkdex.com
   - domain-suffix,fkdmg.com
@@ -38784,6 +38789,7 @@ payload:
   - domain-suffix,gangqinxiansheng.com
   - domain-suffix,gangshenglian.com
   - domain-suffix,gangtise.com
+  - domain-suffix,gangwan.com
   - domain-suffix,gangyu.org
   - domain-suffix,gangyuan.com
   - domain-suffix,ganhao.vip
@@ -48309,6 +48315,7 @@ payload:
   - domain-suffix,hivictor.net
   - domain-suffix,hiwafer.com
   - domain-suffix,hiwaysemi.com
+  - domain-suffix,hiwayslaw.com
   - domain-suffix,hiwbb.com
   - domain-suffix,hiwechats.com
   - domain-suffix,hiweixiu.com
@@ -60102,6 +60109,7 @@ payload:
   - domain-suffix,jxxdxy.com
   - domain-suffix,jxxhdn.com
   - domain-suffix,jxxhsd.com
+  - domain-suffix,jxxinzhe.com
   - domain-suffix,jxxnyqc.com
   - domain-suffix,jxxs.net
   - domain-suffix,jxycqy.com
@@ -63924,6 +63932,7 @@ payload:
   - domain-suffix,leidacj.com
   - domain-suffix,leidianip.com
   - domain-suffix,leigod.com
+  - domain-suffix,leigodjsq.com
   - domain-suffix,leihetg.com
   - domain-suffix,leihuo.net
   - domain-suffix,leijue.net
@@ -73652,6 +73661,7 @@ payload:
   - domain-suffix,nnbdfyy.com
   - domain-suffix,nnbnutritionchina.com
   - domain-suffix,nnboao.com
+  - domain-suffix,nnbooster.com
   - domain-suffix,nnboyi.com
   - domain-suffix,nnbsjyk.com
   - domain-suffix,nnbtl.com
@@ -93375,6 +93385,7 @@ payload:
   - domain-suffix,tencentcloudclub.com
   - domain-suffix,tencentcloudcore.com
   - domain-suffix,tencentcloudcr.com
+  - domain-suffix,tencentcloudcs.com
   - domain-suffix,tencentcloudga.com
   - domain-suffix,tencentcloudga001.com
   - domain-suffix,tencentcloudga001.net
@@ -99280,6 +99291,7 @@ payload:
   - domain-suffix,waibao12333.com
   - domain-suffix,waibaodashi.com
   - domain-suffix,waibou.com
+  - domain-suffix,waifushangcheng.com
   - domain-suffix,waig8.com
   - domain-suffix,waigamer.com
   - domain-suffix,waigf.com
