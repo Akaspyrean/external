@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     16 Apr 2026 22:35 UTC
-# DOMAIN:      25965
+# UPDATED:     17 Apr 2026 22:33 UTC
+# DOMAIN:      26008
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -264,8 +264,8 @@ payload:
   - domain-suffix,2gis.kg
   - domain-suffix,2gis.kz
   - domain-suffix,2gis.ru
+  - domain-suffix,2gis.tech
   - domain-suffix,2gis.tj
-  - domain-suffix,2gis.ua
   - domain-suffix,2gis.uz
   - domain-suffix,2k.com
   - domain-suffix,2kcoretech.online
@@ -2406,6 +2406,7 @@ payload:
   - domain-suffix,asus.com
   - domain-suffix,asuscloud.com
   - domain-suffix,asuswebstorage.com
+  - domain-suffix,at.ua
   - domain-suffix,atandt.com
   - domain-suffix,atc.org.au
   - domain-suffix,atchinese.com
@@ -2439,6 +2440,7 @@ payload:
   - domain-suffix,att.jobs
   - domain-suffix,att.net
   - domain-suffix,att.tv
+  - domain-suffix,attachmail.ru
   - domain-suffix,attachmy.com
   - domain-suffix,attackers.net
   - domain-suffix,attalascom.com
@@ -2687,6 +2689,7 @@ payload:
   - domain-suffix,avinetworks.com
   - domain-suffix,avinin.com
   - domain-suffix,avira.com
+  - domain-suffix,avistaz.to
   - domain-suffix,avito.ru
   - domain-suffix,avito.st
   - domain-suffix,avizoon.site
@@ -3334,6 +3337,8 @@ payload:
   - domain-suffix,beforeigners.com
   - domain-suffix,befuck.com
   - domain-suffix,befuck.net
+  - domain-suffix,beget.com
+  - domain-suffix,beget.ru
   - domain-suffix,begin-trade.com
   - domain-suffix,behance.net
   - domain-suffix,behindthescreenz.com
@@ -9751,6 +9756,7 @@ payload:
   - domain-suffix,ghut.org
   - domain-suffix,giantessbooru.com
   - domain-suffix,giantessnight.com
+  - domain-suffix,gid.ru
   - domain-suffix,giffgaff.com
   - domain-suffix,giffgaff.design
   - domain-suffix,gifnuki.com
@@ -16912,6 +16918,7 @@ payload:
   - domain-suffix,okkisokuho.com
   - domain-suffix,okko.sport
   - domain-suffix,okko.tv
+  - domain-suffix,okkoapi.tv
   - domain-suffix,okl.lt
   - domain-suffix,oklink.com
   - domain-suffix,okpool.me
@@ -18537,6 +18544,7 @@ payload:
   - domain-suffix,projectshoreline.com
   - domain-suffix,projectvasari.com
   - domain-suffix,projectvoyeur.com
+  - domain-suffix,promodj.com
   - domain-suffix,promonsterbeatsbydre.com
   - domain-suffix,prompthero.com
   - domain-suffix,pron.guru
@@ -19734,6 +19742,7 @@ payload:
   - domain-suffix,screenwisetrendspanel.com
   - domain-suffix,screw-my-wife.com
   - domain-suffix,scribd.com
+  - domain-suffix,scripts-for-ucoz.ru
   - domain-suffix,scriptspot.com
   - domain-suffix,scrolller.com
   - domain-suffix,sculpoly.com
@@ -22008,6 +22017,8 @@ payload:
   - domain-suffix,timesnownews.com
   - domain-suffix,timesofindia.indiatimes.com
   - domain-suffix,timestalks.com
+  - domain-suffix,timeweb.cloud
+  - domain-suffix,timeweb.com
   - domain-suffix,timi1.me
   - domain-suffix,timo0.com
   - domain-suffix,timtales.com
@@ -22457,6 +22468,7 @@ payload:
   - domain-suffix,twblogger.com
   - domain-suffix,twca.com.tw
   - domain-suffix,twcomix.com
+  - domain-suffix,twcstorage.ru
   - domain-suffix,tweakadmin.com
   - domain-suffix,tweakfilms.com
   - domain-suffix,tweaksoftware.com
@@ -22622,6 +22634,30 @@ payload:
   - domain-suffix,uchi.ru
   - domain-suffix,uchicago.edu
   - domain-suffix,ucla.edu
+  - domain-suffix,ucoz.ae
+  - domain-suffix,ucoz.club
+  - domain-suffix,ucoz.co
+  - domain-suffix,ucoz.co.il
+  - domain-suffix,ucoz.co.uk
+  - domain-suffix,ucoz.com
+  - domain-suffix,ucoz.com.br
+  - domain-suffix,ucoz.com.ro
+  - domain-suffix,ucoz.de
+  - domain-suffix,ucoz.es
+  - domain-suffix,ucoz.fr
+  - domain-suffix,ucoz.hu
+  - domain-suffix,ucoz.kz
+  - domain-suffix,ucoz.lv
+  - domain-suffix,ucoz.md
+  - domain-suffix,ucoz.net
+  - domain-suffix,ucoz.org
+  - domain-suffix,ucoz.pl
+  - domain-suffix,ucoz.ru
+  - domain-suffix,ucoz.site
+  - domain-suffix,ucoz.ua
+  - domain-suffix,ucozmedia.com
+  - domain-suffix,ucozmedia.ru
+  - domain-suffix,ucoztemplates.com
   - domain-suffix,udacity.com
   - domain-suffix,udemy.com
   - domain-suffix,udemycdn.com
@@ -22635,6 +22671,7 @@ payload:
   - domain-suffix,ueberamazon.de
   - domain-suffix,uflash.tv
   - domain-suffix,uforadio.com.tw
+  - domain-suffix,uguide.ru
   - domain-suffix,uguisupapa.net
   - domain-suffix,uhairy.com
   - domain-suffix,uhdwallpapers.org
@@ -22651,6 +22688,10 @@ payload:
   - domain-suffix,ujizzcn.com
   - domain-suffix,uk-exhibitionist.com
   - domain-suffix,ukipad.com
+  - domain-suffix,ukit.ai
+  - domain-suffix,ukit.com
+  - domain-suffix,ukit.group
+  - domain-suffix,ukit.me
   - domain-suffix,uku.im
   - domain-suffix,ukwhoswho.com
   - domain-suffix,ulifestyle.com.hk
@@ -22664,6 +22705,7 @@ payload:
   - domain-suffix,ultrasurf.us
   - domain-suffix,ultravpn.com
   - domain-suffix,ultravpn.fr
+  - domain-suffix,uma.media
   - domain-suffix,umagazine.com.hk
   - domain-suffix,umass.edu
   - domain-suffix,umbrella.com
@@ -24744,6 +24786,7 @@ payload:
   - domain-suffix,xlstudio.com
   - domain-suffix,xlydh.cc
   - domain-suffix,xm.com
+  - domain-suffix,xmail.ru
   - domain-suffix,xmalay.com
   - domain-suffix,xmature.su
   - domain-suffix,xmav99.com
