@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     19 Apr 2026 22:29 UTC
-# DOMAIN:      26008
+# UPDATED:     20 Apr 2026 22:38 UTC
+# DOMAIN:      26009
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -789,6 +789,7 @@ DOMAIN-SUFFIX,ADGUARD.INFO
 DOMAIN-SUFFIX,ADGUARD.IO
 DOMAIN-SUFFIX,ADGUARD.ORG
 DOMAIN-SUFFIX,ADGUARDACCOUNT.COM
+DOMAIN-SUFFIX,ADGUARDCDN.COM
 DOMAIN-SUFFIX,ADGUARDVPN.COM
 DOMAIN-SUFFIX,ADHELPNEWS.COM
 DOMAIN-SUFFIX,ADIDAS-ARCHIVE.ORG

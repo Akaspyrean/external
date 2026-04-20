@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     19 Apr 2026 22:29 UTC
-# DOMAIN:      26008
+# UPDATED:     20 Apr 2026 22:38 UTC
+# DOMAIN:      26009
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -790,6 +790,7 @@ payload:
   - domain-suffix,adguard.io
   - domain-suffix,adguard.org
   - domain-suffix,adguardaccount.com
+  - domain-suffix,adguardcdn.com
   - domain-suffix,adguardvpn.com
   - domain-suffix,adhelpnews.com
   - domain-suffix,adidas-archive.org
