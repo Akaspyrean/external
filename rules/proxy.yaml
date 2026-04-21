@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     20 Apr 2026 22:38 UTC
-# DOMAIN:      26009
+# UPDATED:     21 Apr 2026 22:34 UTC
+# DOMAIN:      26011
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -15099,6 +15099,7 @@ payload:
   - domain-suffix,minilondon.co
   - domain-suffix,minimarkham.ca
   - domain-suffix,minimarkham.com
+  - domain-suffix,minimax.io
   - domain-suffix,minimoncton.ca
   - domain-suffix,minimoncton.com
   - domain-suffix,minimontrealcentre.ca
@@ -19724,6 +19725,7 @@ payload:
   - domain-suffix,scolle.net
   - domain-suffix,scoop.sh
   - domain-suffix,scopus.com
+  - domain-suffix,scorecardresearch.com
   - domain-suffix,scoreclassics.com
   - domain-suffix,scorediscounts.club
   - domain-suffix,scoregroup.com
