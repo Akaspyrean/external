@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     21 Apr 2026 22:34 UTC
-# DOMAIN:      26011
+# UPDATED:     22 Apr 2026 22:42 UTC
+# DOMAIN:      26012
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12063,6 +12063,7 @@ payload:
   - domain-suffix,improd.works
   - domain-suffix,imstagram.com
   - domain-suffix,imtagram.com
+  - domain-suffix,imtintl.com
   - domain-suffix,imzog.com
   - domain-suffix,inaporn.com
   - domain-suffix,inasian.club

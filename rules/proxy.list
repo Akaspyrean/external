@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     21 Apr 2026 22:34 UTC
-# DOMAIN:      26011
+# UPDATED:     22 Apr 2026 22:42 UTC
+# DOMAIN:      26012
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12062,6 +12062,7 @@ DOMAIN-SUFFIX,IMPERMIUM.COM
 DOMAIN-SUFFIX,IMPROD.WORKS
 DOMAIN-SUFFIX,IMSTAGRAM.COM
 DOMAIN-SUFFIX,IMTAGRAM.COM
+DOMAIN-SUFFIX,IMTINTL.COM
 DOMAIN-SUFFIX,IMZOG.COM
 DOMAIN-SUFFIX,INAPORN.COM
 DOMAIN-SUFFIX,INASIAN.CLUB
