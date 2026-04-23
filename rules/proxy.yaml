@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     22 Apr 2026 22:42 UTC
-# DOMAIN:      26012
+# UPDATED:     23 Apr 2026 22:38 UTC
+# DOMAIN:      26020
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -2363,6 +2363,7 @@ payload:
   - domain-suffix,asianwifeporn.com
   - domain-suffix,asianxxxvideos.cc
   - domain-suffix,asiaone.com
+  - domain-suffix,asiasociety.org
   - domain-suffix,asjmapihost.cc
   - domain-suffix,ask.com
   - domain-suffix,askfacebook.net
@@ -3357,6 +3358,7 @@ payload:
   - domain-suffix,bell.wiki
   - domain-suffix,bellebound.com
   - domain-suffix,bellesa.co
+  - domain-suffix,bellingcat.com
   - domain-suffix,bellotube.com
   - domain-suffix,bellsouth.net
   - domain-suffix,benaughty.fun
@@ -5935,6 +5937,7 @@ payload:
   - domain-suffix,crececonebay.com
   - domain-suffix,creditcardsbay.com
   - domain-suffix,creditkarma.com
+  - domain-suffix,crewai.com
   - domain-suffix,cricketcountry.com
   - domain-suffix,cristyli.com
   - domain-suffix,crit-staging.com
@@ -13597,6 +13600,7 @@ payload:
   - domain-suffix,lamnia.co.uk
   - domain-suffix,lanasbigboobs.com
   - domain-suffix,landofhope.tv
+  - domain-suffix,langchain.com
   - domain-suffix,langsuirs.com
   - domain-suffix,lanik.us
   - domain-suffix,lanmdh.net
@@ -13914,6 +13918,7 @@ payload:
   - domain-suffix,lmm167.shop
   - domain-suffix,lmmbtc.com
   - domain-suffix,lms01.com
+  - domain-suffix,lmstudio.ai
   - domain-suffix,lnkd.in
   - domain-suffix,lnstagram-help.com
   - domain-suffix,loanbuilder.com
@@ -16946,6 +16951,7 @@ payload:
   - domain-suffix,olevod.tv
   - domain-suffix,olevodtv.com
   - domain-suffix,oli-school.com
+  - domain-suffix,ollama.com
   - domain-suffix,olumpo.com
   - domain-suffix,omafotze.com
   - domain-suffix,omakase.in
@@ -18915,6 +18921,7 @@ payload:
   - domain-suffix,raw.githack.com
   - domain-suffix,rawgit.com
   - domain-suffix,rawgithub.com
+  - domain-suffix,rawstory.com
   - domain-suffix,rayark.download
   - domain-suffix,rayark.net
   - domain-suffix,razer.com
@@ -19048,6 +19055,7 @@ payload:
   - domain-suffix,recoiljs.org
   - domain-suffix,reconinstruments.com
   - domain-suffix,reconjet.com
+  - domain-suffix,recordedfuture.com
   - domain-suffix,recoveryversion.com.tw
   - domain-suffix,red-lang.org
   - domain-suffix,redamateurtube.com
@@ -20713,7 +20721,6 @@ payload:
   - domain-suffix,soyinyj.top
   - domain-suffix,soyjak.party
   - domain-suffix,soyjak.st
-  - domain-suffix,soylentnews.org
   - domain-suffix,sp.cool
   - domain-suffix,spaceexplored.com
   - domain-suffix,spacely.com.au
@@ -21829,6 +21836,7 @@ payload:
   - domain-suffix,thieme-connect.de
   - domain-suffix,thieme.de
   - domain-suffix,thinkboxsoftware.com
+  - domain-suffix,thinkchina.sg
   - domain-suffix,thinkdifferent.us
   - domain-suffix,thinkgeek.com
   - domain-suffix,thinkingtaiwan.com
