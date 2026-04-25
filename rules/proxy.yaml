@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     24 Apr 2026 22:34 UTC
-# DOMAIN:      26023
+# UPDATED:     25 Apr 2026 22:31 UTC
+# DOMAIN:      26024
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -21512,6 +21512,7 @@ payload:
   - domain-suffix,tech-mail.ru
   - domain-suffix,tech26.de
   - domain-suffix,techatbloomberg.com
+  - domain-suffix,techbang.com
   - domain-suffix,techcrunch.com
   - domain-suffix,techhub.ms
   - domain-suffix,techliquidators.com
