@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     28 Apr 2026 22:52 UTC
-# DOMAIN:      26024
+# UPDATED:     29 Apr 2026 22:52 UTC
+# DOMAIN:      26025
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22793,6 +22793,7 @@ payload:
   - domain-suffix,upornia.com
   - domain-suffix,uporno.xxx
   - domain-suffix,uproxy.org
+  - domain-suffix,upsangel.com
   - domain-suffix,uptodown.com
   - domain-suffix,ura-akiba.jp
   - domain-suffix,uraban.me

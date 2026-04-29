@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     28 Apr 2026 22:52 UTC
-# DOMAIN:      26024
+# UPDATED:     29 Apr 2026 22:52 UTC
+# DOMAIN:      26025
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22792,6 +22792,7 @@ DOMAIN-SUFFIX,UPMEDIA.MG
 DOMAIN-SUFFIX,UPORNIA.COM
 DOMAIN-SUFFIX,UPORNO.XXX
 DOMAIN-SUFFIX,UPROXY.ORG
+DOMAIN-SUFFIX,UPSANGEL.COM
 DOMAIN-SUFFIX,UPTODOWN.COM
 DOMAIN-SUFFIX,URA-AKIBA.JP
 DOMAIN-SUFFIX,URABAN.ME
