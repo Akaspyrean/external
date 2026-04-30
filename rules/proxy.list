@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     29 Apr 2026 22:52 UTC
-# DOMAIN:      26025
+# UPDATED:     30 Apr 2026 22:49 UTC
+# DOMAIN:      26026
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22081,6 +22081,7 @@ DOMAIN-SUFFIX,TL.GD
 DOMAIN-SUFFIX,TMA.CO.JP
 DOMAIN-SUFFIX,TMAGAZINE.COM
 DOMAIN-SUFFIX,TMDB-IMAGE-PROD.B-CDN.NET
+DOMAIN-SUFFIX,TMDB-WEB-IMAGE-PROD.B-CDN.NET
 DOMAIN-SUFFIX,TMDB.ORG
 DOMAIN-SUFFIX,TMEI-TAOYUAN.COM
 DOMAIN-SUFFIX,TMI.ME
