@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     02 May 2026 22:35 UTC
-# DOMAIN:      26026
+# UPDATED:     03 May 2026 22:35 UTC
+# DOMAIN:      26027
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -20557,6 +20557,7 @@ payload:
   - domain-suffix,softbankventuresasia.com
   - domain-suffix,softbankworld.com
   - domain-suffix,softether-download.com
+  - domain-suffix,softether.co.jp
   - domain-suffix,softether.org
   - domain-suffix,softfamous.com
   - domain-suffix,softmodels.net
