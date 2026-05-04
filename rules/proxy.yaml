@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     03 May 2026 22:35 UTC
-# DOMAIN:      26027
+# UPDATED:     04 May 2026 22:53 UTC
+# DOMAIN:      26028
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -6665,6 +6665,7 @@ payload:
   - domain-suffix,digitaldesire.com
   - domain-suffix,digitalhub.com
   - domain-suffix,digitalid.ch
+  - domain-suffix,digitalocean-ui.com
   - domain-suffix,digitalocean.com
   - domain-suffix,digitaloceanspaces.com
   - domain-suffix,digitalpack.com
