@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     05 May 2026 22:51 UTC
-# DOMAIN:      26120
+# UPDATED:     06 May 2026 22:44 UTC
+# DOMAIN:      26121
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -6126,6 +6126,7 @@ payload:
   - domain-suffix,d1k2us671qcoau.cloudfront.net
   - domain-suffix,d1m7jfoe9zdc1j.cloudfront.net
   - domain-suffix,d1mhjrowxxagfy.cloudfront.net
+  - domain-suffix,d1ndex63qxojbr.cloudfront.net
   - domain-suffix,d1oca24q5dwo6d.cloudfront.net
   - domain-suffix,d1unuk07s6td74.cloudfront.net
   - domain-suffix,d1v5ir2lpwr8os.cloudfront.net
