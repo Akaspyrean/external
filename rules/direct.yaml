@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     07 May 2026 22:57 UTC
-# DOMAIN:      114773
+# UPDATED:     08 May 2026 22:52 UTC
+# DOMAIN:      114762
 # IP-RELATED:  17
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -873,7 +873,6 @@ payload:
   - domain-suffix,07666.com
   - domain-suffix,0768000.com
   - domain-suffix,0769che.com
-  - domain-suffix,0769king.xin
   - domain-suffix,0769net.com
   - domain-suffix,0769pf.com
   - domain-suffix,0769sun.com
@@ -3753,7 +3752,6 @@ payload:
   - domain-suffix,316watches.com
   - domain-suffix,3171688.com
   - domain-suffix,317608.com
-  - domain-suffix,31793.com
   - domain-suffix,317hu.com
   - domain-suffix,318595.xyz
   - domain-suffix,3188.la
@@ -8272,7 +8270,6 @@ payload:
   - domain-suffix,7moor-fs2.com
   - domain-suffix,7moor-zx.com
   - domain-suffix,7moor.com
-  - domain-suffix,7msj.com
   - domain-suffix,7mx.com
   - domain-suffix,7mz3a.com
   - domain-suffix,7nepal.com
@@ -8377,6 +8374,7 @@ payload:
   - domain-suffix,800pharm.com
   - domain-suffix,800tuan.com
   - domain-suffix,800tzw.com
+  - domain-suffix,800vdc.com
   - domain-suffix,800vod.com
   - domain-suffix,800wen.com
   - domain-suffix,800xiaoshuo.com
@@ -9972,7 +9970,6 @@ payload:
   - domain-suffix,9dian.info
   - domain-suffix,9dida.net
   - domain-suffix,9dinn.com
-  - domain-suffix,9douyu.com
   - domain-suffix,9droom.com
   - domain-suffix,9duw.com
   - domain-suffix,9dwork.com
@@ -17812,7 +17809,6 @@ payload:
   - domain-suffix,bokexia.com
   - domain-suffix,bokeyz.com
   - domain-suffix,boktour.com
-  - domain-suffix,bokunwatch.com
   - domain-suffix,bolaa.com
   - domain-suffix,bolan.net
   - domain-suffix,bolaninfo.com
@@ -23631,7 +23627,6 @@ payload:
   - domain-suffix,ciyynodegroup.cyou
   - domain-suffix,cizip.com
   - domain-suffix,cj0515.com
-  - domain-suffix,cj120.com
   - domain-suffix,cj5bs.com
   - domain-suffix,cj5bs.net
   - domain-suffix,cj8.ren
@@ -25389,7 +25384,6 @@ payload:
   - domain-suffix,coding.love
   - domain-suffix,coding.me
   - domain-suffix,coding.net
-  - domain-suffix,coding3min.com
   - domain-suffix,codingapp.com
   - domain-suffix,codingchangeworld.com
   - domain-suffix,codingcorp.net
@@ -33227,7 +33221,6 @@ payload:
   - domain-suffix,ejoy365hk.com
   - domain-suffix,ejrfood.com
   - domain-suffix,ejsoon.win
-  - domain-suffix,ejtieyi.com
   - domain-suffix,ejtsyc.com
   - domain-suffix,eju.com
   - domain-suffix,ejuhome.com
@@ -66267,7 +66260,6 @@ payload:
   - domain-suffix,mayiwenku.com
   - domain-suffix,mayiwsk.com
   - domain-suffix,mayiyx.com
-  - domain-suffix,mayizhuanlan.com
   - domain-suffix,maylandresort.com
   - domain-suffix,maylove2333.com
   - domain-suffix,mayora-sh.com
@@ -68049,6 +68041,7 @@ payload:
   - domain-suffix,mmbang.net
   - domain-suffix,mmbao.com
   - domain-suffix,mmbest.com
+  - domain-suffix,mmbizgo.com
   - domain-suffix,mmbjq.com
   - domain-suffix,mmbread.com
   - domain-suffix,mmc-data.com
@@ -85479,7 +85472,6 @@ payload:
   - domain-suffix,sjzhr.com
   - domain-suffix,sjzhushou.com
   - domain-suffix,sjzjifeng.com
-  - domain-suffix,sjzjinliulin.com
   - domain-suffix,sjzjkqgs.com
   - domain-suffix,sjzjtjt.com
   - domain-suffix,sjzkz.com
@@ -92521,7 +92513,6 @@ payload:
   - domain-suffix,tourgansu.com
   - domain-suffix,tourhr.com
   - domain-suffix,tourjob.net
-  - domain-suffix,tourongjia.com
   - domain-suffix,tourongzi.org
   - domain-suffix,toursbms.com
   - domain-suffix,tourscool.com
@@ -99272,7 +99263,6 @@ payload:
   - domain-suffix,wouu.net
   - domain-suffix,wow.fun
   - domain-suffix,wowamazingthings.com
-  - domain-suffix,wowbbs.com
   - domain-suffix,wowcat.net
   - domain-suffix,wowchina.com
   - domain-suffix,wowenda.com
@@ -104639,7 +104629,6 @@ payload:
   - domain-suffix,xyzcdn.net
   - domain-suffix,xyzcn.com
   - domain-suffix,xyzdict.com
-  - domain-suffix,xyzdns.xyz
   - domain-suffix,xyzele.com
   - domain-suffix,xyzfm.link
   - domain-suffix,xyzfm.space

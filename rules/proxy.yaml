@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     07 May 2026 22:57 UTC
-# DOMAIN:      26181
+# UPDATED:     08 May 2026 22:52 UTC
+# DOMAIN:      26182
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22868,6 +22868,7 @@ payload:
   - domain-suffix,ultravpn.fr
   - domain-suffix,uma.media
   - domain-suffix,umagazine.com.hk
+  - domain-suffix,umap.openstreetmap.fr
   - domain-suffix,umass.edu
   - domain-suffix,umbrella.com
   - domain-suffix,umschool.net

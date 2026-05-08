@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     07 May 2026 22:57 UTC
-# DOMAIN:      26181
+# UPDATED:     08 May 2026 22:52 UTC
+# DOMAIN:      26182
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22867,6 +22867,7 @@ DOMAIN-SUFFIX,ULTRAVPN.COM
 DOMAIN-SUFFIX,ULTRAVPN.FR
 DOMAIN-SUFFIX,UMA.MEDIA
 DOMAIN-SUFFIX,UMAGAZINE.COM.HK
+DOMAIN-SUFFIX,UMAP.OPENSTREETMAP.FR
 DOMAIN-SUFFIX,UMASS.EDU
 DOMAIN-SUFFIX,UMBRELLA.COM
 DOMAIN-SUFFIX,UMSCHOOL.NET
