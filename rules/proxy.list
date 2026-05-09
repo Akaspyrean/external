@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     08 May 2026 22:52 UTC
-# DOMAIN:      26182
+# UPDATED:     09 May 2026 22:37 UTC
+# DOMAIN:      26183
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -23727,6 +23727,7 @@ DOMAIN-SUFFIX,VODAFONE.COM.AU
 DOMAIN-SUFFIX,VODAFONE.COM.TR
 DOMAIN-SUFFIX,VODAFONE.DE
 DOMAIN-SUFFIX,VODAFONE.IT
+DOMAIN-SUFFIX,VODAFONE.NL
 DOMAIN-SUFFIX,VOICETTANK.ORG
 DOMAIN-SUFFIX,VOKEVR.COM
 DOMAIN-SUFFIX,VOL.MOE

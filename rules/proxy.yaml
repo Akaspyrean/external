@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     08 May 2026 22:52 UTC
-# DOMAIN:      26182
+# UPDATED:     09 May 2026 22:37 UTC
+# DOMAIN:      26183
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -23728,6 +23728,7 @@ payload:
   - domain-suffix,vodafone.com.tr
   - domain-suffix,vodafone.de
   - domain-suffix,vodafone.it
+  - domain-suffix,vodafone.nl
   - domain-suffix,voicettank.org
   - domain-suffix,vokevr.com
   - domain-suffix,vol.moe
