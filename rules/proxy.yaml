@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     09 May 2026 22:37 UTC
-# DOMAIN:      26183
+# UPDATED:     10 May 2026 22:40 UTC
+# DOMAIN:      26186
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5651,7 +5651,6 @@ payload:
   - domain-suffix,cn.sandscotaicentral.com
   - domain-suffix,cn.shafaqna.com
   - domain-suffix,cna.com.tw
-  - domain-suffix,cnappinstall.googleadapis.com
   - domain-suffix,cnbc.com
   - domain-suffix,cnbcfm.com
   - domain-suffix,cnbeta.com
@@ -5829,7 +5828,6 @@ payload:
   - domain-suffix,contactossexoecuador.com
   - domain-suffix,containersonaws.com
   - domain-suffix,contechacademy.com
-  - domain-suffix,content.googleadapis.com
   - domain-suffix,contentful.com
   - domain-suffix,contest.com
   - domain-suffix,convrgencegame.com
@@ -7076,7 +7074,6 @@ payload:
   - domain-suffix,dowjoneson.com
   - domain-suffix,download.com
   - domain-suffix,download.dappcdn.com
-  - domain-suffix,download.qatp1.net
   - domain-suffix,download.visualstudio.microsoft.com
   - domain-suffix,downloadpass.com
   - domain-suffix,downloadsforipod.com
@@ -13298,6 +13295,7 @@ payload:
   - domain-suffix,justporno.tv
   - domain-suffix,justswallows.com
   - domain-suffix,justusboys.com
+  - domain-suffix,justveryok.com
   - domain-suffix,juyangbee.xyz
   - domain-suffix,juyangto.info
   - domain-suffix,juzi-js.shop
@@ -13455,6 +13453,7 @@ payload:
   - domain-suffix,kex.com
   - domain-suffix,keybase.io
   - domain-suffix,keybaseapi.com
+  - domain-suffix,keyboardmen.com
   - domain-suffix,keycdn.com
   - domain-suffix,keyhole.com
   - domain-suffix,keyporntube.com
@@ -15469,7 +15468,6 @@ payload:
   - domain-suffix,mongodb.org
   - domain-suffix,monica.im
   - domain-suffix,monitorchina.org
-  - domain-suffix,monitoring.qpdp1.net
   - domain-suffix,monitrix.net
   - domain-suffix,mono-project.com
   - domain-suffix,monocloud.me
@@ -16968,7 +16966,15 @@ payload:
   - domain-suffix,oculusrift.com
   - domain-suffix,oculusvr.com
   - domain-suffix,odkl.ru
+  - domain-suffix,odnoklasniki.by
+  - domain-suffix,odnoklasniki.ua
+  - domain-suffix,odnoklassniki.am
+  - domain-suffix,odnoklassniki.by
+  - domain-suffix,odnoklassniki.co.ee
+  - domain-suffix,odnoklassniki.eu
+  - domain-suffix,odnoklassniki.lv
   - domain-suffix,odnoklassniki.ru
+  - domain-suffix,odnoklassniki.tj
   - domain-suffix,odysee.com
   - domain-suffix,oecd-ilibrary.org
   - domain-suffix,oed.com
@@ -18825,7 +18831,6 @@ payload:
   - domain-suffix,q10.jp
   - domain-suffix,q13.com
   - domain-suffix,q13fox.com
-  - domain-suffix,qagpublic.qatp1.net
   - domain-suffix,qatarescortsvip.com
   - domain-suffix,qattdh.cc
   - domain-suffix,qattdh.top
@@ -18838,7 +18843,6 @@ payload:
   - domain-suffix,qcomgeo2.com
   - domain-suffix,qctconnect.com
   - domain-suffix,qdiehzz7.me
-  - domain-suffix,qgadmin.qcpp1.net
   - domain-suffix,qgirl.com.tw
   - domain-suffix,qi-gong.me
   - domain-suffix,qianbai.tw
@@ -18899,8 +18903,6 @@ payload:
   - domain-suffix,qualcommventures.cn
   - domain-suffix,qualcommventures.com
   - domain-suffix,qualphone.com
-  - domain-suffix,qualysapi.qatp1.net
-  - domain-suffix,qualysguard.qpdp1.net
   - domain-suffix,quanben-xiaoshuo.com
   - domain-suffix,quanben.io
   - domain-suffix,quantil.com
@@ -18970,6 +18972,7 @@ payload:
   - domain-suffix,r18lu.com
   - domain-suffix,r2.dev
   - domain-suffix,r34porn.net
+  - domain-suffix,rabbitcounter.com
   - domain-suffix,rabbitscams.com
   - domain-suffix,rabbitscams.sex
   - domain-suffix,rabbitsreviews.com
@@ -19689,6 +19692,7 @@ payload:
   - domain-suffix,savitahd.net
   - domain-suffix,savoycomputing.com
   - domain-suffix,savvyshopper.net.au
+  - domain-suffix,sayeasy.eu
   - domain-suffix,saynow.com
   - domain-suffix,sb-cd.com
   - domain-suffix,sb-mobile.jp
@@ -19739,7 +19743,6 @@ payload:
   - domain-suffix,scaleform.com
   - domain-suffix,scandalplanet.com
   - domain-suffix,scanlover.com
-  - domain-suffix,scanservice1.qcpp1.net
   - domain-suffix,scartel.ru
   - domain-suffix,scat-enema.com
   - domain-suffix,scat-japan.com
