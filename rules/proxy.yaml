@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     10 May 2026 22:40 UTC
-# DOMAIN:      26186
+# UPDATED:     11 May 2026 22:50 UTC
+# DOMAIN:      26190
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -6251,6 +6251,7 @@ payload:
   - domain-suffix,data-tscbank.ru
   - domain-suffix,data-vocabulary.org
   - domain-suffix,data.com
+  - domain-suffix,data18.com
   - domain-suffix,databank.worldbank.org
   - domain-suffix,database.asahi.com
   - domain-suffix,datacloudmy.com
@@ -7210,6 +7211,7 @@ payload:
   - domain-suffix,dstk.dk
   - domain-suffix,dswz88.xyz
   - domain-suffix,dsyiren.com
+  - domain-suffix,dt18.com
   - domain-suffix,dtci.co
   - domain-suffix,dtci.technology
   - domain-suffix,dtiblog.com
@@ -9770,6 +9772,7 @@ payload:
   - domain-suffix,gettyimages.us
   - domain-suffix,getuploader.com
   - domain-suffix,getws1.com
+  - domain-suffix,getwsj.com
   - domain-suffix,getwsone.com
   - domain-suffix,getzola.org
   - domain-suffix,gfacecbook.com
@@ -12936,6 +12939,7 @@ payload:
   - domain-suffix,javdove.com
   - domain-suffix,javdove8.xyz
   - domain-suffix,javextreme.net
+  - domain-suffix,javfc2.xyz
   - domain-suffix,javfilms.com
   - domain-suffix,javfinder.ai
   - domain-suffix,javfor.me
