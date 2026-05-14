@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     13 May 2026 23:01 UTC
-# DOMAIN:      26279
+# UPDATED:     14 May 2026 22:53 UTC
+# DOMAIN:      26280
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5403,6 +5403,7 @@ payload:
   - domain-suffix,chocolatey.org
   - domain-suffix,choicereviews.org
   - domain-suffix,chomp.com
+  - domain-suffix,chonglangtv.org
   - domain-suffix,chrdnet.com
   - domain-suffix,christianfreedom.org
   - domain-suffix,christianstudy.com
