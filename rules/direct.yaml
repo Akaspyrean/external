@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     14 May 2026 22:53 UTC
-# DOMAIN:      113828
+# UPDATED:     15 May 2026 22:51 UTC
+# DOMAIN:      113814
 # IP-RELATED:  17
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1634,7 +1634,6 @@ payload:
   - domain-suffix,11wow.com
   - domain-suffix,11xotn7p.com
   - domain-suffix,11yinyuan.com
-  - domain-suffix,11zhang.com
   - domain-suffix,120.net
   - domain-suffix,1204cm.com
   - domain-suffix,120918.com
@@ -2177,7 +2176,6 @@ payload:
   - domain-suffix,16hyt.com
   - domain-suffix,16ker.com
   - domain-suffix,16lao.com
-  - domain-suffix,16map.com
   - domain-suffix,16p.com
   - domain-suffix,16pic.com
   - domain-suffix,16rd.com
@@ -4190,7 +4188,6 @@ payload:
   - domain-suffix,363u.com
   - domain-suffix,364000.com
   - domain-suffix,365.com
-  - domain-suffix,365.hk
   - domain-suffix,36500.com
   - domain-suffix,36500.net
   - domain-suffix,365128.com
@@ -6362,7 +6359,6 @@ payload:
   - domain-suffix,546709.cc
   - domain-suffix,5467b.vip
   - domain-suffix,54780.org
-  - domain-suffix,54948888.vip
   - domain-suffix,5499.com
   - domain-suffix,5499ok.com
   - domain-suffix,54ak.com
@@ -7984,7 +7980,6 @@ payload:
   - domain-suffix,777biubiu.com
   - domain-suffix,777dd.life
   - domain-suffix,777e.store
-  - domain-suffix,777eee888eee.com
   - domain-suffix,777haoka.com
   - domain-suffix,777lala.com
   - domain-suffix,777moban.com
@@ -9891,7 +9886,6 @@ payload:
   - domain-suffix,9dwork.com
   - domain-suffix,9e707bdb763386bf.com
   - domain-suffix,9eacc080d10291.beer
-  - domain-suffix,9ead.com
   - domain-suffix,9eae58cbc333acf8.com
   - domain-suffix,9earth.com
   - domain-suffix,9efca2b9a1009.beer
@@ -12581,6 +12575,7 @@ payload:
   - domain-suffix,anrlm.com
   - domain-suffix,anruan.com
   - domain-suffix,anruichina.com
+  - domain-suffix,anruidm.com
   - domain-suffix,ansendun.com
   - domain-suffix,anshahouse.com
   - domain-suffix,anshibuff.com
@@ -14643,6 +14638,7 @@ payload:
   - domain-suffix,bajintech.com
   - domain-suffix,baka.im
   - domain-suffix,baka.plus
+  - domain-suffix,bakapiano.com
   - domain-suffix,bakaxl.com
   - domain-suffix,bakbitionb.com
   - domain-suffix,bakclass.com
@@ -25261,7 +25257,6 @@ payload:
   - domain-suffix,coinglo.store
   - domain-suffix,coinhaven.store
   - domain-suffix,coinnice.com
-  - domain-suffix,coinrobotics.com
   - domain-suffix,coins-carnival.com
   - domain-suffix,coinsky.com
   - domain-suffix,coinvs.com
@@ -27756,7 +27751,6 @@ payload:
   - domain-suffix,dabaise.com
   - domain-suffix,dabangong.com
   - domain-suffix,dabangsoft.com
-  - domain-suffix,dabanke.com
   - domain-suffix,dabao123.com
   - domain-suffix,dabao22.com
   - domain-suffix,dabaoge.host
@@ -30498,7 +30492,6 @@ payload:
   - domain-suffix,dodjoy.com
   - domain-suffix,dodo8.com
   - domain-suffix,dodobook.net
-  - domain-suffix,dodoca.com
   - domain-suffix,dodoeasy.com
   - domain-suffix,dodoedu.com
   - domain-suffix,dodoh5.com
@@ -30552,7 +30545,6 @@ payload:
   - domain-suffix,dolfindnsx.net
   - domain-suffix,dolgma.com
   - domain-suffix,dolike.com
-  - domain-suffix,doll-leaves.com
   - domain-suffix,doll-zone.com
   - domain-suffix,dollphoin.site
   - domain-suffix,dollun.com
@@ -39048,7 +39040,6 @@ payload:
   - domain-suffix,gjxx.com
   - domain-suffix,gjxzq.com
   - domain-suffix,gjydz.com
-  - domain-suffix,gjyfish.com
   - domain-suffix,gjyuxiang.com
   - domain-suffix,gjyys.com
   - domain-suffix,gjzy.com
@@ -40249,6 +40240,7 @@ payload:
   - domain-suffix,gsgs10086.com
   - domain-suffix,gsgundam.com
   - domain-suffix,gshangju.com
+  - domain-suffix,gshdw.cyou
   - domain-suffix,gshis.net
   - domain-suffix,gshmhotels.com
   - domain-suffix,gshopper.com
@@ -44162,7 +44154,6 @@ payload:
   - domain-suffix,hangtu-china.com
   - domain-suffix,hangtunggroup.com
   - domain-suffix,hanguangbaihuo.com
-  - domain-suffix,hangugc.monster
   - domain-suffix,hanguu.com
   - domain-suffix,hangw.com
   - domain-suffix,hangwei-media.com
@@ -52096,7 +52087,6 @@ payload:
   - domain-suffix,imyushu.com
   - domain-suffix,imzego.com
   - domain-suffix,imzhanghao.com
-  - domain-suffix,imzhongxin.com
   - domain-suffix,imzhuomo.com
   - domain-suffix,imzudian.com
   - domain-suffix,imzy.ink
@@ -64736,6 +64726,7 @@ payload:
   - domain-suffix,lz-veoliawater.com
   - domain-suffix,lz12328.com
   - domain-suffix,lz310.com
+  - domain-suffix,lz5.com
   - domain-suffix,lz520.net
   - domain-suffix,lzabcd.com
   - domain-suffix,lzahzn.com
@@ -65259,6 +65250,7 @@ payload:
   - domain-suffix,maizuo.com
   - domain-suffix,majia99.com
   - domain-suffix,majiamen.com
+  - domain-suffix,majianbo.com
   - domain-suffix,majiang520.com
   - domain-suffix,majilive.com
   - domain-suffix,majorbio.com
@@ -68127,7 +68119,6 @@ payload:
   - domain-suffix,mpnbenefitsrtluat.download.prss.microsoft.com
   - domain-suffix,mpoa.vip
   - domain-suffix,mpopkart.com
-  - domain-suffix,mpqddg.club
   - domain-suffix,mps.live
   - domain-suffix,mpserverless.com
   - domain-suffix,mpsoft.net
@@ -68589,7 +68580,6 @@ payload:
   - domain-suffix,mxpharm.com
   - domain-suffix,mxqe.com
   - domain-suffix,mxria.com
-  - domain-suffix,mxsa2178.club
   - domain-suffix,mxsyzen.com
   - domain-suffix,mxtcn.com
   - domain-suffix,mxtronics.com
@@ -84580,7 +84570,6 @@ payload:
   - domain-suffix,sinvta.com
   - domain-suffix,sinyoung.site
   - domain-suffix,sinyuan.com
-  - domain-suffix,sinyuee.com
   - domain-suffix,sinzk.com
   - domain-suffix,siobp.com
   - domain-suffix,siomxity.com
@@ -91664,7 +91653,6 @@ payload:
   - domain-suffix,topjoycloud.com
   - domain-suffix,topkhealth.com
   - domain-suffix,topku.com
-  - domain-suffix,toplanit.com
   - domain-suffix,toplee.com
   - domain-suffix,toploong.com
   - domain-suffix,topmediai.com
@@ -93723,7 +93711,6 @@ payload:
   - domain-suffix,uniwaf.com
   - domain-suffix,unixhot.com
   - domain-suffix,unixidc.com
-  - domain-suffix,unixtitan.net
   - domain-suffix,unjmz.com
   - domain-suffix,unjs.com
   - domain-suffix,unkzyy3201.vip
@@ -94934,7 +94921,6 @@ payload:
   - domain-suffix,vmax-lighting.com
   - domain-suffix,vmaxhome.com
   - domain-suffix,vmaya.com
-  - domain-suffix,vmdns.xyz
   - domain-suffix,vmdo.net
   - domain-suffix,vmecum.com
   - domain-suffix,vmengblog.com
@@ -103570,7 +103556,6 @@ payload:
   - domain-suffix,xxtmail.com
   - domain-suffix,xxw001.com
   - domain-suffix,xxwolo.com
-  - domain-suffix,xxx1577.com
   - domain-suffix,xxxbiquge.com
   - domain-suffix,xxxcsf.com
   - domain-suffix,xxxedu.net
@@ -109366,6 +109351,7 @@ payload:
   - domain-suffix,zdhaitao.net
   - domain-suffix,zdhuoyunbao.com
   - domain-suffix,zdhyibiao.com
+  - domain-suffix,zdhyyy.com
   - domain-suffix,zdiao.com
   - domain-suffix,zdic.net
   - domain-suffix,zdjt.com
