@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     15 May 2026 22:51 UTC
-# DOMAIN:      26280
+# UPDATED:     16 May 2026 22:40 UTC
+# DOMAIN:      26281
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -24092,6 +24092,7 @@ payload:
   - domain-suffix,vultr.com
   - domain-suffix,vultryhw.com
   - domain-suffix,vuvuzela.io
+  - domain-suffix,vv1865.com
   - domain-suffix,vzw.com
   - domain-suffix,w-mt.co
   - domain-suffix,w-pool.com

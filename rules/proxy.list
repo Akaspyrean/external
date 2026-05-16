@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     15 May 2026 22:51 UTC
-# DOMAIN:      26280
+# UPDATED:     16 May 2026 22:40 UTC
+# DOMAIN:      26281
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -24091,6 +24091,7 @@ DOMAIN-SUFFIX,VULGARX.COM
 DOMAIN-SUFFIX,VULTR.COM
 DOMAIN-SUFFIX,VULTRYHW.COM
 DOMAIN-SUFFIX,VUVUZELA.IO
+DOMAIN-SUFFIX,VV1865.COM
 DOMAIN-SUFFIX,VZW.COM
 DOMAIN-SUFFIX,W-MT.CO
 DOMAIN-SUFFIX,W-POOL.COM
