@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     16 May 2026 22:40 UTC
-# DOMAIN:      26281
+# UPDATED:     17 May 2026 22:48 UTC
+# DOMAIN:      26282
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -2280,6 +2280,7 @@ payload:
   - domain-suffix,archivx.to
   - domain-suffix,archlinux.de
   - domain-suffix,archlinux.org
+  - domain-suffix,archlinux.page
   - domain-suffix,archlinuxarm.org
   - domain-suffix,archlinuxcn.org
   - domain-suffix,arcraiders.com
