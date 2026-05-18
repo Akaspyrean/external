@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     17 May 2026 22:48 UTC
-# DOMAIN:      26282
+# UPDATED:     18 May 2026 22:56 UTC
+# DOMAIN:      26284
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -20466,6 +20466,7 @@ payload:
   - domain-suffix,siam.org
   - domain-suffix,sibreal.org
   - domain-suffix,sidelinesnews.com
+  - domain-suffix,sider.ai
   - domain-suffix,siege-amazon.com
   - domain-suffix,sifangclub.com
   - domain-suffix,sigcomm.org
@@ -26156,6 +26157,7 @@ payload:
   - domain-suffix,zhainanjidid.top
   - domain-suffix,zhangboz1.xyz
   - domain-suffix,zhangtianliang.com
+  - domain-suffix,zhangzhehan.net
   - domain-suffix,zhanlve.org
   - domain-suffix,zhao.1984.city
   - domain-suffix,zhengjian.org
