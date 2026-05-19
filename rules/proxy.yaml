@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     18 May 2026 22:56 UTC
-# DOMAIN:      26284
+# UPDATED:     19 May 2026 22:59 UTC
+# DOMAIN:      26304
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -421,6 +421,7 @@ payload:
   - domain-suffix,55dndn.com
   - domain-suffix,567321.online
   - domain-suffix,568xe.com
+  - domain-suffix,573.jp
   - domain-suffix,58avgo.com
   - domain-suffix,592r.com
   - domain-suffix,59mvmv.com
@@ -13500,6 +13501,7 @@ payload:
   - domain-suffix,keytransparency.foo
   - domain-suffix,keytransparency.org
   - domain-suffix,kfs.io
+  - domain-suffix,kgisystems.com
   - domain-suffix,kgslb.com
   - domain-suffix,khanacademy.org
   - domain-suffix,khatrimaza.org
@@ -13593,6 +13595,7 @@ payload:
   - domain-suffix,kissjav.com
   - domain-suffix,kissjav.li
   - domain-suffix,kitakyushubank.co.jp
+  - domain-suffix,kiwi.jp
   - domain-suffix,kiwi.kz
   - domain-suffix,kiwibrowser.com
   - domain-suffix,kiyobank.co.jp
@@ -13630,6 +13633,20 @@ payload:
   - domain-suffix,konachan.com
   - domain-suffix,konachan.net
   - domain-suffix,konachan.wjcodes.com
+  - domain-suffix,konami
+  - domain-suffix,konami-igaming.online
+  - domain-suffix,konami.co.jp
+  - domain-suffix,konami.com
+  - domain-suffix,konami.net
+  - domain-suffix,konami.org
+  - domain-suffix,konamicrossmedia.com
+  - domain-suffix,konamigaming.com
+  - domain-suffix,konamigaming.net
+  - domain-suffix,konamigaming.online
+  - domain-suffix,konamionline.com
+  - domain-suffix,konamiopen.jp
+  - domain-suffix,konamisportsclub.jp
+  - domain-suffix,konamistyle.jp
   - domain-suffix,koolsolutions.com
   - domain-suffix,koornk.com
   - domain-suffix,kopfhorergunstigshop.com
@@ -19334,6 +19351,8 @@ payload:
   - domain-suffix,researchkit.net
   - domain-suffix,researchkit.org
   - domain-suffix,researchkit.tv
+  - domain-suffix,resella.jp
+  - domain-suffix,resellablue.com
   - domain-suffix,resilio.com
   - domain-suffix,resistchina.org
   - domain-suffix,resonabank.co.jp
@@ -26041,6 +26060,7 @@ payload:
   - domain-suffix,yuanming.net
   - domain-suffix,yuenuge113.xyz
   - domain-suffix,yuenuge18.cc
+  - domain-suffix,yugioh-card.com
   - domain-suffix,yulghun.com
   - domain-suffix,yuming.qxbbs.org
   - domain-suffix,yunchao.net
