@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     19 May 2026 22:59 UTC
-# DOMAIN:      26304
+# UPDATED:     20 May 2026 23:07 UTC
+# DOMAIN:      26313
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1331,6 +1331,7 @@ payload:
   - domain-suffix,alefbank.com
   - domain-suffix,alexa.com
   - domain-suffix,alexanderstreet.com
+  - domain-suffix,alfa.me
   - domain-suffix,alfabank.oavdo.amc
   - domain-suffix,alfabank.ru
   - domain-suffix,alfabank.st
@@ -8617,6 +8618,7 @@ payload:
   - domain-suffix,favepornmovs.com
   - domain-suffix,favepornvids.com
   - domain-suffix,favjapaneseporn.com
+  - domain-suffix,favoritescc-hamivideo2.cdn.hinet.net
   - domain-suffix,favstar.fm
   - domain-suffix,fawanghuihui.org
   - domain-suffix,faycbok.com
@@ -13874,6 +13876,7 @@ payload:
   - domain-suffix,lg.com
   - domain-suffix,lgappstv.com
   - domain-suffix,lgbtq.games
+  - domain-suffix,lgcscc-hamivideo2.cdn.hinet.net
   - domain-suffix,lge.co.kr
   - domain-suffix,lge.com
   - domain-suffix,lgecareers.com
@@ -16003,6 +16006,7 @@ payload:
   - domain-suffix,myspacecdn.com
   - domain-suffix,mysql.com
   - domain-suffix,mystrikingly.com
+  - domain-suffix,myteamspeak.com
   - domain-suffix,myteenwebcam.com
   - domain-suffix,mythicentertainment.com
   - domain-suffix,mythicentertainment.net
@@ -21734,6 +21738,8 @@ payload:
   - domain-suffix,teachparentstech.org
   - domain-suffix,teamneedforspeed.com
   - domain-suffix,teamskeet.com
+  - domain-suffix,teamspeak-services.com
+  - domain-suffix,teamspeak.com
   - domain-suffix,teamviewer.com
   - domain-suffix,teamviewer.com.cdn.cloudflare.net
   - domain-suffix,teamviewer.us
@@ -22126,6 +22132,7 @@ payload:
   - domain-suffix,throughnightsfire.com
   - domain-suffix,thtmod1.com
   - domain-suffix,thuhole.com
+  - domain-suffix,thumbnail-hamivideo.cdn.hinet.net
   - domain-suffix,thumbnailseries.com
   - domain-suffix,thumbzilla.com
   - domain-suffix,thunderbird.net
@@ -22315,6 +22322,7 @@ payload:
   - domain-suffix,tksex.com
   - domain-suffix,tktube.com
   - domain-suffix,tl.gd
+  - domain-suffix,tlmr-hamivideo2.cdn.hinet.net
   - domain-suffix,tma.co.jp
   - domain-suffix,tmagazine.com
   - domain-suffix,tmdb-image-prod.b-cdn.net
@@ -24320,6 +24328,7 @@ payload:
   - domain-suffix,webtoons.com
   - domain-suffix,webtoonscorp.com
   - domain-suffix,webtype.com
+  - domain-suffix,webvodad-hamivideo.cdn.hinet.net
   - domain-suffix,webwarper.net
   - domain-suffix,wechatlawsuit.com
   - domain-suffix,weebly.com
