@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     20 May 2026 23:07 UTC
-# DOMAIN:      26313
+# UPDATED:     21 May 2026 22:59 UTC
+# DOMAIN:      26322
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -9507,6 +9507,7 @@ payload:
   - domain-suffix,g-tun.com
   - domain-suffix,g-tvapp.com
   - domain-suffix,g-xxxhub.com
+  - domain-suffix,g.ai
   - domain-suffix,g.co
   - domain-suffix,g.dev
   - domain-suffix,g.page
@@ -13841,6 +13842,7 @@ payload:
   - domain-suffix,lenporno.net
   - domain-suffix,lenporno.red
   - domain-suffix,lenwhite.com
+  - domain-suffix,leonardo.ai
   - domain-suffix,leporno.org
   - domain-suffix,lepornochaud.com
   - domain-suffix,lepornofrais.com
@@ -15669,10 +15671,12 @@ payload:
   - domain-suffix,moxing.news
   - domain-suffix,moystoys.com
   - domain-suffix,mozgcp.net
+  - domain-suffix,mozilla.ai
   - domain-suffix,mozilla.com
   - domain-suffix,mozilla.community
   - domain-suffix,mozilla.net
   - domain-suffix,mozilla.org
+  - domain-suffix,mozillafoundation.org
   - domain-suffix,mp.world
   - domain-suffix,mpettis.com
   - domain-suffix,mpfinance.com
@@ -16029,6 +16033,7 @@ payload:
   - domain-suffix,myyoungmomisnude.com
   - domain-suffix,myyoungwifeisnude.com
   - domain-suffix,mzed.com
+  - domain-suffix,mzl.la
   - domain-suffix,mzstatic.com
   - domain-suffix,n0vadesktop.com
   - domain-suffix,n26.com
@@ -19098,6 +19103,7 @@ payload:
   - domain-suffix,randyblue.com
   - domain-suffix,rapefilms.net
   - domain-suffix,rapetube.me
+  - domain-suffix,raphael.app
   - domain-suffix,rapidmoviez.com
   - domain-suffix,rapidprototyping-cadcam.com
   - domain-suffix,rapidssl.com
@@ -19585,6 +19591,7 @@ payload:
   - domain-suffix,ruinedking.com
   - domain-suffix,rukoebxx.com
   - domain-suffix,rulaisc-tv.buzz
+  - domain-suffix,rule34.us
   - domain-suffix,rule34.xxx
   - domain-suffix,rule34h.com
   - domain-suffix,rule34pornvids.com
@@ -20922,6 +20929,7 @@ payload:
   - domain-suffix,sosad.fun
   - domain-suffix,soso7778.com
   - domain-suffix,sosreader.com
+  - domain-suffix,sotwe.com
   - domain-suffix,soubory.com
   - domain-suffix,souka.xyz
   - domain-suffix,soulcaliburhentai.net
@@ -21690,6 +21698,7 @@ payload:
   - domain-suffix,tap.io
   - domain-suffix,tapanwap.com
   - domain-suffix,tapatalk.com
+  - domain-suffix,tapnow.ai
   - domain-suffix,taptap.io
   - domain-suffix,taptotokyo.com
   - domain-suffix,taqunuhai.vip
