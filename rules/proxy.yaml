@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     22 May 2026 22:52 UTC
-# DOMAIN:      26322
+# UPDATED:     23 May 2026 22:47 UTC
+# DOMAIN:      26325
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -233,6 +233,7 @@ payload:
   - domain-suffix,233abc.com
   - domain-suffix,2371tom.com
   - domain-suffix,24h.tv
+  - domain-suffix,24hbook.com
   - domain-suffix,24hjav.com
   - domain-suffix,24hrs.ca
   - domain-suffix,24porn.com
@@ -14487,6 +14488,7 @@ payload:
   - domain-suffix,marvelsuperwar.com
   - domain-suffix,marxist.net
   - domain-suffix,marxists.org
+  - domain-suffix,mas.to
   - domain-suffix,masalabin.com
   - domain-suffix,masaladesi.com
   - domain-suffix,masalaseen.net
@@ -16186,6 +16188,7 @@ payload:
   - domain-suffix,nenitas.club
   - domain-suffix,nentindo.net
   - domain-suffix,neo-miracle.com
+  - domain-suffix,neodb.social
   - domain-suffix,neoforged.net
   - domain-suffix,neotokyo.supertop-100.com
   - domain-suffix,neovim.io
