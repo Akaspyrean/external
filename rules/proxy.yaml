@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     25 May 2026 22:55 UTC
-# DOMAIN:      26325
+# UPDATED:     26 May 2026 23:04 UTC
+# DOMAIN:      26326
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -15010,6 +15010,7 @@ payload:
   - domain-suffix,micstl.com
   - domain-suffix,midatlanticbmwmotorcycles.com
   - domain-suffix,midentsolutions.com
+  - domain-suffix,midjourney.com
   - domain-suffix,midoushe.com
   - domain-suffix,mie.co.jp
   - domain-suffix,miexnoviadesnuda.com
