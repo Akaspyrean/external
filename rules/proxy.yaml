@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     27 May 2026 23:12 UTC
-# DOMAIN:      26326
+# UPDATED:     28 May 2026 23:10 UTC
+# DOMAIN:      26359
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -7733,6 +7733,7 @@ payload:
   - domain-suffix,electronicsignature.ru
   - domain-suffix,electronjs.org
   - domain-suffix,element.io
+  - domain-suffix,elementary.io
   - domain-suffix,elephantlist.com
   - domain-suffix,elephantsdream.org
   - domain-suffix,elephanttube.com
@@ -10028,6 +10029,7 @@ payload:
   - domain-suffix,gnci.org.hk
   - domain-suffix,gnews.org
   - domain-suffix,gnom-cham.com
+  - domain-suffix,gnome.org
   - domain-suffix,gnu.org
   - domain-suffix,gnzi.xyz
   - domain-suffix,gnzi1.top
@@ -10846,6 +10848,7 @@ payload:
   - domain-suffix,helloandroid.com
   - domain-suffix,helloavgirls.com
   - domain-suffix,hellokittybeats.com
+  - domain-suffix,hellomoto.com
   - domain-suffix,helloqueer.com
   - domain-suffix,hellosmartbook.com
   - domain-suffix,hellporno.com
@@ -13469,6 +13472,7 @@ payload:
   - domain-suffix,kbzpay.com
   - domain-suffix,kc3000.shop
   - domain-suffix,kcqsw-na.sbs
+  - domain-suffix,kde.org
   - domain-suffix,kdfuli.com
   - domain-suffix,kdy202312.shop
   - domain-suffix,keaiav.com
@@ -14235,6 +14239,7 @@ payload:
   - domain-suffix,lvv2.com
   - domain-suffix,lwwcn.buzz
   - domain-suffix,lwwcn.xyz
+  - domain-suffix,lxqt-project.org
   - domain-suffix,lxxlxx.com
   - domain-suffix,lyfhk.net
   - domain-suffix,lysol.ca
@@ -14611,6 +14616,7 @@ payload:
   - domain-suffix,mat6tube.com
   - domain-suffix,matainja.com
   - domain-suffix,matchmover.com
+  - domain-suffix,mate-desktop.org
   - domain-suffix,material.io
   - domain-suffix,mathoverflow.net
   - domain-suffix,matome-plus.com
@@ -15645,7 +15651,31 @@ payload:
   - domain-suffix,motherless.com
   - domain-suffix,motiongraphicsandmore.com
   - domain-suffix,motionpictureser.com
+  - domain-suffix,moto.com
   - domain-suffix,motolia.com
+  - domain-suffix,motorola.ca
+  - domain-suffix,motorola.cl
+  - domain-suffix,motorola.co
+  - domain-suffix,motorola.co.id
+  - domain-suffix,motorola.co.jp
+  - domain-suffix,motorola.co.th
+  - domain-suffix,motorola.co.uk
+  - domain-suffix,motorola.com
+  - domain-suffix,motorola.com.au
+  - domain-suffix,motorola.com.co
+  - domain-suffix,motorola.com.pe
+  - domain-suffix,motorola.com.pr
+  - domain-suffix,motorola.de
+  - domain-suffix,motorola.es
+  - domain-suffix,motorola.fr
+  - domain-suffix,motorola.gr
+  - domain-suffix,motorola.in
+  - domain-suffix,motorola.it
+  - domain-suffix,motorola.net
+  - domain-suffix,motorola.vn
+  - domain-suffix,motorolacareers.com
+  - domain-suffix,motorolanews.com
+  - domain-suffix,motorolasolutions.com
   - domain-suffix,motorshowblog.com
   - domain-suffix,mottainai.info
   - domain-suffix,move-free.net
@@ -18080,6 +18110,7 @@ payload:
   - domain-suffix,plannotator.ai
   - domain-suffix,plansondemand.com
   - domain-suffix,plantsvszombies2.com
+  - domain-suffix,plasma-mobile.org
   - domain-suffix,plasticlabs.com
   - domain-suffix,plastics-cadcam.com
   - domain-suffix,platiecom.ru
@@ -21603,6 +21634,7 @@ payload:
   - domain-suffix,synologyupdate.com
   - domain-suffix,syosetu.com
   - domain-suffix,sysinternals.com
+  - domain-suffix,system76.com
   - domain-suffix,syzbj36.xyz
   - domain-suffix,szabadeuropa.hu
   - domain-suffix,szcheapmonsterheadphones.com
@@ -25016,6 +25048,7 @@ payload:
   - domain-suffix,xeon.com
   - domain-suffix,xerotica.com
   - domain-suffix,xfantazy.com
+  - domain-suffix,xfce.org
   - domain-suffix,xfemaledom.com
   - domain-suffix,xfinity.com
   - domain-suffix,xfockers.com
