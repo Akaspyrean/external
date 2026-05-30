@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     29 May 2026 23:07 UTC
-# DOMAIN:      26359
+# UPDATED:     30 May 2026 22:54 UTC
+# DOMAIN:      26361
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -2330,6 +2330,7 @@ payload:
   - domain-suffix,as-dash-uk-live.akamaized.net
   - domain-suffix,as-hls-uk-live.akamaized.net
   - domain-suffix,as-hp.ca
+  - domain-suffix,as.mr
   - domain-suffix,asacp.org
   - domain-suffix,asagaku.com
   - domain-suffix,asahi.com
@@ -9711,6 +9712,7 @@ payload:
   - domain-suffix,gemfury.com
   - domain-suffix,gemini.com
   - domain-suffix,gen.lib.rus.ec
+  - domain-suffix,gencraft.com
   - domain-suffix,gendai.net
   - domain-suffix,generated.photos
   - domain-suffix,genetic-technologies.am
@@ -23292,6 +23294,7 @@ payload:
   - domain-suffix,ve-uhd-push-uk-live.akamaized.net
   - domain-suffix,vecchiescopate.casa
   - domain-suffix,vector.im
+  - domain-suffix,veed.io
   - domain-suffix,veet.at
   - domain-suffix,veet.be
   - domain-suffix,veet.ca
@@ -25805,7 +25808,6 @@ payload:
   - domain-suffix,yhy.cool
   - domain-suffix,yibaochina.com
   - domain-suffix,yibei.org
-  - domain-suffix,yidio.com
   - domain-suffix,yigeni.com
   - domain-suffix,yimg.com
   - domain-suffix,yimg.jp
