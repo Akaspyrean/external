@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     30 May 2026 22:54 UTC
-# DOMAIN:      26361
+# UPDATED:     31 May 2026 22:55 UTC
+# DOMAIN:      26363
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -14048,6 +14048,7 @@ payload:
   - domain-suffix,livexxx.me
   - domain-suffix,livingstream.com
   - domain-suffix,livingyourambition.com
+  - domain-suffix,livinno.org
   - domain-suffix,livrariart.com.br
   - domain-suffix,lizardporn.com
   - domain-suffix,lizol.co.in
@@ -17292,6 +17293,7 @@ payload:
   - domain-suffix,ootbstudio.co.kr
   - domain-suffix,op.gg
   - domain-suffix,op7979.com
+  - domain-suffix,opac-project.eu
   - domain-suffix,open.firstory.me
   - domain-suffix,openai.com
   - domain-suffix,openaiapi-site.azureedge.net
