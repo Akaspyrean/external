@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     31 May 2026 22:55 UTC
-# DOMAIN:      26363
+# UPDATED:     01 Jun 2026 23:23 UTC
+# DOMAIN:      26369
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -6919,6 +6919,7 @@ payload:
   - domain-suffix,disneytvajobs.com
   - domain-suffix,disneyworld-go.com
   - domain-suffix,disp.cc
+  - domain-suffix,disq.us
   - domain-suffix,disqus.com
   - domain-suffix,disquscdn.com
   - domain-suffix,disqusservice.com
@@ -15707,6 +15708,7 @@ payload:
   - domain-suffix,moxing.news
   - domain-suffix,moystoys.com
   - domain-suffix,mozgcp.net
+  - domain-suffix,mozilla-ohttp.fastly-edge.com
   - domain-suffix,mozilla.ai
   - domain-suffix,mozilla.com
   - domain-suffix,mozilla.community
@@ -25077,11 +25079,15 @@ payload:
   - domain-suffix,xhamster18.com
   - domain-suffix,xhamster18.desi
   - domain-suffix,xhamster19.com
+  - domain-suffix,xhamster2.com
   - domain-suffix,xhamster3.com
   - domain-suffix,xhamsterlive.com
   - domain-suffix,xhcdn.com
+  - domain-suffix,xhnews.live
   - domain-suffix,xhot.pro
+  - domain-suffix,xhpingcdn.com
   - domain-suffix,xhpjc6-cdn-settings.appsflyersdk.com
+  - domain-suffix,xhreal5.com
   - domain-suffix,xhub.tv
   - domain-suffix,xiangrikui-app.com
   - domain-suffix,xianir.xyz
