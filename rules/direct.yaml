@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     01 Jun 2026 23:23 UTC
-# DOMAIN:      113308
+# UPDATED:     02 Jun 2026 23:42 UTC
+# DOMAIN:      113311
 # IP-RELATED:  17
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -24759,6 +24759,7 @@ payload:
   - domain-suffix,cnsihai.com
   - domain-suffix,cnsikao.com
   - domain-suffix,cnsimeng.com
+  - domain-suffix,cnsimg.net
   - domain-suffix,cnsimin.com
   - domain-suffix,cnsiwu.com
   - domain-suffix,cnskg.com
@@ -90217,6 +90218,7 @@ payload:
   - domain-suffix,tianxingjianyiliao.com
   - domain-suffix,tianxinkeji.com
   - domain-suffix,tianya.com
+  - domain-suffix,tianya.net
   - domain-suffix,tianya.tv
   - domain-suffix,tianya66.com
   - domain-suffix,tianyabook.com
@@ -101162,6 +101164,7 @@ payload:
   - domain-suffix,xinmeijiutian.com
   - domain-suffix,xinmeinuo.com
   - domain-suffix,xinmem.com
+  - domain-suffix,xinmeng.info
   - domain-suffix,xinmenglife.com
   - domain-suffix,xinmeow.com
   - domain-suffix,xinmeti.com

@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     01 Jun 2026 23:23 UTC
-# DOMAIN:      26369
+# UPDATED:     02 Jun 2026 23:42 UTC
+# DOMAIN:      26371
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -9775,6 +9775,7 @@ payload:
   - domain-suffix,getmdl.io
   - domain-suffix,getnews.jp
   - domain-suffix,getoutline.org
+  - domain-suffix,getpaint.net
   - domain-suffix,getpocket.com
   - domain-suffix,getporn.tv
   - domain-suffix,getprintersupports.com
@@ -17544,6 +17545,7 @@ payload:
   - domain-suffix,paimon.moe
   - domain-suffix,painfulpussytortures.com
   - domain-suffix,painnovel.com
+  - domain-suffix,paint.net
   - domain-suffix,paipal.com
   - domain-suffix,paipancon.com
   - domain-suffix,paisapay.cc
