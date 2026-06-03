@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     02 Jun 2026 23:42 UTC
-# DOMAIN:      26371
+# UPDATED:     03 Jun 2026 23:28 UTC
+# DOMAIN:      26372
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22417,6 +22417,7 @@ DOMAIN-SUFFIX,TOMONEWS.NET
 DOMAIN-SUFFIX,TOMP3.CC
 DOMAIN-SUFFIX,TOMSGUIDE.COM
 DOMAIN-SUFFIX,TON.ORG
+DOMAIN-SUFFIX,TONCENTER.COM
 DOMAIN-SUFFIX,TONEC.COM
 DOMAIN-SUFFIX,TONICMOVIES.COM
 DOMAIN-SUFFIX,TOOLFORGE.ORG

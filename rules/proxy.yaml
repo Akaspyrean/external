@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     02 Jun 2026 23:42 UTC
-# DOMAIN:      26371
+# UPDATED:     03 Jun 2026 23:28 UTC
+# DOMAIN:      26372
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22418,6 +22418,7 @@ payload:
   - domain-suffix,tomp3.cc
   - domain-suffix,tomsguide.com
   - domain-suffix,ton.org
+  - domain-suffix,toncenter.com
   - domain-suffix,tonec.com
   - domain-suffix,tonicmovies.com
   - domain-suffix,toolforge.org
