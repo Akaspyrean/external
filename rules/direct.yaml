@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     03 Jun 2026 23:28 UTC
-# DOMAIN:      113191
+# UPDATED:     04 Jun 2026 23:05 UTC
+# DOMAIN:      113194
 # IP-RELATED:  17
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -17875,6 +17875,7 @@ payload:
   - domain-suffix,brightdairy.com
   - domain-suffix,brightdecolighting.com
   - domain-suffix,brightfood.com
+  - domain-suffix,brighticecream.com
   - domain-suffix,brightliao.com
   - domain-suffix,brightmeat.com
   - domain-suffix,brilliance-auto.com
@@ -21845,6 +21846,7 @@ payload:
   - domain-suffix,chinacordblood.org
   - domain-suffix,chinacosco.com
   - domain-suffix,chinacourt.org
+  - domain-suffix,chinacow.com
   - domain-suffix,chinacpda.com
   - domain-suffix,chinacpda.org
   - domain-suffix,chinacqme.com
@@ -101046,6 +101048,7 @@ payload:
   - domain-suffix,xinlingletu.com
   - domain-suffix,xinlip.com
   - domain-suffix,xinlischool.com
+  - domain-suffix,xinlishumeng.com
   - domain-suffix,xinliwanju.com
   - domain-suffix,xinlixinli.net
   - domain-suffix,xinlong-holding.com
