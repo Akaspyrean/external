@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     05 Jun 2026 23:02 UTC
-# DOMAIN:      26548
+# UPDATED:     06 Jun 2026 22:58 UTC
+# DOMAIN:      26552
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5563,6 +5563,7 @@ payload:
   - domain-suffix,claude.ai
   - domain-suffix,claude.com
   - domain-suffix,claudemcpclient.com
+  - domain-suffix,claudemcpcontent.com
   - domain-suffix,claudeusercontent.com
   - domain-suffix,clawhub.ai
   - domain-suffix,clck.ru
@@ -21714,6 +21715,7 @@ payload:
   - domain-suffix,sustainthesound.com
   - domain-suffix,suxib.com
   - domain-suffix,suxiebu.com
+  - domain-suffix,suyingtv.com
   - domain-suffix,suzuri.jp
   - domain-suffix,svaboda.org
   - domain-suffix,svc.ms
@@ -24951,6 +24953,7 @@ payload:
   - domain-suffix,wp-themes.com
   - domain-suffix,wp.com
   - domain-suffix,wpewebkit.org
+  - domain-suffix,wplace.live
   - domain-suffix,wpoforum.com
   - domain-suffix,wpvip.com
   - domain-suffix,wrds-www.wharton.upenn.edu
@@ -25106,6 +25109,7 @@ payload:
   - domain-suffix,www.oxid.it
   - domain-suffix,www.powerpointninja.com
   - domain-suffix,www.pxcc.com
+  - domain-suffix,www.quora.com.cdn.cloudflare.net
   - domain-suffix,www.s4miniarchive.com
   - domain-suffix,www.sb
   - domain-suffix,www.tablesgenerator.com
