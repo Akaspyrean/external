@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     06 Jun 2026 22:58 UTC
-# DOMAIN:      26552
+# UPDATED:     07 Jun 2026 22:59 UTC
+# DOMAIN:      26594
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1660,6 +1660,7 @@ payload:
   - domain-suffix,amd.com
   - domain-suffix,amd.com.cn
   - domain-suffix,amdfanstore.com
+  - domain-suffix,amdgaming.com
   - domain-suffix,amdigital.co.uk
   - domain-suffix,ameba.jp
   - domain-suffix,amebame.com
@@ -4647,6 +4648,7 @@ payload:
   - domain-suffix,budatt.com
   - domain-suffix,buddymedia.com
   - domain-suffix,buffered.com
+  - domain-suffix,bugsnag.com
   - domain-suffix,bugzilla.org
   - domain-suffix,buhidoh.net
   - domain-suffix,buicha.social
@@ -5123,6 +5125,7 @@ payload:
   - domain-suffix,cciernslabs.com
   - domain-suffix,cciesecuritylabs.com
   - domain-suffix,ccievoicelabs.com
+  - domain-suffix,ccleaner.com
   - domain-suffix,cclife.org
   - domain-suffix,cclifefl.org
   - domain-suffix,ccna5.net
@@ -5532,6 +5535,7 @@ payload:
   - domain-suffix,cityoflove.com
   - domain-suffix,citypopulation.de
   - domain-suffix,citytourgirls.com
+  - domain-suffix,cityu.hk
   - domain-suffix,civicparty.hk
   - domain-suffix,civil3d.com
   - domain-suffix,civilcc.com
@@ -6088,6 +6092,7 @@ payload:
   - domain-suffix,cuckwimp.com
   - domain-suffix,cuebic.biz
   - domain-suffix,cuffiesaldi.com
+  - domain-suffix,cuhk.hk
   - domain-suffix,cuinc.oen.tw
   - domain-suffix,cuinc.tw
   - domain-suffix,cuiweiping.net
@@ -7716,11 +7721,13 @@ payload:
   - domain-suffix,editorx.com
   - domain-suffix,edninfo.com
   - domain-suffix,edu-research.org
+  - domain-suffix,edu.hk
   - domain-suffix,edu.ir
   - domain-suffix,edu.tinkoff.ru
   - domain-suffix,edubridge.com
   - domain-suffix,education-cadcam.com
   - domain-suffix,education.tbank.ru
+  - domain-suffix,eduhk.hk
   - domain-suffix,eduplus.hk
   - domain-suffix,edx-cdn.org
   - domain-suffix,edx.org
@@ -8808,6 +8815,7 @@ payload:
   - domain-suffix,fileflyer.com
   - domain-suffix,filesmonster.vip
   - domain-suffix,filesor.com
+  - domain-suffix,filezilla-project.org
   - domain-suffix,filipino-music.net
   - domain-suffix,filme2.xxx
   - domain-suffix,filmeleporno.xxx
@@ -9959,6 +9967,7 @@ payload:
   - domain-suffix,git.io
   - domain-suffix,gitbook.com
   - domain-suffix,gitbook.io
+  - domain-suffix,gitgud.io
   - domain-suffix,github-api.arkoselabs.com
   - domain-suffix,github-cloud.s3.amazonaws.com
   - domain-suffix,github-production-release-asset-2e65be.s3.amazonaws.com
@@ -10766,6 +10775,7 @@ payload:
   - domain-suffix,hayday.com
   - domain-suffix,haydaygame.com
   - domain-suffix,hayya.ae
+  - domain-suffix,hb.imgix.net
   - domain-suffix,hbabit.com
   - domain-suffix,hbfile.net
   - domain-suffix,hbg.com
@@ -11173,6 +11183,7 @@ payload:
   - domain-suffix,hitxhot.com
   - domain-suffix,hive.blog
   - domain-suffix,hiveon.net
+  - domain-suffix,hivepress.io
   - domain-suffix,hjb246.top
   - domain-suffix,hjb7e9.top
   - domain-suffix,hk-pub.com
@@ -11185,6 +11196,7 @@ payload:
   - domain-suffix,hkbn.net
   - domain-suffix,hkbnes.net
   - domain-suffix,hkbookcity.com
+  - domain-suffix,hkbu.hk
   - domain-suffix,hkchronicles.com
   - domain-suffix,hkcircleapp.com
   - domain-suffix,hkcitizenmedia.com
@@ -11219,6 +11231,8 @@ payload:
   - domain-suffix,hkteducation.com
   - domain-suffix,hktpremier.com
   - domain-suffix,hktshop.com
+  - domain-suffix,hku.hk
+  - domain-suffix,hkust.hk
   - domain-suffix,hl2rcv.adobe.com
   - domain-suffix,hlbelygl.com
   - domain-suffix,hlrcv.stage.adobe.com
@@ -13300,7 +13314,6 @@ payload:
   - domain-suffix,jmcomic1.rocks
   - domain-suffix,jmcomic2.moe
   - domain-suffix,jmlr.org
-  - domain-suffix,jmsc.hku.hk
   - domain-suffix,jmscult.com
   - domain-suffix,jmvbt.com
   - domain-suffix,jneurosci.org
@@ -13817,6 +13830,7 @@ payload:
   - domain-suffix,landofhope.tv
   - domain-suffix,langchain.com
   - domain-suffix,langsuirs.com
+  - domain-suffix,languagetool.org
   - domain-suffix,lanik.us
   - domain-suffix,lanmdh.net
   - domain-suffix,lanniser-ylo.shop
@@ -13981,7 +13995,6 @@ payload:
   - domain-suffix,liboggirls.net
   - domain-suffix,library-access.sk
   - domain-suffix,library.lol
-  - domain-suffix,library.usc.cuhk.edu.hk
   - domain-suffix,librarylovefest.com
   - domain-suffix,libraryofthumbs.com
   - domain-suffix,libredd.it
@@ -15486,7 +15499,6 @@ payload:
   - domain-suffix,mji.rip
   - domain-suffix,mjj.rip
   - domain-suffix,mjj.today
-  - domain-suffix,mjlsh.usc.cuhk.edu.hk
   - domain-suffix,mjv-art.org
   - domain-suffix,mk.shrimpia.network
   - domain-suffix,mk.yopo.work
@@ -15722,6 +15734,7 @@ payload:
   - domain-suffix,motionpictureser.com
   - domain-suffix,moto.com
   - domain-suffix,motolia.com
+  - domain-suffix,motopress.com
   - domain-suffix,motorola.ca
   - domain-suffix,motorola.cl
   - domain-suffix,motorola.co
@@ -15876,6 +15889,7 @@ payload:
   - domain-suffix,msudalosti.com
   - domain-suffix,msunlimitedcloudsummit.com
   - domain-suffix,mswe1.org
+  - domain-suffix,msys2.org
   - domain-suffix,mt.lv
   - domain-suffix,mt0011.site
   - domain-suffix,mtalk-dev.google.com
@@ -17134,6 +17148,7 @@ payload:
   - domain-suffix,o3t.ru
   - domain-suffix,o3team.ru
   - domain-suffix,oaistatic.com
+  - domain-suffix,oaistatsig.com
   - domain-suffix,oaiusercontent.com
   - domain-suffix,oanda.com
   - domain-suffix,oanencore.com
@@ -18340,6 +18355,7 @@ payload:
   - domain-suffix,polymer-project.org
   - domain-suffix,polymerhk.com
   - domain-suffix,polymerproject.org
+  - domain-suffix,polyu.hk
   - domain-suffix,ponyanimalsex.com
   - domain-suffix,poofetish.com
   - domain-suffix,pool.ntp.org
@@ -19084,6 +19100,7 @@ payload:
   - domain-suffix,qmttqg3k.me
   - domain-suffix,qnap.com
   - domain-suffix,qobuz.com
+  - domain-suffix,qoder.com
   - domain-suffix,qombol.com
   - domain-suffix,qoo-app.com
   - domain-suffix,qoo10.jp
@@ -24954,6 +24971,7 @@ payload:
   - domain-suffix,wp.com
   - domain-suffix,wpewebkit.org
   - domain-suffix,wplace.live
+  - domain-suffix,wpmailsmtp.com
   - domain-suffix,wpoforum.com
   - domain-suffix,wpvip.com
   - domain-suffix,wrds-www.wharton.upenn.edu
@@ -25387,9 +25405,15 @@ payload:
   - domain-suffix,xn--d4ty0ojsqzfd.com
   - domain-suffix,xn--e1adjldbbpv.xn--90ais
   - domain-suffix,xn--e1aigb.xn--p1ai
+  - domain-suffix,xn--fiqs8s1bxp3anr7a.hk
+  - domain-suffix,xn--fiqs8s1bxp3anr7a.xn--j6w193g
+  - domain-suffix,xn--fiqs8s1byzqyvl.hk
+  - domain-suffix,xn--fiqs8s1byzqyvl.xn--j6w193g
   - domain-suffix,xn--fiqs8sxootzz.xn--hxt814e
   - domain-suffix,xn--flw351e
   - domain-suffix,xn--flw351e.com
+  - domain-suffix,xn--gdt08a.hk
+  - domain-suffix,xn--gdt08a.xn--j6w193g
   - domain-suffix,xn--ggle-55da.com
   - domain-suffix,xn--gmq348bujlxrb.com
   - domain-suffix,xn--gmq92kd2rm1kx34a.com
@@ -25409,11 +25433,23 @@ payload:
   - domain-suffix,xn--kput3imi374g.xn--hxt814e
   - domain-suffix,xn--mts47c3w9b1qr.net
   - domain-suffix,xn--mtswd61ejxq.com
+  - domain-suffix,xn--mxtq18a.hk
+  - domain-suffix,xn--mxtq18a.xn--j6w193g
   - domain-suffix,xn--ngstr-lra8j.com
   - domain-suffix,xn--noss43i.com
   - domain-suffix,xn--oiq.cc
   - domain-suffix,xn--p8j9a0d9c9a.xn--q9jyb4c
   - domain-suffix,xn--pearsonenespaol-brb.com
+  - domain-suffix,xn--pssu7ci2j23mp9ny48b.hk
+  - domain-suffix,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+  - domain-suffix,xn--pssu7cv61af1tcs59bnvd.hk
+  - domain-suffix,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+  - domain-suffix,xn--pssu7cv61af44b.hk
+  - domain-suffix,xn--pssu7cv61af44b.xn--j6w193g
+  - domain-suffix,xn--pssu7cv61ahw8aq79bztd.hk
+  - domain-suffix,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+  - domain-suffix,xn--pssu7cv61ahwcb1p2yk.hk
+  - domain-suffix,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
   - domain-suffix,xn--q41am8x.com
   - domain-suffix,xn--qcka1pmc
   - domain-suffix,xn--qoq462m.com
@@ -25426,7 +25462,13 @@ payload:
   - domain-suffix,xn--u2u927b.com
   - domain-suffix,xn--ubt498knmf.com
   - domain-suffix,xn--uis17aj9kmuf.com
+  - domain-suffix,xn--uis44a.xn--j6w193g
   - domain-suffix,xn--urs05q.jp
+  - domain-suffix,xn--wcv22d.hk
+  - domain-suffix,xn--wcv22d.xn--j6w193g
+  - domain-suffix,xn--wcvs22d.xn--j6w193g
+  - domain-suffix,xn--wcvs22d1m.hk
+  - domain-suffix,xn--wcvs22d1m.xn--j6w193g
   - domain-suffix,xn--x-qeu1ji09tzlg.biz
   - domain-suffix,xn--x-qeu1ji09tzlg.net
   - domain-suffix,xn--xsq421m.com
