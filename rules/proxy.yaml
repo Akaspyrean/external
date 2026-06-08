@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     07 Jun 2026 22:59 UTC
-# DOMAIN:      26594
+# UPDATED:     08 Jun 2026 23:09 UTC
+# DOMAIN:      26595
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -16847,6 +16847,7 @@ payload:
   - domain-suffix,notify.ppy.sh
   - domain-suffix,notimundo.press
   - domain-suffix,notion-static.com
+  - domain-suffix,notion-status.com
   - domain-suffix,notion.com
   - domain-suffix,notion.new
   - domain-suffix,notion.site

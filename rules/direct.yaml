@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     07 Jun 2026 22:59 UTC
-# DOMAIN:      113010
+# UPDATED:     08 Jun 2026 23:09 UTC
+# DOMAIN:      113004
 # IP-RELATED:  17
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -50620,9 +50620,7 @@ payload:
   - domain-suffix,iclickstatic.com
   - domain-suffix,icliexpo.com
   - domain-suffix,icljt.com
-  - domain-suffix,icloud-cdn.icloud.com.akadns.net
   - domain-suffix,icloud-power.com
-  - domain-suffix,icloud.cdn-apple.com
   - domain-suffix,icloudcity.com
   - domain-suffix,icloudgslb.com
   - domain-suffix,icloudnative.io
@@ -71440,11 +71438,9 @@ payload:
   - domain-suffix,ocn187.com
   - domain-suffix,ocpuritech.com
   - domain-suffix,ocsjs.com
-  - domain-suffix,ocsp-lb.apple.com.akadns.net
   - domain-suffix,ocsp.apple.com
   - domain-suffix,ocsp.pki.goog
   - domain-suffix,ocsp.us.cdnetworks.com
-  - domain-suffix,ocsp2-lb.apple.com.akadns.net
   - domain-suffix,ocsp2.apple.com
   - domain-suffix,ocssaas.com
   - domain-suffix,oct-asia.com
@@ -72695,7 +72691,6 @@ payload:
   - domain-suffix,panbaidu.net
   - domain-suffix,panbrake.com
   - domain-suffix,pancake.apple.com
-  - domain-suffix,pancake.cdn-apple.com.akadns.net
   - domain-suffix,panchinasports.com
   - domain-suffix,panchip.com
   - domain-suffix,panchuang.net
@@ -78171,7 +78166,6 @@ payload:
   - domain-suffix,reseetech.com
   - domain-suffix,resemblancey.com
   - domain-suffix,resemi.com
-  - domain-suffix,reserve-prime.apple.com
   - domain-suffix,reservehemu.com
   - domain-suffix,resheji.com
   - domain-suffix,resistor.today
