@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     08 Jun 2026 23:09 UTC
-# DOMAIN:      113004
+# UPDATED:     09 Jun 2026 23:14 UTC
+# DOMAIN:      113028
 # IP-RELATED:  17
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1225,6 +1225,7 @@ payload:
   - domain-suffix,0x5.me
   - domain-suffix,0x9.me
   - domain-suffix,0xaa55.com
+  - domain-suffix,0xffff.one
   - domain-suffix,0xffffff.org
   - domain-suffix,0xiao.com
   - domain-suffix,0xjqlun2.work
@@ -5867,6 +5868,7 @@ payload:
   - domain-suffix,51yugou.com
   - domain-suffix,51yund.com
   - domain-suffix,51yundong.me
+  - domain-suffix,51yunzhi.com
   - domain-suffix,51ywx.com
   - domain-suffix,51yxcyy.com
   - domain-suffix,51yxky.com
@@ -19275,6 +19277,7 @@ payload:
   - domain-suffix,catchyrime.com
   - domain-suffix,catering-shizuoka.com
   - domain-suffix,catfish-cms.com
+  - domain-suffix,catfk.com
   - domain-suffix,catguo.com
   - domain-suffix,cathassist.org
   - domain-suffix,cathayagroup.com
@@ -22808,6 +22811,7 @@ payload:
   - domain-suffix,chualamdimsum.com
   - domain-suffix,chuan-s.com
   - domain-suffix,chuanboyi.com
+  - domain-suffix,chuanboyu.com
   - domain-suffix,chuandaizc.com
   - domain-suffix,chuandasolar.com
   - domain-suffix,chuandong.com
@@ -29096,6 +29100,7 @@ payload:
   - domain-suffix,dgjx.net
   - domain-suffix,dgjxmk.com
   - domain-suffix,dgjy.net
+  - domain-suffix,dgkfa.com
   - domain-suffix,dgkj888.com
   - domain-suffix,dglpool.com
   - domain-suffix,dglyjx.com
@@ -32589,6 +32594,7 @@ payload:
   - domain-suffix,ego-robotics.com
   - domain-suffix,egoint.com
   - domain-suffix,egongzheng.com
+  - domain-suffix,egonlin.com
   - domain-suffix,egooad.com
   - domain-suffix,egood995.com
   - domain-suffix,egoonet.com
@@ -43335,6 +43341,7 @@ payload:
   - domain-suffix,h5anli.com
   - domain-suffix,h5app.com
   - domain-suffix,h5avu.com
+  - domain-suffix,h5cmpassport.com
   - domain-suffix,h5cn.com
   - domain-suffix,h5data.com
   - domain-suffix,h5designer.com
@@ -46316,6 +46323,7 @@ payload:
   - domain-suffix,hjenglish.com
   - domain-suffix,hjg365.com
   - domain-suffix,hjgcd.com
+  - domain-suffix,hjgroup-sdq.com
   - domain-suffix,hjgrp.com
   - domain-suffix,hjgtjt.com
   - domain-suffix,hjhrcloud.com
@@ -51190,6 +51198,7 @@ payload:
   - domain-suffix,ihqfo.org
   - domain-suffix,ihr360.com
   - domain-suffix,ihrscloud.com
+  - domain-suffix,ihsiao.com
   - domain-suffix,ihst8.com
   - domain-suffix,ihstatic.com
   - domain-suffix,ihtcboy.com
@@ -59496,6 +59505,7 @@ payload:
   - domain-suffix,ksydx.com
   - domain-suffix,ksyiqiwan.com
   - domain-suffix,ksyll.com
+  - domain-suffix,ksymsbz.com
   - domain-suffix,ksyna.com
   - domain-suffix,ksyun.com
   - domain-suffix,ksyun.net
@@ -65072,6 +65082,7 @@ payload:
   - domain-suffix,marco-bj.com
   - domain-suffix,marcopolochina.com
   - domain-suffix,marginalk.com
+  - domain-suffix,maria23.com
   - domain-suffix,mariedalgar.com
   - domain-suffix,marimekko-hots.com
   - domain-suffix,marine-dancer.com
@@ -65440,12 +65451,14 @@ payload:
   - domain-suffix,mcyz.com
   - domain-suffix,mczhihui.com
   - domain-suffix,mczmb.org
+  - domain-suffix,mczsok.com
   - domain-suffix,mczwlt.net
   - domain-suffix,mczyz.com
   - domain-suffix,mczz.net
   - domain-suffix,md-hmjt.com
   - domain-suffix,md-pms.com
   - domain-suffix,md5ma.com
+  - domain-suffix,mdaehx.com
   - domain-suffix,mdapp.tv
   - domain-suffix,mdbchina.com
   - domain-suffix,mdbimg.com
@@ -66581,6 +66594,7 @@ payload:
   - domain-suffix,minecraftxz.com
   - domain-suffix,minecraftzw.com
   - domain-suffix,minegoods.com
+  - domain-suffix,mineharmony.cc
   - domain-suffix,minei.com
   - domain-suffix,mineplugin.org
   - domain-suffix,minerhome.com
@@ -73670,6 +73684,7 @@ payload:
   - domain-suffix,pinkertech.com
   - domain-suffix,pinkoichina.com
   - domain-suffix,pinkou.com
+  - domain-suffix,pinkr.com
   - domain-suffix,pinla.com
   - domain-suffix,pinlyu.com
   - domain-suffix,pinmanduo.com
@@ -80108,6 +80123,7 @@ payload:
   - domain-suffix,scmccboss.com
   - domain-suffix,scmchem.com
   - domain-suffix,scmfair.com
+  - domain-suffix,scmggzbh.com
   - domain-suffix,scmor.com
   - domain-suffix,scmroad.com
   - domain-suffix,scmsky.com
@@ -85821,6 +85837,7 @@ payload:
   - domain-suffix,stdout.pub
   - domain-suffix,ste56.com
   - domain-suffix,stea2008.com
+  - domain-suffix,steam-run.com
   - domain-suffix,steam.com
   - domain-suffix,steam302.xyz
   - domain-suffix,steambig.com
@@ -87032,6 +87049,7 @@ payload:
   - domain-suffix,syhzdj.net
   - domain-suffix,syhzx.com
   - domain-suffix,syhzzf.com
+  - domain-suffix,syiban.com
   - domain-suffix,syiptv.com
   - domain-suffix,syitgz.com
   - domain-suffix,syjcly.com
@@ -93374,6 +93392,7 @@ payload:
   - domain-suffix,uucqrdmk.com
   - domain-suffix,uueasy.com
   - domain-suffix,uuedutech.com
+  - domain-suffix,uufaka.com
   - domain-suffix,uufund.com
   - domain-suffix,uufuns.com
   - domain-suffix,uugai.com
@@ -94854,6 +94873,7 @@ payload:
   - domain-suffix,walvax.com
   - domain-suffix,wamawama.com
   - domain-suffix,wamila.com
+  - domain-suffix,wamoyu.com
   - domain-suffix,wan-ka.com
   - domain-suffix,wan.cc
   - domain-suffix,wan.com
@@ -98718,6 +98738,7 @@ payload:
   - domain-suffix,wya1.com
   - domain-suffix,wybgs.com
   - domain-suffix,wybosch.com
+  - domain-suffix,wybuddhist.com
   - domain-suffix,wybzdwss.com
   - domain-suffix,wycad.com
   - domain-suffix,wycfw.com
@@ -100532,6 +100553,7 @@ payload:
   - domain-suffix,ximitools.com
   - domain-suffix,ximiyouxi.com
   - domain-suffix,ximmerse.com
+  - domain-suffix,ximofood.com
   - domain-suffix,ximogo.com
   - domain-suffix,ximuw.com
   - domain-suffix,xin-health.com
@@ -102833,6 +102855,7 @@ payload:
   - domain-suffix,xxymdy.com
   - domain-suffix,xxymw.com
   - domain-suffix,xxyo.com
+  - domain-suffix,xxyoil.com
   - domain-suffix,xxys2023.com
   - domain-suffix,xxyw.com
   - domain-suffix,xxyx.ltd
@@ -108466,6 +108489,7 @@ payload:
   - domain-suffix,zchospital.com
   - domain-suffix,zchrgroup.com
   - domain-suffix,zcict.com
+  - domain-suffix,zcidclink.com
   - domain-suffix,zcimg.com
   - domain-suffix,zcinfo.net
   - domain-suffix,zciv.com
