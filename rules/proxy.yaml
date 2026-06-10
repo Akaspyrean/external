@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     09 Jun 2026 23:14 UTC
-# DOMAIN:      26595
+# UPDATED:     10 Jun 2026 23:22 UTC
+# DOMAIN:      26600
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12312,6 +12312,7 @@ payload:
   - domain-suffix,infocert.it
   - domain-suffix,infoglobo.com.br
   - domain-suffix,infolinker.com.tw
+  - domain-suffix,infoq.com
   - domain-suffix,infoq.jp
   - domain-suffix,informs.org
   - domain-suffix,infosec.exchange
@@ -17120,6 +17121,7 @@ payload:
   - domain-suffix,nxta.org
   - domain-suffix,nxtdig.com.hk
   - domain-suffix,nxtdig.com.tw
+  - domain-suffix,nxtv.jp
   - domain-suffix,nyaa.eu
   - domain-suffix,nyaa.net
   - domain-suffix,nyaa.si
@@ -23241,6 +23243,9 @@ payload:
   - domain-suffix,underhentai.net
   - domain-suffix,underlords.com
   - domain-suffix,underwoodammo.com
+  - domain-suffix,unext-info.jp
+  - domain-suffix,unext.co.jp
+  - domain-suffix,unext.jp
   - domain-suffix,unfiltered.news
   - domain-suffix,unholyknight.com
   - domain-suffix,unidraw.io
