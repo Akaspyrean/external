@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     10 Jun 2026 23:22 UTC
-# DOMAIN:      113026
+# UPDATED:     11 Jun 2026 23:17 UTC
+# DOMAIN:      113034
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -10754,6 +10754,7 @@ payload:
   - domain-suffix,ahceisc.com
   - domain-suffix,ahcfrc.com
   - domain-suffix,ahchanye.com
+  - domain-suffix,ahcjw.com
   - domain-suffix,ahcnb.com
   - domain-suffix,ahcoating.com
   - domain-suffix,ahcsdz.com
@@ -42333,6 +42334,7 @@ payload:
   - domain-suffix,gxxlzyc.com
   - domain-suffix,gxxmglzx.com
   - domain-suffix,gxxmjjs.com
+  - domain-suffix,gxxmt.com
   - domain-suffix,gxxmyjs.com
   - domain-suffix,gxxqsm.com
   - domain-suffix,gxxrf.com
@@ -52485,6 +52487,7 @@ payload:
   - domain-suffix,ishenping.com
   - domain-suffix,ishenyou.com
   - domain-suffix,ishijing.com
+  - domain-suffix,ishijue.com
   - domain-suffix,ishipoffshore.com
   - domain-suffix,ishouhong.com
   - domain-suffix,ishouka.com
@@ -60320,6 +60323,7 @@ payload:
   - domain-suffix,landed.cc
   - domain-suffix,landhonor.com
   - domain-suffix,landi.com
+  - domain-suffix,landian.news
   - domain-suffix,landian.vip
   - domain-suffix,landian.xyz
   - domain-suffix,landiannews.com
@@ -69491,6 +69495,7 @@ payload:
   - domain-suffix,nfmedia.com
   - domain-suffix,nfmrtfv.com
   - domain-suffix,nfnews.com
+  - domain-suffix,nfpeople.com
   - domain-suffix,nfqbyp.com
   - domain-suffix,nfs-china.com
   - domain-suffix,nfschina.com
@@ -70933,6 +70938,7 @@ payload:
   - domain-suffix,nprc.net
   - domain-suffix,npsdyyy.com
   - domain-suffix,npsel.com
+  - domain-suffix,npsv6.com
   - domain-suffix,nptpark.com
   - domain-suffix,nptparking.com
   - domain-suffix,nptwedding.com
@@ -92637,6 +92643,7 @@ payload:
   - domain-suffix,ucpaas.com
   - domain-suffix,ucpchina.com
   - domain-suffix,ucpopo.com
+  - domain-suffix,ucppt.com
   - domain-suffix,ucren.com
   - domain-suffix,ucsanya.com
   - domain-suffix,ucss.ninja
@@ -93694,6 +93701,7 @@ payload:
   - domain-suffix,vcd.io
   - domain-suffix,vcdnga.com
   - domain-suffix,vcg.com
+  - domain-suffix,vcgapi.com
   - domain-suffix,vchangyi.com
   - domain-suffix,vcimg.com
   - domain-suffix,vcinchina.com

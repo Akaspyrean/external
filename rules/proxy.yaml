@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     10 Jun 2026 23:22 UTC
-# DOMAIN:      26600
+# UPDATED:     11 Jun 2026 23:17 UTC
+# DOMAIN:      26639
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1437,6 +1437,7 @@ payload:
   - domain-suffix,allizom.net
   - domain-suffix,allizom.org
   - domain-suffix,alljapanesepass.com
+  - domain-suffix,allkeyshop.com
   - domain-suffix,allmomsex.com
   - domain-suffix,allmovie.com
   - domain-suffix,allover30.com
@@ -2707,6 +2708,7 @@ payload:
   - domain-suffix,avdwang.xyz
   - domain-suffix,avelip.com
   - domain-suffix,aventertainments.com
+  - domain-suffix,avermedia.com
   - domain-suffix,aversbank.ru
   - domain-suffix,avfox.cc
   - domain-suffix,avg.com
@@ -3519,6 +3521,7 @@ payload:
   - domain-suffix,bextbuy.com
   - domain-suffix,beyondcore.com
   - domain-suffix,bfa.ru
+  - domain-suffix,bfads.net
   - domain-suffix,bffshd.com
   - domain-suffix,bfnn.org
   - domain-suffix,bfsh.hk
@@ -4753,6 +4756,7 @@ payload:
   - domain-suffix,buypass.com
   - domain-suffix,buypass.no
   - domain-suffix,buypass.se
+  - domain-suffix,buyservices.com
   - domain-suffix,buyshoponly.com
   - domain-suffix,buzzardflapper.com
   - domain-suffix,buzzav.com
@@ -5771,6 +5775,7 @@ payload:
   - domain-suffix,coinbene.com
   - domain-suffix,coindesk.com
   - domain-suffix,coinex.com
+  - domain-suffix,coingate.com
   - domain-suffix,coingecko.com
   - domain-suffix,coingi.com
   - domain-suffix,coinglass.com
@@ -6855,6 +6860,9 @@ payload:
   - domain-suffix,discountbeatsstore.com
   - domain-suffix,discountedporn.com
   - domain-suffix,discountporn.club
+  - domain-suffix,discourse-cdn.com
+  - domain-suffix,discourse.group
+  - domain-suffix,discourse.org
   - domain-suffix,discovershiretoko.org
   - domain-suffix,discoveryplus.com
   - domain-suffix,discreet.com
@@ -7503,6 +7511,10 @@ payload:
   - domain-suffix,eater.com
   - domain-suffix,ebahy.com
   - domain-suffix,ebalovo.com
+  - domain-suffix,ebates.ca
+  - domain-suffix,ebates.kr
+  - domain-suffix,ebates.sg
+  - domain-suffix,ebatescanada.com
   - domain-suffix,ebay-25-assets.s3-us-west-1.amazonaws.com
   - domain-suffix,ebay-authenticate.net
   - domain-suffix,ebay-confirm.com
@@ -7687,6 +7699,7 @@ payload:
   - domain-suffix,ebuyer.com
   - domain-suffix,ebuyheadphones.com
   - domain-suffix,ecapi-pchome.cdn.hinet.net
+  - domain-suffix,ecbsn.com
   - domain-suffix,ecchinohentai.ru
   - domain-suffix,ecert.gov.hk
   - domain-suffix,ecfa.org.tw
@@ -7772,6 +7785,7 @@ payload:
   - domain-suffix,electronicarts.fr
   - domain-suffix,electronicsignature.ru
   - domain-suffix,electronjs.org
+  - domain-suffix,elegantthemes.com
   - domain-suffix,element.io
   - domain-suffix,elementary.io
   - domain-suffix,elephantlist.com
@@ -8663,6 +8677,7 @@ payload:
   - domain-suffix,fasttrackreadysupport.com
   - domain-suffix,fatbtc.com
   - domain-suffix,fatstube.com
+  - domain-suffix,fatwallet.com
   - domain-suffix,favebook.com
   - domain-suffix,favelaporno.com
   - domain-suffix,favepornmovs.com
@@ -8803,6 +8818,7 @@ payload:
   - domain-suffix,ficador.com
   - domain-suffix,ficbook.net
   - domain-suffix,ficeboock.com
+  - domain-suffix,ficgs.com
   - domain-suffix,ficmania.com
   - domain-suffix,fictionmania.tv
   - domain-suffix,fiddle.jshell.net
@@ -9498,6 +9514,7 @@ payload:
   - domain-suffix,fullpornnetwork.com
   - domain-suffix,fullservicegame.com
   - domain-suffix,fullsexmovs.com
+  - domain-suffix,fullstory.com
   - domain-suffix,fulltaboo.tv
   - domain-suffix,fullxxxmovies.net
   - domain-suffix,fundaiphone5s.com
@@ -9617,7 +9634,9 @@ payload:
   - domain-suffix,gamesfuckgirls.com
   - domain-suffix,gamesofdesire.com
   - domain-suffix,gamespark.jp
+  - domain-suffix,gamesplanet.com
   - domain-suffix,gamesstack.com
+  - domain-suffix,gametap.com
   - domain-suffix,gameuxmasterguide.com
   - domain-suffix,gamez.com.tw
   - domain-suffix,gaming-notebooks.com
@@ -9893,6 +9912,7 @@ payload:
   - domain-suffix,gfx.ms
   - domain-suffix,gfycat.com
   - domain-suffix,gfysex.com
+  - domain-suffix,gg.deals
   - domain-suffix,ggdiao.com
   - domain-suffix,ggjav.com
   - domain-suffix,ggoogle.com
@@ -9905,6 +9925,7 @@ payload:
   - domain-suffix,gh.io
   - domain-suffix,ghbi.ir
   - domain-suffix,ghcr.io
+  - domain-suffix,ghe.com
   - domain-suffix,ghettotube.com
   - domain-suffix,ghidra-sre.org
   - domain-suffix,ghostarchive.org
@@ -10507,6 +10528,7 @@ payload:
   - domain-suffix,governmentengineer.com
   - domain-suffix,govforce.com
   - domain-suffix,gpb.ru
+  - domain-suffix,gpstatic.com
   - domain-suffix,gpstheseries.com
   - domain-suffix,gputechconf.co.kr
   - domain-suffix,gputechconf.com
@@ -11777,6 +11799,7 @@ payload:
   - domain-suffix,hyper.is
   - domain-suffix,hyperbeam.com
   - domain-suffix,hyperdreams.com
+  - domain-suffix,hyperliquid.xyz
   - domain-suffix,hyperrate.com
   - domain-suffix,hyperscan.io
   - domain-suffix,hypnohub.net
@@ -13659,6 +13682,7 @@ payload:
   - domain-suffix,kingofpics.com
   - domain-suffix,kingstagram.com
   - domain-suffix,kingstone.com.tw
+  - domain-suffix,kinguin.net
   - domain-suffix,kinguno.xyz
   - domain-suffix,kink.com
   - domain-suffix,kinkbook.com
@@ -14014,6 +14038,8 @@ payload:
   - domain-suffix,lifewire.com
   - domain-suffix,lightbridge.com
   - domain-suffix,lighten.org.tw
+  - domain-suffix,lighter.exchange
+  - domain-suffix,lighter.xyz
   - domain-suffix,lighti.me
   - domain-suffix,lightnovel.cn
   - domain-suffix,lightxxxtube.com
@@ -16480,7 +16506,9 @@ payload:
   - domain-suffix,nexon.co.jp
   - domain-suffix,nexon.com
   - domain-suffix,nexon.io
+  - domain-suffix,nexon.net
   - domain-suffix,nexoncdn.co.kr
+  - domain-suffix,nexongames.co.kr
   - domain-suffix,nexpart.com
   - domain-suffix,nexpart.tv
   - domain-suffix,next.com
@@ -16547,6 +16575,10 @@ payload:
   - domain-suffix,nhentaihaven.com
   - domain-suffix,nhentaihaven.org
   - domain-suffix,nheos.com
+  - domain-suffix,nhk
+  - domain-suffix,nhk.jp
+  - domain-suffix,nhk.or.jp
+  - domain-suffix,nhkworld.jp
   - domain-suffix,nhncorp.jp
   - domain-suffix,nic.cz.cc
   - domain-suffix,nic.gov
@@ -19256,7 +19288,10 @@ payload:
   - domain-suffix,rakuten.com
   - domain-suffix,rakuten.com.tw
   - domain-suffix,rakuten.ne.jp
+  - domain-suffix,rakuten.tv
   - domain-suffix,rakuten.tw
+  - domain-suffix,rakutenadvertising.com
+  - domain-suffix,rakutengiftcards.ca
   - domain-suffix,rakuya.com.tw
   - domain-suffix,ramcity.com.au
   - domain-suffix,randyblue.com
@@ -19703,6 +19738,7 @@ payload:
   - domain-suffix,rpmfusion.org
   - domain-suffix,rprimelab.com
   - domain-suffix,rqbank.ir
+  - domain-suffix,rrcbsn.com
   - domain-suffix,rrl28.buzz
   - domain-suffix,rrs1.xyz
   - domain-suffix,rrtis.com
@@ -23736,6 +23772,7 @@ payload:
   - domain-suffix,viewpointsfromfacebook.com
   - domain-suffix,vigorgame.com
   - domain-suffix,viju.ru
+  - domain-suffix,viki.com
   - domain-suffix,vikiporn.com
   - domain-suffix,vilanet.me
   - domain-suffix,vilavpn.com
@@ -24926,6 +24963,7 @@ payload:
   - domain-suffix,woolyss.com
   - domain-suffix,woopie.jp
   - domain-suffix,woopie.tv
+  - domain-suffix,wordcamp.org
   - domain-suffix,wordpress.com
   - domain-suffix,wordpress.net
   - domain-suffix,wordpress.org
@@ -26500,6 +26538,7 @@ payload:
   - domain-suffix,zipcine.com
   - domain-suffix,ziraatbank.ru
   - domain-suffix,zishy.com
+  - domain-suffix,zklighter.elliot.ai
   - domain-suffix,zlib.life
   - domain-suffix,zlibcdn.com
   - domain-suffix,zlibcdn2.com
