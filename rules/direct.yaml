@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     11 Jun 2026 23:17 UTC
-# DOMAIN:      113034
+# UPDATED:     12 Jun 2026 23:12 UTC
+# DOMAIN:      113035
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -98495,6 +98495,7 @@ payload:
   - domain-suffix,www.microsoft.com
   - domain-suffix,www.nike.com
   - domain-suffix,www.pxcc.com
+  - domain-suffix,www.recaptcha-cn.net
   - domain-suffix,www.recaptcha.net
   - domain-suffix,www.redhat.com
   - domain-suffix,www.samsung.com

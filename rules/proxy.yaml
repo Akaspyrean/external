@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     11 Jun 2026 23:17 UTC
-# DOMAIN:      26639
+# UPDATED:     12 Jun 2026 23:12 UTC
+# DOMAIN:      26656
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -7108,6 +7108,7 @@ payload:
   - domain-suffix,dot-mac.de
   - domain-suffix,dot.net
   - domain-suffix,dot.sb
+  - domain-suffix,dota2.com
   - domain-suffix,dotcernpilot.info
   - domain-suffix,dotdeb.org
   - domain-suffix,dotfacebook.com
@@ -14137,6 +14138,8 @@ payload:
   - domain-suffix,livehdcams.com
   - domain-suffix,livejasmin.com
   - domain-suffix,livejasminbabes.net
+  - domain-suffix,livejournal.com
+  - domain-suffix,livejournal.net
   - domain-suffix,liveleak.com
   - domain-suffix,livemint.com
   - domain-suffix,livemodels.co
@@ -17294,6 +17297,7 @@ payload:
   - domain-suffix,okx-dns.com
   - domain-suffix,okx-dns1.com
   - domain-suffix,okx-dns2.com
+  - domain-suffix,okx.ac
   - domain-suffix,okx.cab
   - domain-suffix,okx.com
   - domain-suffix,old.honeynet.org
@@ -23431,6 +23435,7 @@ payload:
   - domain-suffix,v-av.com
   - domain-suffix,v-has.com
   - domain-suffix,v.gd
+  - domain-suffix,v.ps
   - domain-suffix,v2.help
   - domain-suffix,v2.hysteria.network
   - domain-suffix,v2ex.com
@@ -23459,6 +23464,7 @@ payload:
   - domain-suffix,value-domain.com
   - domain-suffix,value-server.com
   - domain-suffix,valuegb.com
+  - domain-suffix,valve.net
   - domain-suffix,valvesoftware.com
   - domain-suffix,vamo.com
   - domain-suffix,vamzakaz.ru
@@ -24352,6 +24358,7 @@ payload:
   - domain-suffix,vpornvideos.com
   - domain-suffix,vpro.com
   - domain-suffix,vpro.net
+  - domain-suffix,vps.hosting
   - domain-suffix,vpsxb.net
   - domain-suffix,vrbgay.com
   - domain-suffix,vrcams.io
@@ -25600,6 +25607,16 @@ payload:
   - domain-suffix,xt.pub
   - domain-suffix,xtapes.to
   - domain-suffix,xtegvk.xyz
+  - domain-suffix,xtom.au
+  - domain-suffix,xtom.com
+  - domain-suffix,xtom.de
+  - domain-suffix,xtom.ee
+  - domain-suffix,xtom.hk
+  - domain-suffix,xtom.jp
+  - domain-suffix,xtom.nl
+  - domain-suffix,xtom.sg
+  - domain-suffix,xtom.social
+  - domain-suffix,xtom.us
   - domain-suffix,xtracloud.net
   - domain-suffix,xtube.com
   - domain-suffix,xtubebdsm.com

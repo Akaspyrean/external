@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     11 Jun 2026 23:17 UTC
-# DOMAIN:      113034
+# UPDATED:     12 Jun 2026 23:12 UTC
+# DOMAIN:      113035
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -98494,6 +98494,7 @@ DOMAIN-SUFFIX,WWW.HTC.COM
 DOMAIN-SUFFIX,WWW.MICROSOFT.COM
 DOMAIN-SUFFIX,WWW.NIKE.COM
 DOMAIN-SUFFIX,WWW.PXCC.COM
+DOMAIN-SUFFIX,WWW.RECAPTCHA-CN.NET
 DOMAIN-SUFFIX,WWW.RECAPTCHA.NET
 DOMAIN-SUFFIX,WWW.REDHAT.COM
 DOMAIN-SUFFIX,WWW.SAMSUNG.COM
