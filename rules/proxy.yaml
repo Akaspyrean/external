@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     12 Jun 2026 23:12 UTC
-# DOMAIN:      26656
+# UPDATED:     13 Jun 2026 22:59 UTC
+# DOMAIN:      26657
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -16926,6 +16926,7 @@ payload:
   - domain-suffix,nsfw247.to
   - domain-suffix,nsfwmemes.com
   - domain-suffix,nsimg.net
+  - domain-suffix,nspk.ru
   - domain-suffix,ntc.party
   - domain-suffix,ntd.com
   - domain-suffix,ntd.tv

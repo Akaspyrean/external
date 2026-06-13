@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     12 Jun 2026 23:12 UTC
-# DOMAIN:      26656
+# UPDATED:     13 Jun 2026 22:59 UTC
+# DOMAIN:      26657
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -16925,6 +16925,7 @@ DOMAIN-SUFFIX,NSFW.XXX
 DOMAIN-SUFFIX,NSFW247.TO
 DOMAIN-SUFFIX,NSFWMEMES.COM
 DOMAIN-SUFFIX,NSIMG.NET
+DOMAIN-SUFFIX,NSPK.RU
 DOMAIN-SUFFIX,NTC.PARTY
 DOMAIN-SUFFIX,NTD.COM
 DOMAIN-SUFFIX,NTD.TV
