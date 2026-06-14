@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     13 Jun 2026 22:59 UTC
-# DOMAIN:      26657
+# UPDATED:     14 Jun 2026 23:03 UTC
+# DOMAIN:      26678
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -9550,18 +9550,31 @@ payload:
   - domain-suffix,futanarihq.com
   - domain-suffix,futhead.com
   - domain-suffix,futpromos.com
+  - domain-suffix,futu.cn
+  - domain-suffix,futu.link
+  - domain-suffix,futu5.com
+  - domain-suffix,futuau.com
+  - domain-suffix,futuesop.com
   - domain-suffix,futufin.com
   - domain-suffix,futuhk.com
+  - domain-suffix,futuhk1.com
+  - domain-suffix,futuhk2.com
   - domain-suffix,futuhkapp.com
   - domain-suffix,futuhn.com
   - domain-suffix,futuholdings.com
   - domain-suffix,futunited.com
+  - domain-suffix,futuniuniu.com
+  - domain-suffix,futunn.com
+  - domain-suffix,futuoa.com
   - domain-suffix,future-cs.ru
   - domain-suffix,futuremessage.org
   - domain-suffix,futureofbritishmanufacturing.com
   - domain-suffix,futureofbusinesssurvey.org
   - domain-suffix,futureofmaktingthings.com
   - domain-suffix,futureshop.ca
+  - domain-suffix,futusg.com
+  - domain-suffix,futustatic.com
+  - domain-suffix,fututrade.com
   - domain-suffix,fuxporn.com
   - domain-suffix,fuzokudx.com
   - domain-suffix,fw.cm
@@ -13864,6 +13877,7 @@ payload:
   - domain-suffix,lanternal.com
   - domain-suffix,laogai.org
   - domain-suffix,laogairesearch.org
+  - domain-suffix,laohu8.com
   - domain-suffix,laosijifuli9009.top
   - domain-suffix,laowang.vip
   - domain-suffix,lapriere.jp
@@ -14240,11 +14254,13 @@ payload:
   - domain-suffix,londonreal.tv
   - domain-suffix,lonestarnaughtygirls.com
   - domain-suffix,longbridge.cloud
+  - domain-suffix,longbridge.cn
   - domain-suffix,longbridge.com
   - domain-suffix,longbridge.global
   - domain-suffix,longbridge.hk
   - domain-suffix,longbridge.sg
   - domain-suffix,longbridgeapp.com
+  - domain-suffix,longbridgehk.com
   - domain-suffix,longmabook.com
   - domain-suffix,longmabookcn.com
   - domain-suffix,longman.ch
@@ -20908,6 +20924,7 @@ payload:
   - domain-suffix,skysports.ie
   - domain-suffix,skysportsonline.com
   - domain-suffix,skysportsracing.com
+  - domain-suffix,skytigris.cn
   - domain-suffix,skyvegas.com
   - domain-suffix,skyxvpn.com
   - domain-suffix,sl99mod.buzz
@@ -21566,6 +21583,7 @@ payload:
   - domain-suffix,steamserver.net
   - domain-suffix,steamstatic.com
   - domain-suffix,steamstore-a.akamaihd.net
+  - domain-suffix,steamugcquincy.blob.core.windows.net
   - domain-suffix,steamunlocked.net
   - domain-suffix,steamusercontent-a.akamaihd.net
   - domain-suffix,steamusercontent.com
@@ -22489,6 +22507,8 @@ payload:
   - domain-suffix,tiendabestbuy.com
   - domain-suffix,tiffany-towers.com
   - domain-suffix,tig-ol-bitties.live
+  - domain-suffix,tigerbbs.cn
+  - domain-suffix,tigerbbs.com
   - domain-suffix,tigervpn.com
   - domain-suffix,tik-tokapi.com
   - domain-suffix,tiktok-minis.com
@@ -25347,6 +25367,7 @@ payload:
   - domain-suffix,xiaofu.me
   - domain-suffix,xiaogirls.com
   - domain-suffix,xiaohexie.com
+  - domain-suffix,xiaohu8.com
   - domain-suffix,xiaolan.me
   - domain-suffix,xiaoma.org
   - domain-suffix,xiaomi.eu
