@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     14 Jun 2026 23:03 UTC
-# DOMAIN:      112718
+# UPDATED:     15 Jun 2026 23:42 UTC
+# DOMAIN:      112716
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -39019,7 +39019,6 @@ payload:
   - domain-suffix,gmtv.cc
   - domain-suffix,gmtzy.com
   - domain-suffix,gmugmu.com
-  - domain-suffix,gmw.com
   - domain-suffix,gmwiki.com
   - domain-suffix,gmxmym.ren
   - domain-suffix,gmya.net
@@ -65608,11 +65607,11 @@ payload:
   - domain-suffix,meishi13.com
   - domain-suffix,meishichina.com
   - domain-suffix,meishiffx.online
-  - domain-suffix,meishij.net
   - domain-suffix,meishijr.com
   - domain-suffix,meishilife.com
   - domain-suffix,meishiqin.com
   - domain-suffix,meishischool.com
+  - domain-suffix,meishitx.com
   - domain-suffix,meishiwangluo.com
   - domain-suffix,meishizuofa.com
   - domain-suffix,meishow.com
@@ -100705,7 +100704,6 @@ payload:
   - domain-suffix,xinshengsemi.com
   - domain-suffix,xinshi525.com
   - domain-suffix,xinshiba.com
-  - domain-suffix,xinshipu.com
   - domain-suffix,xinshishen.com
   - domain-suffix,xinshouyou.com
   - domain-suffix,xinshouzhanzhang.com
