@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     15 Jun 2026 23:42 UTC
-# DOMAIN:      112716
+# UPDATED:     16 Jun 2026 23:19 UTC
+# DOMAIN:      112737
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -10974,6 +10974,7 @@ payload:
   - domain-suffix,aichaoxing.com
   - domain-suffix,aichat.net
   - domain-suffix,aichat1234.com
+  - domain-suffix,aichaxun.com
   - domain-suffix,aichehome.com
   - domain-suffix,aichi-zhe.com
   - domain-suffix,aichinaw.com
@@ -15110,6 +15111,7 @@ payload:
   - domain-suffix,bdbae.com
   - domain-suffix,bdc-rays.com
   - domain-suffix,bdcb.cc
+  - domain-suffix,bdcgslb.com
   - domain-suffix,bdcgz.com
   - domain-suffix,bdchangtujs.com
   - domain-suffix,bdchina.com
@@ -20877,6 +20879,7 @@ payload:
   - domain-suffix,chartboost-china.com
   - domain-suffix,chase-secure55.wiki
   - domain-suffix,chasedorisu.com
+  - domain-suffix,chasedream.com
   - domain-suffix,chaseyanyu.net
   - domain-suffix,chashebao.com
   - domain-suffix,chashudi.com
@@ -26390,6 +26393,7 @@ payload:
   - domain-suffix,csgjhzzx.com
   - domain-suffix,csgjjt.com
   - domain-suffix,csgkjt.com
+  - domain-suffix,csgky.net
   - domain-suffix,csgocn.net
   - domain-suffix,csgongshui.com
   - domain-suffix,csgpc.org
@@ -51239,6 +51243,7 @@ payload:
   - domain-suffix,ikunac.com
   - domain-suffix,ikuncdnfb.com
   - domain-suffix,ikunpay.com
+  - domain-suffix,ikutu.com
   - domain-suffix,ikx.me
   - domain-suffix,ikzybf.com
   - domain-suffix,il8r.com
@@ -51287,6 +51292,7 @@ payload:
   - domain-suffix,ilmgq.com
   - domain-suffix,ilohas.com
   - domain-suffix,iloli.bid
+  - domain-suffix,iloli.love
   - domain-suffix,iloli.xin
   - domain-suffix,ilongre.com
   - domain-suffix,ilovechao.com
@@ -51537,6 +51543,7 @@ payload:
   - domain-suffix,imsun.net
   - domain-suffix,imsyy.com
   - domain-suffix,imtaweb.net
+  - domain-suffix,imtedge.com
   - domain-suffix,imtics.com
   - domain-suffix,imtmp.net
   - domain-suffix,imtrwqjier3.com
@@ -54289,6 +54296,7 @@ payload:
   - domain-suffix,jiemo.net
   - domain-suffix,jiemodui.com
   - domain-suffix,jiemoselect.com
+  - domain-suffix,jiemu5.com
   - domain-suffix,jienyl.com
   - domain-suffix,jiepai.net
   - domain-suffix,jiepaids.com
@@ -58494,6 +58502,7 @@ payload:
   - domain-suffix,kfcbest.com
   - domain-suffix,kfcdn.com
   - domain-suffix,kfcjrl.com
+  - domain-suffix,kfcrm.com
   - domain-suffix,kfd3sm2c.com
   - domain-suffix,kfdcc.com
   - domain-suffix,kffone.com
@@ -59676,6 +59685,7 @@ payload:
   - domain-suffix,kunduo.com
   - domain-suffix,kungfucloud.com
   - domain-suffix,kungfuenglish.com
+  - domain-suffix,kungfumars.com
   - domain-suffix,kunguankeji.com
   - domain-suffix,kunguanyx.net
   - domain-suffix,kunjuke.com
@@ -64340,6 +64350,7 @@ payload:
   - domain-suffix,m2mlib.com
   - domain-suffix,m2mzy.com
   - domain-suffix,m2time.net
+  - domain-suffix,m2ucam.com
   - domain-suffix,m3-cloud.com
   - domain-suffix,m3cqjc3og6.com
   - domain-suffix,m3guo.com
@@ -65304,6 +65315,7 @@ payload:
   - domain-suffix,mdnice.com
   - domain-suffix,mdouvip.com
   - domain-suffix,mdouwz.com
+  - domain-suffix,mdown.asia
   - domain-suffix,mdpda.com
   - domain-suffix,mdpetrotech.com
   - domain-suffix,mdr.ksn.kaspersky-labs.com
@@ -69576,6 +69588,7 @@ payload:
   - domain-suffix,niuk12020gi.com
   - domain-suffix,niukk.com
   - domain-suffix,niuming147.com
+  - domain-suffix,niumowang.com
   - domain-suffix,niunai.com
   - domain-suffix,niuniufund.com
   - domain-suffix,niupiano.com
@@ -71901,6 +71914,7 @@ payload:
   - domain-suffix,orayimg.com
   - domain-suffix,orbiepharm.com
   - domain-suffix,orbitmes.com
+  - domain-suffix,orbrand.com
   - domain-suffix,orcadt.com
   - domain-suffix,orchome.com
   - domain-suffix,orcode.com
@@ -75004,6 +75018,7 @@ payload:
   - domain-suffix,qgxl.org
   - domain-suffix,qgyqshz.com
   - domain-suffix,qgysj.org
+  - domain-suffix,qgyyl.com
   - domain-suffix,qgyyzs.net
   - domain-suffix,qgzb.net
   - domain-suffix,qgzxx.com
@@ -90459,6 +90474,7 @@ payload:
   - domain-suffix,toast.pub
   - domain-suffix,toaw.net
   - domain-suffix,tobaccochina.com
+  - domain-suffix,tobaccodb.org
   - domain-suffix,tobaccosz.com
   - domain-suffix,tobebetterjavaer.com
   - domain-suffix,toberp.com
@@ -91463,6 +91479,7 @@ payload:
   - domain-suffix,ttnea.com
   - domain-suffix,ttnongli.com
   - domain-suffix,ttnqh.com
+  - domain-suffix,ttoffice.net
   - domain-suffix,ttongda.com
   - domain-suffix,ttpaicdn.com
   - domain-suffix,ttpaihang.com
@@ -95677,6 +95694,7 @@ payload:
   - domain-suffix,weishigz.com
   - domain-suffix,weishipin.com
   - domain-suffix,weishishuyuan.com
+  - domain-suffix,weishucdn.cloud
   - domain-suffix,weisiliang.com
   - domain-suffix,weismarts.com
   - domain-suffix,weistang.com
@@ -100344,6 +100362,7 @@ payload:
   - domain-suffix,xindong.com
   - domain-suffix,xindongdinglv.com
   - domain-suffix,xindonghuyu123.com
+  - domain-suffix,xindonshan.com
   - domain-suffix,xindu.cc
   - domain-suffix,xinduo.com
   - domain-suffix,xinduoad.com
@@ -100694,6 +100713,7 @@ payload:
   - domain-suffix,xinruiweb.com
   - domain-suffix,xinsanbanbao.com
   - domain-suffix,xinsankeji.com
+  - domain-suffix,xinsannong.com
   - domain-suffix,xinsdn.com
   - domain-suffix,xinsenz.com
   - domain-suffix,xinsf.cc
@@ -102507,6 +102527,7 @@ payload:
   - domain-suffix,xxkucun.com
   - domain-suffix,xxkxjx.net
   - domain-suffix,xxkxw.net
+  - domain-suffix,xxlab.tech
   - domain-suffix,xxlcn.com
   - domain-suffix,xxlifexx.com
   - domain-suffix,xxliudsp.com
