@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     16 Jun 2026 23:19 UTC
-# DOMAIN:      26716
+# UPDATED:     17 Jun 2026 23:19 UTC
+# DOMAIN:      26731
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5194,6 +5194,7 @@ payload:
   - domain-suffix,celebgramme.com
   - domain-suffix,celebmasta.live
   - domain-suffix,celebritygay.com
+  - domain-suffix,celebritymoviearchive.com
   - domain-suffix,celebritynakeds.com
   - domain-suffix,celebrityslips.com
   - domain-suffix,celebritystorysite.com
@@ -5274,6 +5275,7 @@ payload:
   - domain-suffix,chatgptvideo.xyz
   - domain-suffix,chatgptvideob.buzz
   - domain-suffix,chatpdf.com
+  - domain-suffix,chatscc-hamivideo2.cdn.hinet.net
   - domain-suffix,chatsex.xxx
   - domain-suffix,chatter.com
   - domain-suffix,chatterbate.io
@@ -7759,6 +7761,7 @@ payload:
   - domain-suffix,eenike.com
   - domain-suffix,eesti.ee
   - domain-suffix,eevpn.com
+  - domain-suffix,efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
   - domain-suffix,eff.org
   - domain-suffix,efksoft.com
   - domain-suffix,efproject.net
@@ -9307,6 +9310,7 @@ payload:
   - domain-suffix,fpacebook.com
   - domain-suffix,fpmt.org
   - domain-suffix,fpmtmexico.org
+  - domain-suffix,fpo.xxx
   - domain-suffix,fptolia.com
   - domain-suffix,fqcebook.com
   - domain-suffix,fqrouter.com
@@ -9421,6 +9425,8 @@ payload:
   - domain-suffix,freewallpaper4.me
   - domain-suffix,freewechat.com
   - domain-suffix,freeweibo.com
+  - domain-suffix,freexh.blog
+  - domain-suffix,freexh.live
   - domain-suffix,freexvideos.org
   - domain-suffix,freexxx.best
   - domain-suffix,freexxx.win
@@ -11287,6 +11293,7 @@ payload:
   - domain-suffix,hlbelygl.com
   - domain-suffix,hlrcv.stage.adobe.com
   - domain-suffix,hls-amt.itunes.apple.com
+  - domain-suffix,hls-hamivideo.cdn.hinet.net
   - domain-suffix,hls.itunes.apple.com
   - domain-suffix,hlsp1.pw
   - domain-suffix,hm.com
@@ -18178,6 +18185,7 @@ payload:
   - domain-suffix,pikpakdrive.com
   - domain-suffix,pillbeatsblackfridaysale.com
   - domain-suffix,pimg.tw
+  - domain-suffix,pimpbunny.com
   - domain-suffix,pin-cong.com
   - domain-suffix,pin.it
   - domain-suffix,pin6.com
@@ -18839,6 +18847,7 @@ payload:
   - domain-suffix,powershellgallery.com
   - domain-suffix,powersrv.de
   - domain-suffix,powersunitedvr.com
+  - domain-suffix,powfans.com
   - domain-suffix,pp-soc.com
   - domain-suffix,pp6.info
   - domain-suffix,ppaypal.com
@@ -20160,6 +20169,7 @@ payload:
   - domain-suffix,scatsite.com
   - domain-suffix,scatvids.club
   - domain-suffix,scatville.com
+  - domain-suffix,scc-hamivideo.cdn.hinet.net
   - domain-suffix,scc.ott.hinet.net
   - domain-suffix,scdn.co
   - domain-suffix,scene7.com
@@ -20399,6 +20409,7 @@ payload:
   - domain-suffix,seqingx.com
   - domain-suffix,sequence.com
   - domain-suffix,ser7.cc
+  - domain-suffix,serakon.com
   - domain-suffix,serbiporno.net
   - domain-suffix,serialssolutions.com
   - domain-suffix,serlucap.lol
@@ -21958,6 +21969,7 @@ payload:
   - domain-suffix,t.co
   - domain-suffix,t.finance
   - domain-suffix,t.me
+  - domain-suffix,t.ssp.hinet.net
   - domain-suffix,t2.ru
   - domain-suffix,t21.nikkei.co.jp
   - domain-suffix,t21ipau.nikkei.co.jp
@@ -24455,6 +24467,7 @@ payload:
   - domain-suffix,vscode.dev
   - domain-suffix,vscode.search.windows.net
   - domain-suffix,vsemrabota.ru
+  - domain-suffix,vsex.in
   - domain-suffix,vsezoo.com
   - domain-suffix,vsmarketplacebadge.apphb.com
   - domain-suffix,vsphere.com
@@ -24662,6 +24675,7 @@ payload:
   - domain-suffix,webkitgtk.org
   - domain-suffix,weblate.org
   - domain-suffix,weblive-hamivideo.cdn.hinet.net
+  - domain-suffix,weblivea-hamivideo.cdn.hinet.net
   - domain-suffix,webmademovies.org
   - domain-suffix,webmoneyinfo.com
   - domain-suffix,webmproject.org
@@ -25389,6 +25403,7 @@ payload:
   - domain-suffix,xhamster2.com
   - domain-suffix,xhamster3.com
   - domain-suffix,xhamsterlive.com
+  - domain-suffix,xhapp.live
   - domain-suffix,xhcdn.com
   - domain-suffix,xhnews.live
   - domain-suffix,xhot.pro
