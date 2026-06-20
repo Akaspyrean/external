@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     19 Jun 2026 22:51 UTC
-# DOMAIN:      112573
+# UPDATED:     20 Jun 2026 23:02 UTC
+# DOMAIN:      112580
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -13870,6 +13870,7 @@ payload:
   - domain-suffix,azuiblc.com
   - domain-suffix,azure-wave.com
   - domain-suffix,azure.cc
+  - domain-suffix,azureflame.cloud
   - domain-suffix,azureflying.com
   - domain-suffix,azuremigrate.download.prss.microsoft.com
   - domain-suffix,azuremigratetest.download.prss.microsoft.com
@@ -16476,6 +16477,7 @@ payload:
   - domain-suffix,bjartmuseum.com
   - domain-suffix,bjatv.com
   - domain-suffix,bjbaidianfeng.com
+  - domain-suffix,bjbaifan.com
   - domain-suffix,bjbalb.com
   - domain-suffix,bjbaodao.net
   - domain-suffix,bjbb.com
@@ -18920,6 +18922,7 @@ payload:
   - domain-suffix,cangfengzhe.com
   - domain-suffix,canghaiip.com
   - domain-suffix,canghaimachine.com
+  - domain-suffix,cangjggame.com
   - domain-suffix,canglanghospital.com
   - domain-suffix,cangmang.xyz
   - domain-suffix,cangoonline.com
@@ -20556,6 +20559,7 @@ payload:
   - domain-suffix,chachengji.com
   - domain-suffix,chacihai.com
   - domain-suffix,chacuo.net
+  - domain-suffix,chadaodao.com
   - domain-suffix,chadianhua.net
   - domain-suffix,chadoc.com
   - domain-suffix,chaej.com
@@ -34578,6 +34582,7 @@ payload:
   - domain-suffix,feiersmart.com
   - domain-suffix,feifandesign.com
   - domain-suffix,feifanindustry.com
+  - domain-suffix,feifanmi.com
   - domain-suffix,feifantxt.com
   - domain-suffix,feifantxt.net
   - domain-suffix,feifdx.com
@@ -65718,6 +65723,7 @@ payload:
   - domain-suffix,menpiao.com
   - domain-suffix,menpiaotuangou.com
   - domain-suffix,menshiny.com
+  - domain-suffix,mensura.cdn-apple.com
   - domain-suffix,mentamob.com
   - domain-suffix,mentorsc.com
   - domain-suffix,mentrends.com
@@ -75536,6 +75542,7 @@ payload:
   - domain-suffix,qingnianlvxing.com
   - domain-suffix,qingniantuzhai.com
   - domain-suffix,qingnianwang.com
+  - domain-suffix,qingning88.com
   - domain-suffix,qingpanduola.com
   - domain-suffix,qingpin.vip
   - domain-suffix,qingping.co
@@ -92634,6 +92641,7 @@ payload:
   - domain-suffix,uniow.com
   - domain-suffix,unipack-tech.com
   - domain-suffix,uniproud.com
+  - domain-suffix,unisapps.com
   - domain-suffix,uniscope.com
   - domain-suffix,unisdigital.com
   - domain-suffix,unisedu.com
@@ -92876,7 +92884,6 @@ payload:
   - domain-suffix,urumqimtr.com
   - domain-suffix,us-ex.com
   - domain-suffix,us-qianzheng.com
-  - domain-suffix,us.ci
   - domain-suffix,us0.me
   - domain-suffix,usa-gam.com
   - domain-suffix,usa-idc.com

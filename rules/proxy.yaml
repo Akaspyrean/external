@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     19 Jun 2026 22:51 UTC
-# DOMAIN:      26748
+# UPDATED:     20 Jun 2026 23:02 UTC
+# DOMAIN:      26777
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -612,6 +612,7 @@ payload:
   - domain-suffix,9nation.com.au
   - domain-suffix,9news.com.au
   - domain-suffix,9now.com.au
+  - domain-suffix,9oju31.launches.appsflyersdk.com
   - domain-suffix,9tak-nav.buzz
   - domain-suffix,9to5google.com
   - domain-suffix,9to5mac.com
@@ -1866,6 +1867,7 @@ payload:
   - domain-suffix,api-extractor.com
   - domain-suffix,api-p.videomarket.jp
   - domain-suffix,api.ai
+  - domain-suffix,api.moomoobull.com
   - domain-suffix,api.news
   - domain-suffix,api.palworldgame.com
   - domain-suffix,api.viu.now.com
@@ -3602,6 +3604,7 @@ payload:
   - domain-suffix,bili2.cc
   - domain-suffix,bili888.com
   - domain-suffix,bili999.com
+  - domain-suffix,bilinovel.com
   - domain-suffix,biliplus.com
   - domain-suffix,biliworld.com
   - domain-suffix,bill-safe.com
@@ -5254,6 +5257,7 @@ payload:
   - domain-suffix,cfna.com
   - domain-suffix,cfr.org
   - domain-suffix,cfwives.com
+  - domain-suffix,cg.play-analytics.com
   - domain-suffix,cgdepot.org
   - domain-suffix,ch9.ms
   - domain-suffix,chainid.network
@@ -9579,9 +9583,21 @@ payload:
   - domain-suffix,futhead.com
   - domain-suffix,futpromos.com
   - domain-suffix,futu.cn
+  - domain-suffix,futu.com
   - domain-suffix,futu.link
+  - domain-suffix,futu0.com
+  - domain-suffix,futu1.com
+  - domain-suffix,futu2.com
+  - domain-suffix,futu3.com
+  - domain-suffix,futu4.com
   - domain-suffix,futu5.com
+  - domain-suffix,futu6.com
+  - domain-suffix,futu7.com
+  - domain-suffix,futu8.com
+  - domain-suffix,futu9.com
   - domain-suffix,futuau.com
+  - domain-suffix,futubull.cn
+  - domain-suffix,futuchain.com
   - domain-suffix,futuesop.com
   - domain-suffix,futufin.com
   - domain-suffix,futuhk.com
@@ -9590,6 +9606,7 @@ payload:
   - domain-suffix,futuhkapp.com
   - domain-suffix,futuhn.com
   - domain-suffix,futuholdings.com
+  - domain-suffix,futuinc.com
   - domain-suffix,futunited.com
   - domain-suffix,futuniuniu.com
   - domain-suffix,futunn.com
@@ -9603,6 +9620,7 @@ payload:
   - domain-suffix,futusg.com
   - domain-suffix,futustatic.com
   - domain-suffix,fututrade.com
+  - domain-suffix,fututrustee.com
   - domain-suffix,fuxporn.com
   - domain-suffix,fuzokudx.com
   - domain-suffix,fw.cm
@@ -14296,6 +14314,7 @@ payload:
   - domain-suffix,longmabook.com
   - domain-suffix,longmabookcn.com
   - domain-suffix,longman.ch
+  - domain-suffix,longportapp.cn
   - domain-suffix,longportapp.com
   - domain-suffix,longtailvideo.com
   - domain-suffix,longtermly.net
@@ -20267,6 +20286,7 @@ payload:
   - domain-suffix,scholarpedia.org
   - domain-suffix,schwab.co.uk
   - domain-suffix,schwab.com
+  - domain-suffix,schwab.com.cn
   - domain-suffix,schwab.com.hk
   - domain-suffix,schwab.com.sg
   - domain-suffix,schwabassetmanagement.com
@@ -20640,6 +20660,7 @@ payload:
   - domain-suffix,sg1lib.org
   - domain-suffix,sgcheck.ru
   - domain-suffix,sgp1.fun
+  - domain-suffix,sgqt0j.launches.appsflyersdk.com
   - domain-suffix,sgr.com.br
   - domain-suffix,sgspe.de
   - domain-suffix,sgspt.buzz
@@ -20795,6 +20816,7 @@ payload:
   - domain-suffix,shops-disney.com
   - domain-suffix,shopspeedtv.com
   - domain-suffix,shoptraivip.com
+  - domain-suffix,shortconn.im.qcloud.com
   - domain-suffix,shorturl.at
   - domain-suffix,shotgridsoftware.com
   - domain-suffix,shotgridstudio.com
@@ -22570,6 +22592,10 @@ payload:
   - domain-suffix,tig-ol-bitties.live
   - domain-suffix,tigerbbs.cn
   - domain-suffix,tigerbbs.com
+  - domain-suffix,tigerbrokers.com
+  - domain-suffix,tigerbrokers.net
+  - domain-suffix,tigerbrokers.nz
+  - domain-suffix,tigerfintech.com
   - domain-suffix,tigervpn.com
   - domain-suffix,tik-tokapi.com
   - domain-suffix,tiktok-minis.com
@@ -22836,6 +22862,7 @@ payload:
   - domain-suffix,tracker.gg
   - domain-suffix,tracker.network
   - domain-suffix,tracking-location.com
+  - domain-suffix,tradeup.com
   - domain-suffix,tradevip1.com
   - domain-suffix,tradingview.com
   - domain-suffix,trae.ai
@@ -26626,6 +26653,8 @@ payload:
   - domain-suffix,zhengjian.org
   - domain-suffix,zhengwunet.org
   - domain-suffix,zhenxiang.biz
+  - domain-suffix,zhijianfengyi.cn
+  - domain-suffix,zhijianfengyi.com
   - domain-suffix,zhimeishe888.com
   - domain-suffix,zhizhu.top
   - domain-suffix,zhongguo.ca
