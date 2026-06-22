@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     21 Jun 2026 23:07 UTC
-# DOMAIN:      112511
+# UPDATED:     22 Jun 2026 23:14 UTC
+# DOMAIN:      112504
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -15671,8 +15671,6 @@ payload:
   - domain-suffix,bfyx.com
   - domain-suffix,bfyx.net
   - domain-suffix,bfzhan.com
-  - domain-suffix,bg.v4.a.dl.ws.microsoft.com
-  - domain-suffix,bg4.v4.a.dl.ws.microsoft.com
   - domain-suffix,bg45.com
   - domain-suffix,bg7ywl.com
   - domain-suffix,bgbfds.com
@@ -18001,7 +17999,6 @@ payload:
   - domain-suffix,buickcare.net
   - domain-suffix,buidea.com
   - domain-suffix,build-decor.com
-  - domain-suffix,build.microsoft.com
   - domain-suffix,build8.com
   - domain-suffix,build9s.io
   - domain-suffix,builddecor.org
@@ -19827,7 +19824,6 @@ payload:
   - domain-suffix,cdn.fun
   - domain-suffix,cdn.globalsigncdn.com.cdn.cloudflare.net
   - domain-suffix,cdn.jetbrains.com
-  - domain-suffix,cdn.marketplaceimages.windowsphone.com
   - domain-suffix,cdn.samsung.com
   - domain-suffix,cdn.shanghai.nyu.edu
   - domain-suffix,cdn.show
@@ -28728,7 +28724,6 @@ payload:
   - domain-suffix,devashen.com
   - domain-suffix,devask.net
   - domain-suffix,devbean.net
-  - domain-suffix,devblogs.microsoft.com
   - domain-suffix,devclub.cc
   - domain-suffix,devedu.net
   - domain-suffix,develenv.com
@@ -30072,7 +30067,6 @@ payload:
   - domain-suffix,docoi.cc
   - domain-suffix,docpe.com
   - domain-suffix,docs.cdnetworks.com
-  - domain-suffix,docs.microsoft.com
   - domain-suffix,docschina.org
   - domain-suffix,docshare.org
   - domain-suffix,docsj.com
@@ -31260,6 +31254,7 @@ payload:
   - domain-suffix,dxm-cdn.com
   - domain-suffix,dxm-int.com
   - domain-suffix,dxm-yibai.com
+  - domain-suffix,dxmbaoxian.com
   - domain-suffix,dxmjinr.com
   - domain-suffix,dxmjuhe.com
   - domain-suffix,dxmlcf.com
@@ -36026,7 +36021,6 @@ payload:
   - domain-suffix,fs-czx.com
   - domain-suffix,fs-eliza.com
   - domain-suffix,fs-qiyun.com
-  - domain-suffix,fs.microsoft.com
   - domain-suffix,fs0757.com
   - domain-suffix,fs121.com
   - domain-suffix,fs1982.com
@@ -60723,7 +60717,6 @@ payload:
   - domain-suffix,leapmmw.com
   - domain-suffix,leapmotor.com
   - domain-suffix,learn-quantum.com
-  - domain-suffix,learn.microsoft.com
   - domain-suffix,learndiary.com
   - domain-suffix,learnfuture.com
   - domain-suffix,learningsj.com
@@ -65122,6 +65115,7 @@ payload:
   - domain-suffix,mcpemaster.com
   - domain-suffix,mcpfks.com
   - domain-suffix,mcpmaid.com
+  - domain-suffix,mcpworld.com
   - domain-suffix,mcq93.app
   - domain-suffix,mcqy.net
   - domain-suffix,mcsafebox.com
@@ -68102,6 +68096,7 @@ payload:
   - domain-suffix,mysqil.com
   - domain-suffix,mysql360.com
   - domain-suffix,mysqlab.net
+  - domain-suffix,myssl-uri.com
   - domain-suffix,myssl.com
   - domain-suffix,mystarch.com
   - domain-suffix,mysteel.com
@@ -72916,6 +72911,7 @@ payload:
   - domain-suffix,perfect-input.com
   - domain-suffix,perfect99.com
   - domain-suffix,perfectdiary.com
+  - domain-suffix,perfectlingo.com
   - domain-suffix,perfecttradinghk.com
   - domain-suffix,perfectwatchen.com
   - domain-suffix,perfertw.com
@@ -74356,6 +74352,7 @@ payload:
   - domain-suffix,pw1999.com
   - domain-suffix,pw88.com
   - domain-suffix,pwand.com
+  - domain-suffix,pwcinema.com
   - domain-suffix,pwdding.icu
   - domain-suffix,pwithe.com
   - domain-suffix,pwjptdg.xyz
@@ -77801,8 +77798,6 @@ payload:
   - domain-suffix,reqable.com
   - domain-suffix,reqgvheo.com
   - domain-suffix,rergdfh.com
-  - domain-suffix,res-1.cdn.office.net
-  - domain-suffix,res.cdn.office.net
   - domain-suffix,reseetech.com
   - domain-suffix,resemblancey.com
   - domain-suffix,resemi.com
@@ -91079,6 +91074,7 @@ payload:
   - domain-suffix,trust400.com
   - domain-suffix,trusta-lawyer.com
   - domain-suffix,trustasia.com
+  - domain-suffix,trustasia.net
   - domain-suffix,trustcn.com
   - domain-suffix,trustdecision.com
   - domain-suffix,trustedsign.com
@@ -97499,8 +97495,6 @@ payload:
   - domain-suffix,wsclsb.net
   - domain-suffix,wscn.net
   - domain-suffix,wscncdn.com
-  - domain-suffix,wscont1.apps.microsoft.com
-  - domain-suffix,wscont2.apps.microsoft.com
   - domain-suffix,wscp.shop
   - domain-suffix,wscrm.net
   - domain-suffix,wscso.com
@@ -98029,7 +98023,6 @@ payload:
   - domain-suffix,www.gov.mo
   - domain-suffix,www.gstatic.com
   - domain-suffix,www.htc.com
-  - domain-suffix,www.microsoft.com
   - domain-suffix,www.nike.com
   - domain-suffix,www.pxcc.com
   - domain-suffix,www.recaptcha-cn.net

@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     21 Jun 2026 23:07 UTC
-# DOMAIN:      26779
+# UPDATED:     22 Jun 2026 23:14 UTC
+# DOMAIN:      26782
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -10211,8 +10211,10 @@ payload:
   - domain-suffix,gofundme.com
   - domain-suffix,gog-cdn-lumen.secure2.footprint.net
   - domain-suffix,gog-cdn.akamaized.net
+  - domain-suffix,gog-services.com
   - domain-suffix,gog-statics.com
   - domain-suffix,gog.com
+  - domain-suffix,gogalaxy.com
   - domain-suffix,gogettaxi.org
   - domain-suffix,gogle.com
   - domain-suffix,gogo-load.com
@@ -25288,6 +25290,7 @@ payload:
   - domain-suffix,www.idlcoyote.com
   - domain-suffix,www.lorenzetti.com.br
   - domain-suffix,www.m-sport.co.uk
+  - domain-suffix,www.microsoft.com
   - domain-suffix,www.monlamit.org
   - domain-suffix,www.moztw.org
   - domain-suffix,www.oxid.it
