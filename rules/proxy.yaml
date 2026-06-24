@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     23 Jun 2026 23:04 UTC
-# DOMAIN:      26782
+# UPDATED:     24 Jun 2026 23:00 UTC
+# DOMAIN:      26793
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1450,6 +1450,7 @@ payload:
   - domain-suffix,allspyclips.com
   - domain-suffix,allswingersclubs.org
   - domain-suffix,allthefallen.moe
+  - domain-suffix,almalinux.org
   - domain-suffix,alohatube.com
   - domain-suffix,alotporn.com
   - domain-suffix,alphabet.asia
@@ -4740,6 +4741,7 @@ payload:
   - domain-suffix,bustyoldsluts.com
   - domain-suffix,bustysammieblack.com
   - domain-suffix,busu.org
+  - domain-suffix,busybox.net
   - domain-suffix,buy-from-shanghai.com
   - domain-suffix,buyaapl.com
   - domain-suffix,buyaapl.net
@@ -8233,6 +8235,7 @@ payload:
   - domain-suffix,exoav.com
   - domain-suffix,exotic-ghana.com
   - domain-suffix,exoticuganda.com
+  - domain-suffix,exp-tas.com
   - domain-suffix,expatshield.com
   - domain-suffix,expecthim.com
   - domain-suffix,expekt.com
@@ -10059,6 +10062,7 @@ payload:
   - domain-suffix,github-production-user-asset-6210df.s3.amazonaws.com
   - domain-suffix,github.ai
   - domain-suffix,github.blog
+  - domain-suffix,github.career
   - domain-suffix,github.com
   - domain-suffix,github.community
   - domain-suffix,github.dev
@@ -14101,6 +14105,7 @@ payload:
   - domain-suffix,licensebuttons.net
   - domain-suffix,licenseparser.com
   - domain-suffix,life-global.org
+  - domain-suffix,lifeatspotify.com
   - domain-suffix,lifemiles.com
   - domain-suffix,lifeselector.com
   - domain-suffix,lifestyle-tec.ru
@@ -14615,6 +14620,7 @@ payload:
   - domain-suffix,manhwa24h.com
   - domain-suffix,manhwahentai.me
   - domain-suffix,maniakey.homes
+  - domain-suffix,manjaro.org
   - domain-suffix,manorama.com
   - domain-suffix,manoramanews.com
   - domain-suffix,manoramaonline.com
@@ -19780,6 +19786,7 @@ payload:
   - domain-suffix,rocksextube.com
   - domain-suffix,rockstargames.com
   - domain-suffix,rockstarnorth.com
+  - domain-suffix,rockylinux.org
   - domain-suffix,rojo.com
   - domain-suffix,roku.com
   - domain-suffix,rokutime.com
@@ -21407,6 +21414,7 @@ payload:
   - domain-suffix,spotifycharts.com
   - domain-suffix,spotifycodes.com
   - domain-suffix,spotifyforbrands.com
+  - domain-suffix,spotifyforvendors.com
   - domain-suffix,spotifyjobs.com
   - domain-suffix,spraynwash.com
   - domain-suffix,spreadprivacy.com
@@ -24509,9 +24517,12 @@ payload:
   - domain-suffix,vscode-sync-insiders.trafficmanager.net
   - domain-suffix,vscode-sync.trafficmanager.net
   - domain-suffix,vscode-unpkg.net
+  - domain-suffix,vscode-webview.net
   - domain-suffix,vscode.blob.core.windows.net
   - domain-suffix,vscode.dev
   - domain-suffix,vscode.search.windows.net
+  - domain-suffix,vscodeedu.app
+  - domain-suffix,vscodeedu.com
   - domain-suffix,vsemrabota.ru
   - domain-suffix,vsex.in
   - domain-suffix,vsezoo.com
