@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     24 Jun 2026 23:00 UTC
-# DOMAIN:      26793
+# UPDATED:     25 Jun 2026 23:12 UTC
+# DOMAIN:      26794
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -9883,6 +9883,7 @@ DOMAIN-SUFFIX,GERALDOATLARGE.COM
 DOMAIN-SUFFIX,GERRITCODEREVIEW.COM
 DOMAIN-SUFFIX,GESOTEN.COM
 DOMAIN-SUFFIX,GET.APP
+DOMAIN-SUFFIX,GET.DAPPCDN.COM
 DOMAIN-SUFFIX,GET.DEV
 DOMAIN-SUFFIX,GET.HOW
 DOMAIN-SUFFIX,GET.NEW

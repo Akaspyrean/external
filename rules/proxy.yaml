@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     24 Jun 2026 23:00 UTC
-# DOMAIN:      26793
+# UPDATED:     25 Jun 2026 23:12 UTC
+# DOMAIN:      26794
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -9884,6 +9884,7 @@ payload:
   - domain-suffix,gerritcodereview.com
   - domain-suffix,gesoten.com
   - domain-suffix,get.app
+  - domain-suffix,get.dappcdn.com
   - domain-suffix,get.dev
   - domain-suffix,get.how
   - domain-suffix,get.new
