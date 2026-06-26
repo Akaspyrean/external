@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     25 Jun 2026 23:12 UTC
-# DOMAIN:      112400
+# UPDATED:     26 Jun 2026 23:01 UTC
+# DOMAIN:      112404
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -10107,6 +10107,7 @@ payload:
   - domain-suffix,acclb.com
   - domain-suffix,acconsys.com
   - domain-suffix,accopower.com
+  - domain-suffix,account-cn.alibabacloud.com
   - domain-suffix,account.htcvive.com
   - domain-suffix,accr.cc
   - domain-suffix,accsh.org
@@ -12667,6 +12668,7 @@ payload:
   - domain-suffix,api-forwards.com
   - domain-suffix,api-m.com
   - domain-suffix,api-vod-qcloud.com
+  - domain-suffix,api.alibabacloud.com
   - domain-suffix,api.anythinktech.com
   - domain-suffix,api.so
   - domain-suffix,apiairasia.com
@@ -23819,6 +23821,7 @@ payload:
   - domain-suffix,cn-witmed.com
   - domain-suffix,cn-zhentai.com
   - domain-suffix,cn-zhongrui.com
+  - domain-suffix,cn.alibabacloud.com
   - domain-suffix,cn.bing.com
   - domain-suffix,cn.bing.net
   - domain-suffix,cn.download.nvidia.com
@@ -85316,6 +85319,7 @@ payload:
   - domain-suffix,staticswin.com
   - domain-suffix,stationpc.com
   - domain-suffix,statsinstall.xyz
+  - domain-suffix,status.alibabacloud.com
   - domain-suffix,statuslarkoffice.com
   - domain-suffix,stay-bullish.com
   - domain-suffix,staybrowser.com

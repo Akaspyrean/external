@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     25 Jun 2026 23:12 UTC
+# UPDATED:     26 Jun 2026 23:01 UTC
 # DOMAIN:      26794
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
@@ -6017,6 +6017,7 @@ payload:
   - domain-suffix,crazyxxxworld.com
   - domain-suffix,crbug.com
   - domain-suffix,crchina.org
+  - domain-suffix,creader.com
   - domain-suffix,creaders.net
   - domain-suffix,creamasia.com
   - domain-suffix,creamlemon.info
@@ -7173,7 +7174,6 @@ payload:
   - domain-suffix,dowjoneson.com
   - domain-suffix,download.com
   - domain-suffix,download.dappcdn.com
-  - domain-suffix,download.visualstudio.microsoft.com
   - domain-suffix,downloadpass.com
   - domain-suffix,downloadsforipod.com
   - domain-suffix,dpool.top
