@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     27 Jun 2026 22:58 UTC
-# DOMAIN:      26794
+# UPDATED:     28 Jun 2026 22:58 UTC
+# DOMAIN:      26815
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1199,6 +1199,7 @@ payload:
   - domain-suffix,airtunes.com
   - domain-suffix,airtunes.info
   - domain-suffix,airtunes.net
+  - domain-suffix,airuniversity.af.edu
   - domain-suffix,airvpn.org
   - domain-suffix,airwatchexpress.com
   - domain-suffix,airwatchqa.com
@@ -2174,6 +2175,7 @@ payload:
   - domain-suffix,applereach.com
   - domain-suffix,applereach.net
   - domain-suffix,apples-msk.ru
+  - domain-suffix,appleschoolcontent.com
   - domain-suffix,applescreensavers.com
   - domain-suffix,applescript.info
   - domain-suffix,appleshare.info
@@ -2266,6 +2268,7 @@ payload:
   - domain-suffix,aptoide.com
   - domain-suffix,apture.com
   - domain-suffix,apyle.com
+  - domain-suffix,apzones.com
   - domain-suffix,aqdlt.net
   - domain-suffix,arabianchicks.com
   - domain-suffix,arabicrt.ru
@@ -2822,6 +2825,7 @@ payload:
   - domain-suffix,axbdoll.com.tw
   - domain-suffix,axept.io
   - domain-suffix,axios.com
+  - domain-suffix,axm-usercontent-apple.com
   - domain-suffix,axureformac.com
   - domain-suffix,ayabank.com
   - domain-suffix,ayshdade.info
@@ -6291,6 +6295,8 @@ payload:
   - domain-suffix,damduc.org
   - domain-suffix,damplips.com
   - domain-suffix,dandalinvoa.com
+  - domain-suffix,dandanplay.com
+  - domain-suffix,dandanplay.net
   - domain-suffix,dandanzan.cc
   - domain-suffix,danemarket.com
   - domain-suffix,danke4china.net
@@ -9733,6 +9739,7 @@ payload:
   - domain-suffix,garudalinux.org
   - domain-suffix,gastrointestinalexam.com
   - domain-suffix,gate.cc
+  - domain-suffix,gate.com
   - domain-suffix,gate.io
   - domain-suffix,gatecoin.com
   - domain-suffix,gatedata.org
@@ -11313,6 +11320,7 @@ payload:
   - domain-suffix,hkheadline.com
   - domain-suffix,hklts.org.hk
   - domain-suffix,hkmap.live
+  - domain-suffix,hkong.hk
   - domain-suffix,hkopentv.com
   - domain-suffix,hkpeanut.com
   - domain-suffix,hkporn.net
@@ -13683,6 +13691,7 @@ payload:
   - domain-suffix,keytransparency.com
   - domain-suffix,keytransparency.foo
   - domain-suffix,keytransparency.org
+  - domain-suffix,kfor.com
   - domain-suffix,kfs.io
   - domain-suffix,kgisystems.com
   - domain-suffix,kgslb.com
@@ -15085,6 +15094,7 @@ payload:
   - domain-suffix,mhqwe.xyz
   - domain-suffix,mhradio.org
   - domain-suffix,mhshosting.com
+  - domain-suffix,mhwindow.org
   - domain-suffix,mi.kochudaho.me
   - domain-suffix,mi.mashiro.site
   - domain-suffix,mi.nakn.jp
@@ -18027,6 +18037,7 @@ payload:
   - domain-suffix,pccw.com
   - domain-suffix,pccwglobal.com
   - domain-suffix,pccwsolutions.com
+  - domain-suffix,pcgamesn.com
   - domain-suffix,pcgamestorrents.com
   - domain-suffix,pchome.com.tw
   - domain-suffix,pchomeec.tw
@@ -19662,6 +19673,7 @@ payload:
   - domain-suffix,resoubang.buzz
   - domain-suffix,respawnbyrazer.com
   - domain-suffix,restnproducts.ru
+  - domain-suffix,restofworld.org
   - domain-suffix,restream-media.net
   - domain-suffix,restream.ru
   - domain-suffix,rethink.net
@@ -21333,6 +21345,7 @@ payload:
   - domain-suffix,soyjak.st
   - domain-suffix,sp.cool
   - domain-suffix,spaceexplored.com
+  - domain-suffix,spaceforce.mil
   - domain-suffix,spacely.com.au
   - domain-suffix,spacemail.com
   - domain-suffix,spaces.hightail.com
@@ -21863,6 +21876,7 @@ payload:
   - domain-suffix,supr.cl
   - domain-suffix,supremacy.com
   - domain-suffix,supremacy.net
+  - domain-suffix,supremecourt.gov
   - domain-suffix,suprememastertv.com
   - domain-suffix,sureporn.com
   - domain-suffix,surface.com
@@ -22392,6 +22406,7 @@ payload:
   - domain-suffix,theinitium.com
   - domain-suffix,theinstagramhack.com
   - domain-suffix,theintelstore.com
+  - domain-suffix,theintercept.com
   - domain-suffix,theinventionworks.com
   - domain-suffix,theinventionworks.net
   - domain-suffix,thekarups.com
@@ -22929,6 +22944,7 @@ payload:
   - domain-suffix,tribler.org
   - domain-suffix,trikepatrol.com
   - domain-suffix,triokini.com
+  - domain-suffix,tripo3d.ai
   - domain-suffix,tristatebmw.com
   - domain-suffix,trithucvn.net
   - domain-suffix,trithucvn.org
@@ -22940,6 +22956,7 @@ payload:
   - domain-suffix,trouw.nl
   - domain-suffix,trpger.us
   - domain-suffix,trt.net.tr
+  - domain-suffix,trtworld.com
   - domain-suffix,trueamateurmodels.com
   - domain-suffix,trueamateurs.com
   - domain-suffix,trueanal.com
@@ -23221,6 +23238,7 @@ payload:
   - domain-suffix,twoo.com
   - domain-suffix,twporn.net
   - domain-suffix,twreporter.org
+  - domain-suffix,twstalker.com
   - domain-suffix,twt.tl
   - domain-suffix,twtkr.com
   - domain-suffix,twtrdns.net
@@ -23435,6 +23453,7 @@ payload:
   - domain-suffix,unrealengine.com
   - domain-suffix,unrealtournament.com
   - domain-suffix,unseen.is
+  - domain-suffix,unsplash.com
   - domain-suffix,unstable.icu
   - domain-suffix,unstyle.us
   - domain-suffix,unusualporn.net
@@ -24621,6 +24640,7 @@ payload:
   - domain-suffix,washa.tv
   - domain-suffix,washingtondcbmw.com
   - domain-suffix,washingtonpost.com
+  - domain-suffix,washingtontimes.com
   - domain-suffix,waskucity.com
   - domain-suffix,wasmer.io
   - domain-suffix,watch-ebay.org
@@ -25756,6 +25776,7 @@ payload:
   - domain-suffix,xtubebdsm.com
   - domain-suffix,xtubezoo.com
   - domain-suffix,xu97.vip
+  - domain-suffix,xuan.com.my
   - domain-suffix,xuchao.net
   - domain-suffix,xuchao.org
   - domain-suffix,xuehua.us
