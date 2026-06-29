@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     28 Jun 2026 22:58 UTC
-# DOMAIN:      112438
+# UPDATED:     29 Jun 2026 22:51 UTC
+# DOMAIN:      112437
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -59079,7 +59079,6 @@ payload:
   - domain-suffix,kschuangku.com
   - domain-suffix,kscloudapi.com
   - domain-suffix,ksco.cc
-  - domain-suffix,kscord.com
   - domain-suffix,ksdedu.com
   - domain-suffix,ksdhgy.com
   - domain-suffix,ksecit.com

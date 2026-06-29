@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     28 Jun 2026 22:58 UTC
-# DOMAIN:      112438
+# UPDATED:     29 Jun 2026 22:51 UTC
+# DOMAIN:      112437
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -59078,7 +59078,6 @@ DOMAIN-SUFFIX,KSCDNS.COM
 DOMAIN-SUFFIX,KSCHUANGKU.COM
 DOMAIN-SUFFIX,KSCLOUDAPI.COM
 DOMAIN-SUFFIX,KSCO.CC
-DOMAIN-SUFFIX,KSCORD.COM
 DOMAIN-SUFFIX,KSDEDU.COM
 DOMAIN-SUFFIX,KSDHGY.COM
 DOMAIN-SUFFIX,KSECIT.COM
