@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     29 Jun 2026 22:51 UTC
-# DOMAIN:      26815
+# UPDATED:     30 Jun 2026 23:06 UTC
+# DOMAIN:      26816
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -8256,6 +8256,7 @@ payload:
   - domain-suffix,explorespanking.com
   - domain-suffix,exporntoons.net
   - domain-suffix,exposedlatinas.com
+  - domain-suffix,expressnews.com
   - domain-suffix,expressvpn.com
   - domain-suffix,expresswifi.com
   - domain-suffix,exrates.me
