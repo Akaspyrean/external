@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     01 Jul 2026 23:08 UTC
-# DOMAIN:      112267
+# UPDATED:     02 Jul 2026 22:59 UTC
+# DOMAIN:      112276
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -7798,6 +7798,7 @@ payload:
   - domain-suffix,777haoka.com
   - domain-suffix,777lala.com
   - domain-suffix,777moban.com
+  - domain-suffix,777ppt.com
   - domain-suffix,777sy.com
   - domain-suffix,777yh.am
   - domain-suffix,7788.com
@@ -10318,6 +10319,7 @@ payload:
   - domain-suffix,admin5.net
   - domain-suffix,admin6.com
   - domain-suffix,admin88.com
+  - domain-suffix,admincdn.com
   - domain-suffix,adminer.com
   - domain-suffix,admintony.com
   - domain-suffix,adminxe.com
@@ -15203,6 +15205,7 @@ payload:
   - domain-suffix,beidousafety.org
   - domain-suffix,beidouxingxueche.com
   - domain-suffix,beiduolab.com
+  - domain-suffix,beie.org
   - domain-suffix,beierbio.com
   - domain-suffix,beierjin.net
   - domain-suffix,beieryouxi.com
@@ -40284,6 +40287,7 @@ payload:
   - domain-suffix,guojiayikao.com
   - domain-suffix,guojiayixuekaoshi.com
   - domain-suffix,guojiazhiyezige.com
+  - domain-suffix,guojibk.com
   - domain-suffix,guojiexpress.com
   - domain-suffix,guojijinjia.com
   - domain-suffix,guojimami.com
@@ -78213,6 +78217,7 @@ payload:
   - domain-suffix,rrjc.com
   - domain-suffix,rrkf.com
   - domain-suffix,rrky.com
+  - domain-suffix,rrmj.plus
   - domain-suffix,rrmj.tv
   - domain-suffix,rrppt.com
   - domain-suffix,rrrdai.com
@@ -90155,6 +90160,7 @@ payload:
   - domain-suffix,tokenglish.com
   - domain-suffix,tokensky.net
   - domain-suffix,tokimekiclub.org
+  - domain-suffix,tol.vip
   - domain-suffix,tol24.com
   - domain-suffix,tom.cat
   - domain-suffix,tom.com
@@ -93876,6 +93882,7 @@ payload:
   - domain-suffix,vpsrb.com
   - domain-suffix,vpsss.net
   - domain-suffix,vpssw.com
+  - domain-suffix,vpsvs.com
   - domain-suffix,vpsvsvps.com
   - domain-suffix,vpszh.com
   - domain-suffix,vptek.com
@@ -95567,6 +95574,7 @@ payload:
   - domain-suffix,wenmi114.com
   - domain-suffix,wenmingban.com
   - domain-suffix,wenneart.com
+  - domain-suffix,wenpai.org
   - domain-suffix,wenpie.com
   - domain-suffix,wenqy.com
   - domain-suffix,wenroo.com
@@ -97190,6 +97198,7 @@ payload:
   - domain-suffix,wpceo.com
   - domain-suffix,wpcio.com
   - domain-suffix,wpcsh.com
+  - domain-suffix,wpcy.com
   - domain-suffix,wpdaxue.com
   - domain-suffix,wpdian.com
   - domain-suffix,wpengapp.com

@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     01 Jul 2026 23:08 UTC
-# DOMAIN:      26816
+# UPDATED:     02 Jul 2026 22:59 UTC
+# DOMAIN:      26828
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -717,6 +717,7 @@ payload:
   - domain-suffix,accountpaypal.org
   - domain-suffix,accuweather.com
   - domain-suffix,accv.es
+  - domain-suffix,acd89244c803f7181.awsglobalaccelerator.com
   - domain-suffix,acdocs.com
   - domain-suffix,acebooik.com
   - domain-suffix,acebook.com
@@ -1031,6 +1032,7 @@ payload:
   - domain-suffix,aesworkshops.com
   - domain-suffix,aex.com
   - domain-suffix,af.mil
+  - domain-suffix,afa7f374f51cc8991.awsglobalaccelerator.com
   - domain-suffix,afantibbs.com
   - domain-suffix,afappyending.com
   - domain-suffix,afewmomentswith.com
@@ -3765,6 +3767,7 @@ payload:
   - domain-suffix,blackstonespoliceservice.com
   - domain-suffix,blacktowhite.net
   - domain-suffix,blackvpn.com
+  - domain-suffix,blanc.ru
   - domain-suffix,blaoshi.cc
   - domain-suffix,blast.io
   - domain-suffix,blazor.net
@@ -4460,6 +4463,7 @@ payload:
   - domain-suffix,boswp.com
   - domain-suffix,botanwang.com
   - domain-suffix,botframework.com
+  - domain-suffix,botim.me
   - domain-suffix,botmechanic.io
   - domain-suffix,botorch.org
   - domain-suffix,botstop.com
@@ -11435,6 +11439,9 @@ payload:
   - domain-suffix,horizontal-systems.com
   - domain-suffix,horizontalglue.com
   - domain-suffix,horizontalsystems.com
+  - domain-suffix,hornet.com
+  - domain-suffix,hornetapp.com
+  - domain-suffix,hornetx.com
   - domain-suffix,hornyasianmilfs.com
   - domain-suffix,hornybitches.org
   - domain-suffix,hornybutt.com
@@ -14200,6 +14207,7 @@ payload:
   - domain-suffix,listentoyoutube.com
   - domain-suffix,listinganalytics.net
   - domain-suffix,litbus-anime.com
+  - domain-suffix,litecoin.org
   - domain-suffix,litenews.hk
   - domain-suffix,literatumonline.com
   - domain-suffix,literotica.com
@@ -16494,7 +16502,9 @@ payload:
   - domain-suffix,netflixtechblog.com
   - domain-suffix,netlify.app
   - domain-suffix,netlify.com
+  - domain-suffix,netlifydns.com
   - domain-suffix,netlifystatus.com
+  - domain-suffix,netlifyusercontent.com
   - domain-suffix,netlock.hu
   - domain-suffix,netme.cc
   - domain-suffix,netname.com.br
@@ -17051,6 +17061,7 @@ payload:
   - domain-suffix,ntdtvla.com
   - domain-suffix,ntdvideo.tw
   - domain-suffix,ntdvn.com
+  - domain-suffix,ntl.fyi
   - domain-suffix,ntnews.com.au
   - domain-suffix,ntp-b.nist.gov
   - domain-suffix,ntp-c.colorado.edu
@@ -22172,6 +22183,7 @@ payload:
   - domain-suffix,technogym.su
   - domain-suffix,technologyandsociety.org
   - domain-suffix,techradar.com
+  - domain-suffix,techspot.com
   - domain-suffix,techstreet.com
   - domain-suffix,techtimes.com
   - domain-suffix,techtudo.com
