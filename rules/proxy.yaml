@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     04 Jul 2026 22:53 UTC
-# DOMAIN:      26831
+# UPDATED:     05 Jul 2026 22:57 UTC
+# DOMAIN:      26834
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1953,6 +1953,7 @@ payload:
   - domain-suffix,apple-pay.wang
   - domain-suffix,apple-store.net
   - domain-suffix,apple-store.wang
+  - domain-suffix,apple-studies.com
   - domain-suffix,apple-tv-plus-press.apple.com
   - domain-suffix,apple-usa.net
   - domain-suffix,apple-watch.com.ru
@@ -2463,6 +2464,7 @@ payload:
   - domain-suffix,atlassian-dev.net
   - domain-suffix,atlassian.com
   - domain-suffix,atlassian.net
+  - domain-suffix,atmeta.com
   - domain-suffix,atnext.com
   - domain-suffix,atokara.jp
   - domain-suffix,atom.io
@@ -2846,6 +2848,7 @@ payload:
   - domain-suffix,azirevpn.com
   - domain-suffix,aznude.com
   - domain-suffix,azure
+  - domain-suffix,azure-api.net
   - domain-suffix,azure-devices-int.net
   - domain-suffix,azure-devices.net
   - domain-suffix,azure-dns.com
@@ -2885,6 +2888,7 @@ payload:
   - domain-suffix,azureserviceprofiler.com
   - domain-suffix,azuresmartspaces.net
   - domain-suffix,azurestackvalidation.com
+  - domain-suffix,azurestaticapps.net
   - domain-suffix,azurewebsites.net
   - domain-suffix,b-cdn.net
   - domain-suffix,b-eroland.net
@@ -12435,7 +12439,6 @@ payload:
   - domain-suffix,infraworks.com
   - domain-suffix,infura.io
   - domain-suffix,ingads.com
-  - domain-suffix,ingest.apple-studies.com
   - domain-suffix,ingka.com
   - domain-suffix,ingka.dev
   - domain-suffix,ingkacentres.com

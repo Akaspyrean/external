@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     04 Jul 2026 22:53 UTC
-# DOMAIN:      112276
+# UPDATED:     05 Jul 2026 22:57 UTC
+# DOMAIN:      112284
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12290,6 +12290,7 @@ payload:
   - domain-suffix,anqingzhiyun.com
   - domain-suffix,anqn.com
   - domain-suffix,anqu.com
+  - domain-suffix,anquan
   - domain-suffix,anquan.info
   - domain-suffix,anquan.org
   - domain-suffix,anquanbao.com
@@ -32649,7 +32650,6 @@ payload:
   - domain-suffix,embryochina.com
   - domain-suffix,embsky.com
   - domain-suffix,emby.men
-  - domain-suffix,emby.yun
   - domain-suffix,embyvip.org
   - domain-suffix,emcbj.com
   - domain-suffix,emcdir.com
@@ -32835,6 +32835,7 @@ payload:
   - domain-suffix,enterdesk.com
   - domain-suffix,enterdesk.net
   - domain-suffix,enthalpy.space
+  - domain-suffix,entitlements-edge.itunes.apple.com
   - domain-suffix,entive.com
   - domain-suffix,entstudy.com
   - domain-suffix,entts.com
@@ -35732,6 +35733,7 @@ payload:
   - domain-suffix,fphs.cc
   - domain-suffix,fphs5.com
   - domain-suffix,fpi-inc.com
+  - domain-suffix,fpinit.itunes.apple.com
   - domain-suffix,fpliu.com
   - domain-suffix,fpsace.com
   - domain-suffix,fpsjk.com
@@ -82237,6 +82239,7 @@ payload:
   - domain-suffix,shouhuisoft.com
   - domain-suffix,shouhuojiyun.com
   - domain-suffix,shouhuola.com
+  - domain-suffix,shouji
   - domain-suffix,shouji.com
   - domain-suffix,shouji.racing
   - domain-suffix,shouji10086.com
@@ -83144,6 +83147,7 @@ payload:
   - domain-suffix,simwe.com
   - domain-suffix,simxhs.com
   - domain-suffix,sin0sites.com
+  - domain-suffix,sina
   - domain-suffix,sina-cf.com
   - domain-suffix,sina.com
   - domain-suffix,sina.lt
@@ -95083,6 +95087,7 @@ payload:
   - domain-suffix,weibang.vip
   - domain-suffix,weibangong.com
   - domain-suffix,weibanzhushou.com
+  - domain-suffix,weibo
   - domain-suffix,weibo.com
   - domain-suffix,weibo.tv
   - domain-suffix,weibocdn.com
@@ -99816,6 +99821,7 @@ payload:
   - domain-suffix,xihazsww.com
   - domain-suffix,xihegp.com
   - domain-suffix,xiherencai.com
+  - domain-suffix,xihuan
   - domain-suffix,xihuan.me
   - domain-suffix,xihusgh.com
   - domain-suffix,xiimoon.com
@@ -101109,6 +101115,7 @@ payload:
   - domain-suffix,xn--91-y60d638c.xyz
   - domain-suffix,xn--9et52u
   - domain-suffix,xn--9kr72kqwe.com
+  - domain-suffix,xn--9krt00a
   - domain-suffix,xn--9myo55bi8l.com
   - domain-suffix,xn--9pr56vfna007k.com
   - domain-suffix,xn--9pry86bq5ex68c.org
@@ -106419,6 +106426,7 @@ payload:
   - domain-suffix,yumingyouhui.com
   - domain-suffix,yummy.tech
   - domain-suffix,yumstone.com
+  - domain-suffix,yun
   - domain-suffix,yun-ac.com
   - domain-suffix,yun-dns.com
   - domain-suffix,yun-gu.com
