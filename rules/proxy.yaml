@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     06 Jul 2026 23:02 UTC
-# DOMAIN:      26834
+# UPDATED:     07 Jul 2026 22:55 UTC
+# DOMAIN:      26836
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -17880,6 +17880,8 @@ payload:
   - domain-suffix,patreonusercontent.com
   - domain-suffix,paulsimon-music.com
   - domain-suffix,pavpal.com
+  - domain-suffix,pawchive.pw
+  - domain-suffix,pawchive.st
   - domain-suffix,pawoo.net
   - domain-suffix,paxful.com
   - domain-suffix,paxlicense.org
