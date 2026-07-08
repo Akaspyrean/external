@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     07 Jul 2026 22:55 UTC
-# DOMAIN:      26836
+# UPDATED:     08 Jul 2026 23:00 UTC
+# DOMAIN:      26842
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -9077,6 +9077,8 @@ payload:
   - domain-suffix,flowgpt.com
   - domain-suffix,flowhongkong.net
   - domain-suffix,flowtype.org
+  - domain-suffix,flowwow-images.com
+  - domain-suffix,flowwow.com
   - domain-suffix,fluffychat.im
   - domain-suffix,fluidfxapp.com
   - domain-suffix,fluidpreview.com
@@ -9580,6 +9582,8 @@ payload:
   - domain-suffix,funkyimg.com
   - domain-suffix,funnyfacebook.org
   - domain-suffix,funnyordie.com
+  - domain-suffix,funpay.com
+  - domain-suffix,funpay.ru
   - domain-suffix,funshemale.com
   - domain-suffix,fuq.com
   - domain-suffix,fuqqt.com
@@ -20698,6 +20702,7 @@ payload:
   - domain-suffix,sforce.com
   - domain-suffix,sfshibao.com
   - domain-suffix,sftuk.org
+  - domain-suffix,sfunpay.com
   - domain-suffix,sfx.ms
   - domain-suffix,sg120.me
   - domain-suffix,sg1lib.org
@@ -22668,6 +22673,7 @@ payload:
   - domain-suffix,tilda.ws
   - domain-suffix,tildaapi.com
   - domain-suffix,tildacdn.com
+  - domain-suffix,tildacdn.net
   - domain-suffix,tiltbrush.com
   - domain-suffix,timdir.com
   - domain-suffix,time-a-b.nist.gov

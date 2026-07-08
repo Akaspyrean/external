@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     07 Jul 2026 22:55 UTC
-# DOMAIN:      112284
+# UPDATED:     08 Jul 2026 23:00 UTC
+# DOMAIN:      112286
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -91554,6 +91554,7 @@ payload:
   - domain-suffix,twty.vip
   - domain-suffix,twwtn.com
   - domain-suffix,twyuxin.com
+  - domain-suffix,twyxh.com
   - domain-suffix,twyxi.com
   - domain-suffix,twzilla.com
   - domain-suffix,twzui6.com
@@ -111811,6 +111812,7 @@ payload:
   - domain-suffix,zwzyzx.com
   - domain-suffix,zx-tour.com
   - domain-suffix,zx-xcx.com
+  - domain-suffix,zx.com
   - domain-suffix,zx0093.com
   - domain-suffix,zx017.com
   - domain-suffix,zx017.net
