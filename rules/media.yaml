@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Media
-# UPDATED:     08 Jul 2026 23:01 UTC
-# DOMAIN:      297
+# UPDATED:     09 Jul 2026 23:06 UTC
+# DOMAIN:      452
 # IP-RELATED:  1122
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -20,27 +20,140 @@ payload:
   - domain-keyword,netflixdnstest
   - domain-keyword,youtube
   - domain-suffix,112263.com
+  - domain-suffix,20thcenturystudios.com.au
+  - domain-suffix,20thcenturystudios.com.br
+  - domain-suffix,20thcenturystudios.jp
+  - domain-suffix,abc-studios.com
+  - domain-suffix,abc.com
+  - domain-suffix,abcnews.com
+  - domain-suffix,abcnews.edgesuite.net
   - domain-suffix,adobedtm.com
+  - domain-suffix,adventuresbydisney.com
   - domain-suffix,assetshuluimcom-a.akamaihd.net
+  - domain-suffix,babble.com
+  - domain-suffix,babyzone.com
   - domain-suffix,bam.nr-data.net
   - domain-suffix,bamgrid.com
+  - domain-suffix,beautyandthebeastmusical.co.uk
   - domain-suffix,braze.com
   - domain-suffix,callhulu.com
   - domain-suffix,cdn.optimizely.com
   - domain-suffix,cdn.registerdisney.go.com
+  - domain-suffix,conviva.com
   - domain-suffix,cookielaw.org
   - domain-suffix,cws-hulu.conviva.com
   - domain-suffix,cws.conviva.com
   - domain-suffix,d9.flashtalking.com
+  - domain-suffix,dilcdn.com
+  - domain-suffix,disney-asia.com
+  - domain-suffix,disney-discount.com
   - domain-suffix,disney-plus.net
   - domain-suffix,disney-portal.my.onetrust.com
+  - domain-suffix,disney-studio.com
+  - domain-suffix,disney-studio.net
+  - domain-suffix,disney.asia
+  - domain-suffix,disney.be
+  - domain-suffix,disney.bg
+  - domain-suffix,disney.ca
+  - domain-suffix,disney.ch
+  - domain-suffix,disney.co.il
+  - domain-suffix,disney.co.jp
+  - domain-suffix,disney.co.kr
+  - domain-suffix,disney.co.th
+  - domain-suffix,disney.co.uk
+  - domain-suffix,disney.co.za
+  - domain-suffix,disney.com
+  - domain-suffix,disney.com.au
+  - domain-suffix,disney.com.br
+  - domain-suffix,disney.com.hk
+  - domain-suffix,disney.com.tw
+  - domain-suffix,disney.cz
+  - domain-suffix,disney.de
   - domain-suffix,disney.demdex.net
+  - domain-suffix,disney.dk
+  - domain-suffix,disney.es
+  - domain-suffix,disney.fi
+  - domain-suffix,disney.fr
+  - domain-suffix,disney.gr
+  - domain-suffix,disney.hu
+  - domain-suffix,disney.id
+  - domain-suffix,disney.in
+  - domain-suffix,disney.io
+  - domain-suffix,disney.it
+  - domain-suffix,disney.my
   - domain-suffix,disney.my.sentry.io
+  - domain-suffix,disney.nl
+  - domain-suffix,disney.no
+  - domain-suffix,disney.ph
+  - domain-suffix,disney.pl
+  - domain-suffix,disney.pt
+  - domain-suffix,disney.ro
+  - domain-suffix,disney.ru
+  - domain-suffix,disney.se
+  - domain-suffix,disney.sg
+  - domain-suffix,disneyadsales.com
+  - domain-suffix,disneyarena.com
+  - domain-suffix,disneyaulani.com
+  - domain-suffix,disneybaby.com
+  - domain-suffix,disneycareers.com
+  - domain-suffix,disneychannelonstage.com
+  - domain-suffix,disneychannelroadtrip.com
+  - domain-suffix,disneycruisebrasil.com
+  - domain-suffix,disneyenconcert.com
+  - domain-suffix,disneyiejobs.com
+  - domain-suffix,disneyinflight.com
+  - domain-suffix,disneyinternational.com
+  - domain-suffix,disneyinternationalhd.com
+  - domain-suffix,disneyjunior.com
+  - domain-suffix,disneyjuniortreataday.com
+  - domain-suffix,disneylandparis.com
+  - domain-suffix,disneylatino.com
+  - domain-suffix,disneymagicmoments.co.il
+  - domain-suffix,disneymagicmoments.co.uk
+  - domain-suffix,disneymagicmoments.co.za
+  - domain-suffix,disneymagicmoments.de
+  - domain-suffix,disneymagicmoments.es
+  - domain-suffix,disneymagicmoments.fr
+  - domain-suffix,disneymagicmoments.gen.tr
+  - domain-suffix,disneymagicmoments.gr
+  - domain-suffix,disneymagicmoments.it
+  - domain-suffix,disneymagicmoments.pl
+  - domain-suffix,disneymagicmomentsme.com
+  - domain-suffix,disneyme.com
+  - domain-suffix,disneymeetingsandevents.com
+  - domain-suffix,disneymovieinsiders.com
+  - domain-suffix,disneymusicpromotion.com
+  - domain-suffix,disneynewseries.com
+  - domain-suffix,disneynow.com
+  - domain-suffix,disneypeoplesurveys.com
   - domain-suffix,disneyplus.bn5x.net
   - domain-suffix,disneyplus.com
   - domain-suffix,disneyplus.com.ssl.sc.omtrdc.net
+  - domain-suffix,disneyprivacycenter.com
+  - domain-suffix,disneyredirects.com
+  - domain-suffix,disneysrivieraresort.com
+  - domain-suffix,disneystore.com
   - domain-suffix,disneystreaming.com
+  - domain-suffix,disneysubscription.com
+  - domain-suffix,disneytermsofuse.com
+  - domain-suffix,disneytickets.co.uk
+  - domain-suffix,disneyturkiye.com.tr
+  - domain-suffix,disneytvajobs.com
+  - domain-suffix,disneyworld-go.com
+  - domain-suffix,dlp-media.com
+  - domain-suffix,dmed.technology
+  - domain-suffix,dssedge.com
   - domain-suffix,dssott.com
+  - domain-suffix,dtci.co
+  - domain-suffix,dtci.technology
+  - domain-suffix,edgedatg.com
+  - domain-suffix,espn.co.uk
+  - domain-suffix,espn.com
+  - domain-suffix,espn.hb.omtrdc.net
+  - domain-suffix,espn.net
+  - domain-suffix,espncdn.com
+  - domain-suffix,espndotcom.tt.omtrdc.net
+  - domain-suffix,espnqa.com
   - domain-suffix,execute-api.us-east-1.amazonaws.com
   - domain-suffix,fast.com
   - domain-suffix,findyourlimits.com
@@ -48,6 +161,8 @@ payload:
   - domain-suffix,freehulu.com
   - domain-suffix,ggpht.cn
   - domain-suffix,ggpht.com
+  - domain-suffix,go-disneyworldgo.com
+  - domain-suffix,go.com
   - domain-suffix,googlevideo.com
   - domain-suffix,gvt1.com
   - domain-suffix,gvt2.com
@@ -56,6 +171,11 @@ payload:
   - domain-suffix,hooloo.tv
   - domain-suffix,hoolu.com
   - domain-suffix,hoolu.tv
+  - domain-suffix,hotstar-cdn.net
+  - domain-suffix,hotstar-labs.com
+  - domain-suffix,hotstar.com
+  - domain-suffix,hotstarext.com
+  - domain-suffix,hsprepack.akamaized.net
   - domain-suffix,hu1u.com
   - domain-suffix,huloo.cc
   - domain-suffix,huloo.tv
@@ -93,8 +213,22 @@ payload:
   - domain-suffix,huluusa.com
   - domain-suffix,joinmaidez.com
   - domain-suffix,js-agent.newrelic.com
+  - domain-suffix,marvel.com
+  - domain-suffix,marvel10thanniversary.com
+  - domain-suffix,marveldimensionofheroes.com
+  - domain-suffix,marvelparty.net
+  - domain-suffix,marvelpinball.com
+  - domain-suffix,marvelsdoubleagent.com
+  - domain-suffix,marvelspotlightplays.com
+  - domain-suffix,marvelsuperheroseptember.com
+  - domain-suffix,marvelsuperwar.com
+  - domain-suffix,mickey.tv
+  - domain-suffix,moviesanywhere.com
   - domain-suffix,mushymush.tv
   - domain-suffix,myhulu.com
+  - domain-suffix,natgeomaps.com
+  - domain-suffix,nationalgeographic.com
+  - domain-suffix,nationalgeographicpartners.com
   - domain-suffix,netflix.ca
   - domain-suffix,netflix.com
   - domain-suffix,netflix.com.au
@@ -120,15 +254,36 @@ payload:
   - domain-suffix,nflxsearch.net
   - domain-suffix,nflxso.net
   - domain-suffix,nflxvideo.net
+  - domain-suffix,ngeo.com
+  - domain-suffix,nomadlandmovie.ch
   - domain-suffix,onetrust.com
   - domain-suffix,originalhulu.com
   - domain-suffix,payhulu.com
+  - domain-suffix,playmation.com
   - domain-suffix,prod.hjholdings.tv
   - domain-suffix,registerhulu.com
+  - domain-suffix,shopdisney.com
+  - domain-suffix,shops-disney.com
+  - domain-suffix,sorcerersarena.com
+  - domain-suffix,spaindisney.com
+  - domain-suffix,star-brasil.com
+  - domain-suffix,star-latam.com
+  - domain-suffix,starott.com
+  - domain-suffix,starplus.com
+  - domain-suffix,starwars.com
+  - domain-suffix,starwarsgalacticstarcruiser.com
+  - domain-suffix,starwarskids.com
   - domain-suffix,streaks.jp
+  - domain-suffix,streamingdisney.net
   - domain-suffix,thehulubraintrust.com
+  - domain-suffix,themarvelexperiencetour.com
+  - domain-suffix,thestationbymaker.com
+  - domain-suffix,thewaltdisneycompany.com
+  - domain-suffix,thisispolaris.com
   - domain-suffix,us-west-2.amazonaws.com
   - domain-suffix,video.google.com
+  - domain-suffix,watchdisneyfe.com
+  - domain-suffix,watchespn.com
   - domain-suffix,wide-youtube.l.google.com
   - domain-suffix,withyoutube.com
   - domain-suffix,wwwhuluplus.com
@@ -304,6 +459,8 @@ payload:
   - domain-suffix,youtubemobilesupport.com
   - domain-suffix,yt.be
   - domain-suffix,ytimg.com
+  - process-name,com.disney.datg.videoplatforms.android.abc
+  - process-name,com.disney.disneyplus
   - process-name,com.hulu.plus
   - process-name,com.netflix.mediaclient
   - ip-cidr,103.87.204.0/22,no-resolve
