@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     11 Jul 2026 22:41 UTC
-# DOMAIN:      26842
+# UPDATED:     12 Jul 2026 22:41 UTC
+# DOMAIN:      26858
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -3471,6 +3471,9 @@ payload:
   - domain-suffix,bestbuytradein.com
   - domain-suffix,bestbuyus.com
   - domain-suffix,bestcamsites.net
+  - domain-suffix,bestchange.com
+  - domain-suffix,bestchange.net
+  - domain-suffix,bestchange.ru
   - domain-suffix,bestclouddrive.com
   - domain-suffix,bestdori.com
   - domain-suffix,besterpornos.com
@@ -6058,6 +6061,7 @@ payload:
   - domain-suffix,crl.versign.net
   - domain-suffix,crmdynint-gcc.com
   - domain-suffix,crmdynint.com
+  - domain-suffix,crocoblock.com
   - domain-suffix,crocotube.com
   - domain-suffix,cromite.org
   - domain-suffix,crossborderexpansion.com
@@ -6461,6 +6465,7 @@ payload:
   - domain-suffix,delcamtv.com
   - domain-suffix,delcamuniversity.com
   - domain-suffix,delcamusa.com
+  - domain-suffix,delets.online
   - domain-suffix,delicious.com.au
   - domain-suffix,dell
   - domain-suffix,dell.ac
@@ -9943,6 +9948,7 @@ payload:
   - domain-suffix,getporn.tv
   - domain-suffix,getprintersupports.com
   - domain-suffix,getscorecash.com
+  - domain-suffix,getsentry.com
   - domain-suffix,getsession.org
   - domain-suffix,getsexgames.com
   - domain-suffix,getsynapse.io
@@ -10852,6 +10858,8 @@ payload:
   - domain-suffix,hao62.xyz
   - domain-suffix,haori888.com
   - domain-suffix,haplorrhini.com
+  - domain-suffix,happ.info
+  - domain-suffix,happ.su
   - domain-suffix,happymeal.co.nz
   - domain-suffix,happymeal.com
   - domain-suffix,happymeal.com.au
@@ -15871,6 +15879,7 @@ payload:
   - domain-suffix,motiongraphicsandmore.com
   - domain-suffix,motionpictureser.com
   - domain-suffix,moto.com
+  - domain-suffix,motocms.com
   - domain-suffix,motolia.com
   - domain-suffix,motopress.com
   - domain-suffix,motorola.ca
@@ -17487,6 +17496,7 @@ payload:
   - domain-suffix,onekey.zendesk.com
   - domain-suffix,onekeycn.com
   - domain-suffix,oneme.ru
+  - domain-suffix,onemoment.cc
   - domain-suffix,onemozilla.org
   - domain-suffix,onenote.com
   - domain-suffix,onenote.net
@@ -17891,6 +17901,7 @@ payload:
   - domain-suffix,paxlicense.org
   - domain-suffix,paydiant.com
   - domain-suffix,payecom.ru
+  - domain-suffix,payget.pro
   - domain-suffix,paygonline.com
   - domain-suffix,payhulu.com
   - domain-suffix,paylike.com
@@ -18389,6 +18400,7 @@ payload:
   - domain-suffix,plastics-cadcam.com
   - domain-suffix,platiecom.ru
   - domain-suffix,platinumlinks.org
+  - domain-suffix,platov.co
   - domain-suffix,play-asia.com
   - domain-suffix,play-bmm.shop
   - domain-suffix,play-bmmer.buzz
@@ -19422,6 +19434,8 @@ payload:
   - domain-suffix,rakutengiftcards.ca
   - domain-suffix,rakuya.com.tw
   - domain-suffix,ramcity.com.au
+  - domain-suffix,ramon.cash
+  - domain-suffix,ramon.money
   - domain-suffix,randyblue.com
   - domain-suffix,rapefilms.net
   - domain-suffix,rapetube.me
@@ -20475,6 +20489,7 @@ payload:
   - domain-suffix,sensualmothers.com
   - domain-suffix,sensueel.net
   - domain-suffix,sentry-cdn.com
+  - domain-suffix,sentry.dev
   - domain-suffix,sentry.io
   - domain-suffix,sentry.ppy.sh
   - domain-suffix,senzuritv.net
@@ -22264,6 +22279,7 @@ payload:
   - domain-suffix,tellmewhygame.com
   - domain-suffix,temetube.xyz
   - domain-suffix,temp-mail.org
+  - domain-suffix,templatemonster.com
   - domain-suffix,temu.com
   - domain-suffix,tenbin.ai
   - domain-suffix,tenbyfotolia.com

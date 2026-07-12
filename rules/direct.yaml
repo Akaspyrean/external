@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     11 Jul 2026 22:41 UTC
-# DOMAIN:      112220
+# UPDATED:     12 Jul 2026 22:41 UTC
+# DOMAIN:      112230
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -10199,6 +10199,7 @@ payload:
   - domain-suffix,ad77.com
   - domain-suffix,ad778.com
   - domain-suffix,ada-post.com
+  - domain-suffix,adacpp.com
   - domain-suffix,adamahf.com
   - domain-suffix,adamcdn.com
   - domain-suffix,adamcoder.com
@@ -24861,6 +24862,7 @@ payload:
   - domain-suffix,color-measure.com
   - domain-suffix,color365.com
   - domain-suffix,colorbird.com
+  - domain-suffix,colorfulclouds.com
   - domain-suffix,colorfulclouds.net
   - domain-suffix,colorfulltech.net
   - domain-suffix,colorimeter.com
@@ -31020,6 +31022,7 @@ payload:
   - domain-suffix,duoyi.com
   - domain-suffix,duoying.com
   - domain-suffix,duoyinsu.com
+  - domain-suffix,duoyiwangluo.com
   - domain-suffix,duoyoumi.com
   - domain-suffix,duozhi.com
   - domain-suffix,duozhuayu.com
@@ -39741,6 +39744,7 @@ payload:
   - domain-suffix,gtetern.com
   - domain-suffix,gtfund.com
   - domain-suffix,gtg56.com
+  - domain-suffix,gtgjtrip.com
   - domain-suffix,gtgqw.com
   - domain-suffix,gtgres.com
   - domain-suffix,gtht.com
@@ -58556,6 +58560,7 @@ payload:
   - domain-suffix,klhpw.com
   - domain-suffix,klhuyan.com
   - domain-suffix,klicen.com
+  - domain-suffix,kling-ai.com
   - domain-suffix,klingai.com
   - domain-suffix,klingxai.com
   - domain-suffix,klinlee.com
@@ -60952,6 +60957,7 @@ payload:
   - domain-suffix,leyoo.com
   - domain-suffix,leyoujia.com
   - domain-suffix,leyu.com
+  - domain-suffix,leyuansu.com
   - domain-suffix,leyue100.com
   - domain-suffix,leyuglobal.com
   - domain-suffix,leyun365.com
@@ -81289,6 +81295,7 @@ payload:
   - domain-suffix,shedongyun.com
   - domain-suffix,shedoor.com
   - domain-suffix,shedunews.com
+  - domain-suffix,shedunews.net
   - domain-suffix,sheec-tencentclb.cloud
   - domain-suffix,sheec-tencentclb.com
   - domain-suffix,sheec-tencentclb.net
@@ -99415,6 +99422,7 @@ payload:
   - domain-suffix,xiaomei.cc
   - domain-suffix,xiaomeiti.com
   - domain-suffix,xiaomeng1235.com
+  - domain-suffix,xiaomengai.com
   - domain-suffix,xiaomi.com
   - domain-suffix,xiaomi.hk
   - domain-suffix,xiaomi.net
@@ -103546,6 +103554,7 @@ payload:
   - domain-suffix,ygct.com
   - domain-suffix,ygdatabase.com
   - domain-suffix,ygdl.com
+  - domain-suffix,ygduoyi.com
   - domain-suffix,yge.me
   - domain-suffix,ygeer.com
   - domain-suffix,ygei.com
@@ -110946,6 +110955,7 @@ payload:
   - domain-suffix,zmsq.com
   - domain-suffix,zmssh.com
   - domain-suffix,zmtpc.com
+  - domain-suffix,zmtqsh.com
   - domain-suffix,zmtquan.com
   - domain-suffix,zmufivehospital.com
   - domain-suffix,zmumu.com
