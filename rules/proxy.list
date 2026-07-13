@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     12 Jul 2026 22:41 UTC
-# DOMAIN:      26858
+# UPDATED:     13 Jul 2026 22:51 UTC
+# DOMAIN:      26859
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -24728,6 +24728,7 @@ DOMAIN-SUFFIX,WBALLIANCE.COM
 DOMAIN-SUFFIX,WBAUTOMATION.RU
 DOMAIN-SUFFIX,WBAUTOMATION.TECH
 DOMAIN-SUFFIX,WBBASKET.RU
+DOMAIN-SUFFIX,WBCONTENT.NET
 DOMAIN-SUFFIX,WBD.MS
 DOMAIN-SUFFIX,WBDNBO.NET
 DOMAIN-SUFFIX,WBDUBNA.RU

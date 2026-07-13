@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     12 Jul 2026 22:41 UTC
-# DOMAIN:      26858
+# UPDATED:     13 Jul 2026 22:51 UTC
+# DOMAIN:      26859
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -24729,6 +24729,7 @@ payload:
   - domain-suffix,wbautomation.ru
   - domain-suffix,wbautomation.tech
   - domain-suffix,wbbasket.ru
+  - domain-suffix,wbcontent.net
   - domain-suffix,wbd.ms
   - domain-suffix,wbdnbo.net
   - domain-suffix,wbdubna.ru
