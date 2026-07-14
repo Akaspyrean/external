@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     13 Jul 2026 22:51 UTC
-# DOMAIN:      26859
+# UPDATED:     14 Jul 2026 22:53 UTC
+# DOMAIN:      26853
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1342,7 +1342,6 @@ payload:
   - domain-suffix,alexa.com
   - domain-suffix,alexanderstreet.com
   - domain-suffix,alfa.me
-  - domain-suffix,alfabank.oavdo.amc
   - domain-suffix,alfabank.ru
   - domain-suffix,alfabank.st
   - domain-suffix,alfadirect.ru
@@ -5297,6 +5296,7 @@ payload:
   - domain-suffix,chatango.com
   - domain-suffix,chatgpt.com
   - domain-suffix,chatgpt.livekit.cloud
+  - domain-suffix,chatgpt.site
   - domain-suffix,chatgptvideo.xyz
   - domain-suffix,chatgptvideob.buzz
   - domain-suffix,chatpdf.com
@@ -10286,7 +10286,6 @@ payload:
   - domain-suffix,gonike.com
   - domain-suffix,gonzo-movies.com
   - domain-suffix,gonzo.com
-  - domain-suffix,goo
   - domain-suffix,goo.gl
   - domain-suffix,goo.ne.jp
   - domain-suffix,gooblox.com
@@ -12550,7 +12549,6 @@ payload:
   - domain-suffix,intagrm.com
   - domain-suffix,intc.com
   - domain-suffix,integral7.com
-  - domain-suffix,intel
   - domain-suffix,intel-research.net
   - domain-suffix,intel-university-collaboration.net
   - domain-suffix,intel.ac
@@ -13725,6 +13723,7 @@ payload:
   - domain-suffix,khotruyentranhx.com
   - domain-suffix,kichiku-doujinko.com
   - domain-suffix,kichikuou.com
+  - domain-suffix,kick.com
   - domain-suffix,kickporn.com
   - domain-suffix,kickshatchannel.com
   - domain-suffix,kicksnike1.com
@@ -13851,7 +13850,6 @@ payload:
   - domain-suffix,konachan.com
   - domain-suffix,konachan.net
   - domain-suffix,konachan.wjcodes.com
-  - domain-suffix,konami
   - domain-suffix,konami-igaming.online
   - domain-suffix,konami.co.jp
   - domain-suffix,konami.com
@@ -18951,11 +18949,7 @@ payload:
   - domain-suffix,practicalbusinessskills.com
   - domain-suffix,practicalmoneyskills.ca
   - domain-suffix,practicalmoneyskills.jp
-  - domain-suffix,practivate.adobe
   - domain-suffix,practivate.adobe.com
-  - domain-suffix,practivate.adobe.ipp
-  - domain-suffix,practivate.adobe.newoa
-  - domain-suffix,practivate.adobe.ntp
   - domain-suffix,prastitutki.ru
   - domain-suffix,prayforchina.net
   - domain-suffix,prcleader.org
