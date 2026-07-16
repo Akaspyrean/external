@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     15 Jul 2026 22:54 UTC
-# DOMAIN:      112018
+# UPDATED:     16 Jul 2026 22:52 UTC
+# DOMAIN:      112017
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -88622,7 +88622,6 @@ payload:
   - domain-suffix,teshenqi.com
   - domain-suffix,tesight.com
   - domain-suffix,tesiro.com
-  - domain-suffix,tesla-cdn.thron.cn
   - domain-suffix,tesolsh.com
   - domain-suffix,tesoon.com
   - domain-suffix,test-cignacmb.com

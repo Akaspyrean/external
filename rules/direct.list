@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     15 Jul 2026 22:54 UTC
-# DOMAIN:      112018
+# UPDATED:     16 Jul 2026 22:52 UTC
+# DOMAIN:      112017
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -88621,7 +88621,6 @@ DOMAIN-SUFFIX,TESEXIU.COM
 DOMAIN-SUFFIX,TESHENQI.COM
 DOMAIN-SUFFIX,TESIGHT.COM
 DOMAIN-SUFFIX,TESIRO.COM
-DOMAIN-SUFFIX,TESLA-CDN.THRON.CN
 DOMAIN-SUFFIX,TESOLSH.COM
 DOMAIN-SUFFIX,TESOON.COM
 DOMAIN-SUFFIX,TEST-CIGNACMB.COM

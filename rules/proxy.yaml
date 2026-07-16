@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     15 Jul 2026 22:54 UTC
-# DOMAIN:      26888
+# UPDATED:     16 Jul 2026 22:52 UTC
+# DOMAIN:      26891
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -2878,6 +2878,7 @@ payload:
   - domain-suffix,azuredns-prd.org
   - domain-suffix,azureedge-test.net
   - domain-suffix,azureedge.net
+  - domain-suffix,azureedge.us
   - domain-suffix,azurefd.net
   - domain-suffix,azureiotcentral.com
   - domain-suffix,azureiotsolutions.com
@@ -5947,6 +5948,7 @@ payload:
   - domain-suffix,coova.net
   - domain-suffix,coova.org
   - domain-suffix,copilot-proxy.githubusercontent.com
+  - domain-suffix,copilot-stg.com
   - domain-suffix,copilot-workspace.githubnext.com
   - domain-suffix,copilot.com
   - domain-suffix,copilotprodattachments.blob.core.windows.net
@@ -15143,6 +15145,7 @@ payload:
   - domain-suffix,mh4u.org
   - domain-suffix,mhcb.ru
   - domain-suffix,mhcbr.ru
+  - domain-suffix,mhgui.com
   - domain-suffix,mhhanman.xyz
   - domain-suffix,mhqwe.xyz
   - domain-suffix,mhradio.org
@@ -21672,6 +21675,7 @@ payload:
   - domain-suffix,starfox.com
   - domain-suffix,stargazer-games.com
   - domain-suffix,stark-verlag.ch
+  - domain-suffix,starlink.com
   - domain-suffix,starott.com
   - domain-suffix,starp2p.com
   - domain-suffix,starplus.com
@@ -22334,7 +22338,6 @@ payload:
   - domain-suffix,terraform.io
   - domain-suffix,terragraph.com
   - domain-suffix,terrapeak.com
-  - domain-suffix,tesla-cdn.thron.com
   - domain-suffix,tesla.com
   - domain-suffix,tesla.services
   - domain-suffix,teslaenergy.services
