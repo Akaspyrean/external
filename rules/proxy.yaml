@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     16 Jul 2026 22:52 UTC
-# DOMAIN:      26891
+# UPDATED:     17 Jul 2026 22:43 UTC
+# DOMAIN:      26892
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -16565,6 +16565,7 @@ payload:
   - domain-suffix,nettyinternet.com
   - domain-suffix,netvideogirls.com
   - domain-suffix,netvigator.com
+  - domain-suffix,netxh.blog
   - domain-suffix,netzerobuildings.com
   - domain-suffix,netzerobuildingstudio.com
   - domain-suffix,neuerporno.com

@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     16 Jul 2026 22:52 UTC
-# DOMAIN:      112017
+# UPDATED:     17 Jul 2026 22:43 UTC
+# DOMAIN:      112027
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -12578,6 +12578,7 @@ payload:
   - domain-suffix,api-vod-qcloud.com
   - domain-suffix,api.alibabacloud.com
   - domain-suffix,api.anythinktech.com
+  - domain-suffix,api.blipsandchitz.me
   - domain-suffix,api.so
   - domain-suffix,apiairasia.com
   - domain-suffix,apiandroid.com
@@ -28130,6 +28131,7 @@ payload:
   - domain-suffix,dcyz.com
   - domain-suffix,dcyzq.com
   - domain-suffix,dczcsc.com
+  - domain-suffix,dczcy.com
   - domain-suffix,dczkj.com
   - domain-suffix,dczy168.com
   - domain-suffix,dd-advisor.com
@@ -29117,6 +29119,7 @@ payload:
   - domain-suffix,didichuxing.com
   - domain-suffix,dididapiao.com
   - domain-suffix,dididi88.com
+  - domain-suffix,didifinance.com
   - domain-suffix,didiglobal.com
   - domain-suffix,didimobility.com
   - domain-suffix,didiopenapi.com
@@ -36008,6 +36011,7 @@ payload:
   - domain-suffix,fuca-china.com
   - domain-suffix,fucantec.com
   - domain-suffix,fuchaipower.com
+  - domain-suffix,fuchenkj.com
   - domain-suffix,fuchuangyu.com
   - domain-suffix,fucnm.com
   - domain-suffix,fucol.club
@@ -47284,6 +47288,7 @@ payload:
   - domain-suffix,hrs100.com
   - domain-suffix,hrsalon.org
   - domain-suffix,hrsay.com
+  - domain-suffix,hrsecn.com
   - domain-suffix,hrsee.com
   - domain-suffix,hrsel.com
   - domain-suffix,hrsoft-china.com
@@ -53930,6 +53935,7 @@ payload:
   - domain-suffix,jieshui8.com
   - domain-suffix,jieshuitech.com
   - domain-suffix,jieshuwang.com
+  - domain-suffix,jietianz.com
   - domain-suffix,jietu365.com
   - domain-suffix,jietuhb.com
   - domain-suffix,jietuosh.com
@@ -79849,6 +79855,7 @@ payload:
   - domain-suffix,sdseshealth.com
   - domain-suffix,sdsfjy.com
   - domain-suffix,sdshangya.com
+  - domain-suffix,sdshdc.com
   - domain-suffix,sdshgk.com
   - domain-suffix,sdshihua.com
   - domain-suffix,sdshitu.com
@@ -81545,6 +81552,7 @@ payload:
   - domain-suffix,shicaizhanlan.com
   - domain-suffix,shicehao.com
   - domain-suffix,shichangbu.com
+  - domain-suffix,shicheng6.com
   - domain-suffix,shichengbao.com
   - domain-suffix,shichengyi.com
   - domain-suffix,shichuangsj.com
@@ -92021,6 +92029,7 @@ payload:
   - domain-suffix,ulikestatic.com
   - domain-suffix,ulinix.com
   - domain-suffix,ulinix.tv
+  - domain-suffix,ulongemg.com
   - domain-suffix,ulpay.com
   - domain-suffix,ultracachenode.com
   - domain-suffix,ultraeda.com
@@ -106827,6 +106836,7 @@ payload:
   - domain-suffix,yximgs.com
   - domain-suffix,yxin18.com
   - domain-suffix,yxinbao.com
+  - domain-suffix,yxingfan.com
   - domain-suffix,yxintent.com
   - domain-suffix,yxit.net
   - domain-suffix,yxixy.com
