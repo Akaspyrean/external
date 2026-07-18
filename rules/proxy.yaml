@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     17 Jul 2026 22:43 UTC
-# DOMAIN:      26892
+# UPDATED:     18 Jul 2026 22:42 UTC
+# DOMAIN:      26893
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -19304,6 +19304,7 @@ payload:
   - domain-suffix,qmp4.com
   - domain-suffix,qmttqg3k.me
   - domain-suffix,qnap.com
+  - domain-suffix,qnapsupport.net
   - domain-suffix,qobuz.com
   - domain-suffix,qoder.com
   - domain-suffix,qombol.com
