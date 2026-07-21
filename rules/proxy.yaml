@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     20 Jul 2026 22:54 UTC
-# DOMAIN:      26893
+# UPDATED:     21 Jul 2026 22:50 UTC
+# DOMAIN:      26904
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -3437,6 +3437,7 @@ payload:
   - domain-suffix,berlinerbericht.de
   - domain-suffix,berlintwitterwall.com
   - domain-suffix,best-sex-games.com
+  - domain-suffix,best2pay.net
   - domain-suffix,best4bim.com
   - domain-suffix,bestbeats4u.com
   - domain-suffix,bestbhy.com
@@ -5602,6 +5603,7 @@ payload:
   - domain-suffix,clashofclans.com
   - domain-suffix,clashroyale.com
   - domain-suffix,clashroyaleapp.com
+  - domain-suffix,clashyun.com
   - domain-suffix,clasporno.org
   - domain-suffix,classicalguitarblog.net
   - domain-suffix,classicnike.com
@@ -8318,6 +8320,8 @@ payload:
   - domain-suffix,f-droid.com
   - domain-suffix,f-droid.org
   - domain-suffix,f-secure.com
+  - domain-suffix,f1.com
+  - domain-suffix,f1tv.com
   - domain-suffix,f2pool.com
   - domain-suffix,f3b7q2p3.ssl.hwcdn.net
   - domain-suffix,f5pf.com
@@ -9166,6 +9170,7 @@ payload:
   - domain-suffix,formit360.com
   - domain-suffix,formitfactory.com
   - domain-suffix,forms.new
+  - domain-suffix,formula1.com
   - domain-suffix,forpojie.pics
   - domain-suffix,forshtadt.ru
   - domain-suffix,fortawesome.com
@@ -11915,6 +11920,7 @@ payload:
   - domain-suffix,hutao.cloud
   - domain-suffix,hutianyi.net
   - domain-suffix,hutpromos.com
+  - domain-suffix,hva.im
   - domain-suffix,hwayue.org.tw
   - domain-suffix,hwgo.com
   - domain-suffix,hwslabs.com
@@ -19533,8 +19539,10 @@ payload:
   - domain-suffix,rbnainternational.com
   - domain-suffix,rbplc.com
   - domain-suffix,rbrandlibrary.com
+  - domain-suffix,rbsgate.com
   - domain-suffix,rbsgr.com
   - domain-suffix,rbspeakup.com
+  - domain-suffix,rbsuat.com
   - domain-suffix,rbth.com
   - domain-suffix,rbx.com
   - domain-suffix,rbxcdn.com
@@ -22068,6 +22076,7 @@ payload:
   - domain-suffix,syosetu.com
   - domain-suffix,sysinternals.com
   - domain-suffix,system76.com
+  - domain-suffix,sysub.com
   - domain-suffix,syzbj36.xyz
   - domain-suffix,szabadeuropa.hu
   - domain-suffix,szcheapmonsterheadphones.com
@@ -23025,6 +23034,7 @@ payload:
   - domain-suffix,trixhentai.com
   - domain-suffix,trmini.com
   - domain-suffix,troisrivieresmini.com
+  - domain-suffix,trojan-gfw.github.io
   - domain-suffix,tronscan.org
   - domain-suffix,tropictube.com
   - domain-suffix,trouw.nl
@@ -25838,6 +25848,7 @@ payload:
   - domain-suffix,xt.pub
   - domain-suffix,xtapes.to
   - domain-suffix,xtegvk.xyz
+  - domain-suffix,xtls.github.io
   - domain-suffix,xtom.au
   - domain-suffix,xtom.com
   - domain-suffix,xtom.de
