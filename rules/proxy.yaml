@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     21 Jul 2026 22:50 UTC
-# DOMAIN:      26904
+# UPDATED:     22 Jul 2026 22:56 UTC
+# DOMAIN:      26905
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -26755,6 +26755,7 @@ payload:
   - domain-suffix,zenlesszonezero.com
   - domain-suffix,zenmate.com
   - domain-suffix,zenmate.com.ru
+  - domain-suffix,zenmux.ai
   - domain-suffix,zenodo.org
   - domain-suffix,zeplin.dev
   - domain-suffix,zeplin.io

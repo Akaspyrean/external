@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     21 Jul 2026 22:50 UTC
-# DOMAIN:      26904
+# UPDATED:     22 Jul 2026 22:56 UTC
+# DOMAIN:      26905
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -26754,6 +26754,7 @@ DOMAIN-SUFFIX,ZENIT.RU
 DOMAIN-SUFFIX,ZENLESSZONEZERO.COM
 DOMAIN-SUFFIX,ZENMATE.COM
 DOMAIN-SUFFIX,ZENMATE.COM.RU
+DOMAIN-SUFFIX,ZENMUX.AI
 DOMAIN-SUFFIX,ZENODO.ORG
 DOMAIN-SUFFIX,ZEPLIN.DEV
 DOMAIN-SUFFIX,ZEPLIN.IO

@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     21 Jul 2026 22:50 UTC
-# DOMAIN:      112085
+# UPDATED:     22 Jul 2026 22:56 UTC
+# DOMAIN:      112089
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -19556,6 +19556,7 @@ payload:
   - domain-suffix,cd-zc.com
   - domain-suffix,cd00c44f211031.beer
   - domain-suffix,cd120.com
+  - domain-suffix,cd120.info
   - domain-suffix,cd12371.com
   - domain-suffix,cd1958.com
   - domain-suffix,cd20.net
@@ -66652,6 +66653,7 @@ payload:
   - domain-suffix,moe321.com
   - domain-suffix,moeclub.org
   - domain-suffix,moedot.net
+  - domain-suffix,moedu.com
   - domain-suffix,moeelf.com
   - domain-suffix,moefactory.com
   - domain-suffix,moefantasy.com
@@ -90809,6 +90811,7 @@ payload:
   - domain-suffix,tsingpost.com
   - domain-suffix,tsingshang.com
   - domain-suffix,tsingtek.com
+  - domain-suffix,tsingtengms.com
   - domain-suffix,tsingtoo.com
   - domain-suffix,tsingtuo.com
   - domain-suffix,tsingyangroup.com
@@ -98460,6 +98463,7 @@ payload:
   - domain-suffix,xcxymw.com
   - domain-suffix,xcxzww.com
   - domain-suffix,xcyg.net
+  - domain-suffix,xcz.im
   - domain-suffix,xczhmzb.com
   - domain-suffix,xczhsh.com
   - domain-suffix,xczim.com
