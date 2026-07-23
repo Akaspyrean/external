@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     22 Jul 2026 22:56 UTC
-# DOMAIN:      26905
+# UPDATED:     23 Jul 2026 22:51 UTC
+# DOMAIN:      26906
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22850,6 +22850,7 @@ DOMAIN-SUFFIX,TOHOKU-BANK.CO.JP
 DOMAIN-SUFFIX,TOK.MEDIA
 DOMAIN-SUFFIX,TOKEN.IM
 DOMAIN-SUFFIX,TOKENLON.IM
+DOMAIN-SUFFIX,TOKENPLUS.APP
 DOMAIN-SUFFIX,TOKYO-HOT.COM
 DOMAIN-SUFFIX,TOKYO-PORN-TUBE.COM
 DOMAIN-SUFFIX,TOKYO-SPORTS.CO.JP

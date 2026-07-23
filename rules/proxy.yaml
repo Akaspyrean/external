@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     22 Jul 2026 22:56 UTC
-# DOMAIN:      26905
+# UPDATED:     23 Jul 2026 22:51 UTC
+# DOMAIN:      26906
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -22851,6 +22851,7 @@ payload:
   - domain-suffix,tok.media
   - domain-suffix,token.im
   - domain-suffix,tokenlon.im
+  - domain-suffix,tokenplus.app
   - domain-suffix,tokyo-hot.com
   - domain-suffix,tokyo-porn-tube.com
   - domain-suffix,tokyo-sports.co.jp
