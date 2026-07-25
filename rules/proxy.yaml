@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     24 Jul 2026 22:56 UTC
-# DOMAIN:      26906
+# UPDATED:     25 Jul 2026 22:49 UTC
+# DOMAIN:      26911
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -5522,6 +5522,7 @@ payload:
   - domain-suffix,cinepornogratis.com
   - domain-suffix,cinny.in
   - domain-suffix,cios.org
+  - domain-suffix,circle19.org
   - domain-suffix,cirosantilli.com
   - domain-suffix,cisco
   - domain-suffix,cisco-returns.com
@@ -7121,6 +7122,7 @@ payload:
   - domain-suffix,docs.com
   - domain-suffix,docs.new
   - domain-suffix,docs.rs
+  - domain-suffix,docs.rw
   - domain-suffix,doctor-videos.com
   - domain-suffix,documentforce.com
   - domain-suffix,documentingreality.com
@@ -13653,6 +13655,7 @@ payload:
   - domain-suffix,karabako-gmo.com
   - domain-suffix,karafarinbank.ir
   - domain-suffix,karayou.com
+  - domain-suffix,kards.com
   - domain-suffix,karechat.ai
   - domain-suffix,karger.com
   - domain-suffix,karinahart.com
@@ -14341,6 +14344,7 @@ payload:
   - domain-suffix,localxlist.org
   - domain-suffix,location.microsoft.com
   - domain-suffix,lockestek.com
+  - domain-suffix,log.rw
   - domain-suffix,logi.com
   - domain-suffix,logicool.co.jp
   - domain-suffix,logicoolg.com
@@ -23079,6 +23083,7 @@ payload:
   - domain-suffix,truyenkk1.com
   - domain-suffix,truyentranh86.com
   - domain-suffix,truyenwk.com
+  - domain-suffix,try.rw
   - domain-suffix,tryalias.com
   - domain-suffix,tryboobs.com
   - domain-suffix,trycloudflare.com
