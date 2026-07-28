@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     27 Jul 2026 22:55 UTC
-# DOMAIN:      26911
+# UPDATED:     28 Jul 2026 22:54 UTC
+# DOMAIN:      26913
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -10134,6 +10134,7 @@ payload:
   - domain-suffix,githubnext.com
   - domain-suffix,githubpreview.dev
   - domain-suffix,githubstatus.com
+  - domain-suffix,githubsupport.com
   - domain-suffix,githubuniverse.com
   - domain-suffix,githubusercontent.com
   - domain-suffix,gitlab-assets.oss-cn-hongkong.aliyuncs.com
@@ -23084,6 +23085,7 @@ payload:
   - domain-suffix,truyentranh86.com
   - domain-suffix,truyenwk.com
   - domain-suffix,try.rw
+  - domain-suffix,tryai.dev
   - domain-suffix,tryalias.com
   - domain-suffix,tryboobs.com
   - domain-suffix,trycloudflare.com
