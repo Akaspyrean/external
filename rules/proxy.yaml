@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     28 Jul 2026 22:54 UTC
-# DOMAIN:      26913
+# UPDATED:     29 Jul 2026 22:56 UTC
+# DOMAIN:      26918
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -3963,6 +3963,7 @@ payload:
   - domain-suffix,bluemix.net
   - domain-suffix,bluestacks.com
   - domain-suffix,bluffyporn.com
+  - domain-suffix,blurams.app
   - domain-suffix,blurams.com
   - domain-suffix,blylq.buzz
   - domain-suffix,blz-contentstack.com
@@ -5235,6 +5236,7 @@ payload:
   - domain-suffix,cencoastbmw.com
   - domain-suffix,cenews.eu
   - domain-suffix,cenkei.com
+  - domain-suffix,ceno.app
   - domain-suffix,censorship.ai
   - domain-suffix,censorship.no
   - domain-suffix,centauro.com.br
@@ -13098,6 +13100,7 @@ payload:
   - domain-suffix,iutunes.com
   - domain-suffix,ivacy.com
   - domain-suffix,ivi.ru
+  - domain-suffix,ivicdn.tv
   - domain-suffix,ivintageporn.com
   - domain-suffix,ivonblog.com
   - domain-suffix,ivpn.net
@@ -13808,6 +13811,7 @@ payload:
   - domain-suffix,kindleren.com
   - domain-suffix,kindnudist.com
   - domain-suffix,kindteenporn.com
+  - domain-suffix,kinescopecdn.net
   - domain-suffix,kingcomix.com
   - domain-suffix,kingdomsalvation.org
   - domain-suffix,kingextre.me
@@ -20251,6 +20255,7 @@ payload:
   - domain-suffix,sber.ru
   - domain-suffix,sberauto.com
   - domain-suffix,sberbank-insurance.ru
+  - domain-suffix,sberbank-tele.com
   - domain-suffix,sberbank.com
   - domain-suffix,sberbank.ru
   - domain-suffix,sberbankaktivno.ru

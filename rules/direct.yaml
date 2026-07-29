@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     28 Jul 2026 22:54 UTC
-# DOMAIN:      112089
+# UPDATED:     29 Jul 2026 22:56 UTC
+# DOMAIN:      112090
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -100837,6 +100837,7 @@ payload:
   - domain-suffix,xmmuye.com
   - domain-suffix,xmnjdwx.com
   - domain-suffix,xmocloud01.com
+  - domain-suffix,xmoj.tech
   - domain-suffix,xmonecode.com
   - domain-suffix,xmos.tv
   - domain-suffix,xmov.ai
