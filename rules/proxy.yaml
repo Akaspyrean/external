@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     30 Jul 2026 23:00 UTC
-# DOMAIN:      26918
+# UPDATED:     31 Jul 2026 22:55 UTC
+# DOMAIN:      26942
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1876,6 +1876,7 @@ payload:
   - domain-suffix,api.palworldgame.com
   - domain-suffix,api.viu.now.com
   - domain-suffix,apiary.io
+  - domain-suffix,apiauto.ru
   - domain-suffix,apibay.org
   - domain-suffix,apigee.com
   - domain-suffix,apina.biz
@@ -2544,6 +2545,7 @@ payload:
   - domain-suffix,authorxml.com
   - domain-suffix,authpass.app
   - domain-suffix,authy.com
+  - domain-suffix,auto.ru
   - domain-suffix,autocad-schulungen.com
   - domain-suffix,autocad.com
   - domain-suffix,autocad360.com
@@ -2682,6 +2684,7 @@ payload:
   - domain-suffix,automaton-media.com
   - domain-suffix,automobile.fr
   - domain-suffix,automotive-cadcam.com
+  - domain-suffix,autoru.me
   - domain-suffix,autosketch.com
   - domain-suffix,autumn-jade.com
   - domain-suffix,auxdubai.com
@@ -2785,6 +2788,7 @@ payload:
   - domain-suffix,avstar6.com
   - domain-suffix,avstar8.com
   - domain-suffix,avstar9.com
+  - domain-suffix,avto.ru
   - domain-suffix,avwong.com
   - domain-suffix,avwto.com
   - domain-suffix,avxde.org
@@ -5395,6 +5399,8 @@ payload:
   - domain-suffix,cherrypimps.com
   - domain-suffix,cherrypornhd.com
   - domain-suffix,cherrysave.com
+  - domain-suffix,chess.com
+  - domain-suffix,chesscomfiles.com
   - domain-suffix,chhongbi.org
   - domain-suffix,chianxv.buzz
   - domain-suffix,chibabank.co.jp
@@ -5512,6 +5518,9 @@ payload:
   - domain-suffix,ci-en.jp
   - domain-suffix,ci-en.net
   - domain-suffix,cia.gov
+  - domain-suffix,cian.ru
+  - domain-suffix,cian.site
+  - domain-suffix,ciangroup.ru
   - domain-suffix,ciattackers.com
   - domain-suffix,cici.com
   - domain-suffix,ciciai.com
@@ -5731,6 +5740,7 @@ payload:
   - domain-suffix,clusterconnection.com
   - domain-suffix,clyp.it
   - domain-suffix,clzz2.xyz
+  - domain-suffix,cm.expert
   - domain-suffix,cmcn.org
   - domain-suffix,cmegroup.com
   - domain-suffix,cmhalq.com
@@ -7085,6 +7095,7 @@ payload:
   - domain-suffix,dmed.technology
   - domain-suffix,dmgmediaprivacy.co.uk
   - domain-suffix,dmhy.org
+  - domain-suffix,dmir.ru
   - domain-suffix,dmit.io
   - domain-suffix,dmit.sh
   - domain-suffix,dml-lang.org
@@ -7311,6 +7322,7 @@ payload:
   - domain-suffix,drmario-world.com
   - domain-suffix,drnastran.com
   - domain-suffix,drobbox.pro
+  - domain-suffix,drom.ru
   - domain-suffix,dronedj.com
   - domain-suffix,dropbooks.tv
   - domain-suffix,dropbox-dns.com
@@ -14122,6 +14134,7 @@ payload:
   - domain-suffix,letsjerk.cc
   - domain-suffix,letsmoveforabetterworld.com
   - domain-suffix,lettherebeporn.com
+  - domain-suffix,level-plus.net
   - domain-suffix,levelsex.com
   - domain-suffix,lewdthots.com
   - domain-suffix,lewdvrgames.com
@@ -15991,6 +16004,7 @@ payload:
   - domain-suffix,mozilla.de
   - domain-suffix,mozilla.jp
   - domain-suffix,mozilla.lt
+  - domain-suffix,mozilla.map.fastly.net
   - domain-suffix,mozilla.net
   - domain-suffix,mozilla.org
   - domain-suffix,mozilla.org.uk
@@ -17349,6 +17363,7 @@ payload:
   - domain-suffix,nytimg.com
   - domain-suffix,nytstyle.com
   - domain-suffix,o-courier.ru
+  - domain-suffix,o-uchi.ru
   - domain-suffix,o2action.co.kr
   - domain-suffix,o3.ru
   - domain-suffix,o365weve-dev.com
@@ -18957,6 +18972,7 @@ payload:
   - domain-suffix,potatso.com
   - domain-suffix,potenza.jp
   - domain-suffix,potvpn.com
+  - domain-suffix,poudobnee.com
   - domain-suffix,pourquoi.tw
   - domain-suffix,povpornonly.com
   - domain-suffix,povr.com
@@ -19562,6 +19578,7 @@ payload:
   - domain-suffix,rcl07.xyz
   - domain-suffix,rclon.com
   - domain-suffix,rd.com
+  - domain-suffix,rdrom.ru
   - domain-suffix,rds-yes.buzz
   - domain-suffix,rdtcdn.com
   - domain-suffix,re25.vip
@@ -19634,6 +19651,7 @@ payload:
   - domain-suffix,realtor.com
   - domain-suffix,realtype.co.jp
   - domain-suffix,realtype.jp
+  - domain-suffix,realtyverif.ru
   - domain-suffix,realvision.com
   - domain-suffix,realviz.com
   - domain-suffix,realzoomovies.com
@@ -23423,6 +23441,7 @@ payload:
   - domain-suffix,uc-japan.org
   - domain-suffix,uchi.ru
   - domain-suffix,uchicago.edu
+  - domain-suffix,uchilk.ru
   - domain-suffix,ucla.edu
   - domain-suffix,ucoz.ae
   - domain-suffix,ucoz.club
@@ -23676,6 +23695,7 @@ payload:
   - domain-suffix,v-has.com
   - domain-suffix,v.gd
   - domain-suffix,v.ps
+  - domain-suffix,v.recipes
   - domain-suffix,v2.help
   - domain-suffix,v2.hysteria.network
   - domain-suffix,v2ex.com
@@ -25659,6 +25679,7 @@ payload:
   - domain-suffix,xn----8sbeoy5bze.com
   - domain-suffix,xn----8sbkfzespdwig.xn--p1ai
   - domain-suffix,xn----8sbwjbxyd.xn--p1ai
+  - domain-suffix,xn----otbzjdu.xn--p1ai
   - domain-suffix,xn--096-4g6em5t.com
   - domain-suffix,xn--11xs86f.icu
   - domain-suffix,xn--1jqvh729avzfcy2d8ummib.com
@@ -25679,6 +25700,8 @@ payload:
   - domain-suffix,xn--74q434dwff.net
   - domain-suffix,xn--7hv594h.com
   - domain-suffix,xn--80a9a4b.xn--p1ai
+  - domain-suffix,xn--80aaafbpzn5blfby1p.xn--p1ai
+  - domain-suffix,xn--80aaeib8abrryx4k.xn--p1ai
   - domain-suffix,xn--80aafgovrgbc7am.xn--p1ai
   - domain-suffix,xn--80acbjgmges7ca.xn--p1ai
   - domain-suffix,xn--80acbjgsdq2cl.xn--p1ai
@@ -26378,6 +26401,7 @@ payload:
   - domain-suffix,ymhsf.top
   - domain-suffix,ymhsf1.top
   - domain-suffix,ync.ne.jp
+  - domain-suffix,yndx.net
   - domain-suffix,ynoproject.net
   - domain-suffix,yo-star.com
   - domain-suffix,yo1health.com
