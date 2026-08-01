@@ -74,11 +74,8 @@ MATCH,扶梯出行。
 * ​`.yaml` 格式：适配 Clash 系列客户端，全面支持规则集调用与在线自动更新。
 * ​`.list` 格式​：兼容 Shadowrocket (小火箭) 及其他支持纯文本规则列表的客户端。
 
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/d9f1de78-723b-47af-8f22-834252c48032" />
-
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/3f4637df-a51b-4cfe-a4c8-cdd98e83d557" />
-
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/0f362511-8637-475b-8024-705a7d642fa5" />
+<img width="637.5" height="452.4" alt="01" src="https://github.com/user-attachments/assets/457ba1ec-4c08-4cb9-8703-725baa70a138" />
+<img width="637.5" height="452.4" alt="02" src="https://github.com/user-attachments/assets/6a62e89e-60c5-4bba-b595-28edd169029e" />
 
 
 
