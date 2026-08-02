@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     01 Aug 2026 22:49 UTC
-# DOMAIN:      26942
+# UPDATED:     02 Aug 2026 22:50 UTC
+# DOMAIN:      26953
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -756,6 +756,7 @@ payload:
   - domain-suffix,acs.org
   - domain-suffix,actalis.com
   - domain-suffix,actalis.it
+  - domain-suffix,actifio.com
   - domain-suffix,activate-sea.adobe.com
   - domain-suffix,activate-sjc0.adobe.com
   - domain-suffix,activate.adobe.com
@@ -13368,7 +13369,10 @@ payload:
   - domain-suffix,jetbrains.ai
   - domain-suffix,jetbrains.cloud
   - domain-suffix,jetbrains.com
+  - domain-suffix,jetbrains.dev
   - domain-suffix,jetbrains.net
+  - domain-suffix,jetbrains.org
+  - domain-suffix,jetbrains.ru
   - domain-suffix,jetbrains.space
   - domain-suffix,jetbrains.team
   - domain-suffix,jetfuelapp.com
@@ -13923,6 +13927,8 @@ payload:
   - domain-suffix,korona.com
   - domain-suffix,koshelek.app
   - domain-suffix,kostenlosepornoclips.com
+  - domain-suffix,kotl.in
+  - domain-suffix,kotlinconf.com
   - domain-suffix,kotlinlang.org
   - domain-suffix,koubaibu.jp
   - domain-suffix,koukoku.jp
@@ -13949,6 +13955,7 @@ payload:
   - domain-suffix,kspcoin.com
   - domain-suffix,ksyp10.com
   - domain-suffix,ktech.team
+  - domain-suffix,ktor.io
   - domain-suffix,ktvu.com
   - domain-suffix,ktzhk.com
   - domain-suffix,ku77.xyz
@@ -16293,6 +16300,7 @@ payload:
   - domain-suffix,myicloud.net
   - domain-suffix,myiphide.com
   - domain-suffix,myipod.net
+  - domain-suffix,myjetbrains.com
   - domain-suffix,myjkwd.com
   - domain-suffix,myjs.tw
   - domain-suffix,mykomica.org
@@ -17140,6 +17148,7 @@ payload:
   - domain-suffix,ntdtvla.com
   - domain-suffix,ntdvideo.tw
   - domain-suffix,ntdvn.com
+  - domain-suffix,nthlink.com
   - domain-suffix,ntl.fyi
   - domain-suffix,ntnews.com.au
   - domain-suffix,ntp-b.nist.gov
@@ -17688,6 +17697,7 @@ payload:
   - domain-suffix,openweave.io
   - domain-suffix,openwebster.com
   - domain-suffix,openwrt.org
+  - domain-suffix,openxla.org
   - domain-suffix,opera.com
   - domain-suffix,opgg-static.akamaized.net
   - domain-suffix,opinionjournal.com
@@ -22187,6 +22197,7 @@ payload:
   - domain-suffix,talkatone.com
   - domain-suffix,talkboxapp.com
   - domain-suffix,talkcc.com
+  - domain-suffix,talkingkotlin.com
   - domain-suffix,talkonly.net
   - domain-suffix,talksport.com
   - domain-suffix,tamilsexvideos.cc
