@@ -30,8 +30,7 @@
 * ​`.yaml` 格式：适配 Clash 系列客户端，全面支持规则集调用与在线自动更新。
 * ​`.list` 格式​：兼容 Shadowrocket (小火箭) 及其他支持纯文本规则列表的客户端。
 
-<img width="637.5" height="452.4" alt="01" src="https://github.com/user-attachments/assets/457ba1ec-4c08-4cb9-8703-725baa70a138" />
-<img width="637.5" height="452.4" alt="02" src="https://github.com/user-attachments/assets/6a62e89e-60c5-4bba-b595-28edd169029e" />
+<img width="2125" height="1508" alt="01" src="https://github.com/user-attachments/assets/0eba6132-33d6-441f-b5b9-5a89d428cfd4" /><img width="2125" height="1508" alt="03" src="https://github.com/user-attachments/assets/d436ebbd-70b2-4d1e-bb10-5bac1a9d8adb" />
 
 
 
