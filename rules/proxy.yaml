@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     02 Aug 2026 22:50 UTC
-# DOMAIN:      26953
+# UPDATED:     03 Aug 2026 22:55 UTC
+# DOMAIN:      26950
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -19254,7 +19254,6 @@ payload:
   - domain-suffix,pure18.com
   - domain-suffix,pureapk.com
   - domain-suffix,pureconcepts.net
-  - domain-suffix,puredns.org
   - domain-suffix,pureinsight.org
   - domain-suffix,purelov5.com
   - domain-suffix,purelyceleb.com
@@ -19475,7 +19474,6 @@ payload:
   - domain-suffix,radiofarda.com
   - domain-suffix,radioglobo.com.br
   - domain-suffix,radiohilight.net
-  - domain-suffix,radiojar.com
   - domain-suffix,radioline.co
   - domain-suffix,radiomango.fm
   - domain-suffix,radiomarsho.com
@@ -25444,7 +25442,6 @@ payload:
   - domain-suffix,www.ajsands.com
   - domain-suffix,www.antd.org
   - domain-suffix,www.aolnews.com
-  - domain-suffix,www.clashverge.dev
   - domain-suffix,www.cmoinc.org
   - domain-suffix,www.destinationurl.com
   - domain-suffix,www.eastturkistan.net
