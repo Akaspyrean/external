@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     04 Aug 2026 22:57 UTC
-# DOMAIN:      26950
+# UPDATED:     05 Aug 2026 22:53 UTC
+# DOMAIN:      26964
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -6483,6 +6483,8 @@ payload:
   - domain-suffix,deepfreeze.tech
   - domain-suffix,deepl.com
   - domain-suffix,deepmind.com
+  - domain-suffix,deepwiki.com
+  - domain-suffix,deepwiki.org
   - domain-suffix,deezer.com
   - domain-suffix,default.exp-tas.com
   - domain-suffix,definebabe.com
@@ -9134,8 +9136,11 @@ payload:
   - domain-suffix,fluidpreview.com
   - domain-suffix,flutter.dev
   - domain-suffix,flutterapp.com
+  - domain-suffix,fly.dev
+  - domain-suffix,fly.io
   - domain-suffix,flyflv.com
   - domain-suffix,flyingjizz.com
+  - domain-suffix,flyio.net
   - domain-suffix,flypool.org
   - domain-suffix,flyvpn.com
   - domain-suffix,flyyindh-cc.sbs
@@ -10174,6 +10179,7 @@ payload:
   - domain-suffix,glass8.eu
   - domain-suffix,gle
   - domain-suffix,gleline.com
+  - domain-suffix,glitchwave.com
   - domain-suffix,global-sci.org
   - domain-suffix,globaledu.org
   - domain-suffix,globaljihad.net
@@ -17829,14 +17835,17 @@ payload:
   - domain-suffix,ozon-credit.ru
   - domain-suffix,ozon-dostavka.ru
   - domain-suffix,ozon-tech.ru
+  - domain-suffix,ozon.app
   - domain-suffix,ozon.by
   - domain-suffix,ozon.com
   - domain-suffix,ozon.com.by
   - domain-suffix,ozon.com.kz
   - domain-suffix,ozon.dev
   - domain-suffix,ozon.express
+  - domain-suffix,ozon.global
   - domain-suffix,ozon.kz
   - domain-suffix,ozon.li
+  - domain-suffix,ozon.market
   - domain-suffix,ozon.ru
   - domain-suffix,ozon.tech
   - domain-suffix,ozon.tm
@@ -20112,6 +20121,7 @@ payload:
   - domain-suffix,rutracker.org
   - domain-suffix,rutrk.org
   - domain-suffix,rutube.ru
+  - domain-suffix,rutube.sport
   - domain-suffix,rutubelist.ru
   - domain-suffix,ruvideos.net
   - domain-suffix,rwb.ru
@@ -20119,6 +20129,7 @@ payload:
   - domain-suffix,rwbautomation.tech
   - domain-suffix,rwbgeo.ru
   - domain-suffix,rxhj.net
+  - domain-suffix,rym.fm
   - domain-suffix,ryokoyomiuri.co.jp
   - domain-suffix,ryukyubank.co.jp
   - domain-suffix,rzr.to
@@ -21243,6 +21254,7 @@ payload:
   - domain-suffix,snk-corp.co.jp
   - domain-suffix,snk-corp.info
   - domain-suffix,snkplaymore.info
+  - domain-suffix,snmc.io
   - domain-suffix,snow.me
   - domain-suffix,snowcorp.com
   - domain-suffix,snowmiku.com
@@ -21312,6 +21324,8 @@ payload:
   - domain-suffix,solv.finance
   - domain-suffix,solveforx.com
   - domain-suffix,somee.com
+  - domain-suffix,sonematic.net
+  - domain-suffix,sonemic.com
   - domain-suffix,songjianjun.com
   - domain-suffix,sonorousporn.com
   - domain-suffix,sony

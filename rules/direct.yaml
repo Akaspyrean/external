@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     04 Aug 2026 22:57 UTC
-# DOMAIN:      111467
+# UPDATED:     05 Aug 2026 22:53 UTC
+# DOMAIN:      111469
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -89047,6 +89047,8 @@ payload:
   - domain-suffix,tj-kingdee.com
   - domain-suffix,tj-model.com
   - domain-suffix,tj-pod1-smp-device.apple.com
+  - domain-suffix,tj-pod2-smp-device.apple.com
+  - domain-suffix,tj-pod3-smp-device.apple.com
   - domain-suffix,tj-un.com
   - domain-suffix,tj0573.com
   - domain-suffix,tj20.com
