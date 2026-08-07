@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     05 Aug 2026 22:53 UTC
-# DOMAIN:      111469
+# UPDATED:     07 Aug 2026 01:28 UTC
+# DOMAIN:      111472
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -63656,6 +63656,7 @@ payload:
   - domain-suffix,madajiefood.com
   - domain-suffix,madaomall.com
   - domain-suffix,madboxi.com
+  - domain-suffix,made-in-china.com
   - domain-suffix,madefuns.com
   - domain-suffix,madeinchinastone.com
   - domain-suffix,madewei.com
@@ -65400,6 +65401,7 @@ payload:
   - domain-suffix,microxiang.com
   - domain-suffix,microyan.com
   - domain-suffix,microzuji.com
+  - domain-suffix,micstatic.com
   - domain-suffix,mictormedical.com
   - domain-suffix,micu.hk
   - domain-suffix,micun.com
@@ -73079,6 +73081,7 @@ payload:
   - domain-suffix,powercx.com
   - domain-suffix,powerde.com
   - domain-suffix,powereasy.net
+  - domain-suffix,poweremarket.com
   - domain-suffix,powerex1.com
   - domain-suffix,powerflow-tech.com
   - domain-suffix,powerfulchina.com

@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     05 Aug 2026 22:53 UTC
-# DOMAIN:      26964
+# UPDATED:     07 Aug 2026 01:28 UTC
+# DOMAIN:      27006
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -221,6 +221,7 @@ payload:
   - domain-suffix,2047.name
   - domain-suffix,2047.one
   - domain-suffix,2049bbs.xyz
+  - domain-suffix,20thcenturystudios.com
   - domain-suffix,20thcenturystudios.com.au
   - domain-suffix,20thcenturystudios.com.br
   - domain-suffix,20thcenturystudios.jp
@@ -251,10 +252,14 @@ payload:
   - domain-suffix,2bit8.com
   - domain-suffix,2buybeatsbydre.com
   - domain-suffix,2ch.hk
+  - domain-suffix,2ch.life
   - domain-suffix,2ch.net
+  - domain-suffix,2ch.org
+  - domain-suffix,2ch.su
   - domain-suffix,2chav.com
   - domain-suffix,2dgen.com
   - domain-suffix,2drdrebeats.com
+  - domain-suffix,2dust.link
   - domain-suffix,2gayboys.com
   - domain-suffix,2gis.ae
   - domain-suffix,2gis.am
@@ -657,6 +662,7 @@ payload:
   - domain-suffix,abc.xyz
   - domain-suffix,abcheadphones.com
   - domain-suffix,abclider.com
+  - domain-suffix,abcnews.com
   - domain-suffix,abeatsbydrdre.com
   - domain-suffix,abebooks.co.uk
   - domain-suffix,abebooks.com
@@ -1691,6 +1697,7 @@ payload:
   - domain-suffix,amnesty.org
   - domain-suffix,amnesty.org.hk
   - domain-suffix,amnestyusa.org
+  - domain-suffix,amnezia.org
   - domain-suffix,amodoll.com
   - domain-suffix,amourangels.com
   - domain-suffix,amp.akamaized.net
@@ -2965,6 +2972,7 @@ payload:
   - domain-suffix,baltnews.com
   - domain-suffix,baltnews.lt
   - domain-suffix,bamgrid.com
+  - domain-suffix,bamtech.net
   - domain-suffix,bamtoki.com
   - domain-suffix,banan.tv
   - domain-suffix,banana-vpn.com
@@ -4839,7 +4847,6 @@ payload:
   - domain-suffix,byspotify.com
   - domain-suffix,bystys.tech
   - domain-suffix,bytedapm.com
-  - domain-suffix,byteoversea.com
   - domain-suffix,bytick.com
   - domain-suffix,c-est-simple.com
   - domain-suffix,c-ij.com
@@ -5612,10 +5619,13 @@ payload:
   - domain-suffix,claravenger.com
   - domain-suffix,clarivate.com
   - domain-suffix,clash.com
+  - domain-suffix,clashmi.app
   - domain-suffix,clashmini.com
   - domain-suffix,clashofclans.com
+  - domain-suffix,clashparty.org
   - domain-suffix,clashroyale.com
   - domain-suffix,clashroyaleapp.com
+  - domain-suffix,clashverge.dev
   - domain-suffix,clashyun.com
   - domain-suffix,clasporno.org
   - domain-suffix,classicalguitarblog.net
@@ -5682,9 +5692,11 @@ payload:
   - domain-suffix,cloudflare-ipfs.com
   - domain-suffix,cloudflare-quic.com
   - domain-suffix,cloudflare-terms-of-service-abuse.com
+  - domain-suffix,cloudflare.app
   - domain-suffix,cloudflare.com
   - domain-suffix,cloudflare.dev
   - domain-suffix,cloudflare.net
+  - domain-suffix,cloudflare.pay
   - domain-suffix,cloudflare.tv
   - domain-suffix,cloudflareaccess.com
   - domain-suffix,cloudflareapps.com
@@ -6669,7 +6681,6 @@ payload:
   - domain-suffix,deluxe.com.hk
   - domain-suffix,delvenetworks.com
   - domain-suffix,demandware.com
-  - domain-suffix,demdex.net
   - domain-suffix,demo.unlock-music.dev
   - domain-suffix,democracy.earth
   - domain-suffix,demonoid.is
@@ -6721,6 +6732,7 @@ payload:
   - domain-suffix,detaliczny.com
   - domain-suffix,detentiongirls.com
   - domain-suffix,detodosparatodos.org
+  - domain-suffix,detpress.com
   - domain-suffix,dettol-prize.com
   - domain-suffix,dettol.at
   - domain-suffix,dettol.be
@@ -7001,7 +7013,9 @@ payload:
   - domain-suffix,disney.ru
   - domain-suffix,disney.se
   - domain-suffix,disney.sg
+  - domain-suffix,disneyaccount.com
   - domain-suffix,disneyadsales.com
+  - domain-suffix,disneyanimation.com
   - domain-suffix,disneyarena.com
   - domain-suffix,disneyaulani.com
   - domain-suffix,disneybaby.com
@@ -7017,6 +7031,7 @@ payload:
   - domain-suffix,disneyinternationalhd.com
   - domain-suffix,disneyjunior.com
   - domain-suffix,disneyjuniortreataday.com
+  - domain-suffix,disneylandparis.com
   - domain-suffix,disneylatino.com
   - domain-suffix,disneymagicmoments.co.il
   - domain-suffix,disneymagicmoments.co.uk
@@ -7038,11 +7053,14 @@ payload:
   - domain-suffix,disneypeoplesurveys.com
   - domain-suffix,disneyplus.bn5x.net
   - domain-suffix,disneyplus.com
+  - domain-suffix,disneyplus.com.ssl.sc.omtrdc.net
+  - domain-suffix,disneyprivacycenter.com
   - domain-suffix,disneyredirects.com
   - domain-suffix,disneysrivieraresort.com
   - domain-suffix,disneystore.com
   - domain-suffix,disneystreaming.com
   - domain-suffix,disneysubscription.com
+  - domain-suffix,disneytermsofuse.com
   - domain-suffix,disneytickets.co.uk
   - domain-suffix,disneyturkiye.com.tr
   - domain-suffix,disneytvajobs.com
@@ -9092,6 +9110,7 @@ payload:
   - domain-suffix,flatmates.com.au
   - domain-suffix,flatpak.org
   - domain-suffix,flatt.tech
+  - domain-suffix,flclashx.app
   - domain-suffix,fldz8.buzz
   - domain-suffix,flecheinthepeche.fr
   - domain-suffix,fleshbot.com
@@ -9129,6 +9148,7 @@ payload:
   - domain-suffix,flowgpt.com
   - domain-suffix,flowhongkong.net
   - domain-suffix,flowtype.org
+  - domain-suffix,flowvy.io
   - domain-suffix,flowwow-images.com
   - domain-suffix,flowwow.com
   - domain-suffix,fluffychat.im
@@ -9465,6 +9485,7 @@ payload:
   - domain-suffix,freefacebookads.net
   - domain-suffix,freefblikes.com
   - domain-suffix,freefbx.com
+  - domain-suffix,freeform.com
   - domain-suffix,freegao.com
   - domain-suffix,freegaypornhdtube.com
   - domain-suffix,freegaysexgames.com
@@ -11487,6 +11508,7 @@ payload:
   - domain-suffix,honestpornreviews.com
   - domain-suffix,hongjie10.xyz
   - domain-suffix,hongjie11.xyz
+  - domain-suffix,hongkongdisneyland.com
   - domain-suffix,hongkongdoll.tv
   - domain-suffix,hongkongdollvideo.org
   - domain-suffix,hongkongfp.com
@@ -12455,6 +12477,7 @@ payload:
   - domain-suffix,inclusivegrowthscore.com
   - domain-suffix,incommon-rsa.org
   - domain-suffix,incredibox.fr
+  - domain-suffix,incy.cc
   - domain-suffix,ind.sh
   - domain-suffix,indazn.com
   - domain-suffix,indaznlab.com
@@ -13685,6 +13708,7 @@ payload:
   - domain-suffix,karechat.ai
   - domain-suffix,karger.com
   - domain-suffix,karinahart.com
+  - domain-suffix,karing.app
   - domain-suffix,karlajames.com
   - domain-suffix,karmahelp.ru
   - domain-suffix,karta-banka-rf.ru
@@ -14505,6 +14529,7 @@ payload:
   - domain-suffix,lubetube.com
   - domain-suffix,lucahmelayu.club
   - domain-suffix,lucasentertainment.com
+  - domain-suffix,lucasfilm.com
   - domain-suffix,luckydesigner.space
   - domain-suffix,luckyissue.com
   - domain-suffix,luckymobile.ca
@@ -14919,6 +14944,7 @@ payload:
   - domain-suffix,matome-plus.net
   - domain-suffix,matrix.org
   - domain-suffix,matrix.to
+  - domain-suffix,matsuridayo.github.io
   - domain-suffix,matters.news
   - domain-suffix,matters.one
   - domain-suffix,matters.town
@@ -15150,6 +15176,7 @@ payload:
   - domain-suffix,metacloud.com
   - domain-suffix,metacpan.org
   - domain-suffix,metacritic.com
+  - domain-suffix,metacubex.github.io
   - domain-suffix,metacubex.one
   - domain-suffix,metafilter.com
   - domain-suffix,metalpha.finance
@@ -16404,7 +16431,6 @@ payload:
   - domain-suffix,naacoalition.org
   - domain-suffix,naaktevrouwenporno.com
   - domain-suffix,nab.com.au
-  - domain-suffix,nab.demdex.net
   - domain-suffix,nabtravellercard.com.au
   - domain-suffix,naiadsystems.com
   - domain-suffix,naihenda.shop
@@ -16452,7 +16478,6 @@ payload:
   - domain-suffix,natgeokidsbooks.co.uk
   - domain-suffix,natgeomaps.com
   - domain-suffix,national-lottery.co.uk
-  - domain-suffix,nationalaustraliaban.tt.omtrdc.net
   - domain-suffix,nationalawakening.org
   - domain-suffix,nationalgeographic.com
   - domain-suffix,nationalgeographicpartners.com
@@ -16504,6 +16529,7 @@ payload:
   - domain-suffix,nbys.tv
   - domain-suffix,nbys1.tv
   - domain-suffix,nbyy.tv
+  - domain-suffix,ncbi.nlm.nih.gov
   - domain-suffix,nchrd.org
   - domain-suffix,ncl.edu.tw
   - domain-suffix,ncloud.com
@@ -16533,6 +16559,7 @@ payload:
   - domain-suffix,neicad.com
   - domain-suffix,neiexplicit.com
   - domain-suffix,neifea.com
+  - domain-suffix,neigbuy.com
   - domain-suffix,neimotion.com
   - domain-suffix,neinastranincad.com
   - domain-suffix,neisoftware.com
@@ -17124,6 +17151,7 @@ payload:
   - domain-suffix,nsfw247.to
   - domain-suffix,nsfwmemes.com
   - domain-suffix,nsimg.net
+  - domain-suffix,nsloon.com
   - domain-suffix,nspk.ru
   - domain-suffix,ntc.party
   - domain-suffix,ntd.com
@@ -17586,6 +17614,7 @@ payload:
   - domain-suffix,onetrust.com
   - domain-suffix,onevps.com
   - domain-suffix,oneworldmanystories.com
+  - domain-suffix,onexray.com
   - domain-suffix,onfinality.io
   - domain-suffix,onindiansex.com
   - domain-suffix,oninstagram.com
@@ -18436,6 +18465,7 @@ payload:
   - domain-suffix,piwheels.org
   - domain-suffix,pixanalytics.com
   - domain-suffix,pixapp.net
+  - domain-suffix,pixar.com
   - domain-suffix,pixate.com
   - domain-suffix,pixeldrain.com
   - domain-suffix,pixelqi.com
@@ -19124,6 +19154,7 @@ payload:
   - domain-suffix,privilege.hk
   - domain-suffix,privilege.tw
   - domain-suffix,privoxy.org
+  - domain-suffix,prizrak.app
   - domain-suffix,procopytips.com
   - domain-suffix,proctoscopeexam.com
   - domain-suffix,prod-my.games
@@ -19464,6 +19495,7 @@ payload:
   - domain-suffix,r18lu.com
   - domain-suffix,r2.dev
   - domain-suffix,r34porn.net
+  - domain-suffix,rabbit-hole-1.gitbook.io
   - domain-suffix,rabbitcounter.com
   - domain-suffix,rabbitscams.com
   - domain-suffix,rabbitscams.sex
@@ -20498,6 +20530,7 @@ payload:
   - domain-suffix,search.aol.com
   - domain-suffix,search.com
   - domain-suffix,search.xxx
+  - domain-suffix,searchlightpictures.com
   - domain-suffix,searx.me
   - domain-suffix,seasidestory.tokyo
   - domain-suffix,seattlefdc.com
@@ -20819,6 +20852,7 @@ payload:
   - domain-suffix,shadbase.com
   - domain-suffix,shadeyouvpn.com
   - domain-suffix,shadowcomplex.com
+  - domain-suffix,shadowlaunch.com
   - domain-suffix,shadowslaves.com
   - domain-suffix,shadowsocks.be
   - domain-suffix,shadowsocks.com
@@ -21756,6 +21790,8 @@ payload:
   - domain-suffix,starwarsjedifallenorder.com
   - domain-suffix,starwarskids.com
   - domain-suffix,starwarstheoldrepublic.com
+  - domain-suffix,stash.wiki
+  - domain-suffix,stash.ws
   - domain-suffix,stateofthemap.com
   - domain-suffix,stateofthemap.org
   - domain-suffix,static-cisco.com
@@ -22613,6 +22649,7 @@ payload:
   - domain-suffix,theuab.net
   - domain-suffix,theverge.com
   - domain-suffix,thevirtualsexreview.com
+  - domain-suffix,thewaltdisneycompany.com
   - domain-suffix,theweek.com
   - domain-suffix,theweek.in
   - domain-suffix,thewgo.org
@@ -22674,6 +22711,7 @@ payload:
   - domain-suffix,threatlabz.com
   - domain-suffix,thri.xxx
   - domain-suffix,thrixxx.com
+  - domain-suffix,throneproj.github.io
   - domain-suffix,throughnightsfire.com
   - domain-suffix,thtmod1.com
   - domain-suffix,thuhole.com
@@ -22908,6 +22946,7 @@ payload:
   - domain-suffix,tokyo-sports.co.jp
   - domain-suffix,tokyo-tosho.net
   - domain-suffix,tokyocn.com
+  - domain-suffix,tokyodisneyresort.jp
   - domain-suffix,tokyomotion.com
   - domain-suffix,tokyomotion.net
   - domain-suffix,tokyonightstyle.com
@@ -24740,6 +24779,7 @@ payload:
   - domain-suffix,walmart.com
   - domain-suffix,walmart.pharmacy
   - domain-suffix,walmartimages.com
+  - domain-suffix,waltdisneystudios.com
   - domain-suffix,waltermartin.com
   - domain-suffix,waltermartin.org
   - domain-suffix,wana-tv.sbs
@@ -24971,6 +25011,7 @@ payload:
   - domain-suffix,wforum.com
   - domain-suffix,wgcdn.co
   - domain-suffix,wgcrowd.io
+  - domain-suffix,wgtunnel.com
   - domain-suffix,whasil.xyz
   - domain-suffix,what-fan.net
   - domain-suffix,whatblocked.com
@@ -25192,6 +25233,7 @@ payload:
   - domain-suffix,wirelessreach.com
   - domain-suffix,wiremoneytoirelandwithxoomeasierandcheaper.com
   - domain-suffix,wireshark.org
+  - domain-suffix,wiresock.net
   - domain-suffix,wise-research.com
   - domain-suffix,wise.com
   - domain-suffix,wisecoin.com
