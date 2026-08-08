@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     07 Aug 2026 22:28 UTC
-# DOMAIN:      111472
+# UPDATED:     08 Aug 2026 22:22 UTC
+# DOMAIN:      111473
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -60963,6 +60963,7 @@ payload:
   - domain-suffix,lifevc.com
   - domain-suffix,lifevccdn.com
   - domain-suffix,lifeweeker.com
+  - domain-suffix,lifexue.com
   - domain-suffix,lifeyk.com
   - domain-suffix,lifeyn.net
   - domain-suffix,lifezb.com
