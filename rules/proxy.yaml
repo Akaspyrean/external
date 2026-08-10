@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     09 Aug 2026 22:24 UTC
-# DOMAIN:      27006
+# UPDATED:     10 Aug 2026 22:31 UTC
+# DOMAIN:      27008
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -1103,6 +1103,7 @@ payload:
   - domain-suffix,ai91porn.cc
   - domain-suffix,aiaa.org
   - domain-suffix,aiasahi.jp
+  - domain-suffix,aihub.top
   - domain-suffix,aimei133.com
   - domain-suffix,aimsciences.org
   - domain-suffix,aiosearch.com
@@ -8211,6 +8212,7 @@ payload:
   - domain-suffix,esforce.com
   - domain-suffix,esforce.ru
   - domain-suffix,esg.t91y.com
+  - domain-suffix,esim.redteago.com
   - domain-suffix,eskimotube.com
   - domain-suffix,eslite.com
   - domain-suffix,esm.run
