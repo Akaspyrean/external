@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     10 Aug 2026 22:31 UTC
-# DOMAIN:      27008
+# UPDATED:     11 Aug 2026 22:35 UTC
+# DOMAIN:      27009
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -7073,6 +7073,7 @@ payload:
   - domain-suffix,disqusservice.com
   - domain-suffix,dit-inc.us
   - domain-suffix,divas.com.uy
+  - domain-suffix,divdyn.com
   - domain-suffix,diwodiwo.xyz
   - domain-suffix,diyarbakirescort.com
   - domain-suffix,diyin.org
