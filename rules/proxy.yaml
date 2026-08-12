@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     11 Aug 2026 22:35 UTC
-# DOMAIN:      27009
+# UPDATED:     12 Aug 2026 22:34 UTC
+# DOMAIN:      27038
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -774,6 +774,9 @@ payload:
   - domain-suffix,activelearnprimary.com.au
   - domain-suffix,activematter.game
   - domain-suffix,activeteachonline.com
+  - domain-suffix,activision.com
+  - domain-suffix,activisionblizzard.com
+  - domain-suffix,activisionblizzardmedia.com
   - domain-suffix,activpn.com
   - domain-suffix,actualidad-rt.com
   - domain-suffix,aculo.us
@@ -3441,6 +3444,7 @@ payload:
   - domain-suffix,bellotube.com
   - domain-suffix,bellsouth.net
   - domain-suffix,benaughty.fun
+  - domain-suffix,benefitsforeveryworld.com
   - domain-suffix,bengalisexvideos.com
   - domain-suffix,benliton.com
   - domain-suffix,bentobox.tv
@@ -4911,6 +4915,11 @@ payload:
   - domain-suffix,callbackkiller.com
   - domain-suffix,callersbane.com
   - domain-suffix,callhulu.com
+  - domain-suffix,callofduty.com
+  - domain-suffix,callofdutyendowment.com
+  - domain-suffix,callofdutyendowment.org
+  - domain-suffix,callofdutyleague.com
+  - domain-suffix,callofdutymobile.com
   - domain-suffix,cam-duct.com
   - domain-suffix,cam4.com
   - domain-suffix,cam69.com
@@ -4962,6 +4971,7 @@ payload:
   - domain-suffix,camwhoria.com
   - domain-suffix,canada-beatsbydre.com
   - domain-suffix,candidforum-videos.com
+  - domain-suffix,candycrush.com
   - domain-suffix,candycumcity.com
   - domain-suffix,candypleasure.com
   - domain-suffix,canny.io
@@ -6050,6 +6060,7 @@ payload:
   - domain-suffix,crackle.com
   - domain-suffix,craigslist.org
   - domain-suffix,crankplayer.com
+  - domain-suffix,crashbandicoot.com
   - domain-suffix,crashlytics.com
   - domain-suffix,crates.io
   - domain-suffix,crazy-amateurs.com
@@ -6685,6 +6696,7 @@ payload:
   - domain-suffix,demo.unlock-music.dev
   - domain-suffix,democracy.earth
   - domain-suffix,demonoid.is
+  - domain-suffix,demonware.net
   - domain-suffix,demoprint.com
   - domain-suffix,demosisto.hk
   - domain-suffix,denfaminicogamer.jp
@@ -6811,7 +6823,9 @@ payload:
   - domain-suffix,dgwav.com
   - domain-suffix,dh44.lol
   - domain-suffix,dhlestudio.com.co
+  - domain-suffix,diablo.com
   - domain-suffix,diablo3.com
+  - domain-suffix,diablo4.com
   - domain-suffix,diabloimmortal.com
   - domain-suffix,diabrowser.com
   - domain-suffix,diabrowser.engineering
@@ -8282,6 +8296,7 @@ payload:
   - domain-suffix,europeansustainabledesign.net
   - domain-suffix,europeansustainabledesigncouncil.com
   - domain-suffix,europeansustainabledesigncouncil.net
+  - domain-suffix,europeanwarzoneseries.com
   - domain-suffix,europepmc.org
   - domain-suffix,europornstar.com
   - domain-suffix,eurosexscene.com
@@ -11348,6 +11363,7 @@ payload:
   - domain-suffix,hifuli.com
   - domain-suffix,highbolt.net
   - domain-suffix,highdefinitionbeatsbydre.com
+  - domain-suffix,highmoonstudios.com
   - domain-suffix,highporn.net
   - domain-suffix,highrockmedia.com
   - domain-suffix,hightopnikes.com
@@ -12514,6 +12530,7 @@ payload:
   - domain-suffix,industrialtoys.com
   - domain-suffix,infinitetoons.com
   - domain-suffix,infinitetube.com
+  - domain-suffix,infinityward.com
   - domain-suffix,influencersgonewild.com
   - domain-suffix,info-graf.fr
   - domain-suffix,infocert.digital
@@ -13861,6 +13878,7 @@ payload:
   - domain-suffix,kindnudist.com
   - domain-suffix,kindteenporn.com
   - domain-suffix,kinescopecdn.net
+  - domain-suffix,king.com
   - domain-suffix,kingcomix.com
   - domain-suffix,kingdomsalvation.org
   - domain-suffix,kingextre.me
@@ -19582,6 +19600,7 @@ payload:
   - domain-suffix,ratedgross.com
   - domain-suffix,rateyourmusic.com
   - domain-suffix,rationalwiki.org
+  - domain-suffix,ravensoftware.com
   - domain-suffix,ravm.tv
   - domain-suffix,raw.githack.com
   - domain-suffix,rawgit.com
@@ -20581,6 +20600,7 @@ payload:
   - domain-suffix,seiron-sankei.com
   - domain-suffix,sejie80.com
   - domain-suffix,sekai.colorfulpalette.org
+  - domain-suffix,sekirothegame.com
   - domain-suffix,seksmet.nl
   - domain-suffix,sekswebsite.nl
   - domain-suffix,sekur1213.guru
@@ -21040,6 +21060,7 @@ payload:
   - domain-suffix,sidelinesnews.com
   - domain-suffix,sider.ai
   - domain-suffix,siege-amazon.com
+  - domain-suffix,sierragames.com
   - domain-suffix,sifangclub.com
   - domain-suffix,sigcomm.org
   - domain-suffix,sigmoidoscopeexam.com
@@ -21166,6 +21187,7 @@ payload:
   - domain-suffix,sky.com
   - domain-suffix,skyassets.com
   - domain-suffix,skybet.com
+  - domain-suffix,skylanders.com
   - domain-suffix,skymansion.net
   - domain-suffix,skymatter.com
   - domain-suffix,skyoceanrescue.com
@@ -21208,6 +21230,7 @@ payload:
   - domain-suffix,sldolls.com
   - domain-suffix,sleazyfork.org
   - domain-suffix,sleazyneasy.com
+  - domain-suffix,sledgehammergames.com
   - domain-suffix,slheng.com
   - domain-suffix,slickvpn.com
   - domain-suffix,slides.com
@@ -21355,6 +21378,7 @@ payload:
   - domain-suffix,solarsystem.nasa.gov
   - domain-suffix,solid.ru
   - domain-suffix,solidifi.app
+  - domain-suffix,solidstate.com
   - domain-suffix,solostudioksale.com
   - domain-suffix,solscan.io
   - domain-suffix,solutionstation.com
@@ -21615,6 +21639,7 @@ payload:
   - domain-suffix,sputnikmediabank.com
   - domain-suffix,sputniknews.com
   - domain-suffix,spyjinx.com
+  - domain-suffix,spyrothedragon.com
   - domain-suffix,sqlite.org
   - domain-suffix,sqlserveronlinux.com
   - domain-suffix,sqool.net
@@ -22965,6 +22990,8 @@ payload:
   - domain-suffix,toncenter.com
   - domain-suffix,tonec.com
   - domain-suffix,tonicmovies.com
+  - domain-suffix,tonyhawk.com
+  - domain-suffix,tonyhawkthegame.com
   - domain-suffix,toolforge.org
   - domain-suffix,toolmaking-cadcam.com
   - domain-suffix,toomadporn.pro
@@ -23116,6 +23143,7 @@ payload:
   - domain-suffix,trendmicro.com
   - domain-suffix,trendsmap.com
   - domain-suffix,trendyporn.com
+  - domain-suffix,treyarch.com
   - domain-suffix,trezor.io
   - domain-suffix,triballo.net
   - domain-suffix,tribler.org
@@ -25341,6 +25369,7 @@ payload:
   - domain-suffix,worldscientific.com
   - domain-suffix,worldsecureemail.com
   - domain-suffix,worldsecuresystems.com
+  - domain-suffix,worldseriesofwarzone.com
   - domain-suffix,worldsex.com
   - domain-suffix,worldsfastestgamer.net
   - domain-suffix,worldvpn.net
