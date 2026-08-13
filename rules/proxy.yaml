@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     12 Aug 2026 22:34 UTC
-# DOMAIN:      27038
+# UPDATED:     13 Aug 2026 22:34 UTC
+# DOMAIN:      27050
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -4708,6 +4708,7 @@ payload:
   - domain-suffix,buicha.social
   - domain-suffix,building3dcontent.com
   - domain-suffix,builtfromebay.com
+  - domain-suffix,builtwithnix.org
   - domain-suffix,bukkake-jav.com
   - domain-suffix,bullguard.com
   - domain-suffix,bullog.org
@@ -16375,6 +16376,7 @@ payload:
   - domain-suffix,mynavi.jp
   - domain-suffix,mynetname.net
   - domain-suffix,mynike.com
+  - domain-suffix,mynixos.com
   - domain-suffix,myoctocat.com
   - domain-suffix,myparagliding.com
   - domain-suffix,mypearson.com
@@ -17072,7 +17074,16 @@ payload:
   - domain-suffix,nivod.tv
   - domain-suffix,nivodi.tv
   - domain-suffix,nivodz.com
+  - domain-suffix,nix-community.github.io
+  - domain-suffix,nix-community.org
+  - domain-suffix,nix.dev
+  - domain-suffix,nix.store
+  - domain-suffix,nixcon.org
+  - domain-suffix,nixcon2017.org
+  - domain-suffix,nixlang.com
   - domain-suffix,nixos.org
+  - domain-suffix,nixos.wiki
+  - domain-suffix,nixpkgs.org
   - domain-suffix,niziero.info
   - domain-suffix,njactb.org
   - domain-suffix,njav.tv
@@ -26387,6 +26398,7 @@ payload:
   - domain-suffix,yandex.eu
   - domain-suffix,yandex.fi
   - domain-suffix,yandex.fr
+  - domain-suffix,yandex.it
   - domain-suffix,yandex.jobs
   - domain-suffix,yandex.kg
   - domain-suffix,yandex.kz

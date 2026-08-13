@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     12 Aug 2026 22:34 UTC
-# DOMAIN:      111473
+# UPDATED:     13 Aug 2026 22:34 UTC
+# DOMAIN:      111479
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -2429,6 +2429,7 @@ payload:
   - domain-suffix,194nb.com
   - domain-suffix,195155.com
   - domain-suffix,195268032591463.icu
+  - domain-suffix,1958xy.com
   - domain-suffix,195idc.com
   - domain-suffix,196b7adb23969e39.com
   - domain-suffix,196g.com
@@ -4087,6 +4088,7 @@ payload:
   - domain-suffix,36kr.net
   - domain-suffix,36krcdn.com
   - domain-suffix,36krcnd.com
+  - domain-suffix,36linkr.com
   - domain-suffix,36pnes36t0qs.com
   - domain-suffix,36qp.com
   - domain-suffix,36rv3j3.shop
@@ -14213,7 +14215,6 @@ payload:
   - domain-suffix,bamboofactorychina.com
   - domain-suffix,bambooolab.com
   - domain-suffix,bambu-lab.com
-  - domain-suffix,bambulab.com
   - domain-suffix,bamengame.com
   - domain-suffix,bamensq.com
   - domain-suffix,bamenzhushou.com
@@ -16772,6 +16773,7 @@ payload:
   - domain-suffix,bktsj.com
   - domain-suffix,bkvps.com
   - domain-suffix,bkweek.com
+  - domain-suffix,bkzhibo.com
   - domain-suffix,bkzzy.com
   - domain-suffix,bl.com
   - domain-suffix,bl0757.com
@@ -52975,6 +52977,7 @@ payload:
   - domain-suffix,jgsemicon.com
   - domain-suffix,jgstour.com
   - domain-suffix,jgsxfw.com
+  - domain-suffix,jgtab.link
   - domain-suffix,jgtc315.com
   - domain-suffix,jguanjia.com
   - domain-suffix,jgums.com
@@ -54728,6 +54731,7 @@ payload:
   - domain-suffix,jkyule.com
   - domain-suffix,jkzhilu.com
   - domain-suffix,jkzl.com
+  - domain-suffix,jkzlrs.com
   - domain-suffix,jkzn365.com
   - domain-suffix,jl-er.com
   - domain-suffix,jl-jssk.com
@@ -56391,6 +56395,7 @@ payload:
   - domain-suffix,juwanhezi.com
   - domain-suffix,juwanshe.com
   - domain-suffix,juweixin.com
+  - domain-suffix,juwinmedia.com
   - domain-suffix,juxia.com
   - domain-suffix,juxian.com
   - domain-suffix,juxiang3d.com
@@ -85710,6 +85715,7 @@ payload:
   - domain-suffix,sxyj.net
   - domain-suffix,sxyqgs.asia
   - domain-suffix,sxyyc.net
+  - domain-suffix,sxyygh.com
   - domain-suffix,sxzhaobiao.com
   - domain-suffix,sxzhongfei.com
   - domain-suffix,sxzhyy.com
@@ -98253,6 +98259,7 @@ payload:
   - domain-suffix,xhscdn.net
   - domain-suffix,xhsd.com
   - domain-suffix,xhsd.net
+  - domain-suffix,xhsdzd.com
   - domain-suffix,xhsf.com
   - domain-suffix,xhslink.com
   - domain-suffix,xhslw.com
@@ -104642,7 +104649,6 @@ payload:
   - domain-suffix,youlesp.com
   - domain-suffix,youletd.com
   - domain-suffix,youleyou.com
-  - domain-suffix,youlian.fun
   - domain-suffix,youlianfuwu.com
   - domain-suffix,youliangda.com
   - domain-suffix,youlianghz.com
