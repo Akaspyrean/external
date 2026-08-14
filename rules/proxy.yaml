@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     13 Aug 2026 22:34 UTC
-# DOMAIN:      27050
+# UPDATED:     14 Aug 2026 22:16 UTC
+# DOMAIN:      27053
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -20044,6 +20044,7 @@ payload:
   - domain-suffix,rsdlmonitor.com
   - domain-suffix,rsf-chinese.org
   - domain-suffix,rsf.org
+  - domain-suffix,rsg.ms
   - domain-suffix,rsg.sc
   - domain-suffix,rshb.ru
   - domain-suffix,rsk.co
@@ -20389,6 +20390,8 @@ payload:
   - domain-suffix,sbux.com.my
   - domain-suffix,sbuxcard.com
   - domain-suffix,sc-cdn.net
+  - domain-suffix,sc-gw.com
+  - domain-suffix,sc-static.net
   - domain-suffix,sc.com
   - domain-suffix,sca-tolo.info
   - domain-suffix,scala-lang.org
