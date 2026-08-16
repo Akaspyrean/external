@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     15 Aug 2026 22:14 UTC
-# DOMAIN:      27053
+# UPDATED:     16 Aug 2026 22:14 UTC
+# DOMAIN:      27054
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -20185,6 +20185,7 @@ payload:
   - domain-suffix,rutracker.net
   - domain-suffix,rutracker.nl
   - domain-suffix,rutracker.org
+  - domain-suffix,rutracker.wiki
   - domain-suffix,rutrk.org
   - domain-suffix,rutube.ru
   - domain-suffix,rutube.sport

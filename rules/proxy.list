@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     15 Aug 2026 22:14 UTC
-# DOMAIN:      27053
+# UPDATED:     16 Aug 2026 22:14 UTC
+# DOMAIN:      27054
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -20184,6 +20184,7 @@ DOMAIN-SUFFIX,RUTRACKER.ME
 DOMAIN-SUFFIX,RUTRACKER.NET
 DOMAIN-SUFFIX,RUTRACKER.NL
 DOMAIN-SUFFIX,RUTRACKER.ORG
+DOMAIN-SUFFIX,RUTRACKER.WIKI
 DOMAIN-SUFFIX,RUTRK.ORG
 DOMAIN-SUFFIX,RUTUBE.RU
 DOMAIN-SUFFIX,RUTUBE.SPORT
