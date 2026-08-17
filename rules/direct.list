@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     16 Aug 2026 22:14 UTC
-# DOMAIN:      111479
+# UPDATED:     17 Aug 2026 22:18 UTC
+# DOMAIN:      111480
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -74358,6 +74358,7 @@ DOMAIN-SUFFIX,QIANVISA.COM
 DOMAIN-SUFFIX,QIANWA.COM
 DOMAIN-SUFFIX,QIANWANKU.COM
 DOMAIN-SUFFIX,QIANWEN.COM
+DOMAIN-SUFFIX,QIANWENAI.COM
 DOMAIN-SUFFIX,QIANXIANGBANK.COM
 DOMAIN-SUFFIX,QIANXIBJ.NET
 DOMAIN-SUFFIX,QIANXIMIYE.COM

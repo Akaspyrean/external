@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     16 Aug 2026 22:14 UTC
-# DOMAIN:      111479
+# UPDATED:     17 Aug 2026 22:18 UTC
+# DOMAIN:      111480
 # IP-RELATED:  16
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -74359,6 +74359,7 @@ payload:
   - domain-suffix,qianwa.com
   - domain-suffix,qianwanku.com
   - domain-suffix,qianwen.com
+  - domain-suffix,qianwenai.com
   - domain-suffix,qianxiangbank.com
   - domain-suffix,qianxibj.net
   - domain-suffix,qianximiye.com
