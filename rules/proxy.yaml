@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     18 Aug 2026 22:16 UTC
-# DOMAIN:      27054
+# UPDATED:     19 Aug 2026 22:18 UTC
+# DOMAIN:      27055
 # IP-RELATED:  6
 # Homepage:    https://github.com/Akaspyrean/external
 # --------------------------------------------------
@@ -17123,6 +17123,7 @@ payload:
   - domain-suffix,nonstopfap.com
   - domain-suffix,noodlemagazine.com
   - domain-suffix,noosferabank.ru
+  - domain-suffix,nordcdn.com
   - domain-suffix,nordstrom.com
   - domain-suffix,nordstromimage.com
   - domain-suffix,nordstrommedia.com
