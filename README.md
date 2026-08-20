@@ -3,25 +3,113 @@
 ![开源许可](https://img.shields.io/badge/开源许可-MIT%20License-orange)
 ![最近更新](https://img.shields.io/badge/最近更新-2026--08--20%20UTC%2B08-blue?maxAge=0)
 
-## 📑 配置文件：Clash & Shadowrocket 深度适配
+# External
 
-* Clash (.yaml)：针对 Mihomo 特性优化的配置文件，预设科学的分流逻辑。
-* ​Shadowrocket (.conf)​：适配小火箭的配置方案，实现移动端与 PC 端策略一致。
+面向 **Mihomo / Clash 系客户端与 Shadowrocket** 的分流配置与持续维护规则集。
 
-**📡 分流规则​：动态更新的规则集**
+提供订阅预处理配置以及 `Direct`、`Proxy`、`AI`、`Media`、`Ad` 等分类规则，支持远程引用与自动更新。
 
-* ​代理转发 (Proxy)​：全面收集海外高频访问站点，减少漏网之鱼。
-* ​绕过直连 (Direct)：涵盖国内主流网站，确保本地流量不走弯路。
-* 人工智能 (AI)：精准覆盖 OpenAI、Anthropic、Claude 等主流 AI 服务。
-* ​影音视听 (Media)​：针对 YouTube、Netflix、Disney 等流媒体进行分流优化。
-* ​`.yaml` 格式：适配 Clash 系列客户端，全面支持规则集调用与在线自动更新。
-* ​`.list` 格式​：兼容 Shadowrocket (小火箭) 及其他支持纯文本规则列表的客户端。
+![Repo Size](https://img.shields.io/github/repo-size/akaspyrean/external?label=Size)
+![Last Commit](https://img.shields.io/github/last-commit/akaspyrean/external?label=Updated)
+![License](https://img.shields.io/github/license/akaspyrean/external?label=License)
 
+## 配置
 
+| 客户端          | 文件                                                  | 说明                          |
+| ------------ | --------------------------------------------------- | --------------------------- |
+| Clash 系      | [`ParsersforClash.yml`](config/ParsersforClash.yml) | 订阅 Parser，自动配置 DNS、策略组与远程规则 |
+| Shadowrocket | [`shadowrocket.conf`](config/shadowrocket.conf)     | Shadowrocket 分流配置           |
 
-## ⚠️ 免责声明
+### Clash Parser
 
-1. 本仓库内容仅供学习与技术研究使用。
-2. 部分资源来自公开网络，版权归原作者或相关平台。
-3. 请勿将本仓库任何内容用于商业用途或任何违法行为。
+`ParsersforClash.yml` 用于支持 Parser 的 Clash 系客户端，对订阅配置进行预处理，包括：
+
+* 自动识别专线与普通节点
+* 自动生成策略组
+* AI 独立分流
+* 流媒体独立分流
+* 国内流量直连
+* Mihomo GeoSite / GeoIP 分流
+* 在线加载本仓库规则集
+
+Raw：
+
+```text
+https://raw.githubusercontent.com/akaspyrean/external/main/config/ParsersforClash.yml
+```
+
+### Shadowrocket
+
+`shadowrocket.conf` 提供与 Clash 配置基本一致的分流结构：
+
+```text
+https://raw.githubusercontent.com/akaspyrean/external/main/config/shadowrocket.conf
+```
+
+## 规则
+
+规则同时提供：
+
+* `.yaml`：适用于 Mihomo / Clash Rule Provider
+* `.list`：适用于 Shadowrocket 等文本规则客户端
+
+| 规则     | 用途    | YAML                               | LIST                               |
+| ------ | ----- | ---------------------------------- | ---------------------------------- |
+| Direct | 直连流量  | [`direct.yaml`](rules/direct.yaml) | [`direct.list`](rules/direct.list) |
+| Proxy  | 代理流量  | [`proxy.yaml`](rules/proxy.yaml)   | [`proxy.list`](rules/proxy.list)   |
+| AI     | AI 服务 | [`ai.yaml`](rules/ai.yaml)         | [`ai.list`](rules/ai.list)         |
+| Media  | 流媒体   | [`media.yaml`](rules/media.yaml)   | [`media.list`](rules/media.list)   |
+| Ad     | 广告规则  | [`ad.yaml`](rules/ad.yaml)         | [`ad.list`](rules/ad.list)         |
+
+规则文件持续维护，可通过 Raw URL 直接作为远程规则订阅。
+
+例如：
+
+```text
+https://raw.githubusercontent.com/akaspyrean/external/main/rules/ai.yaml
+```
+
+或：
+
+```text
+https://raw.githubusercontent.com/akaspyrean/external/main/rules/ai.list
+```
+
+## 分流逻辑
+
+默认策略大致为：
+
+```text
+局域网 / 国内服务
+        ↓
+      DIRECT
+
+AI 服务
+        ↓
+    人工智能策略
+
+流媒体
+        ↓
+    影音视听策略
+
+其他代理规则
+        ↓
+      扶梯出行
+
+未匹配流量
+        ↓
+      扶梯出行
+```
+
+不同客户端的具体行为以对应配置文件为准。
+
+## License
+
+[MIT License](LICENSE)
+
+## Disclaimer
+
+本仓库仅用于网络配置、规则维护与技术研究。
+
+规则可能来源于公开数据，并会随着网络服务变化持续调整。使用者应自行确认相关规则、配置以及网络服务符合所在地法律法规及服务条款。
 
