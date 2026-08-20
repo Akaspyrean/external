@@ -2,13 +2,13 @@
 
 # External
 
-**Mihomo / Clash 与 Shadowrocket 智能分流配置及在线规则集**
-
-统一桌面与移动端分流逻辑，自动选路，规则集持续自动维护。
-
 ![规则数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakaspyrean%2Fexternal%2Fmain%2Fstats.json\&query=%24.display\&label=%E8%A7%84%E5%88%99%E6%95%B0%E9%87%8F\&color=4F6D7A)
 ![自动更新](https://img.shields.io/badge/%E8%A7%84%E5%88%99%E7%BB%B4%E6%8A%A4-%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0-66856A)
 ![开源许可](https://img.shields.io/github/license/akaspyrean/external?label=%E5%BC%80%E6%BA%90%E8%AE%B8%E5%8F%AF\&color=A98652)
+
+**Mihomo / Clash 与 Shadowrocket 智能分流配置及在线规则集**
+
+统一桌面与移动端分流逻辑，自动选路，规则集持续自动维护。
 
 </div>
 
@@ -16,21 +16,19 @@
 flowchart TB
     A[客户端配置]
 
-    A --> B[节点选择]
     A --> C[在线规则]
+    A --> B[节点选择]
 
-    B --> D[自动优选]
-    B --> E[人工选择]
+    C --> E[规则匹配]
+    B --> D[自动优选 / 人工选择]
 
-    C --> F[直连 / 拦截]
-    C --> G[分类代理]
+    E --> G[直连 / 拦截]
+    E --> F[分类代理]
+    D --> F
 
-    D --> G
-    E --> G
-
-    G --> H[人工智能]
-    G --> I[影音视听]
-    G --> J[扶梯出行]
+    F --> H[人工智能]
+    F --> I[影音视听]
+    F --> J[扶梯出行]
 ```
 
 配置统一管理节点选择与流量分流，在线规则持续自动维护并由客户端定期更新。
