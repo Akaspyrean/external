@@ -13,15 +13,17 @@
 </div>
 
 ```mermaid
-flowchart LR
-    A[客户端配置] --> B[在线规则]
-    A --> C[节点选择]
+flowchart TB
+    A[客户端配置]
 
-    C --> D[自动优选]
-    C --> E[人工选择]
+    A --> B[节点选择]
+    A --> C[在线规则]
 
-    B --> F[直连 / 拦截]
-    B --> G[分类代理]
+    B --> D[自动优选]
+    B --> E[人工选择]
+
+    C --> F[直连 / 拦截]
+    C --> G[分类代理]
 
     D --> G
     E --> G
@@ -106,7 +108,7 @@ https://raw.githubusercontent.com/akaspyrean/external/main/config/shadowrocket.c
 
 `DIRECT` 仅由规则层控制，不进入代理策略组。
 
-## 自动维护
+## 维护
 
 规则集通过自动化流程持续更新，并同时维护：
 
@@ -124,7 +126,7 @@ https://raw.githubusercontent.com/akaspyrean/external/main/config/shadowrocket.c
 
 [MIT License](LICENSE)
 
-## 免责声明
+## 声明
 
 本仓库仅用于网络配置、规则维护与技术研究。
 
