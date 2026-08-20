@@ -1,0 +1,95 @@
+name: Update Rule Stats
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "rules/*.list"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rule-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Count rules
+        shell: python
+        run: |
+          from pathlib import Path
+          from datetime import datetime, timezone
+          import json
+
+          names = ["direct", "proxy", "ai", "media", "ad"]
+          counts = {}
+
+          for name in names:
+              path = Path("rules") / f"{name}.list"
+
+              count = sum(
+                  1
+                  for line in path.read_text(
+                      encoding="utf-8",
+                      errors="ignore"
+                  ).splitlines()
+                  if line.strip()
+                  and not line.lstrip().startswith("#")
+              )
+
+              counts[name] = count
+
+          total = sum(counts.values())
+
+          def human(value):
+              if value >= 1_000_000:
+                  text = f"{value / 1_000_000:.2f}".rstrip("0").rstrip(".")
+                  return f"{text}M"
+
+              if value >= 1_000:
+                  text = f"{value / 1_000:.1f}".rstrip("0").rstrip(".")
+                  return f"{text}K"
+
+              return str(value)
+
+          stats = {
+              "total": total,
+              "display": human(total),
+              "updated": datetime.now(timezone.utc)
+                  .replace(microsecond=0)
+                  .isoformat(),
+              "rules": counts
+          }
+
+          Path("stats.json").write_text(
+              json.dumps(
+                  stats,
+                  ensure_ascii=False,
+                  indent=2
+              ) + "\n",
+              encoding="utf-8"
+          )
+
+      - name: Commit stats
+        run: |
+          if git diff --quiet -- stats.json; then
+            echo "Rule stats unchanged."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add stats.json
+          git commit -m "Update rule statistics"
+          git push
