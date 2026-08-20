@@ -2,7 +2,7 @@
 
 # External
 
-**Clash Parser 与 Shadowrocket 智能分流配置及在线规则集**
+**Mihomo / Clash 与 Shadowrocket 智能分流配置及在线规则集**
 
 统一桌面与移动端分流逻辑，自动选路，规则集持续自动维护。
 
