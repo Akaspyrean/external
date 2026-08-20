@@ -1,17 +1,13 @@
-![数据规模](https://img.shields.io/github/repo-size/akaspyrean/external?label=数据规模)
-![更新频率](https://img.shields.io/badge/更新频率-持续维护-brightgreen)
-![开源许可](https://img.shields.io/badge/开源许可-MIT%20License-orange)
-![最近更新](https://img.shields.io/badge/最近更新-2026--08--20%20UTC%2B08-blue?maxAge=0)
-
 # External
 
 面向 **Mihomo / Clash 系客户端与 Shadowrocket** 的分流配置与持续维护规则集。
 
 提供订阅预处理配置以及 `Direct`、`Proxy`、`AI`、`Media`、`Ad` 等分类规则，支持远程引用与自动更新。
 
-![Repo Size](https://img.shields.io/github/repo-size/akaspyrean/external?label=Size)
-![Last Commit](https://img.shields.io/github/last-commit/akaspyrean/external?label=Updated)
-![License](https://img.shields.io/github/license/akaspyrean/external?label=License)
+![数据规模](https://img.shields.io/github/repo-size/akaspyrean/external?label=数据规模)
+![更新频率](https://img.shields.io/badge/更新频率-持续维护-brightgreen)
+![开源许可](https://img.shields.io/badge/开源许可-MIT%20License-orange)
+![最近更新](https://img.shields.io/badge/最近更新-2026--08--20%20UTC%2B08-blue?maxAge=0)
 
 ## 配置
 
