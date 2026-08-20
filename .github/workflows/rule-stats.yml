@@ -132,7 +132,3 @@ jobs:
 
           git commit -m "Update rule statistics"
           git push
-
-          git add stats.json
-          git commit -m "Update rule statistics"
-          git push
