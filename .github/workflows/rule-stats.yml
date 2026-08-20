@@ -1,29 +1,3 @@
-name: Update Rule Stats
-
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - "rules/*.list"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-concurrency:
-  group: rule-stats
-  cancel-in-progress: true
-
-jobs:
-  stats:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Count rules
         shell: python
         run: |
@@ -32,14 +6,19 @@ jobs:
           import json
 
           names = ["direct", "proxy", "ai", "media", "ad"]
-          counts = {}
+
+          list_counts = {}
+          yaml_counts = {}
+          mismatches = {}
 
           for name in names:
-              path = Path("rules") / f"{name}.list"
+              list_path = Path("rules") / f"{name}.list"
+              yaml_path = Path("rules") / f"{name}.yaml"
 
-              count = sum(
+              # .list：忽略空行和注释
+              list_count = sum(
                   1
-                  for line in path.read_text(
+                  for line in list_path.read_text(
                       encoding="utf-8",
                       errors="ignore"
                   ).splitlines()
@@ -47,9 +26,27 @@ jobs:
                   and not line.lstrip().startswith("#")
               )
 
-              counts[name] = count
+              # .yaml：统计 payload 下的规则项
+              yaml_count = sum(
+                  1
+                  for line in yaml_path.read_text(
+                      encoding="utf-8",
+                      errors="ignore"
+                  ).splitlines()
+                  if line.lstrip().startswith("- ")
+              )
 
-          total = sum(counts.values())
+              list_counts[name] = list_count
+              yaml_counts[name] = yaml_count
+
+              if list_count != yaml_count:
+                  mismatches[name] = {
+                      "list": list_count,
+                      "yaml": yaml_count
+                  }
+
+          # 两种格式内容重复，因此总数只计算一次
+          total = sum(list_counts.values())
 
           def human(value):
               if value >= 1_000_000:
@@ -68,7 +65,15 @@ jobs:
               "updated": datetime.now(timezone.utc)
                   .replace(microsecond=0)
                   .isoformat(),
-              "rules": counts
+              "rules": {
+                  name: {
+                      "list": list_counts[name],
+                      "yaml": yaml_counts[name]
+                  }
+                  for name in names
+              },
+              "formats_consistent": not bool(mismatches),
+              "mismatches": mismatches
           }
 
           Path("stats.json").write_text(
@@ -79,17 +84,3 @@ jobs:
               ) + "\n",
               encoding="utf-8"
           )
-
-      - name: Commit stats
-        run: |
-          if git diff --quiet -- stats.json; then
-            echo "Rule stats unchanged."
-            exit 0
-          fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add stats.json
-          git commit -m "Update rule statistics"
-          git push
