@@ -2,7 +2,7 @@
 
 # External
 
-![规则数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakaspyrean%2Fexternal%2Fmain%2Fstats.json\&query=%24.display\&label=%E8%A7%84%E5%88%99%E6%95%B0%E9%87%8F\&color=4F6D7A)
+![规则数量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakaspyrean%2Fexternal%2Fmain%2Fstats.json&query=%24.display&label=%E8%A7%84%E5%88%99%E6%95%B0%E9%87%8F&color=4F6D7A&cacheSeconds=300)
 ![自动更新](https://img.shields.io/badge/%E8%A7%84%E5%88%99%E7%BB%B4%E6%8A%A4-%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0-66856A)
 ![开源许可](https://img.shields.io/github/license/akaspyrean/external?label=%E5%BC%80%E6%BA%90%E8%AE%B8%E5%8F%AF\&color=A98652)
 
