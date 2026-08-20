@@ -93,7 +93,7 @@ jobs:
 
           stats = {
               "total": total,
-              "display": human(total),
+              "display": f"{total:,}",
               "updated": datetime.now(timezone.utc)
                   .replace(microsecond=0)
                   .isoformat(),
