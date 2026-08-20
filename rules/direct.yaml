@@ -1,9 +1,9 @@
 # --------------------------------------------------
 # NAME:        Direct
-# UPDATED:     19 Aug 2026 22:18 UTC
-# DOMAIN:      111480
+# UPDATED:     20 Aug 2026 11:56 UTC
+# DOMAIN:      111451
 # IP-RELATED:  16
-# Homepage:    https://github.com/Akaspyrean/external
+# Homepage:    https://github.com/akaspyrean/external
 # --------------------------------------------------
 
 payload:
@@ -10333,7 +10333,6 @@ payload:
   - domain-suffix,afca-asia.org
   - domain-suffix,afca6b82c11032.beer
   - domain-suffix,afcec.com
-  - domain-suffix,afcs.dell.com
   - domain-suffix,afdian.com
   - domain-suffix,afdian.net
   - domain-suffix,afdiancdn.com
@@ -23081,7 +23080,6 @@ payload:
   - domain-suffix,client51.com
   - domain-suffix,clientflow.apple.com
   - domain-suffix,clientflow.apple.com.akadns.net
-  - domain-suffix,clientperipherals.dell.com
   - domain-suffix,clientservices.googleapis.com
   - domain-suffix,clifford-hospital.org
   - domain-suffix,cliffordtrading.com
@@ -26504,7 +26502,6 @@ payload:
   - domain-suffix,cusdvs.com
   - domain-suffix,cusdvs.net
   - domain-suffix,custeel.com
-  - domain-suffix,customization-cdn.dell.com
   - domain-suffix,customizedfasteners.com
   - domain-suffix,customsapp.com
   - domain-suffix,customskh.org
@@ -28061,7 +28058,6 @@ payload:
   - domain-suffix,ddpai.com
   - domain-suffix,ddpoc.com
   - domain-suffix,ddqcw.com
-  - domain-suffix,dds.dell.com
   - domain-suffix,ddsaas.com
   - domain-suffix,ddsk.la
   - domain-suffix,ddsm.com
@@ -29368,7 +29364,6 @@ payload:
   - domain-suffix,dl-meitu.com
   - domain-suffix,dl-rc.com
   - domain-suffix,dl.delivery.mp.microsoft.com
-  - domain-suffix,dl.dell.com
   - domain-suffix,dl.google.com
   - domain-suffix,dl.l.google.com
   - domain-suffix,dl0728.com
@@ -31333,9 +31328,6 @@ payload:
   - domain-suffix,ea-china.com
   - domain-suffix,ea-retina.com
   - domain-suffix,ea-xing.com
-  - domain-suffix,ea2cn-dev-outlet.dell.com
-  - domain-suffix,ea2cn-prod-outlet.dell.com
-  - domain-suffix,ea2cn-staging-outlet.dell.com
   - domain-suffix,ea360.com
   - domain-suffix,ea3w.com
   - domain-suffix,ea65d2a2f16d6b8c.com
@@ -32394,7 +32386,6 @@ payload:
   - domain-suffix,emlog.net
   - domain-suffix,emmmn.com
   - domain-suffix,emodor.com
-  - domain-suffix,emoi-cncdn.bing.com
   - domain-suffix,emoji6.com
   - domain-suffix,emojimobile.com
   - domain-suffix,emoriko.com
@@ -34051,7 +34042,6 @@ payload:
   - domain-suffix,fcpowerup.com
   - domain-suffix,fcqjc.com
   - domain-suffix,fcrc114.com
-  - domain-suffix,fcs.dell.com
   - domain-suffix,fcs1.com
   - domain-suffix,fcsc.com
   - domain-suffix,fcstor.com
@@ -35764,11 +35754,7 @@ payload:
   - domain-suffix,ft12.com
   - domain-suffix,ft22.com
   - domain-suffix,ft98.com
-  - domain-suffix,fta.dell.com
-  - domain-suffix,ftaapj.dell.com
-  - domain-suffix,ftaemea.dell.com
   - domain-suffix,ftaro.com
-  - domain-suffix,ftasitapj.dell.com
   - domain-suffix,ftbj.net
   - domain-suffix,ftcoaster.com
   - domain-suffix,ftd.nz
@@ -36868,8 +36854,6 @@ payload:
   - domain-suffix,gbtranswins.com
   - domain-suffix,gbvh.com
   - domain-suffix,gbw114.com
-  - domain-suffix,gbxgateway-dev.dell.com
-  - domain-suffix,gbxgateway.dell.com
   - domain-suffix,gc-zb.com
   - domain-suffix,gc1616.com
   - domain-suffix,gc39.com
@@ -49448,7 +49432,6 @@ payload:
   - domain-suffix,i-xiaohaibao.com
   - domain-suffix,i-xinnuo.com
   - domain-suffix,i-xoron.com
-  - domain-suffix,i.dell.com
   - domain-suffix,i.pki.goog
   - domain-suffix,i0.pub
   - domain-suffix,i007.vip
@@ -68439,7 +68422,6 @@ payload:
   - domain-suffix,nextworkshop.net
   - domain-suffix,nextyu.com
   - domain-suffix,nexus-holding.com
-  - domain-suffix,nexus.dell.com
   - domain-suffix,nexusedgeio.com
   - domain-suffix,nexushd.org
   - domain-suffix,neyetwatcher.com
@@ -71441,7 +71423,6 @@ payload:
   - domain-suffix,p-sig-dom.com
   - domain-suffix,p-sig-dom.net
   - domain-suffix,p.biz
-  - domain-suffix,p.cdn.persaas.dell.com
   - domain-suffix,p00.upd.kaspersky.com
   - domain-suffix,p01.upd.kaspersky.com
   - domain-suffix,p02.upd.kaspersky.com
@@ -78821,7 +78802,6 @@ payload:
   - domain-suffix,sceeo.com
   - domain-suffix,sceia.org
   - domain-suffix,scemrq.com
-  - domain-suffix,scene7-cdn.dell.com
   - domain-suffix,scengine.com
   - domain-suffix,scenictc.com
   - domain-suffix,scensmart.com
@@ -82316,7 +82296,6 @@ payload:
   - domain-suffix,si-era.com
   - domain-suffix,si-in.com
   - domain-suffix,si-win.com
-  - domain-suffix,si.cdn.dell.com
   - domain-suffix,sia1995.net
   - domain-suffix,siad-c.com
   - domain-suffix,siaedu.net
@@ -83220,7 +83199,6 @@ payload:
   - domain-suffix,sm-check.com
   - domain-suffix,sm-cq.com
   - domain-suffix,sm-main.com
-  - domain-suffix,sm.dell.com
   - domain-suffix,sm0.fun
   - domain-suffix,sm160.com
   - domain-suffix,sm160.net
@@ -83519,9 +83497,7 @@ payload:
   - domain-suffix,snowkey.com
   - domain-suffix,snowlotusgroup.com
   - domain-suffix,snowyimall.com
-  - domain-suffix,snp.cdn.dell.com
   - domain-suffix,snpac.com
-  - domain-suffix,snpi.dell.com
   - domain-suffix,snps.tech
   - domain-suffix,snptc.com
   - domain-suffix,snrat.com
@@ -85267,7 +85243,6 @@ payload:
   - domain-suffix,support-china.apple-support.akadns.net
   - domain-suffix,support-cn.samsung.com
   - domain-suffix,support.apple.com
-  - domain-suffix,supportassist.dell.com
   - domain-suffix,supreme-oe.com
   - domain-suffix,supwisdom.com
   - domain-suffix,supwk.com
@@ -89938,7 +89913,6 @@ payload:
   - domain-suffix,toysol.com
   - domain-suffix,tp-data.com
   - domain-suffix,tp-hivi.com
-  - domain-suffix,tp.louisvuitton.com
   - domain-suffix,tp82.com
   - domain-suffix,tpadx.com
   - domain-suffix,tpbook.com
@@ -91865,7 +91839,6 @@ payload:
   - domain-suffix,upkao.com
   - domain-suffix,upkk.com
   - domain-suffix,upkuajing.com
-  - domain-suffix,uplaypc-s-ubisoft.cdn.ubi.com
   - domain-suffix,uplookedu.com
   - domain-suffix,uplooking.com
   - domain-suffix,upluck.cc
@@ -97126,7 +97099,6 @@ payload:
   - domain-suffix,wwstat.com
   - domain-suffix,www-666789.com
   - domain-suffix,www-76244.com
-  - domain-suffix,www-csb.dell.com
   - domain-suffix,www-google-analytics.l.google.com
   - domain-suffix,www-googletagmanager.l.google.com
   - domain-suffix,www-jabuank-co-jp.net
@@ -97136,7 +97108,6 @@ payload:
   - domain-suffix,www.cdnetworks.com
   - domain-suffix,www.cg
   - domain-suffix,www.com.my
-  - domain-suffix,www.dell.com
   - domain-suffix,www.destinationurl.com
   - domain-suffix,www.djivideos.com
   - domain-suffix,www.entrust.cn

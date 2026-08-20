@@ -1,9 +1,9 @@
 # --------------------------------------------------
 # NAME:        Proxy
-# UPDATED:     19 Aug 2026 22:18 UTC
-# DOMAIN:      27055
+# UPDATED:     20 Aug 2026 11:56 UTC
+# DOMAIN:      27067
 # IP-RELATED:  6
-# Homepage:    https://github.com/Akaspyrean/external
+# Homepage:    https://github.com/akaspyrean/external
 # --------------------------------------------------
 
 payload:
@@ -435,6 +435,7 @@ payload:
   - domain-suffix,59mvmv.com
   - domain-suffix,5axis-machining.com
   - domain-suffix,5beatsbydre.com
+  - domain-suffix,5ch.io
   - domain-suffix,5ch.net
   - domain-suffix,5fang.cc
   - domain-suffix,5i01.com
@@ -1670,6 +1671,7 @@ payload:
   - domain-suffix,amazonvideo.cc
   - domain-suffix,amazonvideo.com
   - domain-suffix,amazonvideodirect.com
+  - domain-suffix,amazonwebservices.com
   - domain-suffix,amazonworkdocs.com
   - domain-suffix,amc.com
   - domain-suffix,amcn.com
@@ -7314,6 +7316,7 @@ payload:
   - domain-suffix,dreamamateurs.com
   - domain-suffix,dreambmw.ca
   - domain-suffix,dreamforce.com
+  - domain-suffix,dreamgen.com
   - domain-suffix,dreammovies.com
   - domain-suffix,dreamorder.com
   - domain-suffix,dreamteamfc.com
@@ -8734,6 +8737,7 @@ payload:
   - domain-suffix,fans17.com
   - domain-suffix,fans66.tw
   - domain-suffix,fansking.tw
+  - domain-suffix,fansly.com
   - domain-suffix,fansnudes.com
   - domain-suffix,fansone.co
   - domain-suffix,fanspot.jp
@@ -13853,6 +13857,7 @@ payload:
   - domain-suffix,killwall.com
   - domain-suffix,kilmeadeandfriends.com
   - domain-suffix,kimchi.tv
+  - domain-suffix,kimi.ai
   - domain-suffix,kimogirl.cc
   - domain-suffix,kimosex.com
   - domain-suffix,kindgirls.com
@@ -15970,6 +15975,7 @@ payload:
   - domain-suffix,moon.fm
   - domain-suffix,moonbbs.com
   - domain-suffix,moonbingo.com
+  - domain-suffix,moonshot.ai
   - domain-suffix,moov.hk
   - domain-suffix,moozporn.com
   - domain-suffix,moptt.tw
@@ -16843,6 +16849,8 @@ payload:
   - domain-suffix,nickscipio.com
   - domain-suffix,nicky.xxx
   - domain-suffix,nico
+  - domain-suffix,nico.ms
+  - domain-suffix,nicochannel.jp
   - domain-suffix,nicodic.jp
   - domain-suffix,nicolepeters.com
   - domain-suffix,nicomanga.jp
@@ -17136,6 +17144,7 @@ payload:
   - domain-suffix,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - domain-suffix,notebooklm-pa.googleapis.com
   - domain-suffix,notebooklm.googleapis.com
+  - domain-suffix,notegpt.io
   - domain-suffix,notepad-plus-plus.org
   - domain-suffix,noticias-rt.com
   - domain-suffix,notify.ppy.sh
@@ -17148,6 +17157,7 @@ payload:
   - domain-suffix,notion.so
   - domain-suffix,notionusercontent.com
   - domain-suffix,nottinghampost.com
+  - domain-suffix,novelai.net
   - domain-suffix,noveltrove.com
   - domain-suffix,novids.com
   - domain-suffix,novinhabucetuda.com
@@ -17570,6 +17580,7 @@ payload:
   - domain-suffix,older.tube
   - domain-suffix,oldhornymilfs.com
   - domain-suffix,oldje.com
+  - domain-suffix,oldmapsonline.org
   - domain-suffix,olehd.com
   - domain-suffix,olehdtv.com
   - domain-suffix,olelive.com
@@ -22286,6 +22297,7 @@ payload:
   - domain-suffix,talantix.ru
   - domain-suffix,talentlens.com
   - domain-suffix,taleofthenight.com
+  - domain-suffix,talkai.info
   - domain-suffix,talkatone.com
   - domain-suffix,talkboxapp.com
   - domain-suffix,talkcc.com
